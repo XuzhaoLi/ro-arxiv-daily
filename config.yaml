@@ -1,0 +1,28 @@
+# TODO: add papers by configuration file
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "Xuchen-Li"
+repo_name: "cv-arxiv-daily"
+show_authors: True
+show_links: True
+max_results: 20
+
+publish_readme: True
+publish_gitpage: True
+
+# file paths
+json_readme_path: './docs/cv-arxiv-daily.json'
+json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+
+# keywords to search
+keywords:
+    "Single Object Tracking":
+        filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking"]
+    "Visual Language Tracking":
+        filters: ["VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking"]
+    "Large Language Model":
+        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning"]
+    "Video Understanding":
+        filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition"]
