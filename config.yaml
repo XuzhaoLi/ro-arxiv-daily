@@ -19,7 +19,7 @@ md_gitpage_path: './docs/index.md'
 # keywords to search
 keywords:
     "Visual Language Tracking":
-        filters: ["VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking"]
+        filters: ["VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking", "Vision-Language Tracking"]
     "Single Object Tracking":
         filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking"]
     "Video Understanding":
