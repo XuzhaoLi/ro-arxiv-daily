@@ -22,7 +22,7 @@ keywords:
         filters: ["VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking"]
     "Single Object Tracking":
         filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking"]
-    "Large Language Model":
-        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning"]
     "Video Understanding":
         filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition"]
+    "Large Language Model":
+        filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning"]
