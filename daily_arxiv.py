@@ -256,7 +256,7 @@ def json_to_md(filename,md_filename,
     # write data into README.md
     with open(md_filename,"a+") as f:
                 
-        if use_title == True:
+        if use_title == True and to_web == False:
             f.write("## Updated on " + DateNow + "\n")
 
         if use_tc == True and to_web == False:
