@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Updated on 2024.02.07
 ## Single Object & Visual Language Tracking
 
