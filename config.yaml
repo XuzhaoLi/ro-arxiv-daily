@@ -18,11 +18,9 @@ md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "Visual Language Tracking":
-        filters: ["VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking", "Vision-Language Tracking"]
-    "Single Object Tracking":
-        filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking"]
-    "Video Understanding":
-        filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition"]
+    "Single Object & Visual Language Tracking":
+        filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking", "VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking", "Vision-Language Tracking"]
     "Large Language Model":
         filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning"]
+    "Video Understanding":
+        filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition"]
