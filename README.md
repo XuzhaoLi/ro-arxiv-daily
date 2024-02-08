@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**BioDrone: A Bionic Drone-based Single Object Tracking Benchmark for Robust Vision**|Xin Zhao et.al.|[2402.04519](http://arxiv.org/abs/2402.04519)|null|
 |**2024-02-04**|**Spatio-temporal Prompting Network for Robust Video Feature Extraction**|Guanxiong Sun et.al.|[2402.02574](http://arxiv.org/abs/2402.02574)|**[link](https://github.com/guanxiongsun/stpn)**|
 |**2024-01-24**|**Small Object Tracking in LiDAR Point Cloud: Learning the Target-awareness Prototype and Fine-grained Search Region**|Shengjing Tian et.al.|[2401.13285](http://arxiv.org/abs/2401.13285)|null|
 |**2024-01-23**|**Correlation-Embedded Transformer Tracking: A Single-Branch Framework**|Fei Xie et.al.|[2401.12743](http://arxiv.org/abs/2401.12743)|**[link](https://github.com/phiphiphi31/SBT)**|
@@ -39,6 +40,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
+|**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
+|**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
+|**2024-02-07**|**Language-Based Augmentation to Address Shortcut Learning in Object Goal Navigation**|Dennis Hoftijzer et.al.|[2402.05090](http://arxiv.org/abs/2402.05090)|null|
+|**2024-02-07**|**A Roadmap to Pluralistic Alignment**|Taylor Sorensen et.al.|[2402.05070](http://arxiv.org/abs/2402.05070)|null|
+|**2024-02-07**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044](http://arxiv.org/abs/2402.05044)|**[link](https://github.com/opensafetylab/salad-bench)**|
+|**2024-02-07**|**How BERT Speaks Shakespearean English? Evaluating Historical Bias in Contextual Language Models**|Miriam Cuscito et.al.|[2402.05034](http://arxiv.org/abs/2402.05034)|null|
+|**2024-02-07**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et.al.|[2402.05015](http://arxiv.org/abs/2402.05015)|**[link](https://github.com/wiseodd/lapeft-bayesopt)**|
+|**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000](http://arxiv.org/abs/2402.05000)|null|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978](http://arxiv.org/abs/2402.04978)|null|
+|**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
+|**2024-02-07**|**Reconfidencing LLMs from the Grouping Loss Perspective**|Lihu Chen et.al.|[2402.04957](http://arxiv.org/abs/2402.04957)|null|
+|**2024-02-07**|**Chatbots in Knowledge-Intensive Contexts: Comparing Intent and LLM-Based Systems**|Samuel Kernan Freire et.al.|[2402.04955](http://arxiv.org/abs/2402.04955)|null|
+|**2024-02-07**|**Prompting Implicit Discourse Relation Annotation**|Frances Yung et.al.|[2402.04918](http://arxiv.org/abs/2402.04918)|null|
+|**2024-02-07**|**Personalized Text Generation with Fine-Grained Linguistic Control**|Bashar Alhafni et.al.|[2402.04914](http://arxiv.org/abs/2402.04914)|**[link](https://github.com/balhafni/personalized-gen)**|
+|**2024-02-07**|**L4Q: Parameter Efficient Quantization-Aware Training on Large Language Models via LoRA-wise LSQ**|Hyesung Jeon et.al.|[2402.04902](http://arxiv.org/abs/2402.04902)|null|
+|**2024-02-07**|**Detecting Generated Native Ads in Conversational Search**|Sebastian Schmidt et.al.|[2402.04889](http://arxiv.org/abs/2402.04889)|null|
+|**2024-02-07**|**Multimodal Query Suggestion with Multi-Agent Reinforcement Learning from Human Feedback**|Zheng Wang et.al.|[2402.04867](http://arxiv.org/abs/2402.04867)|null|
+|**2024-02-07**|**Automated Smart Contract Summarization via LLMs**|Yingjie Mao et.al.|[2402.04863](http://arxiv.org/abs/2402.04863)|null|
+|**2024-02-07**|**CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay**|Natasha Butt et.al.|[2402.04858](http://arxiv.org/abs/2402.04858)|null|
 |**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253](http://arxiv.org/abs/2402.04253)|null|
 |**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249](http://arxiv.org/abs/2402.04249)|**[link](https://github.com/centerforaisafety/harmbench)**|
 |**2024-02-06**|**Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks**|Jongho Park et.al.|[2402.04248](http://arxiv.org/abs/2402.04248)|null|
