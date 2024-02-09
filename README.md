@@ -40,6 +40,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935](http://arxiv.org/abs/2402.05935)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
+|**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932](http://arxiv.org/abs/2402.05932)|null|
+|**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930](http://arxiv.org/abs/2402.05930)|null|
+|**2024-02-08**|**An Interactive Agent Foundation Model**|Zane Durante et.al.|[2402.05929](http://arxiv.org/abs/2402.05929)|null|
+|**2024-02-08**|**On the Convergence of Zeroth-Order Federated Tuning in Large Language Models**|Zhenqing Ling et.al.|[2402.05926](http://arxiv.org/abs/2402.05926)|null|
+|**2024-02-08**|**Efficient Stagewise Pretraining via Progressive Subnetworks**|Abhishek Panigrahi et.al.|[2402.05913](http://arxiv.org/abs/2402.05913)|null|
+|**2024-02-08**|**FACT-GPT: Fact-Checking Augmentation via Claim Matching with LLMs**|Eun Cheol Choi et.al.|[2402.05904](http://arxiv.org/abs/2402.05904)|null|
+|**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
+|**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880](http://arxiv.org/abs/2402.05880)|null|
+|**2024-02-08**|**PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868](http://arxiv.org/abs/2402.05868)|**[link](https://github.com/agiresearch/promptcrypt)**|
+|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863](http://arxiv.org/abs/2402.05863)|null|
+|**2024-02-08**|**Let Your Graph Do the Talking: Encoding Structured Data for LLMs**|Bryan Perozzi et.al.|[2402.05862](http://arxiv.org/abs/2402.05862)|null|
+|**2024-02-08**|**Learning to Route Among Specialized Experts for Zero-Shot Generalization**|Mohammed Muqeeth et.al.|[2402.05859](http://arxiv.org/abs/2402.05859)|**[link](https://github.com/r-three/phatgoose)**|
+|**2024-02-08**|**Limitations of Agents Simulated by Predictive Models**|Raymond Douglas et.al.|[2402.05829](http://arxiv.org/abs/2402.05829)|null|
+|**2024-02-08**|**Is it Possible to Edit Large Language Models Robustly?**|Xinbei Ma et.al.|[2402.05827](http://arxiv.org/abs/2402.05827)|null|
+|**2024-02-08**|**Selective Forgetting: Advancing Machine Unlearning Techniques and Evaluation in Language Models**|Lingzhi Wang et.al.|[2402.05813](http://arxiv.org/abs/2402.05813)|null|
+|**2024-02-08**|**Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning**|Zhiheng Xi et.al.|[2402.05808](http://arxiv.org/abs/2402.05808)|**[link](https://github.com/woooodyy/llm-reverse-curriculum-rl)**|
+|**2024-02-08**|**How do Transformers perform In-Context Autoregressive Learning?**|Michael E. Sander et.al.|[2402.05787](http://arxiv.org/abs/2402.05787)|null|
+|**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
+|**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
@@ -87,6 +107,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Memory Consolidation Enables Long-Context Video Understanding**|Ivana Balažević et.al.|[2402.05861](http://arxiv.org/abs/2402.05861)|null|
 |**2024-02-06**|**Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization**|Yang Jin et.al.|[2402.03161](http://arxiv.org/abs/2402.03161)|null|
 |**2024-02-04**|**Spatio-temporal Prompting Network for Robust Video Feature Extraction**|Guanxiong Sun et.al.|[2402.02574](http://arxiv.org/abs/2402.02574)|**[link](https://github.com/guanxiongsun/stpn)**|
 |**2024-02-02**|**Simulator-Free Visual Domain Randomization via Video Games**|Chintan Trivedi et.al.|[2402.01335](http://arxiv.org/abs/2402.01335)|**[link](https://github.com/nrasajski/behave)**|
