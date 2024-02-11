@@ -1,10 +1,10 @@
-title: CV Arxiv Daily
-description: Automatically Update CV Papers Daily using Github Actions (Update Every 12th hours)
+title: RO Arxiv Daily
+description: Automatically Update RO Papers Daily using Github Actions (Update Every 12th hours)
 show_downloads: true
 
 github:
-  zip_url: https://github.com/Xuchen-Li/cv-arxiv-daily
-  another_url: https://github.com/Xuchen-Li/cv-arxiv-daily
+  zip_url: https://github.com/XuzhaoLi/ro-arxiv-daily
+  another_url: https://github.com/XuzhaoLi/ro-arxiv-daily
 
 ## add remote theme
 remote_theme: jekyll/minima@v2.5.1

@@ -1,7 +1,7 @@
 # TODO: add papers by configuration file
 base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "Xuchen-Li"
-repo_name: "cv-arxiv-daily"
+user_name: "XuzhaoLi"
+repo_name: "ro-arxiv-daily"
 show_authors: True
 show_links: True
 max_results: 20
@@ -10,17 +10,17 @@ publish_readme: True
 publish_gitpage: True
 
 # file paths
-json_readme_path: './docs/cv-arxiv-daily.json'
-json_gitpage_path: './docs/cv-arxiv-daily-web.json'
+json_readme_path: './docs/ro-arxiv-daily.json'
+json_gitpage_path: './docs/ro-arxiv-daily-web.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 
 # keywords to search
 keywords:
-    "Single Object & Visual Language Tracking":
-        filters: ["SOT", "Single Object Tracking", "Visual Object Tracking", "Visual Tracking", "Transformer-based Tracking", "Transformer Tracking", "Efficient Visual Tracking", "VLT", "Visual Language Tracking", "Natural Language Tracking", "Vision-Language Object Tracking", "Vision-Language Tracking"]
+    "Path Planning":
+        filters: ["Minimum Control", "Route Planning", "Dynamic Programming", "Navigation", "Route Optimization", "Map Matching"]
     "Large Language Model":
         filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning", "Foundation Model"]
-    "Video Understanding":
-        filters: ["Video Understanding", "Video Caption", "Visual Language Navigation", "Video Question Answering", "Video Recognition"]
+    "Autonomous Driving":
+        filters: ["Autonomous Driving", "Planning", "Perception", "Decision Making", "Forecasting"]
