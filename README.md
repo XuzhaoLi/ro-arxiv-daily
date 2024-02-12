@@ -12,7 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-07**|**Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series**|Zitong Yang et.al.|[2402.05203](http://arxiv.org/abs/2402.05203)|**[link](https://github.com/zitongyang/bellman-conformal-inference)**|
+|**2024-02-09**|**High-Precision Geosteering via Reinforcement Learning and Particle Filters**|Ressi Bonti Muhammad et.al.|[2402.06377](http://arxiv.org/abs/2402.06377)|null|
+|**2024-02-09**|**Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series**|Zitong Yang et.al.|[2402.05203](http://arxiv.org/abs/2402.05203)|**[link](https://github.com/zitongyang/bellman-conformal-inference)**|
 |**2024-02-04**|**Empowering Computing and Networks Convergence System with Distributed Cooperative Routing**|Yujiao Hu et.al.|[2402.02381](http://arxiv.org/abs/2402.02381)|null|
 |**2024-02-03**|**Multiple sequences Prophet Inequality Under Observation Constraints**|Aristomenis Tsopelakos et.al.|[2402.02059](http://arxiv.org/abs/2402.02059)|null|
 |**2024-02-02**|**Capturing waste collection planning expert knowledge in a fitness function through preference learning**|Laura Fernández Díaz et.al.|[2402.01849](http://arxiv.org/abs/2402.01849)|null|
@@ -39,6 +40,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**Feedback Loops With Language Models Drive In-Context Reward Hacking**|Alexander Pan et.al.|[2402.06627](http://arxiv.org/abs/2402.06627)|null|
+|**2024-02-09**|**Understanding the Effects of Iterative Prompting on Truthfulness**|Satyapriya Krishna et.al.|[2402.06625](http://arxiv.org/abs/2402.06625)|null|
+|**2024-02-09**|**Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning**|Shivalika Singh et.al.|[2402.06619](http://arxiv.org/abs/2402.06619)|null|
+|**2024-02-09**|**FaBERT: Pre-training BERT on Persian Blogs**|Mostafa Masumi et.al.|[2402.06617](http://arxiv.org/abs/2402.06617)|null|
+|**2024-02-09**|**On the Out-Of-Distribution Generalization of Multimodal Large Language Models**|Xingxuan Zhang et.al.|[2402.06599](http://arxiv.org/abs/2402.06599)|null|
+|**2024-02-09**|**CigaR: Cost-efficient Program Repair with LLMs**|Dávid Hidvégi et.al.|[2402.06598](http://arxiv.org/abs/2402.06598)|null|
+|**2024-02-09**|**Understanding the Weakness of Large Language Model Agents within a Complex Android Environment**|Mingzhe Xing et.al.|[2402.06596](http://arxiv.org/abs/2402.06596)|**[link](https://github.com/androidarenaagent/androidarena)**|
+|**2024-02-09**|**Self-consistent context aware conformer transducer for speech recognition**|Konstantin Kolokolov et.al.|[2402.06592](http://arxiv.org/abs/2402.06592)|null|
+|**2024-02-09**|**G-SciEdBERT: A Contextualized LLM for Science Assessment Tasks in German**|Ehsan Latif et.al.|[2402.06584](http://arxiv.org/abs/2402.06584)|null|
+|**2024-02-09**|**Video Annotator: A framework for efficiently building video classifiers using vision-language models and active learning**|Amir Ziai et.al.|[2402.06560](http://arxiv.org/abs/2402.06560)|**[link](https://github.com/netflix/videoannotator)**|
+|**2024-02-09**|**The Quantified Boolean Bayesian Network: Theory and Experiments with a Logical Graphical Model**|Gregory Coppola et.al.|[2402.06557](http://arxiv.org/abs/2402.06557)|null|
+|**2024-02-09**|**Bryndza at ClimateActivism 2024: Stance, Target and Hate Event Detection via Retrieval-Augmented GPT-4 and LLaMA**|Marek Šuppa et.al.|[2402.06549](http://arxiv.org/abs/2402.06549)|null|
+|**2024-02-09**|**Calibrating Long-form Generations from Large Language Models**|Yukun Huang et.al.|[2402.06544](http://arxiv.org/abs/2402.06544)|null|
+|**2024-02-09**|**Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty**|Kaiqu Liang et.al.|[2402.06529](http://arxiv.org/abs/2402.06529)|null|
+|**2024-02-09**|**Multimodal Clinical Trial Outcome Prediction with Large Language Models**|Wenhao Zheng et.al.|[2402.06512](http://arxiv.org/abs/2402.06512)|null|
+|**2024-02-09**|**Iris-SAM: Iris Segmentation Using a Foundational Model**|Parisa Farmanifard et.al.|[2402.06497](http://arxiv.org/abs/2402.06497)|null|
+|**2024-02-09**|**Large Language Models for Captioning and Retrieving Remote Sensing Images**|João Daniel Silva et.al.|[2402.06475](http://arxiv.org/abs/2402.06475)|null|
+|**2024-02-09**|**V-STaR: Training Verifiers for Self-Taught Reasoners**|Arian Hosseini et.al.|[2402.06457](http://arxiv.org/abs/2402.06457)|null|
+|**2024-02-09**|**StruQ: Defending Against Prompt Injection with Structured Queries**|Sizhe Chen et.al.|[2402.06363](http://arxiv.org/abs/2402.06363)|null|
+|**2024-02-09**|**CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models**|Peiyuan Gong et.al.|[2402.06360](http://arxiv.org/abs/2402.06360)|**[link](https://github.com/pygongnlp/cosearchagent)**|
 |**2024-02-08**|**SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**|Peng Gao et.al.|[2402.05935](http://arxiv.org/abs/2402.05935)|**[link](https://github.com/alpha-vllm/llama2-accessory)**|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932](http://arxiv.org/abs/2402.05932)|null|
 |**2024-02-08**|**WebLINX: Real-World Website Navigation with Multi-Turn Dialogue**|Xing Han Lù et.al.|[2402.05930](http://arxiv.org/abs/2402.05930)|null|
@@ -66,6 +87,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-09**|**What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices**|Neslihan Suzen et.al.|[2402.06563](http://arxiv.org/abs/2402.06563)|null|
+|**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
+|**2024-02-09**|**An Exercise in Tournament Design: When Some Matches Must Be Scheduled**|Sushmita Gupta et.al.|[2402.06538](http://arxiv.org/abs/2402.06538)|null|
+|**2024-02-09**|**Scalable Interactive Machine Learning for Future Command and Control**|Anna Madison et.al.|[2402.06501](http://arxiv.org/abs/2402.06501)|null|
+|**2024-02-09**|**CurveFormer++: 3D Lane Detection by Curve Propagation with Temporal Curve Queries and Attention**|Yifeng Bai et.al.|[2402.06423](http://arxiv.org/abs/2402.06423)|null|
+|**2024-02-09**|**FD-Vision Mamba for Endoscopic Exposure Correction**|Zhuoran Zheng et.al.|[2402.06378](http://arxiv.org/abs/2402.06378)|null|
+|**2024-02-09**|**High-Precision Geosteering via Reinforcement Learning and Particle Filters**|Ressi Bonti Muhammad et.al.|[2402.06377](http://arxiv.org/abs/2402.06377)|null|
+|**2024-02-09**|**AI, Meet Human: Learning Paradigms for Hybrid Decision Making Systems**|Clara Punzi et.al.|[2402.06287](http://arxiv.org/abs/2402.06287)|null|
+|**2024-02-09**|**Premier-TACO: Pretraining Multitask Representation via Temporal Action-Driven Contrastive Loss**|Ruijie Zheng et.al.|[2402.06187](http://arxiv.org/abs/2402.06187)|null|
+|**2024-02-09**|**United We Fall: On the Nash Equilibria of Multiplex and Multilayer Network Games**|Raman Ebrahimi et.al.|[2402.06108](http://arxiv.org/abs/2402.06108)|null|
+|**2024-02-08**|**Scaling Artificial Intelligence for Digital Wargaming in Support of Decision-Making**|Scotty Black et.al.|[2402.06075](http://arxiv.org/abs/2402.06075)|null|
+|**2024-02-08**|**Aggregation of pairwise comparison matrices: A clustering approach**|Kolos Csaba Ágoston et.al.|[2402.06061](http://arxiv.org/abs/2402.06061)|null|
+|**2024-02-08**|**Impact on Public Health Decision Making by Utilizing Big Data Without Domain Knowledge**|Miao Zhang et.al.|[2402.06059](http://arxiv.org/abs/2402.06059)|null|
+|**2024-02-08**|**Intelligent Mode-switching Framework for Teleoperation**|Burak Kizilkaya et.al.|[2402.06047](http://arxiv.org/abs/2402.06047)|null|
+|**2024-02-08**|**Optimizing Predictive AI in Physical Design Flows with Mini Pixel Batch Gradient Descent**|Haoyu Yang et.al.|[2402.06034](http://arxiv.org/abs/2402.06034)|null|
+|**2024-02-08**|**Game-theoretic Counterfactual Explanation for Graph Neural Networks**|Chirag Chhablani et.al.|[2402.06030](http://arxiv.org/abs/2402.06030)|null|
 |**2024-02-08**|**Driving Everywhere with Large Language Model Policy Adaptation**|Boyi Li et.al.|[2402.05932](http://arxiv.org/abs/2402.05932)|null|
 |**2024-02-08**|**Understanding Social Immunity in Ants: A Markovian Approach to Collective Cleaning Strategies**|Isabella Bueno et.al.|[2402.05924](http://arxiv.org/abs/2402.05924)|null|
 |**2024-02-08**|**Editable Scene Simulation for Autonomous Driving via Collaborative LLM-Agents**|Yuxi Wei et.al.|[2402.05746](http://arxiv.org/abs/2402.05746)|**[link](https://github.com/yifanlu0227/chatsim)**|
