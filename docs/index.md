@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-11**|**GenSTL: General Sparse Trajectory Learning via Auto-regressive Generation of Feature Domains**|Yan Lin et.al.|[2402.07232](http://arxiv.org/abs/2402.07232)|null|
 |**2024-02-09**|**High-Precision Geosteering via Reinforcement Learning and Particle Filters**|Ressi Bonti Muhammad et.al.|[2402.06377](http://arxiv.org/abs/2402.06377)|null|
 |**2024-02-09**|**Bellman Conformal Inference: Calibrating Prediction Intervals For Time Series**|Zitong Yang et.al.|[2402.05203](http://arxiv.org/abs/2402.05203)|**[link](https://github.com/zitongyang/bellman-conformal-inference)**|
 |**2024-02-04**|**Empowering Computing and Networks Convergence System with Distributed Cooperative Routing**|Yujiao Hu et.al.|[2402.02381](http://arxiv.org/abs/2402.02381)|null|
@@ -33,6 +34,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**A systematic investigation of learnability from single child linguistic input**|Yulu Qin et.al.|[2402.07899](http://arxiv.org/abs/2402.07899)|null|
+|**2024-02-12**|**Suppressing Pink Elephants with Direct Principle Feedback**|Louis Castricato et.al.|[2402.07896](http://arxiv.org/abs/2402.07896)|null|
+|**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877](http://arxiv.org/abs/2402.07877)|null|
+|**2024-02-12**|**Policy Improvement using Language Feedback Models**|Victor Zhong et.al.|[2402.07876](http://arxiv.org/abs/2402.07876)|null|
+|**2024-02-12**|**PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**|Soroush Nasiriany et.al.|[2402.07872](http://arxiv.org/abs/2402.07872)|null|
+|**2024-02-12**|**Scaling Laws for Fine-Grained Mixture of Experts**|Jakub Krajewski et.al.|[2402.07871](http://arxiv.org/abs/2402.07871)|null|
+|**2024-02-12**|**PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models**|Wei Zou et.al.|[2402.07867](http://arxiv.org/abs/2402.07867)|**[link](https://github.com/sleeepeer/poisonedrag)**|
+|**2024-02-12**|**Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models**|Siddharth Karamcheti et.al.|[2402.07865](http://arxiv.org/abs/2402.07865)|null|
+|**2024-02-12**|**AI-Augmented Predictions: LLM Assistants Improve Human Forecasting Accuracy**|Philipp Schoenegger et.al.|[2402.07862](http://arxiv.org/abs/2402.07862)|null|
+|**2024-02-12**|**Lissard: Long and Simple Sequential Reasoning Datasets**|Mirelle Bueno et.al.|[2402.07859](http://arxiv.org/abs/2402.07859)|null|
+|**2024-02-12**|**Mercury: An Efficiency Benchmark for LLM Code Synthesis**|Mingzhe Du et.al.|[2402.07844](http://arxiv.org/abs/2402.07844)|null|
+|**2024-02-12**|**Do Membership Inference Attacks Work on Large Language Models?**|Michael Duan et.al.|[2402.07841](http://arxiv.org/abs/2402.07841)|null|
+|**2024-02-12**|**Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model**|Ahmet Üstün et.al.|[2402.07827](http://arxiv.org/abs/2402.07827)|null|
+|**2024-02-12**|**Differentially Private Zeroth-Order Methods for Scalable Large Language Model Finetuning**|Z Liu et.al.|[2402.07818](http://arxiv.org/abs/2402.07818)|null|
+|**2024-02-12**|**Injecting Wiktionary to improve token-level contextual representations using contrastive learning**|Anna Mosolova et.al.|[2402.07817](http://arxiv.org/abs/2402.07817)|null|
+|**2024-02-12**|**Retrieval-Augmented Thought Process as Sequential Decision Making**|Thomas Pouplin et.al.|[2402.07812](http://arxiv.org/abs/2402.07812)|null|
+|**2024-02-12**|**Empowering Federated Learning for Massive Models with NVIDIA FLARE**|Holger R. Roth et.al.|[2402.07792](http://arxiv.org/abs/2402.07792)|null|
+|**2024-02-12**|**TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**|Hui Liu et.al.|[2402.07776](http://arxiv.org/abs/2402.07776)|**[link](https://github.com/less-and-less-bugs/trust_teller)**|
+|**2024-02-12**|**Quantitative knowledge retrieval from large language models**|David Selby et.al.|[2402.07770](http://arxiv.org/abs/2402.07770)|null|
+|**2024-02-12**|**Towards an Understanding of Stepwise Inference in Transformers: A Synthetic Graph Navigation Model**|Mikail Khona et.al.|[2402.07757](http://arxiv.org/abs/2402.07757)|null|
 |**2024-02-09**|**Feedback Loops With Language Models Drive In-Context Reward Hacking**|Alexander Pan et.al.|[2402.06627](http://arxiv.org/abs/2402.06627)|null|
 |**2024-02-09**|**Understanding the Effects of Iterative Prompting on Truthfulness**|Satyapriya Krishna et.al.|[2402.06625](http://arxiv.org/abs/2402.06625)|null|
 |**2024-02-09**|**Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning**|Shivalika Singh et.al.|[2402.06619](http://arxiv.org/abs/2402.06619)|null|
@@ -78,6 +99,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
+|**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884](http://arxiv.org/abs/2402.07884)|null|
+|**2024-02-12**|**Retrieval-Augmented Thought Process as Sequential Decision Making**|Thomas Pouplin et.al.|[2402.07812](http://arxiv.org/abs/2402.07812)|null|
+|**2024-02-12**|**From Uncertainty to Precision: Enhancing Binary Classifier Performance through Calibration**|Agathe Fernandes Machado et.al.|[2402.07790](http://arxiv.org/abs/2402.07790)|**[link](https://github.com/fer-agathe/calibration_binary_classifier)**|
+|**2024-02-12**|**TELLER: A Trustworthy Framework for Explainable, Generalizable and Controllable Fake News Detection**|Hui Liu et.al.|[2402.07776](http://arxiv.org/abs/2402.07776)|**[link](https://github.com/less-and-less-bugs/trust_teller)**|
+|**2024-02-12**|**Towards Unified Alignment Between Agents, Humans, and Environment**|Zonghan Yang et.al.|[2402.07744](http://arxiv.org/abs/2402.07744)|null|
+|**2024-02-12**|**Task-conditioned adaptation of visual features in multi-task policy learning**|Pierre Marza et.al.|[2402.07739](http://arxiv.org/abs/2402.07739)|null|
+|**2024-02-12**|**Interaction-Based Driving Scenario Classification and Labeling**|Cheng Chang et.al.|[2402.07720](http://arxiv.org/abs/2402.07720)|null|
+|**2024-02-12**|**Online Sequential Decision-Making with Unknown Delays**|Ping Wu et.al.|[2402.07703](http://arxiv.org/abs/2402.07703)|null|
+|**2024-02-12**|**AYDIV: Adaptable Yielding 3D Object Detection via Integrated Contextual Vision Transformer**|Tanmoy Dam et.al.|[2402.07680](http://arxiv.org/abs/2402.07680)|**[link](https://github.com/sanjay-810/aydiv2)**|
+|**2024-02-12**|**DART: A Compact Platform For Autonomous Driving Research**|Lorenzo Lyons et.al.|[2402.07602](http://arxiv.org/abs/2402.07602)|null|
+|**2024-02-12**|**Unveiling Group-Specific Distributed Concept Drift: A Fairness Imperative in Federated Learning**|Teresa Salazar et.al.|[2402.07586](http://arxiv.org/abs/2402.07586)|null|
+|**2024-02-12**|**Topological Safeguard for Evasion Attack based on the Interpretability of Artificial Neural Network Behavior**|Xabier Echeberria-Barrio et.al.|[2402.07480](http://arxiv.org/abs/2402.07480)|null|
+|**2024-02-12**|**Auxiliary Reward Generation with Transition Distance Representation Learning**|Siyuan Li et.al.|[2402.07412](http://arxiv.org/abs/2402.07412)|null|
+|**2024-02-12**|**Enhancing Multi-Criteria Decision Analysis with AI: Integrating Analytic Hierarchy Process and GPT-4 for Automated Decision Support**|Igor Svoboda et.al.|[2402.07404](http://arxiv.org/abs/2402.07404)|null|
+|**2024-02-12**|**Replicability is Asymptotically Free in Multi-armed Bandits**|Junpei Komiyama et.al.|[2402.07391](http://arxiv.org/abs/2402.07391)|null|
+|**2024-02-12**|**Re-DiffiNet: Modeling discrepancies in tumor segmentation using diffusion**|Tianyi Ren et.al.|[2402.07354](http://arxiv.org/abs/2402.07354)|null|
+|**2024-02-12**|**Noise-Adaptive Confidence Sets for Linear Bandits and Application to Bayesian Optimization**|Kwang-Sung Jun et.al.|[2402.07341](http://arxiv.org/abs/2402.07341)|null|
+|**2024-02-11**|**Towards Explainable, Safe Autonomous Driving with Language Embeddings for Novelty Identification and Active Learning: Framework and Experimental Analysis with Real-World Data Sets**|Ross Greer et.al.|[2402.07320](http://arxiv.org/abs/2402.07320)|null|
+|**2024-02-11**|**Self-Consistent Conformal Prediction**|Lars van der Laan et.al.|[2402.07307](http://arxiv.org/abs/2402.07307)|null|
 |**2024-02-09**|**What is Hiding in Medicine's Dark Matter? Learning with Missing Data in Medical Practices**|Neslihan Suzen et.al.|[2402.06563](http://arxiv.org/abs/2402.06563)|null|
 |**2024-02-09**|**Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following**|Brian Yang et.al.|[2402.06559](http://arxiv.org/abs/2402.06559)|null|
 |**2024-02-09**|**An Exercise in Tournament Design: When Some Matches Must Be Scheduled**|Sushmita Gupta et.al.|[2402.06538](http://arxiv.org/abs/2402.06538)|null|
