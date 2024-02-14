@@ -34,6 +34,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance**|Linxi Zhao et.al.|[2402.08680](http://arxiv.org/abs/2402.08680)|null|
+|**2024-02-13**|**COLD-Attack: Jailbreaking LLMs with Stealthiness and Controllability**|Xingang Guo et.al.|[2402.08679](http://arxiv.org/abs/2402.08679)|**[link](https://github.com/yu-fangxu/cold-attack)**|
+|**2024-02-13**|**Human Curriculum Effects Emerge with In-Context Learning in Neural Networks**|Jacob Russin et.al.|[2402.08674](http://arxiv.org/abs/2402.08674)|null|
+|**2024-02-13**|**Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models**|Yuqing Liu et.al.|[2402.08670](http://arxiv.org/abs/2402.08670)|null|
+|**2024-02-13**|**Improving Generalization in Semantic Parsing by Increasing Natural Language Variation**|Irina Saparina et.al.|[2402.08666](http://arxiv.org/abs/2402.08666)|null|
+|**2024-02-13**|**The Last JITAI? The Unreasonable Effectiveness of Large Language Models in Issuing Just-in-Time Adaptive Interventions: Fostering Physical Activity in a Prospective Cardiac Rehabilitation Setting**|David Haag et.al.|[2402.08658](http://arxiv.org/abs/2402.08658)|null|
+|**2024-02-13**|**PIN: Positional Insert Unlocks Object Localisation Abilities in VLMs**|Michael Dorkenwald et.al.|[2402.08657](http://arxiv.org/abs/2402.08657)|null|
+|**2024-02-13**|**Tandem Transformers for Inference Efficient LLMs**|Aishwarya P S et.al.|[2402.08644](http://arxiv.org/abs/2402.08644)|null|
+|**2024-02-13**|**SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 14 Languages**|Nedjma Ousidhoum et.al.|[2402.08638](http://arxiv.org/abs/2402.08638)|null|
+|**2024-02-13**|**Knowledge Editing on Black-box Large Language Models**|Xiaoshuai Song et.al.|[2402.08631](http://arxiv.org/abs/2402.08631)|null|
+|**2024-02-13**|**Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning**|Haeju Lee et.al.|[2402.08594](http://arxiv.org/abs/2402.08594)|**[link](https://github.com/heyzude/bmtpt)**|
+|**2024-02-13**|**Test-Time Backdoor Attacks on Multimodal Large Language Models**|Dong Lu et.al.|[2402.08577](http://arxiv.org/abs/2402.08577)|**[link](https://github.com/sail-sg/anydoor)**|
+|**2024-02-13**|**Online Foundation Model Selection in Robotics**|Po-han Li et.al.|[2402.08570](http://arxiv.org/abs/2402.08570)|null|
+|**2024-02-13**|**Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast**|Xiangming Gu et.al.|[2402.08567](http://arxiv.org/abs/2402.08567)|**[link](https://github.com/sail-sg/agent-smith)**|
+|**2024-02-13**|**Artificial Intelligence for Literature Reviews: Opportunities and Challenges**|Francisco Bolanos et.al.|[2402.08565](http://arxiv.org/abs/2402.08565)|null|
+|**2024-02-13**|**Higher Layers Need More LoRA Experts**|Chongyang Gao et.al.|[2402.08562](http://arxiv.org/abs/2402.08562)|**[link](https://github.com/gcyzsl/mola)**|
+|**2024-02-13**|**Grounding LLMs For Robot Task Planning Using Closed-loop State Feedback**|Vineet Bhat et.al.|[2402.08546](http://arxiv.org/abs/2402.08546)|null|
+|**2024-02-13**|**The Application of ChatGPT in Responding to Questions Related to the Boston Bowel Preparation Scale**|Xiaoqiang Liu et.al.|[2402.08492](http://arxiv.org/abs/2402.08492)|null|
+|**2024-02-13**|**Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models**|Shaeke Salman et.al.|[2402.08473](http://arxiv.org/abs/2402.08473)|null|
+|**2024-02-13**|**Large Language Models for the Automated Analysis of Optimization Algorithms**|Camilo Chacón Sartori et.al.|[2402.08472](http://arxiv.org/abs/2402.08472)|**[link](https://github.com/camilochs/explainability-llm-stnweb)**|
 |**2024-02-12**|**A systematic investigation of learnability from single child linguistic input**|Yulu Qin et.al.|[2402.07899](http://arxiv.org/abs/2402.07899)|null|
 |**2024-02-12**|**Suppressing Pink Elephants with Direct Principle Feedback**|Louis Castricato et.al.|[2402.07896](http://arxiv.org/abs/2402.07896)|null|
 |**2024-02-12**|**WildfireGPT: Tailored Large Language Model for Wildfire Analysis**|Yangxinyu Xie et.al.|[2402.07877](http://arxiv.org/abs/2402.07877)|null|
@@ -99,6 +119,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**CaPS: Collaborative and Private Synthetic Data Generation from Distributed Sources**|Sikha Pentyala et.al.|[2402.08614](http://arxiv.org/abs/2402.08614)|null|
+|**2024-02-13**|**Vehicle Behavior Prediction by Episodic-Memory Implanted NDT**|Peining Shen et.al.|[2402.08423](http://arxiv.org/abs/2402.08423)|**[link](https://github.com/jwfangit/emem-ndt)**|
+|**2024-02-13**|**LLMs and the Human Condition**|Peter Wallis et.al.|[2402.08403](http://arxiv.org/abs/2402.08403)|null|
+|**2024-02-13**|**Uncertainty Quantification for Forward and Inverse Problems of PDEs via Latent Global Evolution**|Tailin Wu et.al.|[2402.08383](http://arxiv.org/abs/2402.08383)|null|
+|**2024-02-13**|**The Duet of Representations and How Explanations Exacerbate It**|Charles Wan et.al.|[2402.08379](http://arxiv.org/abs/2402.08379)|null|
+|**2024-02-13**|**Exploration by Optimization with Hybrid Regularizers: Logarithmic Regret with Adversarial Robustness in Partial Monitoring**|Taira Tsuchiya et.al.|[2402.08321](http://arxiv.org/abs/2402.08321)|null|
+|**2024-02-13**|**Zero Trust Score-based Network-level Access Control in Enterprise Networks**|Leonard Bradatsch et.al.|[2402.08299](http://arxiv.org/abs/2402.08299)|null|
+|**2024-02-13**|**A survey of recent methods for addressing AI fairness and bias in biomedicine**|Yifan Yang et.al.|[2402.08250](http://arxiv.org/abs/2402.08250)|null|
+|**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
+|**2024-02-13**|**MetaTra: Meta-Learning for Generalized Trajectory Prediction in Unseen Domain**|Xiaohe Li et.al.|[2402.08221](http://arxiv.org/abs/2402.08221)|null|
+|**2024-02-13**|**Inherent Diverse Redundant Safety Mechanisms for AI-based Software Elements in Automotive Applications**|Mandar Pitale et.al.|[2402.08208](http://arxiv.org/abs/2402.08208)|null|
+|**2024-02-13**|**Group Decision-Making among Privacy-Aware Agents**|Marios Papachristou et.al.|[2402.08156](http://arxiv.org/abs/2402.08156)|null|
+|**2024-02-13**|**CMA-R:Causal Mediation Analysis for Explaining Rumour Detection**|Lin Tian et.al.|[2402.08155](http://arxiv.org/abs/2402.08155)|null|
+|**2024-02-13**|**Epistemic Exploration for Generalizable Planning and Learning in Non-Stationary Settings**|Rushang Karia et.al.|[2402.08145](http://arxiv.org/abs/2402.08145)|null|
+|**2024-02-13**|**Average-Case Analysis of Iterative Voting**|Joshua Kavner et.al.|[2402.08144](http://arxiv.org/abs/2402.08144)|null|
+|**2024-02-12**|**Addressing cognitive bias in medical language models**|Samuel Schmidgall et.al.|[2402.08113](http://arxiv.org/abs/2402.08113)|null|
+|**2024-02-12**|**From Data to Decisions: The Transformational Power of Machine Learning in Business Recommendations**|Kapilya Gangadharan et.al.|[2402.08109](http://arxiv.org/abs/2402.08109)|null|
+|**2024-02-12**|**Auditing Work: Exploring the New York City algorithmic bias audit regime**|Lara Groves et.al.|[2402.08101](http://arxiv.org/abs/2402.08101)|null|
 |**2024-02-12**|**MAIDCRL: Semi-centralized Multi-Agent Influence Dense-CNN Reinforcement Learning**|Ayesha Siddika Nipu et.al.|[2402.07890](http://arxiv.org/abs/2402.07890)|null|
 |**2024-02-12**|**Distributed Anomaly Detection in Modern Power Systems: A Penalty-based Mitigation Approach**|Erfan Mehdipour Abadi et.al.|[2402.07884](http://arxiv.org/abs/2402.07884)|null|
 |**2024-02-12**|**Retrieval-Augmented Thought Process as Sequential Decision Making**|Thomas Pouplin et.al.|[2402.07812](http://arxiv.org/abs/2402.07812)|null|
