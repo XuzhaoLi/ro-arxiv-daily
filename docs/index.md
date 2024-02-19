@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.18
+## Updated on 2024.02.19
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -163,7 +163,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-02-15**|**InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization**|Zhengyang Hu et.al.|[2402.10158](http://arxiv.org/abs/2402.10158)|null|
-|**2024-02-15**|**Mitigating subjectivity and bias in AI development indices: A robust approach to redefining country rankings**|Betania Silva C Campello et.al.|[2402.10122](http://arxiv.org/abs/2402.10122)|null|
+|**2024-02-15**|**Mitigating subjectivity and bias in AI development indices: A robust approach to redefining country rankings**|Betania Silva C Campello et.al.|[2402.10122](http://arxiv.org/abs/2402.10122)|**[link](https://github.com/bsccampello/aidevelopmentindices)**|
 |**2024-02-15**|**Neural Network Approaches for Parameterized Optimal Control**|Deepanshu Verma et.al.|[2402.10033](http://arxiv.org/abs/2402.10033)|null|
 |**2024-02-15**|**Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent**|Quentin Gallouédec et.al.|[2402.09844](http://arxiv.org/abs/2402.09844)|null|
 |**2024-02-15**|**Less is more: Ensemble Learning for Retinal Disease Recognition Under Limited Resources**|Jiahao Wang et.al.|[2402.09747](http://arxiv.org/abs/2402.09747)|null|
