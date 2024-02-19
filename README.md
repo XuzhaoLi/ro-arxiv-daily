@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Optimal Savings and Value of Population in A Stochastic Environment: Transient Behavior**|Hao Liu et.al.|[2402.10768](http://arxiv.org/abs/2402.10768)|null|
+|**2024-02-15**|**Engraving Oriented Joint Estimation of Pitch Spelling and Local and Global Keys**|Augustin Bouquillard et.al.|[2402.10247](http://arxiv.org/abs/2402.10247)|null|
 |**2024-02-14**|**Analyzing the Impact of Computation in Adaptive Dynamic Programming for Stochastic LQR Problem**|Wenhan Cao et.al.|[2402.09575](http://arxiv.org/abs/2402.09575)|null|
 |**2024-02-13**|**Approximate Sequential Optimization for Informative Path Planning**|Joshua Ott et.al.|[2402.08841](http://arxiv.org/abs/2402.08841)|**[link](https://github.com/sisl/InformativePathPlanning)**|
 |**2024-02-13**|**Sequence graphs realizations and ambiguity in language models**|Sammy Khalife et.al.|[2402.08830](http://arxiv.org/abs/2402.08830)|null|
@@ -26,7 +28,7 @@
 |**2024-02-01**|**Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization**|Zhanhong Tan et.al.|[2402.00629](http://arxiv.org/abs/2402.00629)|null|
 |**2024-02-02**|**Branch and Price for the Length-Constrained Cycle Partition Problem**|Mohammed Ghannam et.al.|[2401.17937](http://arxiv.org/abs/2401.17937)|**[link](https://github.com/mmghannam/lccp-bnp)**|
 |**2024-01-31**|**Revisiting speech segmentation and lexicon learning with better features**|Herman Kamper et.al.|[2401.17902](http://arxiv.org/abs/2401.17902)|null|
-|**2024-01-31**|**The computation of approximate feedback Stackelberg equilibria in multi-player nonlinear constrained dynamic games**|Jingqi Li et.al.|[2401.15745](http://arxiv.org/abs/2401.15745)|**[link](https://github.com/jamesjingqili/feedbackstackelberggames.jl)**|
+|**2024-02-16**|**The computation of approximate feedback Stackelberg equilibria in multi-player nonlinear constrained dynamic games**|Jingqi Li et.al.|[2401.15745](http://arxiv.org/abs/2401.15745)|**[link](https://github.com/jamesjingqili/feedbackstackelberggames.jl)**|
 |**2024-01-28**|**HappyRouting: Learning Emotion-Aware Route Trajectories for Scalable In-The-Wild Navigation**|David Bethge et.al.|[2401.15695](http://arxiv.org/abs/2401.15695)|null|
 |**2024-01-28**|**Constrained Markov decision processes for response-adaptive procedures in clinical trials with binary outcomes**|Stef Baas et.al.|[2401.15694](http://arxiv.org/abs/2401.15694)|null|
 |**2024-01-27**|**Fair and Efficient Ridesharing: A Dynamic Programming-based Relocation Approach**|Aqsa Ashraf Makhdomi et.al.|[2401.15363](http://arxiv.org/abs/2401.15363)|null|
@@ -44,6 +46,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter**|Junfei Xiao et.al.|[2402.10896](http://arxiv.org/abs/2402.10896)|null|
+|**2024-02-16**|**RLVF: Learning from Verbal Feedback without Overgeneralization**|Moritz Stephan et.al.|[2402.10893](http://arxiv.org/abs/2402.10893)|null|
+|**2024-02-16**|**Instruction Diversity Drives Generalization To Unseen Tasks**|Dylan Zhang et.al.|[2402.10891](http://arxiv.org/abs/2402.10891)|null|
+|**2024-02-16**|**When is Tree Search Useful for LLM Planning? It Depends on the Discriminator**|Ziru Chen et.al.|[2402.10890](http://arxiv.org/abs/2402.10890)|null|
+|**2024-02-16**|**Multi-modal preference alignment remedies regression of visual instruction tuning on language model**|Shengzhi Li et.al.|[2402.10884](http://arxiv.org/abs/2402.10884)|null|
+|**2024-02-16**|**EcoRank: Budget-Constrained Text Re-ranking Using Large Language Models**|Muhammad Shihab Rashid et.al.|[2402.10866](http://arxiv.org/abs/2402.10866)|null|
+|**2024-02-16**|**Time Series Forecasting with LLMs: Understanding and Enhancing Model Capabilities**|Mingyu Jin et.al.|[2402.10835](http://arxiv.org/abs/2402.10835)|null|
+|**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[2402.10828](http://arxiv.org/abs/2402.10828)|null|
+|**2024-02-16**|**Quantifying the Persona Effect in LLM Simulations**|Tiancheng Hu et.al.|[2402.10811](http://arxiv.org/abs/2402.10811)|null|
+|**2024-02-16**|**Generative Cross-Modal Retrieval: Memorizing Images in Multimodal Language Models for Retrieval and Beyond**|Yongqi Li et.al.|[2402.10805](http://arxiv.org/abs/2402.10805)|null|
+|**2024-02-16**|**EdgeQAT: Entropy and Distribution Guided Quantization-Aware Training for the Acceleration of Lightweight LLMs on the Edge**|Xuan Shen et.al.|[2402.10787](http://arxiv.org/abs/2402.10787)|null|
+|**2024-02-16**|**A Condensed Transition Graph Framework for Zero-shot Link Prediction with Large Language Models**|Mingchen Li et.al.|[2402.10779](http://arxiv.org/abs/2402.10779)|null|
+|**2024-02-16**|**AutoGPT+P: Affordance-based Task Planning with Large Language Models**|Timo Birr et.al.|[2402.10778](http://arxiv.org/abs/2402.10778)|null|
+|**2024-02-16**|**How Reliable Are Automatic Evaluation Methods for Instruction-Tuned LLMs?**|Ehsan Doostmohammadi et.al.|[2402.10770](http://arxiv.org/abs/2402.10770)|null|
+|**2024-02-16**|**Distillation Enhanced Generative Retrieval**|Yongqi Li et.al.|[2402.10769](http://arxiv.org/abs/2402.10769)|null|
+|**2024-02-16**|**Inference to the Best Explanation in Large Language Models**|Dhairya Dalal et.al.|[2402.10767](http://arxiv.org/abs/2402.10767)|null|
+|**2024-02-16**|**When Dataflow Analysis Meets Large Language Models**|Chengpeng Wang et.al.|[2402.10754](http://arxiv.org/abs/2402.10754)|null|
+|**2024-02-16**|**ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages**|Junjie Ye et.al.|[2402.10753](http://arxiv.org/abs/2402.10753)|**[link](https://github.com/junjie-ye/toolsword)**|
+|**2024-02-16**|**GenRES: Rethinking Evaluation for Generative Relation Extraction in the Era of Large Language Models**|Pengcheng Jiang et.al.|[2402.10744](http://arxiv.org/abs/2402.10744)|null|
+|**2024-02-16**|**Let's Learn Step by Step: Enhancing In-Context Learning Ability with Curriculum Learning**|Yinpeng Liu et.al.|[2402.10738](http://arxiv.org/abs/2402.10738)|**[link](https://github.com/61peng/curri_learning)**|
 |**2024-02-15**|**Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation**|Huizhuo Yuan et.al.|[2402.10210](http://arxiv.org/abs/2402.10210)|null|
 |**2024-02-15**|**Rewards-in-Context: Multi-objective Alignment of Foundation Models with Dynamic Preference Adjustment**|Rui Yang et.al.|[2402.10207](http://arxiv.org/abs/2402.10207)|null|
 |**2024-02-15**|**Chain-of-Thought Reasoning Without Prompting**|Xuezhi Wang et.al.|[2402.10200](http://arxiv.org/abs/2402.10200)|null|
@@ -171,6 +193,21 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**Agent-based Simulation Evaluation of CBD Tolling: A Case Study from New York City**|Qingnan Liang et.al.|[2402.10834](http://arxiv.org/abs/2402.10834)|null|
+|**2024-02-16**|**RAG-Driver: Generalisable Driving Explanations with Retrieval-Augmented In-Context Learning in Multi-Modal Large Language Model**|Jianhao Yuan et.al.|[2402.10828](http://arxiv.org/abs/2402.10828)|null|
+|**2024-02-16**|**Enhancing ESG Impact Type Identification through Early Fusion and Multilingual Models**|Hariram Veeramani et.al.|[2402.10772](http://arxiv.org/abs/2402.10772)|null|
+|**2024-02-16**|**RAGIC: Risk-Aware Generative Adversarial Model for Stock Interval Construction**|Jingyi Gu et.al.|[2402.10760](http://arxiv.org/abs/2402.10760)|null|
+|**2024-02-16**|**Cloud Kitchen: Using Planning-based Composite AI to Optimize Food Delivery Process**|Slavomír Švancár et.al.|[2402.10725](http://arxiv.org/abs/2402.10725)|null|
+|**2024-02-16**|**Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation**|Hongbin Na et.al.|[2402.10699](http://arxiv.org/abs/2402.10699)|null|
+|**2024-02-16**|**Network Formation and Dynamics Among Multi-LLMs**|Marios Papachristou et.al.|[2402.10659](http://arxiv.org/abs/2402.10659)|null|
+|**2024-02-16**|**Efficiency at Scale: Investigating the Performance of Diminutive Language Models in Clinical Tasks**|Niall Taylor et.al.|[2402.10597](http://arxiv.org/abs/2402.10597)|null|
+|**2024-02-16**|**Efficient Multi-task Uncertainties for Joint Semantic Segmentation and Monocular Depth Estimation**|Steven Landgraf et.al.|[2402.10580](http://arxiv.org/abs/2402.10580)|null|
+|**2024-02-16**|**A novel integrated industrial approach with cobots in the age of industry 4.0 through conversational interaction and computer vision**|Andrea Pazienza et.al.|[2402.10553](http://arxiv.org/abs/2402.10553)|null|
+|**2024-02-16**|**Quantifying Individual Risk for Binary Outcome: Bounds and Inference**|Peng Wu et.al.|[2402.10537](http://arxiv.org/abs/2402.10537)|null|
+|**2024-02-16**|**PRISE: Learning Temporal Action Abstractions as a Sequence Compression Problem**|Ruijie Zheng et.al.|[2402.10450](http://arxiv.org/abs/2402.10450)|null|
+|**2024-02-16**|**Barrier-Enhanced Homotopic Parallel Trajectory Optimization for Safety-Critical Autonomous Driving**|Lei Zheng et.al.|[2402.10441](http://arxiv.org/abs/2402.10441)|null|
+|**2024-02-16**|**Explaining generative diffusion models via visual analysis for interpretable decision-making process**|Ji-Hoon Park et.al.|[2402.10404](http://arxiv.org/abs/2402.10404)|null|
+|**2024-02-15**|**Thompson Sampling in Partially Observable Contextual Bandits**|Hongju Park et.al.|[2402.10289](http://arxiv.org/abs/2402.10289)|null|
 |**2024-02-15**|**InfoNet: Neural Estimation of Mutual Information without Test-Time Optimization**|Zhengyang Hu et.al.|[2402.10158](http://arxiv.org/abs/2402.10158)|null|
 |**2024-02-15**|**Mitigating subjectivity and bias in AI development indices: A robust approach to redefining country rankings**|Betania Silva C Campello et.al.|[2402.10122](http://arxiv.org/abs/2402.10122)|**[link](https://github.com/bsccampello/aidevelopmentindices)**|
 |**2024-02-15**|**Neural Network Approaches for Parameterized Optimal Control**|Deepanshu Verma et.al.|[2402.10033](http://arxiv.org/abs/2402.10033)|null|
