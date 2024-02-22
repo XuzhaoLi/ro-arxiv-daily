@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934](http://arxiv.org/abs/2402.13934)|null|
+|**2024-02-21**|**Benchmarking and Dissecting the Nvidia Hopper GPU Architecture**|Weile Luo et.al.|[2402.13499](http://arxiv.org/abs/2402.13499)|null|
 |**2024-02-20**|**An Improved Lower Bound on the Number of Pseudoline Arrangements**|Fernando Cortés Kühnast et.al.|[2402.13107](http://arxiv.org/abs/2402.13107)|null|
 |**2024-02-20**|**Smart Mobility Digital Twin Based Automated Vehicle Navigation System: A Proof of Concept**|Kui Wang et.al.|[2402.12682](http://arxiv.org/abs/2402.12682)|null|
 |**2024-02-19**|**An algorithm for counting number of all (normal) fuzzy subgroups in $U_{6n}$**|Marek Hyčko et.al.|[2402.12543](http://arxiv.org/abs/2402.12543)|null|
@@ -46,6 +48,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
+|**2024-02-21**|**Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models**|Zhiwei He et.al.|[2402.14007](http://arxiv.org/abs/2402.14007)|null|
+|**2024-02-21**|**Hallucinations or Attention Misdirection? The Path to Strategic Value Extraction in Business Using Large Language Models**|Aline Ioste et.al.|[2402.14002](http://arxiv.org/abs/2402.14002)|null|
+|**2024-02-21**|**Analysing The Impact of Sequence Composition on Language Model Pre-Training**|Yu Zhao et.al.|[2402.13991](http://arxiv.org/abs/2402.13991)|**[link](https://github.com/yuzhaouoe/pretraining-data-packing)**|
+|**2024-02-21**|**Towards Building Multilingual Language Model for Medicine**|Pengcheng Qiu et.al.|[2402.13963](http://arxiv.org/abs/2402.13963)|**[link](https://github.com/magic-ai4med/mmedlm)**|
+|**2024-02-21**|**Measuring Social Biases in Masked Language Models by Proxy of Prediction Quality**|Rahul Zalkikar et.al.|[2402.13954](http://arxiv.org/abs/2402.13954)|null|
+|**2024-02-21**|**Making Reasoning Matter: Measuring and Improving Faithfulness of Chain-of-Thought Reasoning**|Debjit Paul et.al.|[2402.13950](http://arxiv.org/abs/2402.13950)|null|
+|**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934](http://arxiv.org/abs/2402.13934)|null|
+|**2024-02-21**|**Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content**|Federico Bianchi et.al.|[2402.13926](http://arxiv.org/abs/2402.13926)|null|
+|**2024-02-21**|**SYNFAC-EDIT: Synthetic Imitation Edit Feedback for Factual Alignment in Clinical Summarization**|Prakamya Mishra et.al.|[2402.13919](http://arxiv.org/abs/2402.13919)|null|
+|**2024-02-21**|**What Linguistic Features and Languages are Important in LLM Translation?**|Ryandito Diandaru et.al.|[2402.13917](http://arxiv.org/abs/2402.13917)|null|
+|**2024-02-21**|**Calibrating Large Language Models with Sample Consistency**|Qing Lyu et.al.|[2402.13904](http://arxiv.org/abs/2402.13904)|null|
+|**2024-02-21**|**Beyond Probabilities: Unveiling the Misalignment in Evaluating Large Language Models**|Chenyang Lyu et.al.|[2402.13887](http://arxiv.org/abs/2402.13887)|null|
+|**2024-02-21**|**$\texttt{Se}^2$: $\textit{Se}$quential Example $\textit{Se}$ lection for In-Context Learning**|Haoyu Liu et.al.|[2402.13874](http://arxiv.org/abs/2402.13874)|null|
+|**2024-02-21**|**An Explainable Transformer-based Model for Phishing Email Detection: A Large Language Model Approach**|Mohammad Amaz Uddin et.al.|[2402.13871](http://arxiv.org/abs/2402.13871)|null|
+|**2024-02-21**|**Kuaiji: the First Chinese Accounting Large Language Model**|Jiayuan Luo et.al.|[2402.13866](http://arxiv.org/abs/2402.13866)|null|
+|**2024-02-21**|**RealDex: Towards Human-like Grasping for Robotic Dexterous Hand**|Yumeng Liu et.al.|[2402.13853](http://arxiv.org/abs/2402.13853)|null|
+|**2024-02-21**|**VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models**|Jiawei Liang et.al.|[2402.13851](http://arxiv.org/abs/2402.13851)|null|
 |**2024-02-20**|**Towards audio language modeling -- an overview**|Haibin Wu et.al.|[2402.13236](http://arxiv.org/abs/2402.13236)|null|
 |**2024-02-20**|**Unlocking Insights: Semantic Search in Jupyter Notebooks**|Lan Li et.al.|[2402.13234](http://arxiv.org/abs/2402.13234)|null|
 |**2024-02-20**|**A Touch, Vision, and Language Dataset for Multimodal Alignment**|Letian Fu et.al.|[2402.13232](http://arxiv.org/abs/2402.13232)|null|
@@ -231,10 +253,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Information Elicitation in Agency Games**|Serena Wang et.al.|[2402.14005](http://arxiv.org/abs/2402.14005)|null|
+|**2024-02-21**|**Generative Probabilistic Time Series Forecasting and Applications in Grid Operations**|Xinyi Wang et.al.|[2402.13870](http://arxiv.org/abs/2402.13870)|null|
+|**2024-02-21**|**Voice-Driven Mortality Prediction in Hospitalized Heart Failure Patients: A Machine Learning Approach Enhanced with Diagnostic Biomarkers**|Nihat Ahmadli et.al.|[2402.13812](http://arxiv.org/abs/2402.13812)|null|
+|**2024-02-21**|**Deep Generative Models for Offline Policy Learning: Tutorial, Survey, and Perspectives on Future Directions**|Jiayu Chen et.al.|[2402.13777](http://arxiv.org/abs/2402.13777)|null|
+|**2024-02-21**|**SaGE: Evaluating Moral Consistency in Large Language Models**|Vamshi Krishna Bonagiri et.al.|[2402.13709](http://arxiv.org/abs/2402.13709)|null|
+|**2024-02-21**|**Analyizing the Conjunction Fallacy as a Fact**|Tomas Veloz et.al.|[2402.13615](http://arxiv.org/abs/2402.13615)|null|
+|**2024-02-21**|**Hybrid Reasoning Based on Large Language Models for Autonomous Car Driving**|Mehdi Azarafza et.al.|[2402.13602](http://arxiv.org/abs/2402.13602)|null|
+|**2024-02-21**|**Mastering the Game of Guandan with Deep Reinforcement Learning and Behavior Regulating**|Yifan Yanggong et.al.|[2402.13582](http://arxiv.org/abs/2402.13582)|null|
+|**2024-02-21**|**EffLoc: Lightweight Vision Transformer for Efficient 6-DOF Camera Relocalization**|Zhendong Xiao et.al.|[2402.13537](http://arxiv.org/abs/2402.13537)|null|
+|**2024-02-21**|**Best of Many in Both Worlds: Online Resource Allocation with Predictions under Unknown Arrival Model**|Lin An et.al.|[2402.13530](http://arxiv.org/abs/2402.13530)|null|
+|**2024-02-21**|**Learning to Model Diverse Driving Behaviors in Highly Interactive Autonomous Driving Scenarios with Multi-Agent Reinforcement Learning**|Liu Weiwei et.al.|[2402.13481](http://arxiv.org/abs/2402.13481)|null|
+|**2024-02-21**|**A rational logit dynamic for decision-making under uncertainty: well-posedness, vanishing-noise limit, and numerical approximation**|Hidekazu Yoshioka et.al.|[2402.13453](http://arxiv.org/abs/2402.13453)|null|
+|**2024-02-21**|**A Neuro-Symbolic Approach to Multi-Agent RL for Interpretability and Probabilistic Decision Making**|Chitra Subramanian et.al.|[2402.13440](http://arxiv.org/abs/2402.13440)|null|
+|**2024-02-20**|**Toward TransfORmers: Revolutionizing the Solution of Mixed Integer Programs with Transformers**|Joshua F. Cooper et.al.|[2402.13380](http://arxiv.org/abs/2402.13380)|null|
+|**2024-02-20**|**Referee-Meta-Learning for Fast Adaptation of Locational Fairness**|Weiye Chen et.al.|[2402.13379](http://arxiv.org/abs/2402.13379)|null|
 |**2024-02-20**|**VADv2: End-to-End Vectorized Autonomous Driving via Probabilistic Planning**|Shaoyu Chen et.al.|[2402.13243](http://arxiv.org/abs/2402.13243)|null|
 |**2024-02-20**|**Analyzing Operator States and the Impact of AI-Enhanced Decision Support in Control Rooms: A Human-in-the-Loop Specialized Reinforcement Learning Framework for Intervention Strategies**|Ammar N. Abbas et.al.|[2402.13219](http://arxiv.org/abs/2402.13219)|null|
 |**2024-02-20**|**Testing Calibration in Subquadratic Time**|Lunjia Hu et.al.|[2402.13187](http://arxiv.org/abs/2402.13187)|**[link](https://github.com/chutongyang98/testing-calibration-in-subquadratic-time)**|
-|**2024-02-20**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184](http://arxiv.org/abs/2402.13184)|null|
+|**2024-02-21**|**What if LLMs Have Different World Views: Simulating Alien Civilizations with LLM-based Agents**|Mingyu Jin et.al.|[2402.13184](http://arxiv.org/abs/2402.13184)|null|
 |**2024-02-20**|**3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**|Sen Yuan et.al.|[2402.13062](http://arxiv.org/abs/2402.13062)|null|
 |**2024-02-20**|**Random Graph Set and Evidence Pattern Reasoning Model**|Tianxiang Zhan et.al.|[2402.13058](http://arxiv.org/abs/2402.13058)|null|
 |**2024-02-20**|**Align Your Intents: Offline Imitation Learning via Optimal Transport**|Maksim Bobrin et.al.|[2402.13037](http://arxiv.org/abs/2402.13037)|null|
