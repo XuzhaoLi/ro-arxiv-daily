@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Quantum Markov Decision Processes Part II: Optimal Solutions and Algorithms**|Naci Saldi et.al.|[2402.14651](http://arxiv.org/abs/2402.14651)|null|
+|**2024-02-22**|**Quantum Markov Decision Processes Part I: General Theory, Approximations, and Classes of Policies**|Naci Saldi et.al.|[2402.14649](http://arxiv.org/abs/2402.14649)|null|
+|**2024-02-21**|**Quantum Annealing and Graph Neural Networks for Solving TSP with QUBO**|Haoqi He et.al.|[2402.14036](http://arxiv.org/abs/2402.14036)|null|
 |**2024-02-21**|**Do Efficient Transformers Really Save Computation?**|Kai Yang et.al.|[2402.13934](http://arxiv.org/abs/2402.13934)|null|
 |**2024-02-21**|**Benchmarking and Dissecting the Nvidia Hopper GPU Architecture**|Weile Luo et.al.|[2402.13499](http://arxiv.org/abs/2402.13499)|null|
 |**2024-02-20**|**An Improved Lower Bound on the Number of Pseudoline Arrangements**|Fernando Cortés Kühnast et.al.|[2402.13107](http://arxiv.org/abs/2402.13107)|null|
@@ -55,6 +58,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
+|**2024-02-22**|**Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging**|Yuzhe Yang et.al.|[2402.14815](http://arxiv.org/abs/2402.14815)|**[link](https://github.com/yyzharry/vlm-fairness)**|
+|**2024-02-22**|**WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition**|Lianghui Zhu et.al.|[2402.14812](http://arxiv.org/abs/2402.14812)|**[link](https://github.com/hustvl/weaksam)**|
+|**2024-02-22**|**Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking**|Nikhil Prakash et.al.|[2402.14811](http://arxiv.org/abs/2402.14811)|null|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808](http://arxiv.org/abs/2402.14808)|null|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-22**|**Identifying Multiple Personalities in Large Language Models with External Evaluation**|Xiaoyang Song et.al.|[2402.14805](http://arxiv.org/abs/2402.14805)|null|
+|**2024-02-22**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|**[link](https://github.com/lucky-lance/expert_sparsity)**|
+|**2024-02-22**|**Enhancing Systematic Decompositional Natural Language Inference Using Informal Logic**|Nathaniel Weir et.al.|[2402.14798](http://arxiv.org/abs/2402.14798)|null|
+|**2024-02-22**|**Zero-shot cross-lingual transfer in instruction tuning of large language model**|Nadezhda Chirkova et.al.|[2402.14778](http://arxiv.org/abs/2402.14778)|null|
+|**2024-02-22**|**2D Matryoshka Sentence Embeddings**|Xianming Li et.al.|[2402.14776](http://arxiv.org/abs/2402.14776)|null|
+|**2024-02-22**|**DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models**|Yuhang Cao et.al.|[2402.14767](http://arxiv.org/abs/2402.14767)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)**|
+|**2024-02-22**|**MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues**|Ge Bai et.al.|[2402.14762](http://arxiv.org/abs/2402.14762)|null|
+|**2024-02-22**|**Generalizing Reward Modeling for Out-of-Distribution Preference Learning**|Chen Jia et.al.|[2402.14760](http://arxiv.org/abs/2402.14760)|null|
+|**2024-02-22**|**Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation**|Jiawei Wang et.al.|[2402.14744](http://arxiv.org/abs/2402.14744)|null|
+|**2024-02-22**|**Dependency Annotation of Ottoman Turkish with Multilingual BERT**|Şaziye Betül Özateş et.al.|[2402.14743](http://arxiv.org/abs/2402.14743)|null|
+|**2024-02-22**|**Back to Basics: Revisiting REINFORCE Style Optimization for Learning from Human Feedback in LLMs**|Arash Ahmadian et.al.|[2402.14740](http://arxiv.org/abs/2402.14740)|null|
+|**2024-02-22**|**Efficient and Effective Vocabulary Expansion Towards Multilingual Large Language Models**|Seungduk Kim et.al.|[2402.14714](http://arxiv.org/abs/2402.14714)|null|
+|**2024-02-22**|**IEPile: Unearthing Large-Scale Schema-Based Information Extraction Corpus**|Honghao Gui et.al.|[2402.14710](http://arxiv.org/abs/2402.14710)|**[link](https://github.com/zjunlp/iepile)**|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
@@ -262,6 +285,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Autonomy Oriented Digital Twins for Real2Sim2Real Autoware Deployment**|Chinmay Vilas Samak et.al.|[2402.14739](http://arxiv.org/abs/2402.14739)|null|
+|**2024-02-22**|**Doing AI: Algorithmic decision support as a human activity**|Joachim Meyer et.al.|[2402.14674](http://arxiv.org/abs/2402.14674)|null|
+|**2024-02-22**|**Distributed Radiance Fields for Edge Video Compression and Metaverse Integration in Autonomous Driving**|Eugen Šlapak et.al.|[2402.14642](http://arxiv.org/abs/2402.14642)|null|
+|**2024-02-22**|**Reframing the Expected Free Energy: Four Formulations and a Unification**|Théophile Champion et.al.|[2402.14460](http://arxiv.org/abs/2402.14460)|null|
+|**2024-02-22**|**Model-Based Reinforcement Learning Control of Reaction-Diffusion Problems**|Christina Schenk et.al.|[2402.14446](http://arxiv.org/abs/2402.14446)|null|
+|**2024-02-22**|**Algorithm-agnostic significance testing in supervised learning with multimodal data**|Lucas Kook et.al.|[2402.14416](http://arxiv.org/abs/2402.14416)|null|
+|**2024-02-22**|**Human-machine social systems**|Milena Tsvetkova et.al.|[2402.14410](http://arxiv.org/abs/2402.14410)|null|
+|**2024-02-22**|**RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**|Changsong Pang et.al.|[2402.14380](http://arxiv.org/abs/2402.14380)|null|
+|**2024-02-22**|**We Choose to Go to Space: Agent-driven Human and Multi-Robot Collaboration in Microgravity**|Miao Xin et.al.|[2402.14299](http://arxiv.org/abs/2402.14299)|null|
+|**2024-02-22**|**Enhancing Robotic Manipulation with AI Feedback from Multimodal Large Language Models**|Jinyi Liu et.al.|[2402.14245](http://arxiv.org/abs/2402.14245)|null|
+|**2024-02-22**|**BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay**|Catherine Weaver et.al.|[2402.14194](http://arxiv.org/abs/2402.14194)|null|
+|**2024-02-22**|**Parking of Connected Automated Vehicles: Vehicle Control, Parking Assignment, and Multi-agent Simulation**|Xu Shen et.al.|[2402.14183](http://arxiv.org/abs/2402.14183)|null|
+|**2024-02-21**|**Blending Data-Driven Priors in Dynamic Games**|Justin Lidard et.al.|[2402.14174](http://arxiv.org/abs/2402.14174)|null|
+|**2024-02-21**|**Unveiling Crowdfunding Futures: Analyzing Campaign Outcomes through Distributed Models and Big Data Perspectives**|Giuseppe Pipitò et.al.|[2402.14111](http://arxiv.org/abs/2402.14111)|null|
+|**2024-02-21**|**Social Environment Design**|Edwin Zhang et.al.|[2402.14090](http://arxiv.org/abs/2402.14090)|null|
+|**2024-02-21**|**Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping**|Lucas Lehnert et.al.|[2402.14083](http://arxiv.org/abs/2402.14083)|null|
+|**2024-02-21**|**Efficient Normalized Conformal Prediction and Uncertainty Quantification for Anti-Cancer Drug Sensitivity Prediction with Deep Regression Forests**|Daniel Nolte et.al.|[2402.14080](http://arxiv.org/abs/2402.14080)|null|
 |**2024-02-21**|**Information Elicitation in Agency Games**|Serena Wang et.al.|[2402.14005](http://arxiv.org/abs/2402.14005)|null|
 |**2024-02-21**|**Generative Probabilistic Time Series Forecasting and Applications in Grid Operations**|Xinyi Wang et.al.|[2402.13870](http://arxiv.org/abs/2402.13870)|null|
 |**2024-02-21**|**Voice-Driven Mortality Prediction in Hospitalized Heart Failure Patients: A Machine Learning Approach Enhanced with Diagnostic Biomarkers**|Nihat Ahmadli et.al.|[2402.13812](http://arxiv.org/abs/2402.13812)|null|
