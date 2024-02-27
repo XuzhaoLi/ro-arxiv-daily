@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations**|Yeping Wang et.al.|[2402.16154](http://arxiv.org/abs/2402.16154)|null|
+|**2024-02-25**|**Evolving E-commerce Logistics Planning- Integrating Embedded Technology and Ant Colony Algorithm for Enhanced Efficiency**|Lynn Huang et.al.|[2402.15965](http://arxiv.org/abs/2402.15965)|null|
+|**2024-02-25**|**Budget-Constrained Tool Learning with Planning**|Yuanhang Zheng et.al.|[2402.15960](http://arxiv.org/abs/2402.15960)|**[link](https://github.com/zyh111/btp)**|
+|**2024-02-23**|**Neural optimal controller for stochastic systems via pathwise HJB operator**|Zhe Jiao et.al.|[2402.15592](http://arxiv.org/abs/2402.15592)|null|
 |**2024-02-23**|**Curve fitting on a quantum annealer for an advanced navigation method**|Philipp Isserstedt et.al.|[2402.15308](http://arxiv.org/abs/2402.15308)|null|
 |**2024-02-22**|**Quantum Markov Decision Processes Part II: Optimal Solutions and Algorithms**|Naci Saldi et.al.|[2402.14651](http://arxiv.org/abs/2402.14651)|null|
 |**2024-02-22**|**Quantum Markov Decision Processes Part I: General Theory, Approximations, and Classes of Policies**|Naci Saldi et.al.|[2402.14649](http://arxiv.org/abs/2402.14649)|null|
@@ -59,6 +63,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
+|**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
+|**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
+|**2024-02-26**|**Unveiling ChatGPT's Usage in Open Source Projects: A Mining-based Study**|Rosalia Tufano et.al.|[2402.16480](http://arxiv.org/abs/2402.16480)|null|
+|**2024-02-26**|**mEdIT: Multilingual Text Editing via Instruction Tuning**|Vipul Raheja et.al.|[2402.16472](http://arxiv.org/abs/2402.16472)|null|
+|**2024-02-26**|**Unveiling Vulnerability of Self-Attention**|Khai Jiet Liong et.al.|[2402.16470](http://arxiv.org/abs/2402.16470)|null|
+|**2024-02-26**|**Defending LLMs against Jailbreaking Attacks via Backtranslation**|Yihan Wang et.al.|[2402.16459](http://arxiv.org/abs/2402.16459)|null|
+|**2024-02-26**|**ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing**|Liuzhenghao Lv et.al.|[2402.16445](http://arxiv.org/abs/2402.16445)|null|
+|**2024-02-26**|**ShieldLM: Empowering LLMs as Aligned, Customizable and Explainable Safety Detectors**|Zhexin Zhang et.al.|[2402.16444](http://arxiv.org/abs/2402.16444)|**[link](https://github.com/thu-coai/shieldlm)**|
+|**2024-02-26**|**Language-Specific Neurons: The Key to Multilingual Capabilities in Large Language Models**|Tianyi Tang et.al.|[2402.16438](http://arxiv.org/abs/2402.16438)|null|
+|**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
+|**2024-02-26**|**Predicting Sustainable Development Goals Using Course Descriptions -- from LLMs to Conventional Foundation Models**|Lev Kharlashkin et.al.|[2402.16420](http://arxiv.org/abs/2402.16420)|null|
+|**2024-02-26**|**From RAGs to riches: Using large language models to write documents for clinical trials**|Nigel Markey et.al.|[2402.16406](http://arxiv.org/abs/2402.16406)|null|
+|**2024-02-26**|**MoZIP: A Multilingual Benchmark to Evaluate Large Language Models in Intellectual Property**|Shiwen Ni et.al.|[2402.16389](http://arxiv.org/abs/2402.16389)|**[link](https://github.com/ai-for-science/mozi)**|
+|**2024-02-26**|**Immunization against harmful fine-tuning attacks**|Domenic Rosati et.al.|[2402.16382](http://arxiv.org/abs/2402.16382)|null|
+|**2024-02-26**|**Improving LLM-based Machine Translation with Systematic Self-Correction**|Zhaopeng Feng et.al.|[2402.16379](http://arxiv.org/abs/2402.16379)|**[link](https://github.com/fzp0424/self_correct_mt)**|
+|**2024-02-26**|**Unraveling Babel: Exploring Multilingual Activation Patterns within Large Language Models**|Weize Liu et.al.|[2402.16367](http://arxiv.org/abs/2402.16367)|null|
+|**2024-02-26**|**LLM Inference Unveiled: Survey and Roofline Model Insights**|Zhihang Yuan et.al.|[2402.16363](http://arxiv.org/abs/2402.16363)|null|
+|**2024-02-26**|**Layer-wise Regularized Dropout for Neural Language Models**|Shiwen Ni et.al.|[2402.16361](http://arxiv.org/abs/2402.16361)|null|
+|**2024-02-26**|**An Integrated Data Processing Framework for Pretraining Foundation Models**|Yiding Sun et.al.|[2402.16358](http://arxiv.org/abs/2402.16358)|**[link](https://github.com/emanual20/zhem)**|
 |**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506](http://arxiv.org/abs/2402.15506)|null|
 |**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491](http://arxiv.org/abs/2402.15491)|null|
 |**2024-02-23**|**Prejudice and Caprice: A Statistical Framework for Measuring Social Discrimination in Large Language Models**|Yiran Liu et.al.|[2402.15481](http://arxiv.org/abs/2402.15481)|null|
@@ -306,6 +330,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
+|**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[2402.16479](http://arxiv.org/abs/2402.16479)|null|
+|**2024-02-26**|**Learning to Schedule Online Tasks with Bandit Feedback**|Yongxin Xu et.al.|[2402.16463](http://arxiv.org/abs/2402.16463)|null|
+|**2024-02-26**|**Contingency Planning Using Bi-level Markov Decision Processes for Space Missions**|Somrita Banerjee et.al.|[2402.16342](http://arxiv.org/abs/2402.16342)|null|
+|**2024-02-26**|**Achieving $\tilde{O}(1/ε)$ Sample Complexity for Constrained Markov Decision Process**|Jiashuo Jiang et.al.|[2402.16324](http://arxiv.org/abs/2402.16324)|null|
+|**2024-02-26**|**From Large Language Models and Optimization to Decision Optimization CoPilot: A Research Manifesto**|Segev Wasserkrug et.al.|[2402.16269](http://arxiv.org/abs/2402.16269)|null|
+|**2024-02-26**|**SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking**|Yu Lin et.al.|[2402.16249](http://arxiv.org/abs/2402.16249)|null|
+|**2024-02-25**|**How Can LLM Guide RL? A Value-Based Approach**|Shenao Zhang et.al.|[2402.16181](http://arxiv.org/abs/2402.16181)|**[link](https://github.com/agentification/language-integrated-vi)**|
+|**2024-02-25**|**From Concept to Implementation: Streamlining Sensor and Actuator Selection for Collaborative Design and Engineering of Interactive Systems**|İhsan Ozan Yıldırım et.al.|[2402.16084](http://arxiv.org/abs/2402.16084)|null|
+|**2024-02-25**|**EHRNoteQA: A Patient-Specific Question Answering Benchmark for Evaluating Large Language Models in Clinical Settings**|Sunjun Kweon et.al.|[2402.16040](http://arxiv.org/abs/2402.16040)|null|
+|**2024-02-25**|**Machine Learning-Based Vehicle Intention Trajectory Recognition and Prediction for Autonomous Driving**|Hanyi Yu et.al.|[2402.16036](http://arxiv.org/abs/2402.16036)|null|
+|**2024-02-24**|**Predicting Outcomes in Video Games with Long Short Term Memory Networks**|Kittimate Chulajata et.al.|[2402.15923](http://arxiv.org/abs/2402.15923)|**[link](https://github.com/kittimatechulajata/predicting-outcomes-in-two-player-games-with-lstm)**|
+|**2024-02-24**|**Concurrent Learning of Policy and Unknown Safety Constraints in Reinforcement Learning**|Lunet Yifru et.al.|[2402.15893](http://arxiv.org/abs/2402.15893)|null|
+|**2024-02-24**|**Statistical Games**|Jozsef Konczer et.al.|[2402.15892](http://arxiv.org/abs/2402.15892)|null|
+|**2024-02-24**|**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**|Jiazhao Zhang et.al.|[2402.15852](http://arxiv.org/abs/2402.15852)|null|
+|**2024-02-24**|**Multiple Instance Learning for Glioma Diagnosis using Hematoxylin and Eosin Whole Slide Images: An Indian cohort Study**|Ekansh Chauhan et.al.|[2402.15832](http://arxiv.org/abs/2402.15832)|null|
+|**2024-02-24**|**Reward Design for Justifiable Sequential Decision-Making**|Aleksa Sukovic et.al.|[2402.15826](http://arxiv.org/abs/2402.15826)|**[link](https://github.com/aleksa-sukovic/iclr2024-reward-design-for-justifiable-rl)**|
+|**2024-02-24**|**Construction and application of artificial intelligence crowdsourcing map based on multi-track GPS data**|Yong Wang et.al.|[2402.15796](http://arxiv.org/abs/2402.15796)|null|
+|**2024-02-24**|**Discretionary Lane-Change Decision and Control via Parameterized Soft Actor-Critic for Hybrid Action Space**|Yuan Lin et.al.|[2402.15790](http://arxiv.org/abs/2402.15790)|null|
+|**2024-02-24**|**Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited**|Lingji Chen et.al.|[2402.15756](http://arxiv.org/abs/2402.15756)|null|
 |**2024-02-23**|**The Sample Average Approximation Method for Solving Two-Stage Stochastic Programs with Endogenous Uncertainty**|Maria Bazotte et.al.|[2402.15486](http://arxiv.org/abs/2402.15486)|null|
 |**2024-02-23**|**Benchmarking the Robustness of Panoptic Segmentation for Automated Driving**|Yiting Wang et.al.|[2402.15469](http://arxiv.org/abs/2402.15469)|null|
 |**2024-02-23**|**Information-Theoretic Safe Bayesian Optimization**|Alessandro G. Bottero et.al.|[2402.15347](http://arxiv.org/abs/2402.15347)|null|
