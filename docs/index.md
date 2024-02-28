@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Globally Convergent Distributed Sequential Quadratic Programming with Overlapping Decomposition and Exact Augmented Lagrangian Merit Function**|Runxin Ni et.al.|[2402.17170](http://arxiv.org/abs/2402.17170)|null|
+|**2024-02-24**|**Selective Task offloading for Maximum Inference Accuracy and Energy efficient Real-Time IoT Sensing Systems**|Abdelkarim Ben Sada et.al.|[2402.16904](http://arxiv.org/abs/2402.16904)|null|
 |**2024-02-25**|**IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations**|Yeping Wang et.al.|[2402.16154](http://arxiv.org/abs/2402.16154)|null|
 |**2024-02-25**|**Evolving E-commerce Logistics Planning- Integrating Embedded Technology and Ant Colony Algorithm for Enhanced Efficiency**|Lynn Huang et.al.|[2402.15965](http://arxiv.org/abs/2402.15965)|null|
 |**2024-02-25**|**Budget-Constrained Tool Learning with Planning**|Yuanhang Zheng et.al.|[2402.15960](http://arxiv.org/abs/2402.15960)|**[link](https://github.com/zyh111/btp)**|
@@ -56,6 +58,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|null|
+|**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764](http://arxiv.org/abs/2402.17764)|null|
+|**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762](http://arxiv.org/abs/2402.17762)|**[link](https://github.com/locuslab/massive-activations)**|
+|**2024-02-27**|**Towards Optimal Learning of Language Models**|Yuxian Gu et.al.|[2402.17759](http://arxiv.org/abs/2402.17759)|null|
+|**2024-02-27**|**Evaluating Very Long-Term Conversational Memory of LLM Agents**|Adyasha Maharana et.al.|[2402.17753](http://arxiv.org/abs/2402.17753)|null|
+|**2024-02-27**|**Tower: An Open Multilingual Large Language Model for Translation-Related Tasks**|Duarte M. Alves et.al.|[2402.17733](http://arxiv.org/abs/2402.17733)|null|
+|**2024-02-27**|**AmbigNLG: Addressing Task Ambiguity in Instruction for NLG**|Ayana Niwa et.al.|[2402.17717](http://arxiv.org/abs/2402.17717)|null|
+|**2024-02-27**|**Case-Based or Rule-Based: How Do Transformers Do the Math?**|Yi Hu et.al.|[2402.17709](http://arxiv.org/abs/2402.17709)|**[link](https://github.com/graphpku/case_or_rule)**|
+|**2024-02-27**|**RAVEL: Evaluating Interpretability Methods on Disentangling Language Model Representations**|Jing Huang et.al.|[2402.17700](http://arxiv.org/abs/2402.17700)|**[link](https://github.com/explanare/ravel)**|
+|**2024-02-27**|**NextLevelBERT: Investigating Masked Language Modeling with Higher-Level Representations for Long Documents**|Tamara Czinczoll et.al.|[2402.17682](http://arxiv.org/abs/2402.17682)|null|
+|**2024-02-27**|**The Emergence of Large Language Models in Static Analysis: A First Look through Micro-Benchmarks**|Ashwin Prasad Shivarpatna Venkatesh et.al.|[2402.17679](http://arxiv.org/abs/2402.17679)|null|
+|**2024-02-27**|**CAD-SIGNet: CAD Language Inference from Point Clouds using Layer-wise Sketch Instance Guided Attention**|Mohammad Sadil Khan et.al.|[2402.17678](http://arxiv.org/abs/2402.17678)|null|
+|**2024-02-27**|**Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models**|Yunpeng Huang et.al.|[2402.17671](http://arxiv.org/abs/2402.17671)|null|
+|**2024-02-27**|**Beyond prompt brittleness: Evaluating the reliability and consistency of political worldviews in LLMs**|Tanise Ceron et.al.|[2402.17649](http://arxiv.org/abs/2402.17649)|null|
+|**2024-02-27**|**SongComposer: A Large Language Model for Lyric and Melody Composition in Song Generation**|Shuangrui Ding et.al.|[2402.17645](http://arxiv.org/abs/2402.17645)|null|
+|**2024-02-27**|**Are LLMs Capable of Data-based Statistical and Causal Reasoning? Benchmarking Advanced Quantitative Reasoning with Data**|Xiao Liu et.al.|[2402.17644](http://arxiv.org/abs/2402.17644)|**[link](https://github.com/xxxiaol/qrdata)**|
+|**2024-02-27**|**Variational Learning is Effective for Large Deep Networks**|Yuesong Shen et.al.|[2402.17641](http://arxiv.org/abs/2402.17641)|**[link](https://github.com/team-approx-bayes/ivon)**|
+|**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
+|**2024-02-27**|**Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization**|Wenqi Zhang et.al.|[2402.17574](http://arxiv.org/abs/2402.17574)|null|
+|**2024-02-27**|**Unleashing the Potential of Large Language Models as Prompt Optimizers: An Analogical Analysis with Gradient-based Model Optimizers**|Xinyu Tang et.al.|[2402.17564](http://arxiv.org/abs/2402.17564)|null|
 |**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-26**|**LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments**|Junzhe Chen et.al.|[2402.16499](http://arxiv.org/abs/2402.16499)|null|
 |**2024-02-26**|**On Languaging a Simulation Engine**|Han Liu et.al.|[2402.16482](http://arxiv.org/abs/2402.16482)|null|
@@ -321,6 +343,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Federated Learning for Estimating Heterogeneous Treatment Effects**|Disha Makhija et.al.|[2402.17705](http://arxiv.org/abs/2402.17705)|null|
+|**2024-02-27**|**Model Free Deep Deterministic Policy Gradient Controller for Setpoint Tracking of Non-minimum Phase Systems**|Fatemeh Tavakkoli et.al.|[2402.17703](http://arxiv.org/abs/2402.17703)|null|
+|**2024-02-27**|**Autonomous Vehicles: Evolution of Artificial Intelligence and Learning Algorithms**|Sneha Sudhir Shetiya et.al.|[2402.17690](http://arxiv.org/abs/2402.17690)|null|
+|**2024-02-27**|**QoS prediction in radio vehicular environments via prior user information**|Noor Ul Ain et.al.|[2402.17689](http://arxiv.org/abs/2402.17689)|null|
+|**2024-02-27**|**Multi-Agent Deep Reinforcement Learning for Distributed Satellite Routing**|Federico Lozano-Cuadra et.al.|[2402.17666](http://arxiv.org/abs/2402.17666)|null|
+|**2024-02-27**|**Mitigating Distributional Shift in Semantic Segmentation via Uncertainty Estimation from Unlabelled Data**|David S. W. Williams et.al.|[2402.17653](http://arxiv.org/abs/2402.17653)|null|
+|**2024-02-27**|**Comparison of the Effects of Interaction with Intentional Agent and Artificial Intelligence using fNIRS**|Mohammad Ghalavand et.al.|[2402.17650](http://arxiv.org/abs/2402.17650)|null|
+|**2024-02-27**|**Chronicles of CI/CD: A Deep Dive into its Usage Over Time**|Hugo da Gião et.al.|[2402.17588](http://arxiv.org/abs/2402.17588)|null|
+|**2024-02-27**|**An Empirical Study of the Generalization Ability of Lidar 3D Object Detectors to Unseen Domains**|George Eskandar et.al.|[2402.17562](http://arxiv.org/abs/2402.17562)|null|
+|**2024-02-27**|**Emergency Caching: Coded Caching-based Reliable Map Transmission in Emergency Networks**|Zeyu Tian et.al.|[2402.17550](http://arxiv.org/abs/2402.17550)|null|
+|**2024-02-27**|**Highway Discretionary Lane-change Decision and Control Using Model Predictive Control**|Zishun Zheng et.al.|[2402.17524](http://arxiv.org/abs/2402.17524)|null|
+|**2024-02-27**|**Leveraging Enhanced Queries of Point Sets for Vectorized Map Construction**|Zihao Liu et.al.|[2402.17430](http://arxiv.org/abs/2402.17430)|null|
+|**2024-02-27**|**Determinants of LLM-assisted Decision-Making**|Eva Eigner et.al.|[2402.17385](http://arxiv.org/abs/2402.17385)|null|
+|**2024-02-27**|**ICP-Flow: LiDAR Scene Flow Estimation with ICP**|Yancong Lin et.al.|[2402.17351](http://arxiv.org/abs/2402.17351)|null|
+|**2024-02-27**|**VCD: Knowledge Base Guided Visual Commonsense Discovery in Images**|Xiangqing Shen et.al.|[2402.17213](http://arxiv.org/abs/2402.17213)|null|
+|**2024-02-27**|**Benchmarking Data Science Agents**|Yuge Zhang et.al.|[2402.17168](http://arxiv.org/abs/2402.17168)|**[link](https://github.com/metacopilot/dseval)**|
+|**2024-02-27**|**Video as the New Language for Real-World Decision Making**|Sherry Yang et.al.|[2402.17139](http://arxiv.org/abs/2402.17139)|null|
+|**2024-02-27**|**Deep Reinforcement Learning (DRL)-based Methods for Serverless Stream Processing Engines: A Vision, Architectural Elements, and Future Directions**|Maria R. Read et.al.|[2402.17117](http://arxiv.org/abs/2402.17117)|null|
+|**2024-02-26**|**Reinforcement Learning Based Oscillation Dampening: Scaling up Single-Agent RL algorithms to a 100 AV highway field operational test**|Kathy Jang et.al.|[2402.17050](http://arxiv.org/abs/2402.17050)|null|
+|**2024-02-26**|**Successfully Guiding Humans with Imperfect Instructions by Highlighting Potential Errors and Suggesting Corrections**|Lingjun Zhao et.al.|[2402.16973](http://arxiv.org/abs/2402.16973)|null|
 |**2024-02-26**|**Trajectory Prediction for Autonomous Driving Using a Transformer Network**|Zhenning Li et.al.|[2402.16501](http://arxiv.org/abs/2402.16501)|null|
 |**2024-02-26**|**Edge Detectors Can Make Deep Convolutional Neural Networks More Robust**|Jin Ding et.al.|[2402.16479](http://arxiv.org/abs/2402.16479)|null|
 |**2024-02-26**|**Learning to Schedule Online Tasks with Bandit Feedback**|Yongxin Xu et.al.|[2402.16463](http://arxiv.org/abs/2402.16463)|null|
