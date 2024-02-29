@@ -58,6 +58,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
+|**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
+|**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566](http://arxiv.org/abs/2402.18566)|null|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563](http://arxiv.org/abs/2402.18563)|null|
+|**2024-02-28**|**Implicit Bias of Next-Token Prediction**|Christos Thrampoulidis et.al.|[2402.18551](http://arxiv.org/abs/2402.18551)|null|
+|**2024-02-28**|**Orchid: Flexible and Data-Dependent Convolution for Sequence Modeling**|Mahdi Karami et.al.|[2402.18508](http://arxiv.org/abs/2402.18508)|null|
+|**2024-02-28**|**Few-Shot Fairness: Unveiling LLM's Potential for Fairness-Aware Classification**|Garima Chhikara et.al.|[2402.18502](http://arxiv.org/abs/2402.18502)|null|
+|**2024-02-28**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496](http://arxiv.org/abs/2402.18496)|null|
+|**2024-02-28**|**IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding**|Lanyun Zhu et.al.|[2402.18476](http://arxiv.org/abs/2402.18476)|null|
+|**2024-02-28**|**Meta-Task Prompting Elicits Embedding from Large Language Models**|Yibin Lei et.al.|[2402.18458](http://arxiv.org/abs/2402.18458)|null|
+|**2024-02-28**|**Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization**|Deng Li et.al.|[2402.18447](http://arxiv.org/abs/2402.18447)|null|
+|**2024-02-28**|**Beyond Natural Language: LLMs Leveraging Alternative Formats for Enhanced Reasoning and Communication**|Weize Chen et.al.|[2402.18439](http://arxiv.org/abs/2402.18439)|**[link](https://github.com/thunlp/autoform)**|
+|**2024-02-28**|**A Cognitive Evaluation Benchmark of Image Reasoning and Description for Large Vision Language Models**|Xiujie Song et.al.|[2402.18409](http://arxiv.org/abs/2402.18409)|null|
+|**2024-02-28**|**Balanced Similarity with Auxiliary Prompts: Towards Alleviating Text-to-Image Retrieval Bias for CLIP in Zero-shot Learning**|Hanyao Wang et.al.|[2402.18400](http://arxiv.org/abs/2402.18400)|null|
+|**2024-02-28**|**Decomposed Prompting: Unveiling Multilingual Linguistic Structure Knowledge in English-Centric Large Language Models**|Ercong Nie et.al.|[2402.18397](http://arxiv.org/abs/2402.18397)|null|
+|**2024-02-28**|**The First Place Solution of WSDM Cup 2024: Leveraging Large Language Models for Conversational Multi-Doc QA**|Yiming Li et.al.|[2402.18385](http://arxiv.org/abs/2402.18385)|null|
+|**2024-02-28**|**Large Language Models As Evolution Strategies**|Robert Tjarko Lange et.al.|[2402.18381](http://arxiv.org/abs/2402.18381)|null|
+|**2024-02-28**|**Tokenization Is More Than Compression**|Craig W. Schmidt et.al.|[2402.18376](http://arxiv.org/abs/2402.18376)|null|
+|**2024-02-28**|**VerifiNER: Verification-augmented NER via Knowledge-grounded Reasoning with Large Language Models**|Seoyeon Kim et.al.|[2402.18374](http://arxiv.org/abs/2402.18374)|null|
+|**2024-02-28**|**Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning**|Jiachun Li et.al.|[2402.18344](http://arxiv.org/abs/2402.18344)|null|
 |**2024-02-27**|**ShapeLLM: Universal 3D Object Understanding for Embodied Interaction**|Zekun Qi et.al.|[2402.17766](http://arxiv.org/abs/2402.17766)|**[link](https://github.com/qizekun/ShapeLLM)**|
 |**2024-02-27**|**The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits**|Shuming Ma et.al.|[2402.17764](http://arxiv.org/abs/2402.17764)|null|
 |**2024-02-27**|**Massive Activations in Large Language Models**|Mingjie Sun et.al.|[2402.17762](http://arxiv.org/abs/2402.17762)|**[link](https://github.com/locuslab/massive-activations)**|
@@ -343,6 +363,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563](http://arxiv.org/abs/2402.18563)|null|
+|**2024-02-28**|**Selection of appropriate multispectral camera exposure settings and radiometric calibration methods for applications in phenotyping and precision agriculture**|Vaishali Swaminathan et.al.|[2402.18553](http://arxiv.org/abs/2402.18553)|null|
+|**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
+|**2024-02-28**|**Evaluating Decision Optimality of Autonomous Driving via Metamorphic Testing**|Mingfei Cheng et.al.|[2402.18393](http://arxiv.org/abs/2402.18393)|null|
+|**2024-02-28**|**Unveiling the Potential of Robustness in Evaluating Causal Inference Models**|Yiyan Huang et.al.|[2402.18392](http://arxiv.org/abs/2402.18392)|null|
+|**2024-02-28**|**Enhancing Roadway Safety: LiDAR-based Tree Clearance Analysis**|Miriam Louise Carnot et.al.|[2402.18309](http://arxiv.org/abs/2402.18309)|null|
+|**2024-02-28**|**EchoTrack: Auditory Referring Multi-Object Tracking for Autonomous Driving**|Jiacheng Lin et.al.|[2402.18302](http://arxiv.org/abs/2402.18302)|**[link](https://github.com/lab206/echotrack)**|
+|**2024-02-28**|**PiShield: A NeSy Framework for Learning with Requirements**|Mihaela Cătălina Stoian et.al.|[2402.18285](http://arxiv.org/abs/2402.18285)|**[link](https://github.com/mihaela-stoian/pishield)**|
+|**2024-02-28**|**EAN-MapNet: Efficient Vectorized HD Map Construction with Anchor Neighborhoods**|Huiyuan Xiong et.al.|[2402.18278](http://arxiv.org/abs/2402.18278)|null|
+|**2024-02-28**|**NiteDR: Nighttime Image De-Raining with Cross-View Sensor Cooperative Learning for Dynamic Driving Scenes**|Cidan Shi et.al.|[2402.18172](http://arxiv.org/abs/2402.18172)|**[link](https://github.com/cidanshi/nitedr-nighttime-image-de-raining)**|
+|**2024-02-28**|**3DSFLabelling: Boosting 3D Scene Flow Estimation by Pseudo Auto-labelling**|Chaokang Jiang et.al.|[2402.18146](http://arxiv.org/abs/2402.18146)|**[link](https://github.com/jiangchaokang/3dsflabelling)**|
+|**2024-02-28**|**OccTransformer: Improving BEVFormer for 3D camera-only occupancy prediction**|Jian Liu et.al.|[2402.18140](http://arxiv.org/abs/2402.18140)|null|
+|**2024-02-28**|**DecisionNCE: Embodied Multimodal Representations via Implicit Preference Learning**|Jianxiong Li et.al.|[2402.18137](http://arxiv.org/abs/2402.18137)|null|
+|**2024-02-28**|**Passive Snapshot Coded Aperture Dual-Pixel RGB-D Imaging**|Bhargav Ghanekar et.al.|[2402.18102](http://arxiv.org/abs/2402.18102)|null|
+|**2024-02-27**|**ICAT: An Indoor Connected and Autonomous Testbed for Vehicle Computing**|Zhaofeng Tian et.al.|[2402.17933](http://arxiv.org/abs/2402.17933)|null|
+|**2024-02-27**|**SWTrack: Multiple Hypothesis Sliding Window 3D Multi-Object Tracking**|Sandro Papais et.al.|[2402.17892](http://arxiv.org/abs/2402.17892)|null|
+|**2024-02-27**|**Public Goods Games in Disease Evolution and Spread**|Christo Morison et.al.|[2402.17842](http://arxiv.org/abs/2402.17842)|null|
+|**2024-02-27**|**Personalizing Smart Home Privacy Protection With Individuals' Regulatory Focus: Would You Preserve or Enhance Your Information Privacy?**|Reza Ghaiumy Anaraky et.al.|[2402.17838](http://arxiv.org/abs/2402.17838)|null|
 |**2024-02-27**|**Federated Learning for Estimating Heterogeneous Treatment Effects**|Disha Makhija et.al.|[2402.17705](http://arxiv.org/abs/2402.17705)|null|
 |**2024-02-27**|**Model Free Deep Deterministic Policy Gradient Controller for Setpoint Tracking of Non-minimum Phase Systems**|Fatemeh Tavakkoli et.al.|[2402.17703](http://arxiv.org/abs/2402.17703)|null|
 |**2024-02-27**|**Autonomous Vehicles: Evolution of Artificial Intelligence and Learning Algorithms**|Sneha Sudhir Shetiya et.al.|[2402.17690](http://arxiv.org/abs/2402.17690)|null|
