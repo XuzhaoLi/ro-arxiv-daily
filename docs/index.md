@@ -7,9 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress**|Ameya Prabhu et.al.|[2402.19472](http://arxiv.org/abs/2402.19472)|**[link](https://github.com/bethgelab/sort-and-search)**|
 |**2024-02-27**|**Globally Convergent Distributed Sequential Quadratic Programming with Overlapping Decomposition and Exact Augmented Lagrangian Merit Function**|Runxin Ni et.al.|[2402.17170](http://arxiv.org/abs/2402.17170)|null|
 |**2024-02-24**|**Selective Task offloading for Maximum Inference Accuracy and Energy efficient Real-Time IoT Sensing Systems**|Abdelkarim Ben Sada et.al.|[2402.16904](http://arxiv.org/abs/2402.16904)|null|
-|**2024-02-25**|**IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations**|Yeping Wang et.al.|[2402.16154](http://arxiv.org/abs/2402.16154)|null|
+|**2024-02-25**|**IKLink: End-Effector Trajectory Tracking with Minimal Reconfigurations**|Yeping Wang et.al.|[2402.16154](http://arxiv.org/abs/2402.16154)|**[link](https://github.com/uwgraphics/iklink)**|
 |**2024-02-25**|**Evolving E-commerce Logistics Planning- Integrating Embedded Technology and Ant Colony Algorithm for Enhanced Efficiency**|Lynn Huang et.al.|[2402.15965](http://arxiv.org/abs/2402.15965)|null|
 |**2024-02-25**|**Budget-Constrained Tool Learning with Planning**|Yuanhang Zheng et.al.|[2402.15960](http://arxiv.org/abs/2402.15960)|**[link](https://github.com/zyh111/btp)**|
 |**2024-02-23**|**Neural optimal controller for stochastic systems via pathwise HJB operator**|Zhe Jiao et.al.|[2402.15592](http://arxiv.org/abs/2402.15592)|null|
@@ -22,7 +23,7 @@ layout: default
 |**2024-02-20**|**An Improved Lower Bound on the Number of Pseudoline Arrangements**|Fernando Cortés Kühnast et.al.|[2402.13107](http://arxiv.org/abs/2402.13107)|null|
 |**2024-02-20**|**Smart Mobility Digital Twin Based Automated Vehicle Navigation System: A Proof of Concept**|Kui Wang et.al.|[2402.12682](http://arxiv.org/abs/2402.12682)|null|
 |**2024-02-19**|**An algorithm for counting number of all (normal) fuzzy subgroups in $U_{6n}$**|Marek Hyčko et.al.|[2402.12543](http://arxiv.org/abs/2402.12543)|null|
-|**2024-02-19**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374](http://arxiv.org/abs/2402.12374)|null|
+|**2024-02-29**|**Sequoia: Scalable, Robust, and Hardware-aware Speculative Decoding**|Zhuoming Chen et.al.|[2402.12374](http://arxiv.org/abs/2402.12374)|**[link](https://github.com/infini-ai-lab/sequoia)**|
 |**2024-02-19**|**Scalable Virtual Valuations Combinatorial Auction Design by Combining Zeroth-Order and First-Order Optimization Method**|Zhijian Duan et.al.|[2402.11904](http://arxiv.org/abs/2402.11904)|null|
 |**2024-02-19**|**Two Online Map Matching Algorithms Based on Analytic Hierarchy Process and Fuzzy Logic**|Jeremy J. Lin et.al.|[2402.11866](http://arxiv.org/abs/2402.11866)|null|
 |**2024-02-18**|**A Fisher Information based Receding Horizon Control Method for Signal Strength Model Estimation**|Yancheng Zhu et.al.|[2402.11483](http://arxiv.org/abs/2402.11483)|null|
@@ -58,6 +59,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**The Counterfeit Conundrum: Can Code Language Models Grasp the Nuances of Their Incorrect Generations?**|Alex Gu et.al.|[2402.19475](http://arxiv.org/abs/2402.19475)|null|
+|**2024-02-29**|**The All-Seeing Project V2: Towards General Relation Comprehension of the Open World**|Weiyun Wang et.al.|[2402.19474](http://arxiv.org/abs/2402.19474)|null|
+|**2024-02-29**|**Retrieval-Augmented Generation for AI-Generated Content: A Survey**|Penghao Zhao et.al.|[2402.19473](http://arxiv.org/abs/2402.19473)|**[link](https://github.com/hymie122/rag-survey)**|
+|**2024-02-29**|**Loose LIPS Sink Ships: Asking Questions in Battleship with Language-Informed Program Sampling**|Gabriel Grand et.al.|[2402.19471](http://arxiv.org/abs/2402.19471)|null|
+|**2024-02-29**|**TV-TREES: Multimodal Entailment Trees for Neuro-Symbolic Video Reasoning**|Kate Sanders et.al.|[2402.19467](http://arxiv.org/abs/2402.19467)|null|
+|**2024-02-29**|**Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**|Chen Qian et.al.|[2402.19465](http://arxiv.org/abs/2402.19465)|**[link](https://github.com/chnq/tracingllm)**|
+|**2024-02-29**|**Curiosity-driven Red-teaming for Large Language Models**|Zhang-Wei Hong et.al.|[2402.19464](http://arxiv.org/abs/2402.19464)|**[link](https://github.com/improbable-ai/curiosity_redteam)**|
+|**2024-02-29**|**Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap**|Saurabh Srivastava et.al.|[2402.19450](http://arxiv.org/abs/2402.19450)|**[link](https://github.com/consequentai/fneval)**|
+|**2024-02-29**|**Heavy-Tailed Class Imbalance and Why Adam Outperforms Gradient Descent on Language Models**|Frederik Kunstner et.al.|[2402.19449](http://arxiv.org/abs/2402.19449)|null|
+|**2024-02-29**|**ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**|Yifei Zhou et.al.|[2402.19446](http://arxiv.org/abs/2402.19446)|**[link](https://github.com/yifeizhou02/archer)**|
+|**2024-02-29**|**Pushing the Limits of Cross-Embodiment Learning for Manipulation and Navigation**|Jonathan Yang et.al.|[2402.19432](http://arxiv.org/abs/2402.19432)|null|
+|**2024-02-29**|**Compositional API Recommendation for Library-Oriented Code Generation**|Zexiong Ma et.al.|[2402.19431](http://arxiv.org/abs/2402.19431)|null|
+|**2024-02-29**|**Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models**|Soham De et.al.|[2402.19427](http://arxiv.org/abs/2402.19427)|null|
+|**2024-02-29**|**Crafting Knowledge: Exploring the Creative Mechanisms of Chat-Based Search Engines**|Lijia Ma et.al.|[2402.19421](http://arxiv.org/abs/2402.19421)|null|
+|**2024-02-29**|**PaECTER: Patent-level Representation Learning using Citation-informed Transformers**|Mainak Ghosh et.al.|[2402.19411](http://arxiv.org/abs/2402.19411)|null|
+|**2024-02-29**|**On the Scaling Laws of Geographical Representation in Language Models**|Nathan Godey et.al.|[2402.19406](http://arxiv.org/abs/2402.19406)|null|
+|**2024-02-29**|**Entity-Aware Multimodal Alignment Framework for News Image Captioning**|Junzhe Zhang et.al.|[2402.19404](http://arxiv.org/abs/2402.19404)|null|
+|**2024-02-29**|**Wisdom of the Silicon Crowd: LLM Ensemble Prediction Capabilities Match Human Crowd Accuracy**|Philipp Schoenegger et.al.|[2402.19379](http://arxiv.org/abs/2402.19379)|null|
+|**2024-02-29**|**OpenMedLM: Prompt engineering can out-perform fine-tuning in medical question-answering with open-source large language models**|Jenish Maharjan et.al.|[2402.19371](http://arxiv.org/abs/2402.19371)|null|
+|**2024-02-29**|**SoK: Exploring the Potential of Large Language Models for Improving Digital Forensic Investigation Efficiency**|Akila Wickramasekara et.al.|[2402.19366](http://arxiv.org/abs/2402.19366)|null|
 |**2024-02-28**|**Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards**|Haoxiang Wang et.al.|[2402.18571](http://arxiv.org/abs/2402.18571)|**[link](https://github.com/haoxiang-wang/directional-preference-alignment)**|
 |**2024-02-28**|**Diffusion Language Models Are Versatile Protein Learners**|Xinyou Wang et.al.|[2402.18567](http://arxiv.org/abs/2402.18567)|null|
 |**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566](http://arxiv.org/abs/2402.18566)|null|
@@ -363,6 +384,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL**|Yifei Zhou et.al.|[2402.19446](http://arxiv.org/abs/2402.19446)|**[link](https://github.com/yifeizhou02/archer)**|
+|**2024-02-29**|**Genie: Smart ROS-based Caching for Connected Autonomous Robots**|Zexin Li et.al.|[2402.19410](http://arxiv.org/abs/2402.19410)|null|
+|**2024-02-29**|**Towards Safe and Reliable Autonomous Driving: Dynamic Occupancy Set Prediction**|Wenbo Shao et.al.|[2402.19385](http://arxiv.org/abs/2402.19385)|null|
+|**2024-02-29**|**RoadRunner -- Learning Traversability Estimation for Autonomous Off-road Driving**|Jonas Frey et.al.|[2402.19341](http://arxiv.org/abs/2402.19341)|null|
+|**2024-02-29**|**DISCERN: Designing Decision Support Interfaces to Investigate the Complexities of Workplace Social Decision-Making With Line Managers**|Pranav Khadpe et.al.|[2402.19318](http://arxiv.org/abs/2402.19318)|null|
+|**2024-02-29**|**T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition**|Zhiyuan Yang et.al.|[2402.19264](http://arxiv.org/abs/2402.19264)|null|
+|**2024-02-29**|**A Cognitive-Based Trajectory Prediction Approach for Autonomous Driving**|Haicheng Liao et.al.|[2402.19251](http://arxiv.org/abs/2402.19251)|**[link](https://github.com/petrichor625/hltp)**|
+|**2024-02-29**|**Prediction of vaccination coverage level in the heterogeneous mixing population**|Fan Bai et.al.|[2402.19190](http://arxiv.org/abs/2402.19190)|null|
+|**2024-02-29**|**MemoNav: Working Memory Model for Visual Navigation**|Hongxin Li et.al.|[2402.19161](http://arxiv.org/abs/2402.19161)|null|
+|**2024-02-29**|**ARMCHAIR: integrated inverse reinforcement learning and model predictive control for human-robot collaboration**|Angelo Caregnato-Neto et.al.|[2402.19128](http://arxiv.org/abs/2402.19128)|null|
+|**2024-02-29**|**CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI**|Domenique Zipperling et.al.|[2402.19105](http://arxiv.org/abs/2402.19105)|null|
+|**2024-02-29**|**GoalNet: Goal Areas Oriented Pedestrian Trajectory Prediction**|Ching-Lin Lee et.al.|[2402.19002](http://arxiv.org/abs/2402.19002)|null|
+|**2024-02-29**|**Applications of 0-1 Neural Networks in Prescription and Prediction**|Vrishabh Patil et.al.|[2402.18851](http://arxiv.org/abs/2402.18851)|null|
+|**2024-02-29**|**A simple model of global cascades on random hypergraphs**|Lei Chen et.al.|[2402.18850](http://arxiv.org/abs/2402.18850)|null|
+|**2024-02-29**|**Deep Learning for 3D Human Pose Estimation and Mesh Recovery: A Survey**|Yang Liu et.al.|[2402.18844](http://arxiv.org/abs/2402.18844)|**[link](https://github.com/liuyangme/sota-3dhpe-hmr)**|
+|**2024-02-29**|**On the Decision-Making Abilities in Role-Playing using Large Language Models**|Chenglei Shen et.al.|[2402.18807](http://arxiv.org/abs/2402.18807)|null|
+|**2024-02-29**|**Conjectural Online Learning with First-order Beliefs in Asymmetric Information Stochastic Games**|Tao Li et.al.|[2402.18781](http://arxiv.org/abs/2402.18781)|null|
+|**2024-02-29**|**The Situate AI Guidebook: Co-Designing a Toolkit to Support Multi-Stakeholder Early-stage Deliberations Around Public Sector AI Proposals**|Anna Kawakami et.al.|[2402.18774](http://arxiv.org/abs/2402.18774)|null|
+|**2024-02-28**|**A revision on Multi-Criteria Decision Making methods for Multi-UAV Mission Planning Support**|Cristian Ramirez-Atencia et.al.|[2402.18743](http://arxiv.org/abs/2402.18743)|null|
+|**2024-02-28**|**RORA: Robust Free-Text Rationale Evaluation**|Zhengping Jiang et.al.|[2402.18678](http://arxiv.org/abs/2402.18678)|null|
 |**2024-02-28**|**Approaching Human-Level Forecasting with Language Models**|Danny Halawi et.al.|[2402.18563](http://arxiv.org/abs/2402.18563)|null|
 |**2024-02-28**|**Selection of appropriate multispectral camera exposure settings and radiometric calibration methods for applications in phenotyping and precision agriculture**|Vaishali Swaminathan et.al.|[2402.18553](http://arxiv.org/abs/2402.18553)|null|
 |**2024-02-28**|**FinAgent: A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist**|Wentao Zhang et.al.|[2402.18485](http://arxiv.org/abs/2402.18485)|null|
