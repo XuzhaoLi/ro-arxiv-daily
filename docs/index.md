@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-04**|**Dynamic programming principle in cost-efficient sequential design: application to switching measurements**|Jeongmin Han et.al.|[2403.02245](http://arxiv.org/abs/2403.02245)|null|
+|**2024-03-04**|**Cooperative and Interaction-aware Driver Model for Lane Change Maneuver**|Jemin Woo et.al.|[2403.01752](http://arxiv.org/abs/2403.01752)|null|
 |**2024-03-01**|**DyPyBench: A Benchmark of Executable Python Software**|Islem Bouzenia et.al.|[2403.00539](http://arxiv.org/abs/2403.00539)|null|
 |**2024-03-01**|**Graph Construction with Flexible Nodes for Traffic Demand Prediction**|Jinyan Hou et.al.|[2403.00276](http://arxiv.org/abs/2403.00276)|**[link](https://github.com/houjinyan/hdpc-l-odinit)**|
 |**2024-02-29**|**Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress**|Ameya Prabhu et.al.|[2402.19472](http://arxiv.org/abs/2402.19472)|**[link](https://github.com/bethgelab/sort-and-search)**|
@@ -61,6 +63,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
+|**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
+|**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
+|**2024-03-05**|**Reliable, Adaptable, and Attributable Language Models with Retrieval**|Akari Asai et.al.|[2403.03187](http://arxiv.org/abs/2403.03187)|null|
+|**2024-03-05**|**MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**|Fangchen Liu et.al.|[2403.03174](http://arxiv.org/abs/2403.03174)|null|
+|**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170](http://arxiv.org/abs/2403.03170)|null|
+|**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167](http://arxiv.org/abs/2403.03167)|**[link](https://github.com/gglab-ku/paradise)**|
+|**2024-03-05**|**Quantum Many-Body Physics Calculations with Large Language Models**|Haining Pan et.al.|[2403.03154](http://arxiv.org/abs/2403.03154)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following**|Kaiyan Zhang et.al.|[2403.03129](http://arxiv.org/abs/2403.03129)|null|
+|**2024-03-05**|**Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution**|Flor Miriam Plaza-del-Arco et.al.|[2403.03121](http://arxiv.org/abs/2403.03121)|null|
+|**2024-03-05**|**"In Dialogues We Learn": Towards Personalized Dialogue Without Pre-defined Profiles through In-Dialogue Learning**|Chuanqi Cheng et.al.|[2403.03102](http://arxiv.org/abs/2403.03102)|null|
+|**2024-03-05**|**KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents**|Yuqi Zhu et.al.|[2403.03101](http://arxiv.org/abs/2403.03101)|**[link](https://github.com/zjunlp/knowagent)**|
+|**2024-03-05**|**Learning to Use Tools via Cooperative and Interactive Agents**|Zhengliang Shi et.al.|[2403.03031](http://arxiv.org/abs/2403.03031)|null|
+|**2024-03-05**|**Socratic Reasoning Improves Positive Text Rewriting**|Anmol Goel et.al.|[2403.03029](http://arxiv.org/abs/2403.03029)|null|
+|**2024-03-05**|**Word Importance Explains How Prompts Affect Language Model Outputs**|Stefan Hackmann et.al.|[2403.03028](http://arxiv.org/abs/2403.03028)|null|
+|**2024-03-05**|**OPEx: A Component-Wise Analysis of LLM-Centric Agents in Embodied Instruction Following**|Haochen Shi et.al.|[2403.03017](http://arxiv.org/abs/2403.03017)|null|
+|**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
+|**2024-03-05**|**Feast Your Eyes: Mixture-of-Resolution Adaptation for Multimodal Large Language Models**|Gen Luo et.al.|[2403.03003](http://arxiv.org/abs/2403.03003)|**[link](https://github.com/luogen1996/llava-hr)**|
+|**2024-03-05**|**Localized Zeroth-Order Prompt Optimization**|Wenyang Hu et.al.|[2403.02993](http://arxiv.org/abs/2403.02993)|null|
 |**2024-03-02**|**LM4OPT: Unveiling the Potential of Large Language Models in Formulating Mathematical Optimization Problems**|Tasnim Ahmed et.al.|[2403.01342](http://arxiv.org/abs/2403.01342)|null|
 |**2024-03-02**|**Making Hybrid Languages: A Recipe**|Leif Andersen et.al.|[2403.01335](http://arxiv.org/abs/2403.01335)|null|
 |**2024-03-02**|**Chaining thoughts and LLMs to learn DNA structural biophysics**|Tyler D. Ross et.al.|[2403.01332](http://arxiv.org/abs/2403.01332)|null|
@@ -406,6 +428,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
+|**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
+|**2024-03-05**|**Deep-Learned Compression for Radio-Frequency Signal Classification**|Armani Rodriguez et.al.|[2403.03150](http://arxiv.org/abs/2403.03150)|null|
+|**2024-03-05**|**Language Guided Exploration for RL Agents in Text Environments**|Hitesh Golchha et.al.|[2403.03141](http://arxiv.org/abs/2403.03141)|null|
+|**2024-03-05**|**MiKASA: Multi-Key-Anchor & Scene-Aware Transformer for 3D Visual Grounding**|Chun-Peng Chang et.al.|[2403.03077](http://arxiv.org/abs/2403.03077)|null|
+|**2024-03-05**|**SimuCourt: Building Judicial Decision-Making Agents with Real-world Judgement Documents**|Zhitao He et.al.|[2403.02959](http://arxiv.org/abs/2403.02959)|**[link](https://github.com/zhitao-he/simucourt)**|
+|**2024-03-05**|**XAI-Based Detection of Adversarial Attacks on Deepfake Detectors**|Ben Pinhasov et.al.|[2403.02955](http://arxiv.org/abs/2403.02955)|null|
+|**2024-03-05**|**User-Driven Adaptation: Tailoring Autonomous Driving Systems with Dynamic Preferences**|Mingyue Zhang et.al.|[2403.02928](http://arxiv.org/abs/2403.02928)|null|
+|**2024-03-05**|**Risk-Constrained Community Battery Utilisation Optimisation for Electric Vehicle Charging with Photovoltaic Resources**|Khalil Gholami et.al.|[2403.02927](http://arxiv.org/abs/2403.02927)|null|
+|**2024-03-05**|**Autonomous vehicle decision and control through reinforcement learning with traffic flow randomization**|Yuan Lin et.al.|[2403.02882](http://arxiv.org/abs/2403.02882)|null|
+|**2024-03-05**|**ActiveAD: Planning-Oriented Active Learning for End-to-End Autonomous Driving**|Han Lu et.al.|[2403.02877](http://arxiv.org/abs/2403.02877)|null|
+|**2024-03-05**|**FastOcc: Accelerating 3D Occupancy Prediction by Fusing the 2D Bird's-Eye View and Perspective View**|Jiawei Hou et.al.|[2403.02710](http://arxiv.org/abs/2403.02710)|null|
+|**2024-03-05**|**HoloVIC: Large-scale Dataset and Benchmark for Multi-Sensor Holographic Intersection and Vehicle-Infrastructure Cooperative**|Cong Ma et.al.|[2403.02640](http://arxiv.org/abs/2403.02640)|null|
+|**2024-03-05**|**World Models for Autonomous Driving: An Initial Survey**|Yanchen Guan et.al.|[2403.02622](http://arxiv.org/abs/2403.02622)|null|
+|**2024-03-05**|**Deep Cooperation in ISAC System: Resource, Node and Infrastructure Perspectives**|Zhiqing Wei et.al.|[2403.02565](http://arxiv.org/abs/2403.02565)|null|
+|**2024-03-04**|**MORBDD: Multiobjective Restricted Binary Decision Diagrams by Learning to Sparsify**|Rahul Patel et.al.|[2403.02482](http://arxiv.org/abs/2403.02482)|null|
+|**2024-03-04**|**The Ink Splotch Effect: A Case Study on ChatGPT as a Co-Creative Game Designer**|Asad Anjum et.al.|[2403.02454](http://arxiv.org/abs/2403.02454)|null|
+|**2024-03-04**|**Uncertainty-Aware Prediction and Application in Planning for Autonomous Driving: Definitions, Methods, and Comparison**|Wenbo Shao et.al.|[2403.02297](http://arxiv.org/abs/2403.02297)|null|
+|**2024-03-04**|**Recency-Weighted Temporally-Segmented Ensemble for Time-Series Modeling**|Pål V. Johnsen et.al.|[2403.02150](http://arxiv.org/abs/2403.02150)|null|
+|**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-03**|**Optimization decision model of vegetable stock and pricing based on TCN-Attention and genetic algorithm**|Linhan Xia et.al.|[2403.01367](http://arxiv.org/abs/2403.01367)|null|
 |**2024-03-02**|**Summary Paper: Use Case on Building Collaborative Safe Autonomous Systems-A Robotdog for Guiding Visually Impaired People**|Aman Malhotra et.al.|[2403.01286](http://arxiv.org/abs/2403.01286)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
