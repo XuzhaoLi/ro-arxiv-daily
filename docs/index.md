@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -406,6 +406,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-03**|**Optimization decision model of vegetable stock and pricing based on TCN-Attention and genetic algorithm**|Linhan Xia et.al.|[2403.01367](http://arxiv.org/abs/2403.01367)|null|
 |**2024-03-02**|**Summary Paper: Use Case on Building Collaborative Safe Autonomous Systems-A Robotdog for Guiding Visually Impaired People**|Aman Malhotra et.al.|[2403.01286](http://arxiv.org/abs/2403.01286)|null|
 |**2024-03-02**|**Automatic Speech Recognition using Advanced Deep Learning Approaches: A survey**|Hamza Kheddar et.al.|[2403.01255](http://arxiv.org/abs/2403.01255)|null|
 |**2024-03-02**|**AcME-AD: Accelerated Model Explanations for Anomaly Detection**|Valentina Zaccaria et.al.|[2403.01245](http://arxiv.org/abs/2403.01245)|null|
