@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Global Geolocated Realtime Data of Interfleet Urban Transit Bus Idling**|Nicholas Kunz et.al.|[2403.03489](http://arxiv.org/abs/2403.03489)|**[link](https://github.com/nickkunz/idling)**|
+|**2024-03-06**|**SalienTime: User-driven Selection of Salient Time Steps for Large-Scale Geospatial Data Visualization**|Juntong Chen et.al.|[2403.03449](http://arxiv.org/abs/2403.03449)|null|
+|**2024-03-06**|**Leveraging The Finite States of Emotion Processing to Study Late-Life Mental Health**|Yuanzhe Huang et.al.|[2403.03414](http://arxiv.org/abs/2403.03414)|null|
 |**2024-03-04**|**Dynamic programming principle in cost-efficient sequential design: application to switching measurements**|Jeongmin Han et.al.|[2403.02245](http://arxiv.org/abs/2403.02245)|null|
 |**2024-03-04**|**Cooperative and Interaction-aware Driver Model for Lane Change Maneuver**|Jemin Woo et.al.|[2403.01752](http://arxiv.org/abs/2403.01752)|null|
 |**2024-03-01**|**DyPyBench: A Benchmark of Executable Python Software**|Islem Bouzenia et.al.|[2403.00539](http://arxiv.org/abs/2403.00539)|null|
@@ -70,6 +73,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Backtracing: Retrieving the Cause of the Query**|Rose E. Wang et.al.|[2403.03956](http://arxiv.org/abs/2403.03956)|**[link](https://github.com/rosewang2008/backtracing)**|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**The Heuristic Core: Understanding Subnetwork Generalization in Pretrained Language Models**|Adithya Bhaskar et.al.|[2403.03942](http://arxiv.org/abs/2403.03942)|**[link](https://github.com/princeton-nlp/heuristic-core)**|
+|**2024-03-06**|**Did Translation Models Get More Robust Without Anyone Even Noticing?**|Ben Peters et.al.|[2403.03923](http://arxiv.org/abs/2403.03923)|null|
+|**2024-03-06**|**Fuzzing BusyBox: Leveraging LLM and Crash Reuse for Embedded Bug Unearthing**|Asmita et.al.|[2403.03897](http://arxiv.org/abs/2403.03897)|null|
+|**2024-03-06**|**IRCoder: Intermediate Representations Make Language Models Robust Multilingual Code Generators**|Indraneil Paul et.al.|[2403.03894](http://arxiv.org/abs/2403.03894)|**[link](https://github.com/UKPLab/arxiv2024-IRCoder)**|
+|**2024-03-06**|**From One to Many: Expanding the Scope of Toxicity Mitigation in Language Models**|Luiza Pozzobon et.al.|[2403.03893](http://arxiv.org/abs/2403.03893)|**[link](https://github.com/for-ai/goodtriever)**|
+|**2024-03-06**|**FaaF: Facts as a Function for the evaluation of RAG systems**|Vasileios Katranidis et.al.|[2403.03888](http://arxiv.org/abs/2403.03888)|null|
+|**2024-03-06**|**SaulLM-7B: A pioneering Large Language Model for Law**|Pierre Colombo et.al.|[2403.03883](http://arxiv.org/abs/2403.03883)|null|
+|**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870](http://arxiv.org/abs/2403.03870)|**[link](https://github.com/clinicalml/co-llm)**|
+|**2024-03-06**|**On the Origins of Linear Representations in Large Language Models**|Yibo Jiang et.al.|[2403.03867](http://arxiv.org/abs/2403.03867)|null|
+|**2024-03-06**|**KIWI: A Dataset of Knowledge-Intensive Writing Instructions for Answering Research Questions**|Fangyuan Xu et.al.|[2403.03866](http://arxiv.org/abs/2403.03866)|null|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864](http://arxiv.org/abs/2403.03864)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
+|**2024-03-06**|**X-Shot: A Unified System to Handle Frequent, Few-shot and Zero-shot Learning Simultaneously in Classification**|Hanzi Xu et.al.|[2403.03863](http://arxiv.org/abs/2403.03863)|**[link](https://github.com/xhz0809/x-shot)**|
+|**2024-03-06**|**Designing Informative Metrics for Few-Shot Example Selection**|Rishabh Adiga et.al.|[2403.03861](http://arxiv.org/abs/2403.03861)|null|
+|**2024-03-06**|**Emojinize : Enriching Any Text with Emoji Translations**|Lars Henning Klein et.al.|[2403.03857](http://arxiv.org/abs/2403.03857)|null|
+|**2024-03-06**|**ShortGPT: Layers in Large Language Models are More Redundant Than You Expect**|Xin Men et.al.|[2403.03853](http://arxiv.org/abs/2403.03853)|null|
+|**2024-03-06**|**Evaluating the Elementary Multilingual Capabilities of Large Language Models with MultiQ**|Carolin Holtermann et.al.|[2403.03814](http://arxiv.org/abs/2403.03814)|null|
+|**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790](http://arxiv.org/abs/2403.03790)|null|
+|**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning**|Nathaniel Li et.al.|[2403.03218](http://arxiv.org/abs/2403.03218)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203](http://arxiv.org/abs/2403.03203)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
@@ -437,6 +460,17 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Joint multi-task learning improves weakly-supervised biomarker prediction in computational pathology**|Omar S. M. El Nahhas et.al.|[2403.03891](http://arxiv.org/abs/2403.03891)|**[link](https://github.com/avic3nna/joint-mtl-cpath)**|
+|**2024-03-06**|**Confidence-Aware Decision-Making and Control for Tool Selection**|Ajith Anil Meera et.al.|[2403.03808](http://arxiv.org/abs/2403.03808)|null|
+|**2024-03-06**|**3D Object Visibility Prediction in Autonomous Driving**|Chuanyu Luo et.al.|[2403.03681](http://arxiv.org/abs/2403.03681)|null|
+|**2024-03-06**|**Learning Adversarial MDPs with Stochastic Hard Constraints**|Francesco Emanuele Stradi et.al.|[2403.03672](http://arxiv.org/abs/2403.03672)|null|
+|**2024-03-06**|**Development and evaluation of Artificial Intelligence techniques for IoT data quality assessment and curation**|Laura Martín et.al.|[2403.03661](http://arxiv.org/abs/2403.03661)|null|
+|**2024-03-06**|**A Survey on Applications of Reinforcement Learning in Spatial Resource Allocation**|Di Zhang et.al.|[2403.03643](http://arxiv.org/abs/2403.03643)|null|
+|**2024-03-06**|**Seamless Virtual Reality with Integrated Synchronizer and Synthesizer for Autonomous Driving**|He Li et.al.|[2403.03541](http://arxiv.org/abs/2403.03541)|null|
+|**2024-03-06**|**Global Geolocated Realtime Data of Interfleet Urban Transit Bus Idling**|Nicholas Kunz et.al.|[2403.03489](http://arxiv.org/abs/2403.03489)|**[link](https://github.com/nickkunz/idling)**|
+|**2024-03-06**|**Multi-task Learning for Real-time Autonomous Driving Leveraging Task-adaptive Attention Generator**|Wonhyeok Choi et.al.|[2403.03468](http://arxiv.org/abs/2403.03468)|null|
+|**2024-03-06**|**Human vs. Machine: Language Models and Wargames**|Max Lamparth et.al.|[2403.03407](http://arxiv.org/abs/2403.03407)|null|
+|**2024-03-05**|**RACE-SM: Reinforcement Learning Based Autonomous Control for Social On-Ramp Merging**|Jordan Poots et.al.|[2403.03359](http://arxiv.org/abs/2403.03359)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188](http://arxiv.org/abs/2403.03188)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
 |**2024-03-05**|**Behavior Generation with Latent Actions**|Seungjae Lee et.al.|[2403.03181](http://arxiv.org/abs/2403.03181)|**[link](https://github.com/jayLEE0301/vq_bet_official)**|
 |**2024-03-05**|**Deep-Learned Compression for Radio-Frequency Signal Classification**|Armani Rodriguez et.al.|[2403.03150](http://arxiv.org/abs/2403.03150)|null|
