@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Domain-Independent Dynamic Programming and Constraint Programming Approaches for Assembly Line Balancing Problems with Setups**|Jiachen Zhang et.al.|[2403.06780](http://arxiv.org/abs/2403.06780)|null|
+|**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|
+|**2024-03-11**|**An Efficient Solution to the 2D Visibility Problem in Cartesian Grid Maps and its Application in Heuristic Path Planning**|Ibrahim Ibrahim et.al.|[2403.06494](http://arxiv.org/abs/2403.06494)|null|
+|**2024-03-11**|**AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping**|Seongyeon Park et.al.|[2403.06478](http://arxiv.org/abs/2403.06478)|null|
+|**2024-03-09**|**Spatial Clustering Approach for Vessel Path Identification**|Mohamed Abuella et.al.|[2403.05778](http://arxiv.org/abs/2403.05778)|**[link](https://github.com/mohamedabuella/path_clustering)**|
 |**2024-03-07**|**On $[1,2]$ -Domination in Interval and Circle Graphs**|Mohsen Alambardar Meybodi et.al.|[2403.04694](http://arxiv.org/abs/2403.04694)|null|
 |**2024-03-07**|**Fill-and-Spill: Deep Reinforcement Learning Policy Gradient Methods for Reservoir Operation Decision and Control**|Sadegh Sadeghi Tabas et.al.|[2403.04195](http://arxiv.org/abs/2403.04195)|null|
 |**2024-03-06**|**Global Geolocated Realtime Data of Interfleet Urban Transit Bus Idling**|Nicholas Kunz et.al.|[2403.03489](http://arxiv.org/abs/2403.03489)|**[link](https://github.com/nickkunz/idling)**|
@@ -68,6 +73,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Hybrid Human-LLM Corpus Construction and LLM Evaluation for Rare Linguistic Phenomena**|Leonie Weissweiler et.al.|[2403.06965](http://arxiv.org/abs/2403.06965)|null|
+|**2024-03-11**|**Materials science in the era of large language models: a perspective**|Ge Lei et.al.|[2403.06949](http://arxiv.org/abs/2403.06949)|null|
+|**2024-03-11**|**Split to Merge: Unifying Separated Modalities for Unsupervised Domain Adaptation**|Xinyao Li et.al.|[2403.06946](http://arxiv.org/abs/2403.06946)|**[link](https://github.com/tl-uestc/unimos)**|
+|**2024-03-11**|**Naming, Describing, and Quantifying Visual Objects in Humans and LLMs**|Alberto Testoni et.al.|[2403.06935](http://arxiv.org/abs/2403.06935)|null|
+|**2024-03-11**|**ERA-CoT: Improving Chain-of-Thought through Entity Relationship Analysis**|Yanming Liu et.al.|[2403.06932](http://arxiv.org/abs/2403.06932)|**[link](https://github.com/oceanntwt/era-cot)**|
+|**2024-03-11**|**MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning**|Yichuan Li et.al.|[2403.06914](http://arxiv.org/abs/2403.06914)|null|
+|**2024-03-11**|**Application of Quantum Tensor Networks for Protein Classification**|Debarshi Kundu et.al.|[2403.06890](http://arxiv.org/abs/2403.06890)|null|
+|**2024-03-11**|**Exploring Large Language Models and Hierarchical Frameworks for Classification of Large Unstructured Legal Documents**|Nishchal Prasad et.al.|[2403.06872](http://arxiv.org/abs/2403.06872)|null|
+|**2024-03-11**|**Semantic Residual Prompts for Continual Learning**|Martin Menabue et.al.|[2403.06870](http://arxiv.org/abs/2403.06870)|null|
+|**2024-03-11**|**Learning with Noisy Foundation Models**|Hao Chen et.al.|[2403.06869](http://arxiv.org/abs/2403.06869)|null|
+|**2024-03-11**|**A Geospatial Approach to Predicting Desert Locust Breeding Grounds in Africa**|Ibrahim Salihu Yusuf et.al.|[2403.06860](http://arxiv.org/abs/2403.06860)|null|
+|**2024-03-11**|**Development of a Reliable and Accessible Caregiving Language Model (CaLM)**|Bambang Parmanto et.al.|[2403.06857](http://arxiv.org/abs/2403.06857)|null|
+|**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
+|**2024-03-11**|**RA-ISF: Learning to Answer and Understand from Retrieval Augmentation via Iterative Self-Feedback**|Yanming Liu et.al.|[2403.06840](http://arxiv.org/abs/2403.06840)|**[link](https://github.com/oceanntwt/ra-isf)**|
+|**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838](http://arxiv.org/abs/2403.06838)|null|
+|**2024-03-11**|**Can LLMs Separate Instructions From Data? And What Do We Even Mean By That?**|Egor Zverev et.al.|[2403.06833](http://arxiv.org/abs/2403.06833)|**[link](https://github.com/egozverev/shold-it-be-executed-or-processed)**|
+|**2024-03-11**|**The Power of Noise: Toward a Unified Multi-modal Knowledge Graph Representation Framework**|Zhuo Chen et.al.|[2403.06832](http://arxiv.org/abs/2403.06832)|null|
+|**2024-03-11**|**ConspEmoLLM: Conspiracy Theory Detection Using an Emotion-Based Large Language Model**|Zhiwei Liu et.al.|[2403.06765](http://arxiv.org/abs/2403.06765)|**[link](https://github.com/lzw108/conspemollm)**|
+|**2024-03-11**|**An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**|Liang Chen et.al.|[2403.06764](http://arxiv.org/abs/2403.06764)|null|
+|**2024-03-11**|**ALaRM: Align Language Models via Hierarchical Rewards Modeling**|Yuhang Lai et.al.|[2403.06754](http://arxiv.org/abs/2403.06754)|null|
 |**2024-03-08**|**Bayesian Preference Elicitation with Language Models**|Kunal Handa et.al.|[2403.05534](http://arxiv.org/abs/2403.05534)|null|
 |**2024-03-08**|**Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context**|Machel Reid et.al.|[2403.05530](http://arxiv.org/abs/2403.05530)|null|
 |**2024-03-08**|**GEAR: An Efficient KV Cache Compression Recipefor Near-Lossless Generative Inference of LLM**|Hao Kang et.al.|[2403.05527](http://arxiv.org/abs/2403.05527)|**[link](https://github.com/haokang-timmy/gear)**|
@@ -493,6 +518,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Numerical simulation of individual coil placement - A proof-of-concept study for the prediction of recurrence after aneurysm coiling**|Julian Schwarting et.al.|[2403.06889](http://arxiv.org/abs/2403.06889)|null|
+|**2024-03-11**|**Model Predictive Control Strategies for Electric Endurance Race Cars Accounting for Competitors Interactions**|Jorn van Kampen et.al.|[2403.06885](http://arxiv.org/abs/2403.06885)|null|
+|**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
+|**2024-03-11**|**From Factor Models to Deep Learning: Machine Learning in Reshaping Empirical Asset Pricing**|Junyi Ye et.al.|[2403.06779](http://arxiv.org/abs/2403.06779)|null|
+|**2024-03-11**|**Real-Time Multimodal Cognitive Assistant for Emergency Medical Services**|Keshara Weerasinghe et.al.|[2403.06734](http://arxiv.org/abs/2403.06734)|null|
+|**2024-03-11**|**PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification**|Mert Gulsen et.al.|[2403.06698](http://arxiv.org/abs/2403.06698)|**[link](https://github.com/batuceng/diffusion-layer-robustness-pc)**|
+|**2024-03-11**|**Maxitive functions with respect to general orders**|M. Kupper et.al.|[2403.06613](http://arxiv.org/abs/2403.06613)|null|
+|**2024-03-11**|**Tactical Decision Making for Autonomous Trucks by Deep Reinforcement Learning with Total Cost of Operation Based Reward**|Deepthi Pathare et.al.|[2403.06524](http://arxiv.org/abs/2403.06524)|null|
+|**2024-03-11**|**3D Semantic Segmentation-Driven Representations for 3D Object Detection**|Hayeon O et.al.|[2403.06501](http://arxiv.org/abs/2403.06501)|null|
+|**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
+|**2024-03-10**|**LinearAPT: An Adaptive Algorithm for the Fixed-Budget Thresholding Linear Bandit Problem**|Yun-Ang Wu et.al.|[2403.06230](http://arxiv.org/abs/2403.06230)|null|
+|**2024-03-10**|**IDEAS: Information-Driven EV Admission in Charging Station Considering User Impatience to Improve QoS and Station Utilization**|Animesh Chattopadhyay et.al.|[2403.06223](http://arxiv.org/abs/2403.06223)|null|
+|**2024-03-10**|**TRAD: Enhancing LLM Agents with Step-Wise Thought Retrieval and Aligned Decision**|Ruiwen Zhou et.al.|[2403.06221](http://arxiv.org/abs/2403.06221)|null|
+|**2024-03-10**|**On depth prediction for autonomous driving using self-supervised learning**|Houssem Boulahbal et.al.|[2403.06194](http://arxiv.org/abs/2403.06194)|null|
+|**2024-03-10**|**Cross-Cluster Shifting for Efficient and Effective 3D Object Detection in Autonomous Driving**|Zhili Chen et.al.|[2403.06166](http://arxiv.org/abs/2403.06166)|null|
+|**2024-03-10**|**Target-constrained Bidirectional Planning for Generation of Target-oriented Proactive Dialogue**|Jian Wang et.al.|[2403.06063](http://arxiv.org/abs/2403.06063)|**[link](https://github.com/iwangjian/trip)**|
+|**2024-03-09**|**CarbonNet: How Computer Vision Plays a Role in Climate Change? Application: Learning Geomechanics from Subsurface Geometry of CCS to Mitigate Global Warming**|Wei Chen et.al.|[2403.06025](http://arxiv.org/abs/2403.06025)|null|
+|**2024-03-09**|**End-to-end solution for linked open data query logs analytics**|Dihia Lanasri et.al.|[2403.06016](http://arxiv.org/abs/2403.06016)|null|
+|**2024-03-09**|**Deep learning for multi-label classification of coral conditions in the Indo-Pacific via underwater photogrammetry**|Xinlei Shao et.al.|[2403.05930](http://arxiv.org/abs/2403.05930)|**[link](https://github.com/xl-shao/coralconditiondataset)**|
+|**2024-03-09**|**Towards Optimizing Human-Centric Objectives in AI-Assisted Decision-Making With Offline Reinforcement Learning**|Zana Buçinca et.al.|[2403.05911](http://arxiv.org/abs/2403.05911)|null|
 |**2024-03-08**|**JointMotion: Joint Self-supervision for Joint Motion Prediction**|Royden Wagner et.al.|[2403.05489](http://arxiv.org/abs/2403.05489)|null|
 |**2024-03-08**|**OccFusion: Depth Estimation Free Multi-sensor Fusion for 3D Occupancy Prediction**|Ji Zhang et.al.|[2403.05329](http://arxiv.org/abs/2403.05329)|null|
 |**2024-03-08**|**Tapilot-Crossing: Benchmarking and Evolving LLMs Towards Interactive Data Analysis Agents**|Jinyang Li et.al.|[2403.05307](http://arxiv.org/abs/2403.05307)|null|
