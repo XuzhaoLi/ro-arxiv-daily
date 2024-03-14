@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Online Multi-Contact Feedback Model Predictive Control for Interactive Robotic Tasks**|Seo Wook Han et.al.|[2403.08302](http://arxiv.org/abs/2403.08302)|null|
+|**2024-03-12**|**Optimal Design and Implementation of an Open-source Emulation Platform for User-Centric Shared E-mobility Services**|Maqsood Hussain Shah et.al.|[2403.07964](http://arxiv.org/abs/2403.07964)|null|
 |**2024-03-12**|**The Primal Pathwidth SETH**|Michael Lampis et.al.|[2403.07239](http://arxiv.org/abs/2403.07239)|null|
 |**2024-03-10**|**A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units**|Liyue Chen et.al.|[2403.07022](http://arxiv.org/abs/2403.07022)|**[link](https://github.com/uctb/one4all-st)**|
 |**2024-03-11**|**Domain-Independent Dynamic Programming and Constraint Programming Approaches for Assembly Line Balancing Problems with Setups**|Jiachen Zhang et.al.|[2403.06780](http://arxiv.org/abs/2403.06780)|null|
@@ -82,6 +84,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
+|**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
+|**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
+|**2024-03-13**|**ILCiteR: Evidence-grounded Interpretable Local Citation Recommendation**|Sayar Ghosh Roy et.al.|[2403.08737](http://arxiv.org/abs/2403.08737)|**[link](https://github.com/sayarghoshroy/ilciter)**|
+|**2024-03-13**|**Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization**|Renjie Pi et.al.|[2403.08730](http://arxiv.org/abs/2403.08730)|null|
+|**2024-03-13**|**SOTOPIA- $π$ : Interactive Learning of Socially Intelligent Language Agents**|Ruiyi Wang et.al.|[2403.08715](http://arxiv.org/abs/2403.08715)|**[link](https://github.com/sotopia-lab/sotopia-pi)**|
+|**2024-03-13**|**Review of Generative AI Methods in Cybersecurity**|Yagmur Yigit et.al.|[2403.08701](http://arxiv.org/abs/2403.08701)|null|
+|**2024-03-13**|**TeaMs-RL: Teaching LLMs to Teach Themselves Better Instructions via Reinforcement Learning**|Shangding Gu et.al.|[2403.08694](http://arxiv.org/abs/2403.08694)|null|
+|**2024-03-13**|**Do Language Models Care About Text Quality? Evaluating Web-Crawled Corpora Across 11 Languages**|Rik van Noord et.al.|[2403.08693](http://arxiv.org/abs/2403.08693)|null|
+|**2024-03-13**|**Zero-shot and Few-shot Generation Strategies for Artificial Clinical Records**|Erlend Frayling et.al.|[2403.08664](http://arxiv.org/abs/2403.08664)|null|
+|**2024-03-13**|**Self-Supervised Learning for Covariance Estimation**|Tzvi Diskin et.al.|[2403.08662](http://arxiv.org/abs/2403.08662)|null|
+|**2024-03-13**|**Human Alignment of Large Language Models through Online Preference Optimisation**|Daniele Calandriello et.al.|[2403.08635](http://arxiv.org/abs/2403.08635)|null|
+|**2024-03-13**|**MedInsight: A Multi-Source Context Augmentation Framework for Generating Patient-Centric Medical Responses using Large Language Models**|Subash Neupane et.al.|[2403.08607](http://arxiv.org/abs/2403.08607)|null|
+|**2024-03-13**|**Language-Grounded Dynamic Scene Graphs for Interactive Object Search with Mobile Manipulation**|Daniel Honerkamp et.al.|[2403.08605](http://arxiv.org/abs/2403.08605)|null|
+|**2024-03-13**|**DevBench: A Comprehensive Benchmark for Software Development**|Bowen Li et.al.|[2403.08604](http://arxiv.org/abs/2403.08604)|null|
+|**2024-03-13**|**Call Me When Necessary: LLMs can Efficiently and Faithfully Reason over Structured Environments**|Sitao Cheng et.al.|[2403.08593](http://arxiv.org/abs/2403.08593)|null|
+|**2024-03-13**|**Non-discrimination Criteria for Generative Language Models**|Sara Sterlie et.al.|[2403.08564](http://arxiv.org/abs/2403.08564)|null|
+|**2024-03-13**|**AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models**|Yifei Gao et.al.|[2403.08542](http://arxiv.org/abs/2403.08542)|null|
+|**2024-03-13**|**Language models scale reliably with over-training and on downstream tasks**|Samir Yitzhak Gadre et.al.|[2403.08540](http://arxiv.org/abs/2403.08540)|**[link](https://github.com/mlfoundations/scaling)**|
+|**2024-03-13**|**Masked Generative Story Transformer with Character Guidance and Caption Augmentation**|Christos Papadimitriou et.al.|[2403.08502](http://arxiv.org/abs/2403.08502)|**[link](https://github.com/chrispapa2000/maskgst)**|
 |**2024-03-12**|**Beyond Text: Frozen Large Language Models in Visual Signal Comprehension**|Lei Zhu et.al.|[2403.07874](http://arxiv.org/abs/2403.07874)|**[link](https://github.com/zh460045050/v2l-tokenizer)**|
 |**2024-03-12**|**Rethinking Generative Large Language Model Evaluation for Semantic Comprehension**|Fangyun Wei et.al.|[2403.07872](http://arxiv.org/abs/2403.07872)|null|
 |**2024-03-12**|**Exploring Safety Generalization Challenges of Large Language Models via Code**|Qibing Ren et.al.|[2403.07865](http://arxiv.org/abs/2403.07865)|null|
@@ -549,6 +571,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
+|**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
+|**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
+|**2024-03-13**|**Optimal sub-Gaussian variance proxy for truncated Gaussian and exponential random variables**|Mathias Barreto et.al.|[2403.08628](http://arxiv.org/abs/2403.08628)|null|
+|**2024-03-13**|**Towards a Privacy and Security-Aware Framework for Ethical AI: Guiding the Development and Assessment of AI Systems**|Daria Korobenko et.al.|[2403.08624](http://arxiv.org/abs/2403.08624)|null|
+|**2024-03-13**|**Pig aggression classification using CNN, Transformers and Recurrent Networks**|Junior Silva Souza et.al.|[2403.08528](http://arxiv.org/abs/2403.08528)|null|
+|**2024-03-13**|**IAMCV Multi-Scenario Vehicle Interaction Dataset**|Novel Certad et.al.|[2403.08455](http://arxiv.org/abs/2403.08455)|null|
+|**2024-03-13**|**DeepCSHAP: Utilizing Shapley Values to Explain Deep Complex-Valued Neural Networks**|Florian Eilers et.al.|[2403.08428](http://arxiv.org/abs/2403.08428)|null|
+|**2024-03-13**|**Causal Graph Neural Networks for Wildfire Danger Prediction**|Shan Zhao et.al.|[2403.08414](http://arxiv.org/abs/2403.08414)|null|
+|**2024-03-13**|**LLM-Assisted Light: Leveraging Large Language Model Capabilities for Human-Mimetic Traffic Signal Control in Complex Urban Environments**|Maonan Wang et.al.|[2403.08337](http://arxiv.org/abs/2403.08337)|**[link](https://github.com/traffic-alpha/llm-assisted-light)**|
+|**2024-03-13**|**Optimized Detection and Classification on GTRSB: Advancing Traffic Sign Recognition with Convolutional Neural Networks**|Dhruv Toshniwal et.al.|[2403.08283](http://arxiv.org/abs/2403.08283)|null|
+|**2024-03-13**|**LIX: Implicitly Infusing Spatial Geometric Prior Knowledge into Visual Semantic Segmentation for Autonomous Driving**|Sicen Guo et.al.|[2403.08215](http://arxiv.org/abs/2403.08215)|null|
+|**2024-03-13**|**Can Large Language Models Identify Authorship?**|Baixiang Huang et.al.|[2403.08213](http://arxiv.org/abs/2403.08213)|**[link](https://github.com/baixianghuang/authorship-llm)**|
+|**2024-03-12**|**Data Monetization Pathways and Complex Dynamic Game Equilibrium Analysis in the Energy Industry**|Zongxian Wang et.al.|[2403.08082](http://arxiv.org/abs/2403.08082)|null|
+|**2024-03-12**|**What would Plato say? Concepts and notions from Greek philosophy applied to gamification mechanics for a meaningful and ethical gamification**|Kostas Karpouzis et.al.|[2403.08041](http://arxiv.org/abs/2403.08041)|null|
+|**2024-03-12**|**A Review of Cybersecurity Incidents in the Food and Agriculture Sector**|Ajay Kulkarni et.al.|[2403.08036](http://arxiv.org/abs/2403.08036)|null|
+|**2024-03-12**|**Supervised Time Series Classification for Anomaly Detection in Subsea Engineering**|Ergys Çokaj et.al.|[2403.08013](http://arxiv.org/abs/2403.08013)|null|
 |**2024-03-12**|**When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis**|Sahar Moradizeyveh et.al.|[2403.07834](http://arxiv.org/abs/2403.07834)|null|
 |**2024-03-12**|**FairRR: Pre-Processing for Group Fairness through Randomized Response**|Xianli Zeng et.al.|[2403.07780](http://arxiv.org/abs/2403.07780)|**[link](https://github.com/ucla-trustworthy-ai-lab/fairrr)**|
 |**2024-03-12**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
