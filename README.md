@@ -1,4 +1,4 @@
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,8 +16,8 @@
 |**2024-03-10**|**A Unified Model for Spatio-Temporal Prediction Queries with Arbitrary Modifiable Areal Units**|Liyue Chen et.al.|[2403.07022](http://arxiv.org/abs/2403.07022)|**[link](https://github.com/uctb/one4all-st)**|
 |**2024-03-11**|**Domain-Independent Dynamic Programming and Constraint Programming Approaches for Assembly Line Balancing Problems with Setups**|Jiachen Zhang et.al.|[2403.06780](http://arxiv.org/abs/2403.06780)|null|
 |**2024-03-11**|**Balanced Substructures in Bicolored Graphs**|P. S. Ardra et.al.|[2403.06608](http://arxiv.org/abs/2403.06608)|null|
-|**2024-03-11**|**An Efficient Solution to the 2D Visibility Problem in Cartesian Grid Maps and its Application in Heuristic Path Planning**|Ibrahim Ibrahim et.al.|[2403.06494](http://arxiv.org/abs/2403.06494)|null|
-|**2024-03-11**|**AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping**|Seongyeon Park et.al.|[2403.06478](http://arxiv.org/abs/2403.06478)|null|
+|**2024-03-11**|**An Efficient Solution to the 2D Visibility Problem in Cartesian Grid Maps and its Application in Heuristic Path Planning**|Ibrahim Ibrahim et.al.|[2403.06494](http://arxiv.org/abs/2403.06494)|**[link](https://github.com/ibrahimsquared/visibility-heuristic-path-planner)**|
+|**2024-03-11**|**AGAThA: Fast and Efficient GPU Acceleration of Guided Sequence Alignment for Long Read Mapping**|Seongyeon Park et.al.|[2403.06478](http://arxiv.org/abs/2403.06478)|**[link](https://github.com/readwrite112/agatha)**|
 |**2024-03-09**|**Spatial Clustering Approach for Vessel Path Identification**|Mohamed Abuella et.al.|[2403.05778](http://arxiv.org/abs/2403.05778)|**[link](https://github.com/mohamedabuella/path_clustering)**|
 |**2024-03-07**|**On $[1,2]$ -Domination in Interval and Circle Graphs**|Mohsen Alambardar Meybodi et.al.|[2403.04694](http://arxiv.org/abs/2403.04694)|null|
 |**2024-03-07**|**Fill-and-Spill: Deep Reinforcement Learning Policy Gradient Methods for Reservoir Operation Decision and Control**|Sadegh Sadeghi Tabas et.al.|[2403.04195](http://arxiv.org/abs/2403.04195)|null|
@@ -76,7 +76,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -90,14 +90,14 @@
 |**2024-03-12**|**DeliGrasp: Inferring Object Mass, Friction, and Compliance with LLMs for Adaptive and Minimally Deforming Grasp Policies**|William Xie et.al.|[2403.07832](http://arxiv.org/abs/2403.07832)|null|
 |**2024-03-12**|**The Missing Piece in Model Editing: A Deep Dive into the Hidden Damage Brought By Model Editing**|Jianchen Wang et.al.|[2403.07825](http://arxiv.org/abs/2403.07825)|null|
 |**2024-03-12**|**Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM**|Sainbayar Sukhbaatar et.al.|[2403.07816](http://arxiv.org/abs/2403.07816)|null|
-|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815](http://arxiv.org/abs/2403.07815)|null|
+|**2024-03-12**|**Chronos: Learning the Language of Time Series**|Abdul Fatir Ansari et.al.|[2403.07815](http://arxiv.org/abs/2403.07815)|**[link](https://github.com/amazon-science/chronos-forecasting)**|
 |**2024-03-12**|**Beyond Memorization: The Challenge of Random Memory Access in Language Models**|Tongyao Zhu et.al.|[2403.07805](http://arxiv.org/abs/2403.07805)|**[link](https://github.com/sail-sg/lm-random-memory-access)**|
 |**2024-03-12**|**Fine-tuning Large Language Models with Sequential Instructions**|Hanxu Hu et.al.|[2403.07794](http://arxiv.org/abs/2403.07794)|**[link](https://github.com/hanxuhu/seq_it)**|
 |**2024-03-12**|**Transforming Competition into Collaboration: The Revolutionary Role of Multi-Agent Systems and Language Models in Modern Organizations**|Carlos Jose Xavier Cruz et.al.|[2403.07769](http://arxiv.org/abs/2403.07769)|**[link](https://github.com/carlosxcruzcode/compet_colab_sma_llm)**|
 |**2024-03-12**|**Synth $^2$ : Boosting Visual-Language Models with Synthetic Captions and Image Embeddings**|Sahand Sharifzadeh et.al.|[2403.07750](http://arxiv.org/abs/2403.07750)|null|
 |**2024-03-12**|**FineMath: A Fine-Grained Mathematical Evaluation Benchmark for Chinese Large Language Models**|Yan Liu et.al.|[2403.07747](http://arxiv.org/abs/2403.07747)|null|
 |**2024-03-12**|**Multi-modal Auto-regressive Modeling via Visual Words**|Tianshuo Peng et.al.|[2403.07720](http://arxiv.org/abs/2403.07720)|null|
-|**2024-03-12**|**WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?**|Alexandre Drouin et.al.|[2403.07718](http://arxiv.org/abs/2403.07718)|null|
+|**2024-03-12**|**WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?**|Alexandre Drouin et.al.|[2403.07718](http://arxiv.org/abs/2403.07718)|**[link](https://github.com/servicenow/workarena)**|
 |**2024-03-12**|**StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models**|Zhicheng Guo et.al.|[2403.07714](http://arxiv.org/abs/2403.07714)|**[link](https://github.com/zhichengg/stabletoolbench)**|
 |**2024-03-12**|**Improving Reinforcement Learning from Human Feedback Using Contrastive Rewards**|Wei Shen et.al.|[2403.07708](http://arxiv.org/abs/2403.07708)|null|
 |**2024-03-12**|**Large, Small or Both: A Novel Data Augmentation Framework Based on Language Models for Debiasing Opinion Summarization**|Yanyue Zhang et.al.|[2403.07693](http://arxiv.org/abs/2403.07693)|null|
@@ -543,7 +543,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -564,7 +564,7 @@
 |**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[2403.07232](http://arxiv.org/abs/2403.07232)|null|
 |**2024-03-11**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot Task Allocation**|Steve Paul et.al.|[2403.07131](http://arxiv.org/abs/2403.07131)|null|
 |**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[2403.07129](http://arxiv.org/abs/2403.07129)|null|
-|**2024-03-11**|**Better than classical? The subtle art of benchmarking quantum machine learning models**|Joseph Bowles et.al.|[2403.07059](http://arxiv.org/abs/2403.07059)|null|
+|**2024-03-11**|**Better than classical? The subtle art of benchmarking quantum machine learning models**|Joseph Bowles et.al.|[2403.07059](http://arxiv.org/abs/2403.07059)|**[link](https://github.com/xanaduai/qml-benchmarks)**|
 |**2024-03-11**|**Numerical simulation of individual coil placement -- A proof-of-concept study for the prediction of recurrence after aneurysm coiling**|Julian Schwarting et.al.|[2403.06889](http://arxiv.org/abs/2403.06889)|null|
 |**2024-03-11**|**Model Predictive Control Strategies for Electric Endurance Race Cars Accounting for Competitors Interactions**|Jorn van Kampen et.al.|[2403.06885](http://arxiv.org/abs/2403.06885)|null|
 |**2024-03-11**|**DriveDreamer-2: LLM-Enhanced World Models for Diverse Driving Video Generation**|Guosheng Zhao et.al.|[2403.06845](http://arxiv.org/abs/2403.06845)|null|
@@ -937,5 +937,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240314>back to top</a>)</p>
 
