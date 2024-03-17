@@ -1,4 +1,4 @@
-## Updated on 2024.03.16
+## Updated on 2024.03.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems**|Ralf Römer et.al.|[2403.09504](http://arxiv.org/abs/2403.09504)|null|
+|**2024-03-14**|**Quantum Dynamic Programming**|Jeongrak Son et.al.|[2403.09187](http://arxiv.org/abs/2403.09187)|null|
+|**2024-03-14**|**Relationship between General MP and DPP for the Stochastic Recursive Optimal Control Problem With Jumps: Viscosity Solution Framework**|Bin Wang et.al.|[2403.09044](http://arxiv.org/abs/2403.09044)|null|
+|**2024-03-13**|**Model-free Resilient Controller Design based on Incentive Feedback Stackelberg Game and Q-learning**|Jiajun Shen et.al.|[2403.08948](http://arxiv.org/abs/2403.08948)|null|
 |**2024-03-13**|**Online Multi-Contact Feedback Model Predictive Control for Interactive Robotic Tasks**|Seo Wook Han et.al.|[2403.08302](http://arxiv.org/abs/2403.08302)|null|
 |**2024-03-12**|**Optimal Design and Implementation of an Open-source Emulation Platform for User-Centric Shared E-mobility Services**|Maqsood Hussain Shah et.al.|[2403.07964](http://arxiv.org/abs/2403.07964)|null|
 |**2024-03-12**|**The Primal Pathwidth SETH**|Michael Lampis et.al.|[2403.07239](http://arxiv.org/abs/2403.07239)|null|
@@ -78,12 +82,32 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping**|Yuhang Zheng et.al.|[2403.09637](http://arxiv.org/abs/2403.09637)|null|
+|**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636](http://arxiv.org/abs/2403.09636)|null|
+|**2024-03-14**|**Transformers Get Stable: An End-to-End Signal Propagation Theory for Language Models**|Akhil Kedia et.al.|[2403.09635](http://arxiv.org/abs/2403.09635)|**[link](https://github.com/akhilkedia/tranformersgetstable)**|
+|**2024-03-14**|**OneTracker: Unifying Visual Object Tracking with Foundation Models and Efficient Tuning**|Lingyi Hong et.al.|[2403.09634](http://arxiv.org/abs/2403.09634)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking**|Eric Zelikman et.al.|[2403.09629](http://arxiv.org/abs/2403.09629)|null|
+|**2024-03-14**|**Explore In-Context Segmentation via Latent Diffusion Models**|Chaoyang Wang et.al.|[2403.09616](http://arxiv.org/abs/2403.09616)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606](http://arxiv.org/abs/2403.09606)|null|
+|**2024-03-14**|**Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis**|Gregory Coppola et.al.|[2403.09599](http://arxiv.org/abs/2403.09599)|null|
+|**2024-03-14**|**Renovating Names in Open-Vocabulary Segmentation Benchmarks**|Haiwen Huang et.al.|[2403.09593](http://arxiv.org/abs/2403.09593)|null|
+|**2024-03-14**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583](http://arxiv.org/abs/2403.09583)|null|
+|**2024-03-14**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
+|**2024-03-14**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567](http://arxiv.org/abs/2403.09567)|null|
+|**2024-03-14**|**Welcome Your New AI Teammate: On Safety Analysis by Leashing Large Language Models**|Ali Nouri et.al.|[2403.09565](http://arxiv.org/abs/2403.09565)|null|
+|**2024-03-14**|**PreCurious: How Innocent Pre-Trained Language Models Turn into Privacy Traps**|Ruixuan Liu et.al.|[2403.09562](http://arxiv.org/abs/2403.09562)|null|
+|**2024-03-14**|**Less is More: Data Value Estimation for Visual Instruction Tuning**|Zikang Liu et.al.|[2403.09559](http://arxiv.org/abs/2403.09559)|null|
+|**2024-03-14**|**Logits of API-Protected LLMs Leak Proprietary Information**|Matthew Finlayson et.al.|[2403.09539](http://arxiv.org/abs/2403.09539)|null|
+|**2024-03-14**|**VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding**|Chris Kelly et.al.|[2403.09530](http://arxiv.org/abs/2403.09530)|null|
+|**2024-03-14**|**WavCraft: Audio Editing and Generation with Natural Language Prompts**|Jinhua Liang et.al.|[2403.09527](http://arxiv.org/abs/2403.09527)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
@@ -565,12 +589,32 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-14**|**Generalized Predictive Model for Autonomous Driving**|Jiazhi Yang et.al.|[2403.09630](http://arxiv.org/abs/2403.09630)|**[link](https://github.com/opendrivelab/driveagi)**|
+|**2024-03-14**|**Scalable Autonomous Drone Flight in the Forest with Visual-Inertial SLAM and Dense Submaps Built without LiDAR**|Sebastián Barbas Laina et.al.|[2403.09596](http://arxiv.org/abs/2403.09596)|null|
+|**2024-03-14**|**Iterative Forgetting: Online Data Stream Regression Using Database-Inspired Adaptive Granulation**|Niket Kathiriya et.al.|[2403.09588](http://arxiv.org/abs/2403.09588)|null|
+|**2024-03-14**|**Are you a robot? Detecting Autonomous Vehicles from Behavior Analysis**|Fabio Maresca et.al.|[2403.09571](http://arxiv.org/abs/2403.09571)|null|
+|**2024-03-14**|**Characterization of Polarimetric Properties in Various Brain Tumor Types Using Wide-Field Imaging Mueller Polarimetry**|Romane Gros et.al.|[2403.09561](http://arxiv.org/abs/2403.09561)|null|
+|**2024-03-14**|**"Are You Really Sure?" Understanding the Effects of Human Self-Confidence Calibration in AI-Assisted Decision Making**|Shuai Ma et.al.|[2403.09552](http://arxiv.org/abs/2403.09552)|null|
+|**2024-03-14**|**On STPA for Distributed Development of Safe Autonomous Driving: An Interview Study**|Ali Nouri et.al.|[2403.09509](http://arxiv.org/abs/2403.09509)|null|
+|**2024-03-14**|**An Industrial Experience Report about Challenges from Continuous Monitoring, Improvement, and Deployment for Autonomous Driving Features**|Ali Nouri et.al.|[2403.09474](http://arxiv.org/abs/2403.09474)|null|
+|**2024-03-14**|**Exploring the Interplay of Intrinsic Fluctuation and Complexity in Intracellular Calcium Dynamics**|Athokpam Langlen Chanu et.al.|[2403.09386](http://arxiv.org/abs/2403.09386)|null|
+|**2024-03-14**|**EfficientMFD: Towards More Efficient Multimodal Synchronous Fusion Detection**|Jiaqing Zhang et.al.|[2403.09323](http://arxiv.org/abs/2403.09323)|**[link](https://github.com/icey-zhang/efficientmfd)**|
+|**2024-03-14**|**Generating Feasible and Plausible Counterfactual Explanations for Outcome Prediction of Business Processes**|Alexander Stevens et.al.|[2403.09232](http://arxiv.org/abs/2403.09232)|null|
+|**2024-03-14**|**Unlocking the Potential of Open Government Data: Exploring the Strategic, Technical, and Application Perspectives of High-Value Datasets Opening in Taiwan**|Hsien-Lee Tseng et.al.|[2403.09216](http://arxiv.org/abs/2403.09216)|null|
+|**2024-03-14**|**Intention-aware Denoising Diffusion Model for Trajectory Prediction**|Chen Liu et.al.|[2403.09190](http://arxiv.org/abs/2403.09190)|null|
+|**2024-03-14**|**PreSight: Enhancing Autonomous Vehicle Perception with City-Scale NeRF Priors**|Tianyuan Yuan et.al.|[2403.09079](http://arxiv.org/abs/2403.09079)|**[link](https://github.com/yuantianyuan01/presight)**|
+|**2024-03-13**|**AutoGuide: Automated Generation and Selection of State-Aware Guidelines for Large Language Model Agents**|Yao Fu et.al.|[2403.08978](http://arxiv.org/abs/2403.08978)|null|
+|**2024-03-13**|**Managing Distributional Ambiguity in Stochastic Optimization through a Statistical Upper Bound Framework**|Shixin Liu et.al.|[2403.08966](http://arxiv.org/abs/2403.08966)|null|
+|**2024-03-13**|**Language-based game theory in the age of artificial intelligence**|Valerio Capraro et.al.|[2403.08944](http://arxiv.org/abs/2403.08944)|null|
+|**2024-03-13**|**FogGuard: guarding YOLO against fog using perceptual loss**|Soheil Gharatappeh et.al.|[2403.08939](http://arxiv.org/abs/2403.08939)|null|
+|**2024-03-13**|**CLIP-BEVFormer: Enhancing Multi-View Image-Based BEV Detector with Ground Truth Flow**|Chenbin Pan et.al.|[2403.08919](http://arxiv.org/abs/2403.08919)|null|
+|**2024-03-13**|**A Framework for Strategic Discovery of Credible Neural Network Surrogate Models under Uncertainty**|Pratyush Kumar Singh et.al.|[2403.08901](http://arxiv.org/abs/2403.08901)|null|
 |**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
 |**2024-03-13**|**Real-time 3D semantic occupancy prediction for autonomous vehicles using memory-efficient sparse convolution**|Samuel Sze et.al.|[2403.08748](http://arxiv.org/abs/2403.08748)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
@@ -976,5 +1020,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240316>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240317>back to top</a>)</p>
 
