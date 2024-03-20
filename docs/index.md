@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom et.al.|[2403.11578](http://arxiv.org/abs/2403.11578)|null|
+|**2024-03-17**|**Multiscale Quantile Regression with Local Error Control**|Zhi Liu et.al.|[2403.11356](http://arxiv.org/abs/2403.11356)|null|
 |**2024-03-15**|**Fast Generation of Feasible Trajectories in Direct Optimal Control**|David Kiessling et.al.|[2403.10115](http://arxiv.org/abs/2403.10115)|null|
 |**2024-03-14**|**Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems**|Ralf Römer et.al.|[2403.09504](http://arxiv.org/abs/2403.09504)|null|
 |**2024-03-14**|**Quantum Dynamic Programming**|Jeongrak Son et.al.|[2403.09187](http://arxiv.org/abs/2403.09187)|null|
@@ -82,6 +84,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Modality-Agnostic fMRI Decoding of Vision and Language**|Mitja Nikolaus et.al.|[2403.11771](http://arxiv.org/abs/2403.11771)|null|
+|**2024-03-18**|**Meta-Prompting for Automating Zero-shot Visual Recognition with LLMs**|M. Jehanzeb Mirza et.al.|[2403.11755](http://arxiv.org/abs/2403.11755)|null|
+|**2024-03-18**|**Revisiting The Classics: A Study on Identifying and Rectifying Gender Stereotypes in Rhymes and Poems**|Aditya Narayan Sankaran et.al.|[2403.11752](http://arxiv.org/abs/2403.11752)|null|
+|**2024-03-18**|**Embedded Named Entity Recognition using Probing Classifiers**|Nicholas Popovič et.al.|[2403.11747](http://arxiv.org/abs/2403.11747)|null|
+|**2024-03-18**|**TTT-KD: Test-Time Training for 3D Semantic Segmentation through Knowledge Distillation from Foundation Models**|Lisa Weijler et.al.|[2403.11691](http://arxiv.org/abs/2403.11691)|null|
+|**2024-03-18**|**HDLdebugger: Streamlining HDL debugging with Large Language Models**|Xufeng Yao et.al.|[2403.11671](http://arxiv.org/abs/2403.11671)|null|
+|**2024-03-18**|**Prioritized Semantic Learning for Zero-shot Instance Navigation**|Xander Sun et.al.|[2403.11650](http://arxiv.org/abs/2403.11650)|null|
+|**2024-03-18**|**Arc2Face: A Foundation Model of Human Faces**|Foivos Paraperas Papantoniou et.al.|[2403.11641](http://arxiv.org/abs/2403.11641)|null|
+|**2024-03-18**|**Compositional Kronecker Context Optimization for Vision-Language Models**|Kun Ding et.al.|[2403.11631](http://arxiv.org/abs/2403.11631)|null|
+|**2024-03-18**|**Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model**|Haoyun Xu et.al.|[2403.11621](http://arxiv.org/abs/2403.11621)|null|
+|**2024-03-18**|**CRS-Diff: Controllable Generative Remote Sensing Foundation Model**|Datao Tang et.al.|[2403.11614](http://arxiv.org/abs/2403.11614)|null|
+|**2024-03-18**|**Linguacodus: A Synergistic Framework for Transformative Code Generation in Machine Learning Pipelines**|Ekaterina Trofimova et.al.|[2403.11585](http://arxiv.org/abs/2403.11585)|null|
+|**2024-03-18**|**Reinforcement Learning with Token-level Feedback for Controllable Text Generation**|Wendi Li et.al.|[2403.11558](http://arxiv.org/abs/2403.11558)|null|
+|**2024-03-18**|**LLM^3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
+|**2024-03-18**|**Boosting Continual Learning of Vision-Language Models via Mixture-of-Experts Adapters**|Jiazuo Yu et.al.|[2403.11549](http://arxiv.org/abs/2403.11549)|**[link](https://github.com/jiazuoyu/moe-adapters4cl)**|
+|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509](http://arxiv.org/abs/2403.11509)|null|
+|**2024-03-18**|**Do CLIPs Always Generalize Better than ImageNet Models?**|Qizhou Wang et.al.|[2403.11497](http://arxiv.org/abs/2403.11497)|null|
+|**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
+|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456](http://arxiv.org/abs/2403.11456)|**[link](https://github.com/hnghiem-usc/hatecot)**|
+|**2024-03-18**|**Zero-shot Compound Expression Recognition with Visual Language Model at the 6th ABAW Challenge**|Jiahe Wang et.al.|[2403.11450](http://arxiv.org/abs/2403.11450)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
 |**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507](http://arxiv.org/abs/2403.10507)|null|
 |**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
@@ -607,6 +629,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation**|Jonas Schramm et.al.|[2403.11761](http://arxiv.org/abs/2403.11761)|null|
+|**2024-03-18**|**TrajectoryNAS: A Neural Architecture Search for Trajectory Prediction**|Ali Asghar Sharifi et.al.|[2403.11695](http://arxiv.org/abs/2403.11695)|null|
+|**2024-03-18**|**Sensitivity Assessment of Multi-Criteria Decision-Making Methods in Chemical Engineering Optimization Applications**|Seyed Reza Nabavi et.al.|[2403.11569](http://arxiv.org/abs/2403.11569)|null|
+|**2024-03-18**|**OCR is All you need: Importing Multi-Modality into Image-based Defect Detection System**|Chih-Chung Hsu et.al.|[2403.11536](http://arxiv.org/abs/2403.11536)|null|
+|**2024-03-18**|**State-Separated SARSA: A Practical Sequential Decision-Making Algorithm with Recovering Rewards**|Yuto Tanimoto et.al.|[2403.11520](http://arxiv.org/abs/2403.11520)|**[link](https://github.com/yutanimoto/ss-sarsa)**|
+|**2024-03-18**|**SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications**|Amira Guesmi et.al.|[2403.11515](http://arxiv.org/abs/2403.11515)|null|
+|**2024-03-18**|**MCD: Diverse Large-Scale Multi-Campus Dataset for Robot Perception**|Thien-Minh Nguyen et.al.|[2403.11496](http://arxiv.org/abs/2403.11496)|null|
+|**2024-03-18**|**LLM Guided Evolution - The Automation of Models Advancing Models**|Clint Morris et.al.|[2403.11446](http://arxiv.org/abs/2403.11446)|null|
+|**2024-03-18**|**Demystifying Deep Reinforcement Learning-Based Autonomous Vehicle Decision-Making**|Hanxi Wan et.al.|[2403.11432](http://arxiv.org/abs/2403.11432)|null|
+|**2024-03-17**|**Driving Style Alignment for LLM-powered Driver Agent**|Ruoxuan Yang et.al.|[2403.11368](http://arxiv.org/abs/2403.11368)|null|
+|**2024-03-17**|**Multi-Sample Long Range Path Planning under Sensing Uncertainty for Off-Road Autonomous Driving**|Matt Schmittle et.al.|[2403.11298](http://arxiv.org/abs/2403.11298)|null|
+|**2024-03-17**|**A Modified Word Saliency-Based Adversarial Attack on Text Classification Models**|Hetvi Waghela et.al.|[2403.11297](http://arxiv.org/abs/2403.11297)|null|
+|**2024-03-17**|**Barely Random Algorithms for Metrical Task Systems**|Romain Cosson et.al.|[2403.11267](http://arxiv.org/abs/2403.11267)|null|
+|**2024-03-17**|**A learning-based solution approach to the application placement problem in mobile edge computing under uncertainty**|Taha-Hossein Hejazi et.al.|[2403.11259](http://arxiv.org/abs/2403.11259)|null|
+|**2024-03-17**|**Learning-Based Pricing and Matching for Two-Sided Queues**|Zixian Yang et.al.|[2403.11093](http://arxiv.org/abs/2403.11093)|null|
+|**2024-03-17**|**Tokensome: Towards a Genetic Vision-Language GPT for Explainable and Cognitive Karyotyping**|Haoxi Zhang et.al.|[2403.11073](http://arxiv.org/abs/2403.11073)|null|
+|**2024-03-17**|**Large Language Models Powered Context-aware Motion Prediction**|Xiaoji Zheng et.al.|[2403.11057](http://arxiv.org/abs/2403.11057)|null|
+|**2024-03-17**|**JustQ: Automated Deployment of Fair and Accurate Quantum Neural Networks**|Ruhan Wang et.al.|[2403.11048](http://arxiv.org/abs/2403.11048)|null|
+|**2024-03-17**|**From Pixels to Predictions: Spectrogram and Vision Transformer for Better Time Series Forecasting**|Zhen Zeng et.al.|[2403.11047](http://arxiv.org/abs/2403.11047)|null|
+|**2024-03-16**|**Advancing multivariate time series similarity assessment: an integrated computational approach**|Franck Tonle et.al.|[2403.11044](http://arxiv.org/abs/2403.11044)|null|
 |**2024-03-15**|**Can a GPT4-Powered AI Agent Be a Good Enough Performance Attribution Analyst?**|Bruno de Melo et.al.|[2403.10482](http://arxiv.org/abs/2403.10482)|null|
 |**2024-03-15**|**Gradient based Feature Attribution in Explainable AI: A Technical Review**|Yongjie Wang et.al.|[2403.10415](http://arxiv.org/abs/2403.10415)|null|
 |**2024-03-15**|**Real-Time Image Segmentation via Hybrid Convolutional-Transformer Architecture Search**|Hongyuan Yu et.al.|[2403.10413](http://arxiv.org/abs/2403.10413)|**[link](https://github.com/marvinyu1995/hyctas)**|
