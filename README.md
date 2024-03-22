@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Conservative Linear Envelopes for High-Dimensional, Hamilton-Jacobi Reachability for Nonlinear Systems via the Hopf Formula**|Will Sharpless et.al.|[2403.14184](http://arxiv.org/abs/2403.14184)|null|
 |**2024-03-20**|**Optimal control of continuous-time symmetric systems with unknown dynamics and noisy measurements**|Hamed Taghavian et.al.|[2403.13605](http://arxiv.org/abs/2403.13605)|null|
 |**2024-03-19**|**Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models**|Quang Minh Bui et.al.|[2403.12923](http://arxiv.org/abs/2403.12923)|null|
 |**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom et.al.|[2403.11578](http://arxiv.org/abs/2403.11578)|null|
@@ -93,6 +94,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**MathVerse: Does Your Multi-modal LLM Truly See the Diagrams in Visual Math Problems?**|Renrui Zhang et.al.|[2403.14624](http://arxiv.org/abs/2403.14624)|null|
+|**2024-03-21**|**Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey**|Zeyu Han et.al.|[2403.14608](http://arxiv.org/abs/2403.14608)|null|
+|**2024-03-21**|**MyVLM: Personalizing VLMs for User-Specific Queries**|Yuval Alaluf et.al.|[2403.14599](http://arxiv.org/abs/2403.14599)|null|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
+|**2024-03-21**|**Large Language Models for Multi-Choice Question Classification of Medical Subjects**|Víctor Ponce-López et.al.|[2403.14582](http://arxiv.org/abs/2403.14582)|null|
+|**2024-03-21**|**RAmBLA: A Framework for Evaluating the Reliability of LLMs as Assistants in the Biomedical Domain**|William James Bolton et.al.|[2403.14578](http://arxiv.org/abs/2403.14578)|**[link](https://github.com/gsk-ai/rambla)**|
+|**2024-03-21**|**A Chain-of-Thought Prompting Approach with LLMs for Evaluating Students' Formative Assessment Responses in Science**|Clayton Cohn et.al.|[2403.14565](http://arxiv.org/abs/2403.14565)|null|
+|**2024-03-21**|**The Era of Semantic Decoding**|Maxime Peyrard et.al.|[2403.14562](http://arxiv.org/abs/2403.14562)|null|
+|**2024-03-21**|**Lexicon-Level Contrastive Visual-Grounding Improves Language Modeling**|Chengxu Zhuang et.al.|[2403.14551](http://arxiv.org/abs/2403.14551)|null|
+|**2024-03-21**|**EDT: Improving Large Language Models' Generation by Entropy-based Dynamic Temperature Sampling**|Shimao Zhang et.al.|[2403.14541](http://arxiv.org/abs/2403.14541)|null|
+|**2024-03-21**|**Cobra: Extending Mamba to Multi-Modal Large Language Model for Efficient Inference**|Han Zhao et.al.|[2403.14520](http://arxiv.org/abs/2403.14520)|null|
+|**2024-03-21**|**The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)**|Joschka Haltaufderheide et.al.|[2403.14473](http://arxiv.org/abs/2403.14473)|null|
+|**2024-03-21**|**Detoxifying Large Language Models via Knowledge Editing**|Mengru Wang et.al.|[2403.14472](http://arxiv.org/abs/2403.14472)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-03-21**|**ChatGPT Alternative Solutions: Large Language Models Survey**|Hanieh Alipour et.al.|[2403.14469](http://arxiv.org/abs/2403.14469)|null|
+|**2024-03-21**|**Recourse for reclamation: Chatting with generative language models**|Jennifer Chien et.al.|[2403.14467](http://arxiv.org/abs/2403.14467)|null|
+|**2024-03-21**|**Towards Single-System Illusion in Software-Defined Vehicles -- Automated, AI-Powered Workflow**|Krzysztof Lebioda et.al.|[2403.14460](http://arxiv.org/abs/2403.14460)|null|
+|**2024-03-21**|**Multi-Level Explanations for Generative Language Models**|Lucas Monteiro Paes et.al.|[2403.14459](http://arxiv.org/abs/2403.14459)|null|
+|**2024-03-21**|**gTBLS: Generating Tables from Text by Conditional Question Answering**|Anirudh Sundar et.al.|[2403.14457](http://arxiv.org/abs/2403.14457)|null|
+|**2024-03-21**|**Language Models Can Reduce Asymmetry in Information Markets**|Nasim Rahaman et.al.|[2403.14443](http://arxiv.org/abs/2403.14443)|null|
+|**2024-03-21**|**A Multimodal Approach to Device-Directed Speech Detection with Large Language Models**|Dominik Wager et.al.|[2403.14438](http://arxiv.org/abs/2403.14438)|null|
 |**2024-03-20**|**RAR: Retrieving And Ranking Augmented MLLMs for Visual Recognition**|Ziyu Liu et.al.|[2403.13805](http://arxiv.org/abs/2403.13805)|null|
 |**2024-03-20**|**Learning from Models and Data for Visual Grounding**|Ruozhen He et.al.|[2403.13804](http://arxiv.org/abs/2403.13804)|null|
 |**2024-03-20**|**Reverse Training to Nurse the Reversal Curse**|Olga Golovneva et.al.|[2403.13799](http://arxiv.org/abs/2403.13799)|null|
@@ -680,11 +701,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**ReAct Meets ActRe: Autonomous Annotations of Agent Trajectories for Contrastive Self-Training**|Zonghan Yang et.al.|[2403.14589](http://arxiv.org/abs/2403.14589)|null|
+|**2024-03-21**|**Physics-Based Causal Reasoning for Safe & Robust Next-Best Action Selection in Robot Manipulation Tasks**|Ricardo Cannizzaro et.al.|[2403.14488](http://arxiv.org/abs/2403.14488)|null|
+|**2024-03-21**|**The Ethics of ChatGPT in Medicine and Healthcare: A Systematic Review on Large Language Models (LLMs)**|Joschka Haltaufderheide et.al.|[2403.14473](http://arxiv.org/abs/2403.14473)|null|
+|**2024-03-21**|**SurroundSDF: Implicit 3D Scene Understanding Based on Signed Distance Field**|Lizhe Liu et.al.|[2403.14366](http://arxiv.org/abs/2403.14366)|null|
+|**2024-03-21**|**Beyond Surface Similarity: Detecting Subtle Semantic Shifts in Financial Narratives**|Jiaxin Liu et.al.|[2403.14341](http://arxiv.org/abs/2403.14341)|null|
+|**2024-03-21**|**Investigating the validity of structure learning algorithms in identifying risk factors for intervention in patients with diabetes**|Sheresh Zahoor et.al.|[2403.14327](http://arxiv.org/abs/2403.14327)|null|
+|**2024-03-21**|**UAV-Assisted Maritime Search and Rescue: A Holistic Approach**|Martin Messmer et.al.|[2403.14281](http://arxiv.org/abs/2403.14281)|null|
+|**2024-03-21**|**Contrastive Balancing Representation Learning for Heterogeneous Dose-Response Curves Estimation**|Minqin Zhu et.al.|[2403.14232](http://arxiv.org/abs/2403.14232)|null|
+|**2024-03-21**|**MMIDR: Teaching Large Language Model to Interpret Multimodal Misinformation via Knowledge Distillation**|Longzheng Wang et.al.|[2403.14171](http://arxiv.org/abs/2403.14171)|**[link](https://github.com/wishever/mmidr)**|
+|**2024-03-21**|**Hypothesis-Driven Deep Learning for Out of Distribution Detection**|Yasith Jayawardana et.al.|[2403.14058](http://arxiv.org/abs/2403.14058)|null|
+|**2024-03-20**|**Spatial Fairness: The Case for its Importance, Limitations of Existing Work, and Guidelines for Future Research**|Nripsuta Ani Saxena et.al.|[2403.14040](http://arxiv.org/abs/2403.14040)|null|
+|**2024-03-20**|**Pricing-driven Development and Operation of SaaS : Challenges and Opportunities**|Alejandro García-Fernández et.al.|[2403.14007](http://arxiv.org/abs/2403.14007)|null|
+|**2024-03-20**|**"This is not a data problem": Algorithms and Power in Public Higher Education in Canada**|Kelly McConvey et.al.|[2403.13969](http://arxiv.org/abs/2403.13969)|null|
+|**2024-03-20**|**Sequential Modeling of Complex Marine Navigation: Case Study on a Passenger Vessel (Student Abstract)**|Yimeng Fan et.al.|[2403.13909](http://arxiv.org/abs/2403.13909)|**[link](https://github.com/pagand/model_optimze_vessel)**|
+|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|null|
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786](http://arxiv.org/abs/2403.13786)|null|
 |**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765](http://arxiv.org/abs/2403.13765)|null|
 |**2024-03-20**|**Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**|Luca Giamattei et.al.|[2403.13729](http://arxiv.org/abs/2403.13729)|null|
 |**2024-03-20**|**Multimodal Variational Autoencoder for Low-cost Cardiac Hemodynamics Instability Detection**|Mohammod N. I. Suvon et.al.|[2403.13658](http://arxiv.org/abs/2403.13658)|null|
-|**2024-03-20**|**Adversarial Attacks and Defenses in Automated Control Systems: A Comprehensive Benchmark**|Vitaliy Pozdnyakov et.al.|[2403.13502](http://arxiv.org/abs/2403.13502)|null|
+|**2024-03-21**|**Adversarial Attacks and Defenses in Automated Control Systems: A Comprehensive Benchmark**|Vitaliy Pozdnyakov et.al.|[2403.13502](http://arxiv.org/abs/2403.13502)|null|
 |**2024-03-20**|**Uncertainty quantification for data-driven weather models**|Christopher Bülte et.al.|[2403.13458](http://arxiv.org/abs/2403.13458)|**[link](https://github.com/cbuelt/dduq)**|
 |**2024-03-20**|**IndiTag: An Online Media Bias Analysis and Annotation System Using Fine-Grained Bias Indicators**|Luyang Lin et.al.|[2403.13446](http://arxiv.org/abs/2403.13446)|null|
 |**2024-03-21**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331](http://arxiv.org/abs/2403.13331)|null|
