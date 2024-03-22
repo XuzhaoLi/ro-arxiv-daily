@@ -1,4 +1,4 @@
-## Updated on 2024.03.21
+## Updated on 2024.03.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -87,7 +87,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240322>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -108,9 +108,9 @@
 |**2024-03-20**|**Large Language Models meet Network Slicing Management and Orchestration**|Abdulhalim Dandoush et.al.|[2403.13721](http://arxiv.org/abs/2403.13721)|null|
 |**2024-03-20**|**SPTNet: An Efficient Alternative Framework for Generalized Category Discovery with Spatial Prompt Tuning**|Hongjun Wang et.al.|[2403.13684](http://arxiv.org/abs/2403.13684)|null|
 |**2024-03-20**|**PARAMANU-AYN: An Efficient Novel Generative and Instruction-tuned Language Model for Indian Legal Case Documents**|Mitodru Niyogi et.al.|[2403.13681](http://arxiv.org/abs/2403.13681)|null|
-|**2024-03-20**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679](http://arxiv.org/abs/2403.13679)|null|
+|**2024-03-21**|**RoleInteract: Evaluating the Social Interaction of Role-Playing Agents**|Hongzhan Chen et.al.|[2403.13679](http://arxiv.org/abs/2403.13679)|null|
 |**2024-03-20**|**Grounding Spatial Relations in Text-Only Language Models**|Gorka Azkune et.al.|[2403.13666](http://arxiv.org/abs/2403.13666)|**[link](https://github.com/gazkune/spatiallm)**|
-|**2024-03-20**|**Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**|Meet Doshi et.al.|[2403.13638](http://arxiv.org/abs/2403.13638)|null|
+|**2024-03-21**|**Do Not Worry if You Do Not Have Data: Building Pretrained Language Models Using Translationese**|Meet Doshi et.al.|[2403.13638](http://arxiv.org/abs/2403.13638)|null|
 |**2024-03-20**|**VL-Mamba: Exploring State Space Models for Multimodal Learning**|Yanyuan Qiao et.al.|[2403.13600](http://arxiv.org/abs/2403.13600)|null|
 |**2024-03-20**|**No more optimization rules: LLM-enabled policy-based multi-modal query optimizer (version 1)**|Yifan Wang et.al.|[2403.13597](http://arxiv.org/abs/2403.13597)|null|
 |**2024-03-19**|**LLMLingua-2: Data Distillation for Efficient and Faithful Task-Agnostic Prompt Compression**|Zhuoshi Pan et.al.|[2403.12968](http://arxiv.org/abs/2403.12968)|null|
@@ -674,7 +674,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240322>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -687,7 +687,7 @@
 |**2024-03-20**|**Adversarial Attacks and Defenses in Automated Control Systems: A Comprehensive Benchmark**|Vitaliy Pozdnyakov et.al.|[2403.13502](http://arxiv.org/abs/2403.13502)|null|
 |**2024-03-20**|**Uncertainty quantification for data-driven weather models**|Christopher Bülte et.al.|[2403.13458](http://arxiv.org/abs/2403.13458)|**[link](https://github.com/cbuelt/dduq)**|
 |**2024-03-20**|**IndiTag: An Online Media Bias Analysis and Annotation System Using Fine-Grained Bias Indicators**|Luyang Lin et.al.|[2403.13446](http://arxiv.org/abs/2403.13446)|null|
-|**2024-03-20**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331](http://arxiv.org/abs/2403.13331)|null|
+|**2024-03-21**|**AMP: Autoregressive Motion Prediction Revisited with Next Token Prediction for Autonomous Driving**|Xiaosong Jia et.al.|[2403.13331](http://arxiv.org/abs/2403.13331)|null|
 |**2024-03-20**|**AdaViPro: Region-based Adaptive Visual Prompt for Large-Scale Models Adapting**|Mengyu Yang et.al.|[2403.13282](http://arxiv.org/abs/2403.13282)|null|
 |**2024-03-20**|**Self-Supervised Class-Agnostic Motion Prediction with Spatial and Temporal Consistency Regularizations**|Kewei Wang et.al.|[2403.13261](http://arxiv.org/abs/2403.13261)|**[link](https://github.com/kwwcv/selfmotion)**|
 |**2024-03-20**|**A Rule-Compliance Path Planner for Lane-Merge Scenarios Based on Responsibility-Sensitive Safety**|Pengfei Lin et.al.|[2403.13251](http://arxiv.org/abs/2403.13251)|null|
@@ -1179,5 +1179,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240321>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240322>back to top</a>)</p>
 
