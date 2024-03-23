@@ -715,7 +715,7 @@
 |**2024-03-20**|**Pricing-driven Development and Operation of SaaS : Challenges and Opportunities**|Alejandro García-Fernández et.al.|[2403.14007](http://arxiv.org/abs/2403.14007)|null|
 |**2024-03-20**|**"This is not a data problem": Algorithms and Power in Public Higher Education in Canada**|Kelly McConvey et.al.|[2403.13969](http://arxiv.org/abs/2403.13969)|null|
 |**2024-03-20**|**Sequential Modeling of Complex Marine Navigation: Case Study on a Passenger Vessel (Student Abstract)**|Yimeng Fan et.al.|[2403.13909](http://arxiv.org/abs/2403.13909)|**[link](https://github.com/pagand/model_optimze_vessel)**|
-|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|null|
+|**2024-03-20**|**Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models**|Richard Osuala et.al.|[2403.13890](http://arxiv.org/abs/2403.13890)|**[link](https://github.com/richardobi/ccnet)**|
 |**2024-03-20**|**Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts**|Guangzeng Han et.al.|[2403.13786](http://arxiv.org/abs/2403.13786)|null|
 |**2024-03-20**|**Towards Principled Representation Learning from Videos for Reinforcement Learning**|Dipendra Misra et.al.|[2403.13765](http://arxiv.org/abs/2403.13765)|null|
 |**2024-03-20**|**Reinforcement Learning for Online Testing of Autonomous Driving Systems: a Replication and Extension Study**|Luca Giamattei et.al.|[2403.13729](http://arxiv.org/abs/2403.13729)|null|
