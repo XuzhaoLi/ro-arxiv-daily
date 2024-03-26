@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-24**|**On the Navier-Stokes equations and the Hamilton-Jacobi-Bellman equation on the group of volume preserving diffeomorphisms**|Xiang-Dong Li et.al.|[2403.15997](http://arxiv.org/abs/2403.15997)|null|
+|**2024-03-23**|**On Merton's Optimal Portfolio Problem under Sporadic Bankruptcy**|Yaacov Kopeliovich et.al.|[2403.15923](http://arxiv.org/abs/2403.15923)|null|
+|**2024-03-22**|**Transactive Local Energy Markets Enable Community-Level Resource Coordination Using Individual Rewards**|Daniel C. May et.al.|[2403.15617](http://arxiv.org/abs/2403.15617)|null|
+|**2024-03-19**|**Most Likely Sequence Generation for $n$ -Grams, Transformers, HMMs, and Markov Chains, by Using Rollout Algorithms**|Yuchao Li et.al.|[2403.15465](http://arxiv.org/abs/2403.15465)|null|
 |**2024-03-21**|**Conservative Linear Envelopes for High-Dimensional, Hamilton-Jacobi Reachability for Nonlinear Systems via the Hopf Formula**|Will Sharpless et.al.|[2403.14184](http://arxiv.org/abs/2403.14184)|null|
 |**2024-03-20**|**Optimal control of continuous-time symmetric systems with unknown dynamics and noisy measurements**|Hamed Taghavian et.al.|[2403.13605](http://arxiv.org/abs/2403.13605)|null|
 |**2024-03-19**|**Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models**|Quang Minh Bui et.al.|[2403.12923](http://arxiv.org/abs/2403.12923)|null|
@@ -87,6 +91,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**Iterative Refinement of Project-Level Code Context for Precise Code Generation with Compiler Feedback**|Zhangqian Bi et.al.|[2403.16792](http://arxiv.org/abs/2403.16792)|null|
+|**2024-03-25**|**All Artificial, Less Intelligence: GenAI through the Lens of Formal Verification**|Deepak Narayan Gadde et.al.|[2403.16750](http://arxiv.org/abs/2403.16750)|null|
+|**2024-03-25**|**A Robotic Skill Learning System Built Upon Diffusion Policies and Foundation Models**|Nils Ingelhag et.al.|[2403.16730](http://arxiv.org/abs/2403.16730)|null|
+|**2024-03-25**|**ProCQA: A Large-scale Community-based Programming Question Answering Dataset for Code Search**|Zehan Li et.al.|[2403.16702](http://arxiv.org/abs/2403.16702)|null|
+|**2024-03-25**|**Synapse: Learning Preferential Concepts from Visual Demonstrations**|Sadanand Modak et.al.|[2403.16689](http://arxiv.org/abs/2403.16689)|null|
+|**2024-03-25**|**Investigation of the effectiveness of applying ChatGPT in Dialogic Teaching Using Electroencephalography**|Jiayue Zhang et.al.|[2403.16687](http://arxiv.org/abs/2403.16687)|null|
+|**2024-03-25**|**RU22Fact: Optimizing Evidence for Multilingual Explainable Fact-Checking on Russia-Ukraine Conflict**|Yirong Zeng et.al.|[2403.16662](http://arxiv.org/abs/2403.16662)|**[link](https://github.com/zeng-yirong/ru22fact)**|
+|**2024-03-25**|**Grammatical vs Spelling Error Correction: An Investigation into the Responsiveness of Transformer-based Language Models using BART and MarianMT**|Rohit Raju et.al.|[2403.16655](http://arxiv.org/abs/2403.16655)|null|
+|**2024-03-25**|**CLHA: A Simple yet Effective Contrastive Learning Framework for Human Alignment**|Feiteng Fang et.al.|[2403.16649](http://arxiv.org/abs/2403.16649)|null|
+|**2024-03-25**|**Virtual Co-Pilot: Multimodal Large Language Model-enabled Quick-access Procedures for Single Pilot Operations**|Fan Li et.al.|[2403.16645](http://arxiv.org/abs/2403.16645)|null|
+|**2024-03-25**|**Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts**|Rabindra Lamsal et.al.|[2403.16614](http://arxiv.org/abs/2403.16614)|null|
+|**2024-03-25**|**Conversational Grounding: Annotation and Analysis of Grounding Acts and Grounding Units**|Biswesh Mohapatra et.al.|[2403.16609](http://arxiv.org/abs/2403.16609)|null|
+|**2024-03-25**|**TrustAI at SemEval-2024 Task 8: A Comprehensive Analysis of Multi-domain Machine Generated Text Detection Techniques**|Ashok Urlana et.al.|[2403.16592](http://arxiv.org/abs/2403.16592)|null|
+|**2024-03-25**|**Can Large Language Models (or Humans) Distill Text?**|Nicolas Audinet de Pieuchon et.al.|[2403.16584](http://arxiv.org/abs/2403.16584)|null|
+|**2024-03-25**|**NSINA: A News Corpus for Sinhala**|Hansi Hettiarachchi et.al.|[2403.16571](http://arxiv.org/abs/2403.16571)|**[link](https://github.com/sinhala-nlp/sinhala-headline-generation)**|
+|**2024-03-25**|**Elysium: Exploring Object-level Perception in Videos via MLLM**|Han Wang et.al.|[2403.16558](http://arxiv.org/abs/2403.16558)|**[link](https://github.com/hon-wong/elysium)**|
+|**2024-03-25**|**DOrA: 3D Visual Grounding with Order-Aware Referring**|Tung-Yu Wu et.al.|[2403.16539](http://arxiv.org/abs/2403.16539)|null|
+|**2024-03-25**|**Open-Set Recognition in the Age of Vision-Language Models**|Dimity Miller et.al.|[2403.16528](http://arxiv.org/abs/2403.16528)|null|
 |**2024-03-22**|**LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**|Yuzhang Shang et.al.|[2403.15388](http://arxiv.org/abs/2403.15388)|null|
 |**2024-03-22**|**Long-CLIP: Unlocking the Long-Text Capability of CLIP**|Beichen Zhang et.al.|[2403.15378](http://arxiv.org/abs/2403.15378)|null|
 |**2024-03-22**|**InternVideo2: Scaling Video Foundation Models for Multimodal Video Understanding**|Yi Wang et.al.|[2403.15377](http://arxiv.org/abs/2403.15377)|null|
@@ -712,6 +736,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
+|**2024-03-25**|**An LLM-Based Digital Twin for Optimizing Human-in-the Loop Systems**|Hanqing Yang et.al.|[2403.16809](http://arxiv.org/abs/2403.16809)|null|
+|**2024-03-25**|**A Blotto Game Approach to Ride-hailing Markets with Electric Vehicles**|Marko Maljkovic et.al.|[2403.16755](http://arxiv.org/abs/2403.16755)|null|
+|**2024-03-25**|**Synapse: Learning Preferential Concepts from Visual Demonstrations**|Sadanand Modak et.al.|[2403.16689](http://arxiv.org/abs/2403.16689)|null|
+|**2024-03-25**|**Instantaneous Visual Analysis of Blood Flow in Stenoses Using Morphological Similarity**|Pepe Eulzer et.al.|[2403.16653](http://arxiv.org/abs/2403.16653)|null|
+|**2024-03-25**|**Semantically Enriched Cross-Lingual Sentence Embeddings for Crisis-related Social Media Texts**|Rabindra Lamsal et.al.|[2403.16614](http://arxiv.org/abs/2403.16614)|null|
+|**2024-03-25**|**ROXIE: Defining a Robotic eXplanation and Interpretability Engine**|Francisco J. Rodríguez-Lera et.al.|[2403.16606](http://arxiv.org/abs/2403.16606)|null|
+|**2024-03-25**|**Hallucination Detection in Foundation Models for Decision-Making: A Flexible Definition and Review of the State of the Art**|Neeloy Chakraborty et.al.|[2403.16527](http://arxiv.org/abs/2403.16527)|null|
+|**2024-03-25**|**Harnessing the power of LLMs for normative reasoning in MASs**|Bastin Tony Roy Savarimuthu et.al.|[2403.16524](http://arxiv.org/abs/2403.16524)|null|
+|**2024-03-25**|**Learning To Guide Human Decision Makers With Vision-Language Models**|Debodeep Banerjee et.al.|[2403.16501](http://arxiv.org/abs/2403.16501)|null|
+|**2024-03-25**|**RCBEVDet: Radar-camera Fusion in Bird's Eye View for 3D Object Detection**|Zhiwei Lin et.al.|[2403.16440](http://arxiv.org/abs/2403.16440)|**[link](https://github.com/vdigpku/rcbevdet)**|
+|**2024-03-25**|**An image-computable model of speeded decision-making**|Paul I. Jaffe et.al.|[2403.16382](http://arxiv.org/abs/2403.16382)|null|
+|**2024-03-25**|**ProIn: Learning to Predict Trajectory Based on Progressive Interactions for Autonomous Driving**|Yinke Dong et.al.|[2403.16374](http://arxiv.org/abs/2403.16374)|null|
+|**2024-03-25**|**Impact of Video Compression Artifacts on Fisheye Camera Visual Perception Tasks**|Madhumitha Sakthi et.al.|[2403.16338](http://arxiv.org/abs/2403.16338)|null|
+|**2024-03-25**|**MEDDAP: Medical Dataset Enhancement via Diversified Augmentation Pipeline**|Yasamin Medghalchi et.al.|[2403.16335](http://arxiv.org/abs/2403.16335)|null|
+|**2024-03-24**|**Social Deliberation vs. Social Contracts in Self-Governing Voluntary Organisations**|Matthew Scott et.al.|[2403.16329](http://arxiv.org/abs/2403.16329)|null|
+|**2024-03-24**|**MRSch: Multi-Resource Scheduling for HPC**|Boyang Li et.al.|[2403.16298](http://arxiv.org/abs/2403.16298)|null|
+|**2024-03-24**|**Engineering Safety Requirements for Autonomous Driving with Large Language Models**|Ali Nouri et.al.|[2403.16289](http://arxiv.org/abs/2403.16289)|null|
+|**2024-03-24**|**Sample Empirical Likelihood Methods for Causal Inference**|Jingyue Huang et.al.|[2403.16283](http://arxiv.org/abs/2403.16283)|null|
+|**2024-03-24**|**The Evolution of Football Betting- A Machine Learning Approach to Match Outcome Forecasting and Bookmaker Odds Estimation**|Purnachandra Mandadapu et.al.|[2403.16282](http://arxiv.org/abs/2403.16282)|null|
 |**2024-03-22**|**Can large language models explore in-context?**|Akshay Krishnamurthy et.al.|[2403.15371](http://arxiv.org/abs/2403.15371)|null|
 |**2024-03-22**|**Augmented Reality based Simulated Data (ARSim) with multi-view consistency for AV perception networks**|Aqeel Anwar et.al.|[2403.15370](http://arxiv.org/abs/2403.15370)|null|
 |**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|null|
