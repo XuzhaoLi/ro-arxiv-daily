@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.27
+## Updated on 2024.03.28
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2024-03-25**|**State-Augmented Linear Games with Antagonistic Error for High-Dimensional, Nonlinear Hamilton-Jacobi Reachability**|Will Sharpless et.al.|[2403.16982](http://arxiv.org/abs/2403.16982)|null|
 |**2024-03-25**|**Semantic-Aware Remote Estimation of Multiple Markov Sources Under Constraints**|Jiping Luo et.al.|[2403.16855](http://arxiv.org/abs/2403.16855)|null|
 |**2024-03-24**|**On the Navier-Stokes equations and the Hamilton-Jacobi-Bellman equation on the group of volume preserving diffeomorphisms**|Xiang-Dong Li et.al.|[2403.15997](http://arxiv.org/abs/2403.15997)|null|
-|**2024-03-23**|**On Merton's Optimal Portfolio Problem under Sporadic Bankruptcy**|Yaacov Kopeliovich et.al.|[2403.15923](http://arxiv.org/abs/2403.15923)|null|
+|**2024-03-23**|**On Merton's Optimal Portfolio Problem under Sporadic Bankruptcy**|Yaacov Kopeliovich et.al.|[2403.15923](http://arxiv.org/abs/2403.15923)|**[link](https://github.com/mpokojovy/mertonabsorbing)**|
 |**2024-03-22**|**Transactive Local Energy Markets Enable Community-Level Resource Coordination Using Individual Rewards**|Daniel C. May et.al.|[2403.15617](http://arxiv.org/abs/2403.15617)|null|
 |**2024-03-19**|**Most Likely Sequence Generation for $n$ -Grams, Transformers, HMMs, and Markov Chains, by Using Rollout Algorithms**|Yuchao Li et.al.|[2403.15465](http://arxiv.org/abs/2403.15465)|null|
 |**2024-03-21**|**Conservative Linear Envelopes for High-Dimensional, Hamilton-Jacobi Reachability for Nonlinear Systems via the Hopf Formula**|Will Sharpless et.al.|[2403.14184](http://arxiv.org/abs/2403.14184)|null|
@@ -772,7 +772,7 @@ layout: default
 |**2024-03-26**|**LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**|Ruiji Liu et.al.|[2403.17774](http://arxiv.org/abs/2403.17774)|null|
 |**2024-03-26**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
 |**2024-03-26**|**Healthcare Data Governance, Privacy, and Security - A Conceptual Framework**|Amen Faridoon et.al.|[2403.17648](http://arxiv.org/abs/2403.17648)|null|
-|**2024-03-26**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647](http://arxiv.org/abs/2403.17647)|**[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)**|
+|**2024-03-27**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647](http://arxiv.org/abs/2403.17647)|**[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)**|
 |**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634](http://arxiv.org/abs/2403.17634)|null|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
 |**2024-03-26**|**Quadratic speed-ups in quantum kernelized binary classification**|Jungyun Lee et.al.|[2403.17453](http://arxiv.org/abs/2403.17453)|null|
@@ -781,7 +781,7 @@ layout: default
 |**2024-03-26**|**AIDE: An Automatic Data Engine for Object Detection in Autonomous Driving**|Mingfu Liang et.al.|[2403.17373](http://arxiv.org/abs/2403.17373)|null|
 |**2024-03-26**|**Addressing Myopic Constrained POMDP Planning with Recursive Dual Ascent**|Paula Stocco et.al.|[2403.17358](http://arxiv.org/abs/2403.17358)|null|
 |**2024-03-26**|**Deep Support Vectors**|Junhoo Lee et.al.|[2403.17329](http://arxiv.org/abs/2403.17329)|null|
-|**2024-03-26**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/abs/2403.17301)|**[link](https://github.com/gandolfczjh/3d2fool)**|
+|**2024-03-27**|**Physical 3D Adversarial Attacks against Monocular Depth Estimation in Autonomous Driving**|Junhao Zheng et.al.|[2403.17301](http://arxiv.org/abs/2403.17301)|**[link](https://github.com/gandolfczjh/3d2fool)**|
 |**2024-03-25**|**Review Ecosystems to access Educational XR Experiences: a Scoping Review**|Shaun Bangay et.al.|[2403.17243](http://arxiv.org/abs/2403.17243)|null|
 |**2024-03-25**|**SynFog: A Photo-realistic Synthetic Fog Dataset based on End-to-end Imaging Simulation for Advancing Real-World Defogging in Autonomous Driving**|Yiming Xie et.al.|[2403.17094](http://arxiv.org/abs/2403.17094)|null|
 |**2024-03-25**|**Towards Human-AI Deliberation: Design and Evaluation of LLM-Empowered Deliberative AI for AI-Assisted Decision-Making**|Shuai Ma et.al.|[2403.16812](http://arxiv.org/abs/2403.16812)|null|
