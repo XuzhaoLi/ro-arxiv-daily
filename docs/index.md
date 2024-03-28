@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**A Dynamic Programming Approach for Road Traffic Estimation**|Mattia Laurini et.al.|[2403.18561](http://arxiv.org/abs/2403.18561)|null|
+|**2024-03-26**|**Generalized Maximum Entropy Differential Dynamic Programming**|Yuichiro Aoyama et.al.|[2403.18130](http://arxiv.org/abs/2403.18130)|null|
 |**2024-03-26**|**Accuracy enhancement method for speech emotion recognition from spectrogram using temporal frequency correlation and positional information learning through knowledge transfer**|Jeong-Yoon Kim et.al.|[2403.17327](http://arxiv.org/abs/2403.17327)|null|
 |**2024-03-25**|**State-Augmented Linear Games with Antagonistic Error for High-Dimensional, Nonlinear Hamilton-Jacobi Reachability**|Will Sharpless et.al.|[2403.16982](http://arxiv.org/abs/2403.16982)|null|
 |**2024-03-25**|**Semantic-Aware Remote Estimation of Multiple Markov Sources Under Constraints**|Jiping Luo et.al.|[2403.16855](http://arxiv.org/abs/2403.16855)|null|
@@ -94,6 +96,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
+|**2024-03-27**|**ECoDepth: Effective Conditioning of Diffusion Models for Monocular Depth Estimation**|Suraj Patni et.al.|[2403.18807](http://arxiv.org/abs/2403.18807)|**[link](https://github.com/aradhye2002/ecodepth)**|
+|**2024-03-27**|**Is Modularity Transferable? A Case Study through the Lens of Knowledge Distillation**|Mateusz Klimaszewski et.al.|[2403.18804](http://arxiv.org/abs/2403.18804)|null|
+|**2024-03-27**|**Projective Methods for Mitigating Gender Bias in Pre-trained Language Models**|Hillary Dawkins et.al.|[2403.18803](http://arxiv.org/abs/2403.18803)|null|
+|**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802](http://arxiv.org/abs/2403.18802)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
+|**2024-03-27**|**Towards a World-English Language Model for On-Device Virtual Assistants**|Rricha Jalota et.al.|[2403.18783](http://arxiv.org/abs/2403.18783)|null|
+|**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778](http://arxiv.org/abs/2403.18778)|null|
+|**2024-03-27**|**ImageNet-D: Benchmarking Neural Network Robustness on Diffusion Synthetic Object**|Chenshuang Zhang et.al.|[2403.18775](http://arxiv.org/abs/2403.18775)|**[link](https://github.com/chenshuang-zhang/imagenet_d)**|
+|**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
+|**2024-03-27**|**MLDT: Multi-Level Decomposition for Complex Long-Horizon Robotic Task Planning with Open-Source Large Language Model**|Yike Wu et.al.|[2403.18760](http://arxiv.org/abs/2403.18760)|null|
+|**2024-03-27**|**CYCLE: Learning to Self-Refine the Code Generation**|Yangruibo Ding et.al.|[2403.18746](http://arxiv.org/abs/2403.18746)|**[link](https://github.com/arise-lab/cycle_oopsla_24)**|
+|**2024-03-27**|**Understanding the Learning Dynamics of Alignment with Human Feedback**|Shawn Im et.al.|[2403.18742](http://arxiv.org/abs/2403.18742)|null|
+|**2024-03-27**|**PhysicsAssistant: An LLM-Powered Interactive Learning Robot for Physics Lab Investigations**|Ehsan Latif et.al.|[2403.18721](http://arxiv.org/abs/2403.18721)|null|
+|**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
+|**2024-03-27**|**The Invalsi Benchmark: measuring Language Models Mathematical and Language understanding in Italian**|Andrea Esuli et.al.|[2403.18697](http://arxiv.org/abs/2403.18697)|null|
+|**2024-03-27**|**NL-ITI: Optimizing Probing and Intervention for Improvement of ITI Method**|Jakub Hoscilowicz et.al.|[2403.18680](http://arxiv.org/abs/2403.18680)|**[link](https://github.com/samsung/nl-iti)**|
+|**2024-03-27**|**An Exploratory Study on Upper-Level Computing Students' Use of Large Language Models as Tools in a Semester-Long Project**|Ben Arie Tanay et.al.|[2403.18679](http://arxiv.org/abs/2403.18679)|null|
+|**2024-03-27**|**SDSAT: Accelerating LLM Inference through Speculative Decoding with Semantic Adaptive Tokens**|Chengbo Liu et.al.|[2403.18647](http://arxiv.org/abs/2403.18647)|null|
+|**2024-03-27**|**To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models**|Zhefan Wang et.al.|[2403.18628](http://arxiv.org/abs/2403.18628)|null|
+|**2024-03-27**|**Vulnerability Detection with Code Language Models: How Far Are We?**|Yangruibo Ding et.al.|[2403.18624](http://arxiv.org/abs/2403.18624)|null|
 |**2024-03-26**|**OmniVid: A Generative Framework for Universal Video Understanding**|Junke Wang et.al.|[2403.17935](http://arxiv.org/abs/2403.17935)|**[link](https://github.com/wangjk666/omnivid)**|
 |**2024-03-26**|**Track Everything Everywhere Fast and Robustly**|Yunzhou Song et.al.|[2403.17931](http://arxiv.org/abs/2403.17931)|null|
 |**2024-03-26**|**MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution**|Wei Tao et.al.|[2403.17927](http://arxiv.org/abs/2403.17927)|null|
@@ -764,14 +786,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778](http://arxiv.org/abs/2403.18778)|null|
+|**2024-03-27**|**Mitigating Hallucinations in Large Vision-Language Models with Instruction Contrastive Decoding**|Xintong Wang et.al.|[2403.18715](http://arxiv.org/abs/2403.18715)|null|
+|**2024-03-27**|**Sampling-Based Motion Planning with Online Racing Line Generation for Autonomous Driving on Three-Dimensional Race Tracks**|Levent Ögretmen et.al.|[2403.18643](http://arxiv.org/abs/2403.18643)|null|
+|**2024-03-27**|**Modeling Sustainable City Trips: Integrating CO2 Emissions, Popularity, and Seasonality into Tourism Recommender Systems**|Ashmi Banerjee et.al.|[2403.18604](http://arxiv.org/abs/2403.18604)|null|
+|**2024-03-27**|**Modeling uncertainty for Gaussian Splatting**|Luca Savant et.al.|[2403.18476](http://arxiv.org/abs/2403.18476)|null|
+|**2024-03-27**|**Uncertainty-Aware SAR ATR: Defending Against Adversarial Attacks via Bayesian Neural Networks**|Tian Ye et.al.|[2403.18318](http://arxiv.org/abs/2403.18318)|null|
+|**2024-03-27**|**Manipulating Neural Path Planners via Slight Perturbations**|Zikang Xiong et.al.|[2403.18256](http://arxiv.org/abs/2403.18256)|null|
+|**2024-03-27**|**From Two-Dimensional to Three-Dimensional Environment with Q-Learning: Modeling Autonomous Navigation with Reinforcement Learning and no Libraries**|Ergon Cugler de Moraes Silva et.al.|[2403.18219](http://arxiv.org/abs/2403.18219)|null|
+|**2024-03-27**|**Preference-Based Planning in Stochastic Environments: From Partially-Ordered Temporal Goals to Most Preferred Policies**|Hazhar Rahmani et.al.|[2403.18212](http://arxiv.org/abs/2403.18212)|null|
+|**2024-03-27**|**Long and Short-Term Constraints Driven Safe Reinforcement Learning for Autonomous Driving**|Xuemin Hu et.al.|[2403.18209](http://arxiv.org/abs/2403.18209)|null|
+|**2024-03-27**|**Road Obstacle Detection based on Unknown Objectness Scores**|Chihiro Noguchi et.al.|[2403.18207](http://arxiv.org/abs/2403.18207)|null|
+|**2024-03-27**|**Integrating urban digital twins with cloud-based geospatial dashboards for coastal resilience planning: A case study in Florida**|Changjie Chen et.al.|[2403.18188](http://arxiv.org/abs/2403.18188)|null|
 |**2024-03-26**|**Low-Latency Neural Stereo Streaming**|Qiqi Hou et.al.|[2403.17879](http://arxiv.org/abs/2403.17879)|null|
-|**2024-03-26**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
+|**2024-03-27**|**Empowering Data Mesh with Federated Learning**|Haoyuan Li et.al.|[2403.17878](http://arxiv.org/abs/2403.17878)|**[link](https://github.com/haoyuan-l/fed_datamesh)**|
 |**2024-03-26**|**Counterfactual Fairness through Transforming Data Orthogonal to Bias**|Shuyi Chen et.al.|[2403.17852](http://arxiv.org/abs/2403.17852)|null|
 |**2024-03-26**|**Scenario-Based Curriculum Generation for Multi-Agent Autonomous Driving**|Axel Brunnbauer et.al.|[2403.17805](http://arxiv.org/abs/2403.17805)|**[link](https://github.com/autonomousdrivingexaminer/mats-gym)**|
-|**2024-03-26**|**Query Refinement for Diverse Top- $k$ Selection**|Felix S. Campbell et.al.|[2403.17786](http://arxiv.org/abs/2403.17786)|null|
+|**2024-03-27**|**Query Refinement for Diverse Top- $k$ Selection**|Felix S. Campbell et.al.|[2403.17786](http://arxiv.org/abs/2403.17786)|null|
 |**2024-03-26**|**LiDAR-Based Crop Row Detection Algorithm for Over-Canopy Autonomous Navigation in Agriculture Fields**|Ruiji Liu et.al.|[2403.17774](http://arxiv.org/abs/2403.17774)|null|
 |**2024-03-26**|**Optimization-based Prompt Injection Attack to LLM-as-a-Judge**|Jiawen Shi et.al.|[2403.17710](http://arxiv.org/abs/2403.17710)|null|
-|**2024-03-26**|**Healthcare Data Governance, Privacy, and Security - A Conceptual Framework**|Amen Faridoon et.al.|[2403.17648](http://arxiv.org/abs/2403.17648)|null|
+|**2024-03-26**|**Healthcare Data Governance, Privacy, and Security -- A Conceptual Framework**|Amen Faridoon et.al.|[2403.17648](http://arxiv.org/abs/2403.17648)|null|
 |**2024-03-27**|**Intrinsic Subgraph Generation for Interpretable Graph based Visual Question Answering**|Pascal Tilli et.al.|[2403.17647](http://arxiv.org/abs/2403.17647)|**[link](https://github.com/digitalphonetics/intrinsic-subgraph-generation-for-vqa)**|
 |**2024-03-26**|**Retentive Decision Transformer with Adaptive Masking for Reinforcement Learning based Recommendation Systems**|Siyu Wang et.al.|[2403.17634](http://arxiv.org/abs/2403.17634)|null|
 |**2024-03-26**|**UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps**|Maciej K Wozniak et.al.|[2403.17633](http://arxiv.org/abs/2403.17633)|null|
