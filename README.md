@@ -822,7 +822,7 @@
 |**2024-03-28**|**Data-Adaptive Tradeoffs among Multiple Risks in Distribution-Free Prediction**|Drew T. Nguyen et.al.|[2403.19605](http://arxiv.org/abs/2403.19605)|null|
 |**2024-03-28**|**Behavior Trees in Industrial Applications: A Case Study in Underground Explosive Charging**|Mattias Hallen et.al.|[2403.19602](http://arxiv.org/abs/2403.19602)|null|
 |**2024-03-28**|**Swarm Characteristics Classification Using Neural Networks**|Donald W. Peltier III et.al.|[2403.19572](http://arxiv.org/abs/2403.19572)|**[link](https://github.com/dwpeltier3/swarm-nn-tsc)**|
-|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/abs/2403.19461)|null|
+|**2024-03-28**|**Learning Sampling Distribution and Safety Filter for Autonomous Driving with VQ-VAE and Differentiable Optimization**|Simon Idoko et.al.|[2403.19461](http://arxiv.org/abs/2403.19461)|**[link](https://github.com/cisimon7/vqoptmain)**|
 |**2024-03-28**|**Transparent and Clinically Interpretable AI for Lung Cancer Detection in Chest X-Rays**|Amy Rafferty et.al.|[2403.19444](http://arxiv.org/abs/2403.19444)|null|
 |**2024-03-28**|**SubjectDrive: Scaling Generative Data in Autonomous Driving via Subject Control**|Binyuan Huang et.al.|[2403.19438](http://arxiv.org/abs/2403.19438)|null|
 |**2024-03-28**|**Learning a Formally Verified Control Barrier Function in Stochastic Environment**|Manan Tayal et.al.|[2403.19332](http://arxiv.org/abs/2403.19332)|null|
