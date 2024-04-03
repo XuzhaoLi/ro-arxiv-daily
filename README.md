@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Adversarially-Robust Inference on Trees via Belief Propagation**|Samuel B. Hopkins et.al.|[2404.00768](http://arxiv.org/abs/2404.00768)|null|
 |**2024-03-28**|**A Faster Algorithm for Pigeonhole Equal Sums**|Ce Jin et.al.|[2403.19117](http://arxiv.org/abs/2403.19117)|null|
 |**2024-03-27**|**Policy iteration for discrete-time systems with discounted costs: stability and near-optimality guarantees**|Jonathan de Brusse et.al.|[2403.19007](http://arxiv.org/abs/2403.19007)|null|
 |**2024-03-27**|**A Dynamic Programming Approach for Road Traffic Estimation**|Mattia Laurini et.al.|[2403.18561](http://arxiv.org/abs/2403.18561)|null|
@@ -105,6 +106,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Segment Any 3D Object with Language**|Seungjun Lee et.al.|[2404.02157](http://arxiv.org/abs/2404.02157)|null|
+|**2024-04-02**|**Iterated Learning Improves Compositionality in Large Vision-Language Models**|Chenhao Zheng et.al.|[2404.02145](http://arxiv.org/abs/2404.02145)|null|
+|**2024-04-02**|**Topic-based Watermarks for LLM-Generated Text**|Alexander Nemecek et.al.|[2404.02138](http://arxiv.org/abs/2404.02138)|null|
+|**2024-04-02**|**ViTamin: Designing Scalable Vision Models in the Vision-Language Era**|Jienneg Chen et.al.|[2404.02132](http://arxiv.org/abs/2404.02132)|**[link](https://github.com/beckschen/vitamin)**|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127](http://arxiv.org/abs/2404.02127)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**Exploring Automated Distractor Generation for Math Multiple-choice Questions via Large Language Models**|Wanyong Feng et.al.|[2404.02124](http://arxiv.org/abs/2404.02124)|null|
+|**2024-04-02**|**GINopic: Topic Modeling with Graph Isomorphism Network**|Suman Adhya et.al.|[2404.02115](http://arxiv.org/abs/2404.02115)|**[link](https://github.com/adhyasuman/ginopic)**|
+|**2024-04-02**|**CLAPNQ: Cohesive Long-form Answers from Passages in Natural Questions for RAG systems**|Sara Rosenthal et.al.|[2404.02103](http://arxiv.org/abs/2404.02103)|**[link](https://github.com/primeqa/clapnq)**|
+|**2024-04-02**|**Advancing LLM Reasoning Generalists with Preference Trees**|Lifan Yuan et.al.|[2404.02078](http://arxiv.org/abs/2404.02078)|**[link](https://github.com/openbmb/eurus)**|
+|**2024-04-02**|**Red-Teaming Segment Anything Model**|Krzysztof Jankowski et.al.|[2404.02067](http://arxiv.org/abs/2404.02067)|**[link](https://github.com/jankowskichristopher/red-teaming-segment-anything-model)**|
+|**2024-04-02**|**Digital Forgetting in Large Language Models: A Survey of Unlearning Methods**|Alberto Blanco-Justicia et.al.|[2404.02062](http://arxiv.org/abs/2404.02062)|null|
+|**2024-04-02**|**Long-context LLMs Struggle with Long In-context Learning**|Tianle Li et.al.|[2404.02060](http://arxiv.org/abs/2404.02060)|**[link](https://github.com/tiger-ai-lab/longiclbench)**|
+|**2024-04-02**|**IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT**|Junchen Fu et.al.|[2404.02059](http://arxiv.org/abs/2404.02059)|**[link](https://github.com/jjgenailab/iisan)**|
+|**2024-04-02**|**Deconstructing In-Context Learning: Understanding Prompts via Corruption**|Namrata Shivagunde et.al.|[2404.02054](http://arxiv.org/abs/2404.02054)|**[link](https://github.com/text-machine-lab/understanding_prompts_via_corruption)**|
+|**2024-04-02**|**A Survey on Large Language Model-Based Game Agents**|Sihao Hu et.al.|[2404.02039](http://arxiv.org/abs/2404.02039)|**[link](https://github.com/git-disl/awesome-llm-game-agent-papers)**|
+|**2024-04-02**|**MultiParaDetox: Extending Text Detoxification with Parallel Data to New Languages**|Daryna Dementieva et.al.|[2404.02037](http://arxiv.org/abs/2404.02037)|null|
+|**2024-04-02**|**Improving Retrieval Augmented Open-Domain Question-Answering with Vectorized Contexts**|Zhuo Chen et.al.|[2404.02022](http://arxiv.org/abs/2404.02022)|null|
+|**2024-04-02**|**Large Language Models for Orchestrating Bimanual Robots**|Kun Chu et.al.|[2404.02018](http://arxiv.org/abs/2404.02018)|null|
+|**2024-04-02**|**MuxServe: Flexible Multiplexing for Efficient Multiple LLM Serving**|Jiangfei Duan et.al.|[2404.02015](http://arxiv.org/abs/2404.02015)|null|
+|**2024-04-02**|**Dissecting Paraphrases: The Impact of Prompt Syntax and supplementary Information on Knowledge Retrieval from Pretrained Language Models**|Stephan Linzbach et.al.|[2404.01992](http://arxiv.org/abs/2404.01992)|null|
 |**2024-03-29**|**Unsolvable Problem Detection: Evaluating Trustworthiness of Vision Language Models**|Atsuyuki Miyai et.al.|[2403.20331](http://arxiv.org/abs/2403.20331)|**[link](https://github.com/atsumiyai/upd)**|
 |**2024-03-29**|**Are We on the Right Way for Evaluating Large Vision-Language Models?**|Lin Chen et.al.|[2403.20330](http://arxiv.org/abs/2403.20330)|null|
 |**2024-03-29**|**ReALM: Reference Resolution As Language Modeling**|Joel Ruben Antony Moniz et.al.|[2403.20329](http://arxiv.org/abs/2403.20329)|null|
@@ -837,6 +858,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**FLawN-T5: An Empirical Examination of Effective Instruction-Tuning Data Mixtures for Legal Reasoning**|Joel Niklaus et.al.|[2404.02127](http://arxiv.org/abs/2404.02127)|**[link](https://github.com/joelniklaus/lawinstruct)**|
+|**2024-04-02**|**Risk-Aware Real-Time Task Allocation for Stochastic Multi-Agent Systems under STL Specifications**|Maico H. W. Engelaar et.al.|[2404.02111](http://arxiv.org/abs/2404.02111)|null|
+|**2024-04-02**|**WcDT: World-centric Diffusion Transformer for Traffic Scene Generation**|Chen Yang et.al.|[2404.02082](http://arxiv.org/abs/2404.02082)|**[link](https://github.com/yangchen1997/wcdt)**|
+|**2024-04-02**|**A Survey on Large Language Model-Based Game Agents**|Sihao Hu et.al.|[2404.02039](http://arxiv.org/abs/2404.02039)|**[link](https://github.com/git-disl/awesome-llm-game-agent-papers)**|
+|**2024-04-02**|**Enhancing Portfolio Optimization with Transformer-GAN Integration: A Novel Approach in the Black-Litterman Framework**|Enmin Zhu et.al.|[2404.02029](http://arxiv.org/abs/2404.02029)|null|
+|**2024-04-02**|**DELAN: Dual-Level Alignment for Vision-and-Language Navigation by Cross-Modal Contrastive Learning**|Mengfei Du et.al.|[2404.01994](http://arxiv.org/abs/2404.01994)|**[link](https://github.com/mengfeidu/delan)**|
+|**2024-04-02**|**Heuristic Optimization of Amplifier Reconfiguration Process for Autonomous Driving Optical Networks**|Qizhi Qiu et.al.|[2404.01949](http://arxiv.org/abs/2404.01949)|null|
+|**2024-04-02**|**Improving Bird's Eye View Semantic Segmentation by Task Decomposition**|Tianhao Zhao et.al.|[2404.01925](http://arxiv.org/abs/2404.01925)|null|
+|**2024-04-02**|**A Rationale-centric Counterfactual Data Augmentation Method for Cross-Document Event Coreference Resolution**|Bowen Ding et.al.|[2404.01921](http://arxiv.org/abs/2404.01921)|null|
+|**2024-04-02**|**Neuromorphic Split Computing with Wake-Up Radios: Architecture and Design via Digital Twinning**|Jiechen Chen et.al.|[2404.01815](http://arxiv.org/abs/2404.01815)|null|
+|**2024-04-02**|**Analyzing the Single Event Upset Vulnerability of Binarized Neural Networks on SRAM FPGAs**|Ioanna Souvatzoglou et.al.|[2404.01757](http://arxiv.org/abs/2404.01757)|null|
+|**2024-04-02**|**Safe Interval RRT* for Scalable Multi-Robot Path Planning in Continuous Space**|Joonyeol Sim et.al.|[2404.01752](http://arxiv.org/abs/2404.01752)|null|
+|**2024-04-02**|**Exploring Latent Pathways: Enhancing the Interpretability of Autonomous Driving with a Variational Autoencoder**|Anass Bairouk et.al.|[2404.01750](http://arxiv.org/abs/2404.01750)|null|
+|**2024-04-02**|**Towards Scalable & Efficient Interaction-Aware Planning in Autonomous Vehicles using Knowledge Distillation**|Piyush Gupta et.al.|[2404.01746](http://arxiv.org/abs/2404.01746)|null|
+|**2024-04-02**|**Boosting Visual Recognition for Autonomous Driving in Real-world Degradations with Deep Channel Prior**|Zhanwen Liu et.al.|[2404.01703](http://arxiv.org/abs/2404.01703)|null|
+|**2024-04-02**|**JRDB-PanoTrack: An Open-world Panoptic Segmentation and Tracking Robotic Dataset in Crowded Human Environments**|Duy-Tho Le et.al.|[2404.01686](http://arxiv.org/abs/2404.01686)|null|
+|**2024-04-02**|**Collaborative Optimization of Wireless Communication and Computing Resource Allocation based on Multi-Agent Federated Weighting Deep Reinforcement Learning**|Junjie Wu et.al.|[2404.01638](http://arxiv.org/abs/2404.01638)|null|
+|**2024-04-02**|**Voice EHR: Introducing Multimodal Audio Data for Health**|James Anibal et.al.|[2404.01620](http://arxiv.org/abs/2404.01620)|null|
+|**2024-04-02**|**Haina Storage: A Decentralized Secure Storage Framework Based on Improved Blockchain Structure**|Zijian Zhou et.al.|[2404.01606](http://arxiv.org/abs/2404.01606)|**[link](https://github.com/Zijian-Zhou/Haina_Storage)**|
+|**2024-04-02**|**Language Model Guided Interpretable Video Action Reasoning**|Ning Wang et.al.|[2404.01591](http://arxiv.org/abs/2404.01591)|null|
 |**2024-03-29**|**Localising the Seizure Onset Zone from Single-Pulse Electrical Stimulation Responses with a Transformer**|Jamie Norris et.al.|[2403.20324](http://arxiv.org/abs/2403.20324)|**[link](https://github.com/norrisjamie23/localising_soz_from_spes)**|
 |**2024-03-29**|**Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain**|Burcu Sayin et.al.|[2403.20288](http://arxiv.org/abs/2403.20288)|null|
 |**2024-03-29**|**Optimal Policy Learning with Observational Data in Multi-Action Scenarios: Estimation, Risk Preference, and Potential Failures**|Giovanni Cerulli et.al.|[2403.20250](http://arxiv.org/abs/2403.20250)|null|
