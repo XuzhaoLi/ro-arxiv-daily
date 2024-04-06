@@ -26,7 +26,7 @@ layout: default
 |**2024-03-20**|**Optimal control of continuous-time symmetric systems with unknown dynamics and noisy measurements**|Hamed Taghavian et.al.|[2403.13605](http://arxiv.org/abs/2403.13605)|null|
 |**2024-03-19**|**Solving Combinatorial Pricing Problems using Embedded Dynamic Programming Models**|Quang Minh Bui et.al.|[2403.12923](http://arxiv.org/abs/2403.12923)|null|
 |**2024-03-18**|**AdaMER-CTC: Connectionist Temporal Classification with Adaptive Maximum Entropy Regularization for Automatic Speech Recognition**|SooHwan Eom et.al.|[2403.11578](http://arxiv.org/abs/2403.11578)|null|
-|**2024-03-17**|**Multiscale Quantile Regression with Local Error Control**|Zhi Liu et.al.|[2403.11356](http://arxiv.org/abs/2403.11356)|null|
+|**2024-03-17**|**Multiscale Quantile Regression with Local Error Control**|Zhi Liu et.al.|[2403.11356](http://arxiv.org/abs/2403.11356)|**[link](https://github.com/liuzhi1993/muscle)**|
 |**2024-03-15**|**Fast Generation of Feasible Trajectories in Direct Optimal Control**|David Kiessling et.al.|[2403.10115](http://arxiv.org/abs/2403.10115)|**[link](https://github.com/david0oo/fp_ddp_python)**|
 |**2024-03-14**|**Is Data All That Matters? The Role of Control Frequency for Learning-Based Sampled-Data Control of Uncertain Systems**|Ralf Römer et.al.|[2403.09504](http://arxiv.org/abs/2403.09504)|**[link](https://github.com/ralfroemer99/lb_sd)**|
 |**2024-03-14**|**Quantum Dynamic Programming**|Jeongrak Son et.al.|[2403.09187](http://arxiv.org/abs/2403.09187)|null|
@@ -112,7 +112,7 @@ layout: default
 |**2024-04-04**|**Visualization-of-Thought Elicits Spatial Reasoning in Large Language Models**|Wenshan Wu et.al.|[2404.03622](http://arxiv.org/abs/2404.03622)|null|
 |**2024-04-04**|**DeViDe: Faceted medical knowledge for improved medical vision-language pre-training**|Haozhe Luo et.al.|[2404.03618](http://arxiv.org/abs/2404.03618)|null|
 |**2024-04-04**|**Sailor: Open Language Models for South-East Asia**|Longxu Dou et.al.|[2404.03608](http://arxiv.org/abs/2404.03608)|**[link](https://github.com/sail-sg/sailor-llm)**|
-|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|null|
+|**2024-04-04**|**Mitigating the Impact of Outlier Channels for Language Model Quantization with Activation Regularization**|Aniruddha Nrusimha et.al.|[2404.03605](http://arxiv.org/abs/2404.03605)|**[link](https://github.com/aninrusimha/qat-pretrain)**|
 |**2024-04-04**|**Evaluating LLMs at Detecting Errors in LLM Responses**|Ryo Kamoi et.al.|[2404.03602](http://arxiv.org/abs/2404.03602)|**[link](https://github.com/psunlpgroup/realmistake)**|
 |**2024-04-04**|**Intent Detection and Entity Extraction from BioMedical Literature**|Ankan Mullick et.al.|[2404.03598](http://arxiv.org/abs/2404.03598)|**[link](https://github.com/bionlu-coling2024/biomed-ner-intent_detection)**|
 |**2024-04-04**|**ReFT: Representation Finetuning for Language Models**|Zhengxuan Wu et.al.|[2404.03592](http://arxiv.org/abs/2404.03592)|**[link](https://github.com/stanfordnlp/pyreft)**|
