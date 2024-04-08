@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**Forecasting with Neuro-Dynamic Programming**|Pedro Afonso Fernandes et.al.|[2404.03737](http://arxiv.org/abs/2404.03737)|null|
 |**2024-04-03**|**Reinforcement Learning in Categorical Cybernetics**|Jules Hedges et.al.|[2404.02688](http://arxiv.org/abs/2404.02688)|null|
 |**2024-04-03**|**Transformer-based Stagewise Decomposition for Large-Scale Multistage Stochastic Optimization**|Chanyeong Kim et.al.|[2404.02583](http://arxiv.org/abs/2404.02583)|null|
 |**2024-04-01**|**Versatile Navigation under Partial Observability via Value-guided Diffusion Policy**|Gengyu Zhang et.al.|[2404.02176](http://arxiv.org/abs/2404.02176)|null|
@@ -102,6 +103,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Who Evaluates the Evaluations? Objectively Scoring Text-to-Image Prompt Coherence Metrics with T2IScoreScore (TS2)**|Michael Saxon et.al.|[2404.04251](http://arxiv.org/abs/2404.04251)|null|
+|**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
+|**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237](http://arxiv.org/abs/2404.04237)|null|
+|**2024-04-05**|**player2vec: A Language Modeling Approach to Understand Player Behavior in Games**|Tianze Wang et.al.|[2404.04234](http://arxiv.org/abs/2404.04234)|null|
+|**2024-04-05**|**Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation**|Ji-Jia Wu et.al.|[2404.04231](http://arxiv.org/abs/2404.04231)|null|
+|**2024-04-05**|**Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation**|Tong Su et.al.|[2404.04212](http://arxiv.org/abs/2404.04212)|null|
+|**2024-04-05**|**Social Skill Training with Large Language Models**|Diyi Yang et.al.|[2404.04204](http://arxiv.org/abs/2404.04204)|null|
+|**2024-04-05**|**Do Sentence Transformers Learn Quasi-Geospatial Concepts from General Text?**|Ilya Ilyankou et.al.|[2404.04169](http://arxiv.org/abs/2404.04169)|null|
+|**2024-04-05**|**Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model**|Xinrun Du et.al.|[2404.04167](http://arxiv.org/abs/2404.04167)|null|
+|**2024-04-05**|**Dwell in the Beginning: How Language Models Embed Long Documents for Dense Retrieval**|João Coelho et.al.|[2404.04163](http://arxiv.org/abs/2404.04163)|null|
+|**2024-04-05**|**BEAR: A Unified Framework for Evaluating Relational Knowledge in Causal and Masked Language Models**|Jacek Wiland et.al.|[2404.04113](http://arxiv.org/abs/2404.04113)|**[link](https://github.com/lm-pub-quiz/lm-pub-quiz)**|
+|**2024-04-05**|**Large language models as oracles for instantiating ontologies with domain-specific knowledge**|Giovanni Ciatto et.al.|[2404.04108](http://arxiv.org/abs/2404.04108)|**[link](https://github.com/chistera4-expectation/knowledge-graphs)**|
+|**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
+|**2024-04-05**|**Label Propagation for Zero-shot Classification with Vision-Language Models**|Vladan Stojnić et.al.|[2404.04072](http://arxiv.org/abs/2404.04072)|**[link](https://github.com/vladan-stojnic/zlap)**|
+|**2024-04-05**|**Assessing the quality of information extraction**|Filip Seitl et.al.|[2404.04068](http://arxiv.org/abs/2404.04068)|null|
+|**2024-04-05**|**CLUE: A Clinical Language Understanding Evaluation for LLMs**|Amin Dada et.al.|[2404.04067](http://arxiv.org/abs/2404.04067)|null|
+|**2024-04-05**|**VoicePilot: Harnessing LLMs as Speech Interfaces for Physically Assistive Robots**|Akhil Padmanabha et.al.|[2404.04066](http://arxiv.org/abs/2404.04066)|null|
+|**2024-04-05**|**A Comparison of Methods for Evaluating Generative IR**|Negar Arabzadeh et.al.|[2404.04044](http://arxiv.org/abs/2404.04044)|**[link](https://github.com/narabzad/genir-evaluation)**|
+|**2024-04-05**|**Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer**|Hele-Andra Kuulmets et.al.|[2404.04042](http://arxiv.org/abs/2404.04042)|null|
+|**2024-04-05**|**Willkommens-Merkel, Chaos-Johnson, and Tore-Klose: Modeling the Evaluative Meaning of German Personal Name Compounds**|Annerose Eichel et.al.|[2404.04031](http://arxiv.org/abs/2404.04031)|null|
 |**2024-04-04**|**OpenNeRF: Open Set 3D Neural Scene Segmentation with Pixel-Wise Features and Rendered Novel Views**|Francis Engelmann et.al.|[2404.03650](http://arxiv.org/abs/2404.03650)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Capabilities of Large Language Models in Control Engineering: A Benchmark Study on GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra**|Darioush Kevian et.al.|[2404.03647](http://arxiv.org/abs/2404.03647)|null|
@@ -892,6 +913,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Enhancing IoT Intelligence: A Transformer-based Reinforcement Learning Methodology**|Gaith Rjoub et.al.|[2404.04205](http://arxiv.org/abs/2404.04205)|null|
+|**2024-04-05**|**Exploring Probabilistic Models for Semi-supervised Learning**|Jianfeng Wang et.al.|[2404.04199](http://arxiv.org/abs/2404.04199)|null|
+|**2024-04-05**|**You Can Use But Cannot Recognize: Preserving Visual Privacy in Deep Neural Networks**|Qiushi Li et.al.|[2404.04098](http://arxiv.org/abs/2404.04098)|null|
+|**2024-04-05**|**The forgotten pillar of sustainability: development of the S-assessment tool to evaluate Organizational Social Sustainability**|Alessandro Annarelli et.al.|[2404.04077](http://arxiv.org/abs/2404.04077)|null|
+|**2024-04-05**|**Bidirectional Human Interactive AI Framework for Social Robot Navigation**|Tuba Girgin et.al.|[2404.04069](http://arxiv.org/abs/2404.04069)|null|
+|**2024-04-05**|**Balancing Progress and Responsibility: A Synthesis of Sustainability Trade-Offs of AI-Based Systems**|Apoorva Nalini Pradeep Kumar et.al.|[2404.03995](http://arxiv.org/abs/2404.03995)|null|
+|**2024-04-05**|**Modulation of metastable ensemble dynamics explains optimal coding at moderate arousal in auditory cortex**|Lia Papadopoulos et.al.|[2404.03902](http://arxiv.org/abs/2404.03902)|null|
+|**2024-04-05**|**Enhancing Breast Cancer Diagnosis in Mammography: Evaluation and Integration of Convolutional Neural Networks and Explainable AI**|Maryam Ahmed et.al.|[2404.03892](http://arxiv.org/abs/2404.03892)|null|
+|**2024-04-05**|**Heterogeneous Multi-Agent Reinforcement Learning for Zero-Shot Scalable Collaboration**|Xudong Guo et.al.|[2404.03869](http://arxiv.org/abs/2404.03869)|null|
+|**2024-04-05**|**Scaling Motion Forecasting Models with Ensemble Distillation**|Scott Ettinger et.al.|[2404.03843](http://arxiv.org/abs/2404.03843)|null|
+|**2024-04-04**|**An ExplainableFair Framework for Prediction of Substance Use Disorder Treatment Completion**|Mary M. Lucas et.al.|[2404.03833](http://arxiv.org/abs/2404.03833)|null|
+|**2024-04-04**|**Language-Guided Instance-Aware Domain-Adaptive Panoptic Segmentation**|Elham Amin Mansour et.al.|[2404.03799](http://arxiv.org/abs/2404.03799)|null|
+|**2024-04-04**|**Dendrites endow artificial neural networks with accurate, robust and parameter-efficient learning**|Spyridon Chavlis et.al.|[2404.03708](http://arxiv.org/abs/2404.03708)|null|
 |**2024-04-04**|**AutoWebGLM: Bootstrap And Reinforce A Large Language Model-based Web Navigating Agent**|Hanyu Lai et.al.|[2404.03648](http://arxiv.org/abs/2404.03648)|**[link](https://github.com/thudm/autowebglm)**|
 |**2024-04-04**|**Is CLIP the main roadblock for fine-grained open-world perception?**|Lorenzo Bianchi et.al.|[2404.03539](http://arxiv.org/abs/2404.03539)|**[link](https://github.com/lorebianchi98/fg-clip)**|
 |**2024-04-04**|**Integrating Generative AI into Financial Market Prediction for Improved Decision Making**|Chang Che et.al.|[2404.03523](http://arxiv.org/abs/2404.03523)|null|
