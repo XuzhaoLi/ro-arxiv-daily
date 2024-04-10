@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Inexact Policy Iteration Methods for Large-Scale Markov Decision Processes**|Matilde Gargiani et.al.|[2404.06136](http://arxiv.org/abs/2404.06136)|null|
+|**2024-04-09**|**fastcpd: Fast Change Point Detection in R**|Xingchi Li et.al.|[2404.05933](http://arxiv.org/abs/2404.05933)|null|
 |**2024-04-08**|**Non-concave distributionally robust stochastic control in a discrete time finite horizon setting**|Ariel Neufeld et.al.|[2404.05230](http://arxiv.org/abs/2404.05230)|null|
 |**2024-04-07**|**Percentile Criterion Optimization in Offline Reinforcement Learning**|Elita A. Lobo et.al.|[2404.05055](http://arxiv.org/abs/2404.05055)|**[link](https://github.com/elitalobo/varframework)**|
 |**2024-04-05**|**A Ground Mobile Robot for Autonomous Terrestrial Laser Scanning-Based Field Phenotyping**|Javier Rodriguez-Sanchez et.al.|[2404.04404](http://arxiv.org/abs/2404.04404)|null|
@@ -106,6 +108,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**InternLM-XComposer2-4KHD: A Pioneering Large Vision-Language Model Handling Resolutions from 336 Pixels to 4K HD**|Xiaoyi Dong et.al.|[2404.06512](http://arxiv.org/abs/2404.06512)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2024-04-09**|**Can Feedback Enhance Semantic Grounding in Large Vision-Language Models?**|Yuan-Hong Liao et.al.|[2404.06510](http://arxiv.org/abs/2404.06510)|null|
+|**2024-04-09**|**On the Effect of (Near) Duplicate Subwords in Language Modelling**|Anton Schäfer et.al.|[2404.06508](http://arxiv.org/abs/2404.06508)|**[link](https://github.com/antonschafer/duplicate-subwords)**|
+|**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488](http://arxiv.org/abs/2404.06488)|null|
+|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480](http://arxiv.org/abs/2404.06480)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-09**|**Text-Based Reasoning About Vector Graphics**|Zhenhailong Wang et.al.|[2404.06479](http://arxiv.org/abs/2404.06479)|null|
+|**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
+|**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
+|**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411](http://arxiv.org/abs/2404.06411)|**[link](https://github.com/nec-research/agentquest)**|
+|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|null|
+|**2024-04-09**|**Apprentices to Research Assistants: Advancing Research with Large Language Models**|M. Namvarpour et.al.|[2404.06404](http://arxiv.org/abs/2404.06404)|null|
+|**2024-04-09**|**MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies**|Shengding Hu et.al.|[2404.06395](http://arxiv.org/abs/2404.06395)|**[link](https://github.com/openbmb/minicpm)**|
+|**2024-04-09**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|
+|**2024-04-09**|**Event Extraction in Basque: Typologically motivated Cross-Lingual Transfer-Learning Analysis**|Mikel Zubillaga et.al.|[2404.06392](http://arxiv.org/abs/2404.06392)|null|
+|**2024-04-09**|**Latent Distance Guided Alignment Training for Large Language Models**|Haotian Luo et.al.|[2404.06390](http://arxiv.org/abs/2404.06390)|null|
+|**2024-04-09**|**Model Generation from Requirements with LLMs: an Exploratory Study**|Alessio Ferrari et.al.|[2404.06371](http://arxiv.org/abs/2404.06371)|null|
+|**2024-04-09**|**Enhancing Decision Analysis with a Large Language Model: pyDecision a Comprehensive Library of MCDA Methods in Python**|Valdecy Pereira et.al.|[2404.06370](http://arxiv.org/abs/2404.06370)|null|
+|**2024-04-09**|**VISION2UI: A Real-World Dataset with Layout for Code Generation from UI Designs**|Yi Gui et.al.|[2404.06369](http://arxiv.org/abs/2404.06369)|null|
+|**2024-04-09**|**ClinLinker: Medical Entity Linking of Clinical Concept Mentions in Spanish**|Fernando Gallego et.al.|[2404.06367](http://arxiv.org/abs/2404.06367)|null|
+|**2024-04-09**|**Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation**|Sidra Aleem et.al.|[2404.06362](http://arxiv.org/abs/2404.06362)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
 |**2024-04-08**|**Comprehensive Study on German Language Models for Clinical and Biomedical Text Understanding**|Ahmad Idrissi-Yaghir et.al.|[2404.05694](http://arxiv.org/abs/2404.05694)|null|
@@ -936,7 +958,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-08**|**Dynamic Backtracking in GFlowNet: Enhancing Decision Steps with Reward-Dependent Adjustment Mechanisms**|Shuai Guo et.al.|[2404.05576](http://arxiv.org/abs/2404.05576)|null|
+|**2024-04-09**|**Graph Reinforcement Learning for Combinatorial Optimization: A Survey and Unifying Perspective**|Victor-Alexandru Darvariu et.al.|[2404.06492](http://arxiv.org/abs/2404.06492)|null|
+|**2024-04-09**|**Enhancing Decision Analysis with a Large Language Model: pyDecision a Comprehensive Library of MCDA Methods in Python**|Valdecy Pereira et.al.|[2404.06370](http://arxiv.org/abs/2404.06370)|null|
+|**2024-04-09**|**HPNet: Dynamic Trajectory Forecasting with Historical Prediction Attention**|Xiaolong Tang et.al.|[2404.06351](http://arxiv.org/abs/2404.06351)|**[link](https://github.com/xiaolongtang23/hpnet)**|
+|**2024-04-09**|**AgentsCoDriver: Large Language Model Empowered Collaborative Driving with Lifelong Learning**|Senkang Hu et.al.|[2404.06345](http://arxiv.org/abs/2404.06345)|null|
+|**2024-04-09**|**Label-Efficient 3D Object Detection For Road-Side Units**|Minh-Quan Dao et.al.|[2404.06256](http://arxiv.org/abs/2404.06256)|null|
+|**2024-04-09**|**Towards Autonomous Driving with Small-Scale Cars: A Survey of Recent Development**|Dianzhao Li et.al.|[2404.06229](http://arxiv.org/abs/2404.06229)|null|
+|**2024-04-09**|**Intelligence and Motion Models of Continuum Robots: an Overview**|Oxana Shamilyan et.al.|[2404.06171](http://arxiv.org/abs/2404.06171)|null|
+|**2024-04-09**|**Distributed Artificial Intelligence as a Means to Achieve Self-X-Functions for Increasing Resilience: the First Steps**|Oxana Shamilyan et.al.|[2404.06159](http://arxiv.org/abs/2404.06159)|null|
+|**2024-04-09**|**Hierarchical Insights: Exploiting Structural Similarities for Reliable 3D Semantic Segmentation**|Mariella Dreissig et.al.|[2404.06124](http://arxiv.org/abs/2404.06124)|null|
+|**2024-04-09**|**Passive None-line-of-sight imaging with arbitrary scene condition and detection pattern in small amount of prior data**|Yunting Gui et.al.|[2404.06015](http://arxiv.org/abs/2404.06015)|null|
+|**2024-04-09**|**Feel-Good Thompson Sampling for Contextual Dueling Bandits**|Xuheng Li et.al.|[2404.06013](http://arxiv.org/abs/2404.06013)|null|
+|**2024-04-09**|**Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis**|Junlin Hou et.al.|[2404.05997](http://arxiv.org/abs/2404.05997)|null|
+|**2024-04-09**|**Deep Reinforcement Learning for Personalized Diagnostic Decision Pathways Using Electronic Health Records: A Comparative Study on Anemia and Systemic Lupus Erythematosus**|Lillian Muyama et.al.|[2404.05913](http://arxiv.org/abs/2404.05913)|null|
+|**2024-04-08**|**ClusterRadar: an Interactive Web-Tool for the Multi-Method Exploration of Spatial Clusters Over Time**|Lee Mason et.al.|[2404.05897](http://arxiv.org/abs/2404.05897)|null|
+|**2024-04-08**|**Model Predictive Control based Energy Management System for Home Energy Resiliency**|Ninad Gaikwad et.al.|[2404.05873](http://arxiv.org/abs/2404.05873)|null|
+|**2024-04-08**|**Approaching Emergent Risks: An Exploratory Study into Artificial Intelligence Risk Management within Financial Organisations**|Finlay McGee et.al.|[2404.05847](http://arxiv.org/abs/2404.05847)|null|
+|**2024-04-08**|**Attention-Driven Multi-Agent Reinforcement Learning: Enhancing Decisions with Expertise-Informed Tasks**|Andre R Kuroswiski et.al.|[2404.05840](http://arxiv.org/abs/2404.05840)|null|
+|**2024-04-09**|**Dynamic Backtracking in GFlowNets: Enhancing Decision Steps with Reward-Dependent Adjustment Mechanisms**|Shuai Guo et.al.|[2404.05576](http://arxiv.org/abs/2404.05576)|null|
 |**2024-04-08**|**Evaluating Interventional Reasoning Capabilities of Large Language Models**|Tejas Kasetty et.al.|[2404.05545](http://arxiv.org/abs/2404.05545)|null|
 |**2024-04-08**|**Decisioning Workshop 2023**|Mario Lezoche et.al.|[2404.05495](http://arxiv.org/abs/2404.05495)|null|
 |**2024-04-08**|**What Are the Odds? Improving the foundations of Statistical Model Checking**|Tobias Meggendorfer et.al.|[2404.05424](http://arxiv.org/abs/2404.05424)|null|
