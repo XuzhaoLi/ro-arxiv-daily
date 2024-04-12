@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**Parameterized Fast and Safe Tracking (FaSTrack) using Deepreach**|Hyun Joe Jeong et.al.|[2404.07431](http://arxiv.org/abs/2404.07431)|null|
 |**2024-04-09**|**Inexact Policy Iteration Methods for Large-Scale Markov Decision Processes**|Matilde Gargiani et.al.|[2404.06136](http://arxiv.org/abs/2404.06136)|null|
 |**2024-04-09**|**fastcpd: Fast Change Point Detection in R**|Xingchi Li et.al.|[2404.05933](http://arxiv.org/abs/2404.05933)|**[link](https://github.com/doccstat/fastcpd)**|
 |**2024-04-08**|**Non-concave distributionally robust stochastic control in a discrete time finite horizon setting**|Ariel Neufeld et.al.|[2404.05230](http://arxiv.org/abs/2404.05230)|**[link](https://github.com/juliansester/robust-hedging-finite-horizon)**|
@@ -108,6 +109,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**OpenBias: Open-set Bias Detection in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2404.07990](http://arxiv.org/abs/2404.07990)|null|
+|**2024-04-11**|**Any2Point: Empowering Any-modality Large Models for Efficient 3D Understanding**|Yiwen Tang et.al.|[2404.07989](http://arxiv.org/abs/2404.07989)|**[link](https://github.com/ivan-tang-3d/any2point)**|
+|**2024-04-11**|**Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Representation Learning**|Simon Schrodi et.al.|[2404.07983](http://arxiv.org/abs/2404.07983)|null|
+|**2024-04-11**|**Language Imbalance Can Boost Cross-lingual Generalisation**|Anton Schäfer et.al.|[2404.07982](http://arxiv.org/abs/2404.07982)|**[link](https://github.com/antonschafer/xling-imbalance)**|
+|**2024-04-11**|**Manipulating Large Language Models to Increase Product Visibility**|Aounon Kumar et.al.|[2404.07981](http://arxiv.org/abs/2404.07981)|**[link](https://github.com/aounon/llm-rank-optimizer)**|
+|**2024-04-11**|**LLoCO: Learning Long Contexts Offline**|Sijun Tan et.al.|[2404.07979](http://arxiv.org/abs/2404.07979)|null|
+|**2024-04-11**|**Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models**|Haotian Zhang et.al.|[2404.07973](http://arxiv.org/abs/2404.07973)|null|
+|**2024-04-11**|**Rho-1: Not All Tokens Are What You Need**|Zhenghao Lin et.al.|[2404.07965](http://arxiv.org/abs/2404.07965)|**[link](https://github.com/microsoft/rho)**|
+|**2024-04-11**|**On Unified Prompt Tuning for Request Quality Assurance in Public Code Review**|Xinyu Chen et.al.|[2404.07942](http://arxiv.org/abs/2404.07942)|null|
+|**2024-04-11**|**Leveraging Large Language Models (LLMs) to Support Collaborative Human-AI Online Risk Data Annotation**|Jinkyung Park et.al.|[2404.07926](http://arxiv.org/abs/2404.07926)|null|
+|**2024-04-11**|**LaVy: Vietnamese Multimodal Large Language Model**|Chi Tran et.al.|[2404.07922](http://arxiv.org/abs/2404.07922)|null|
+|**2024-04-11**|**AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs**|Zeyi Liao et.al.|[2404.07921](http://arxiv.org/abs/2404.07921)|**[link](https://github.com/osu-nlp-group/amplegcg)**|
+|**2024-04-11**|**DesignQA: A Multimodal Benchmark for Evaluating Large Language Models' Understanding of Engineering Documentation**|Anna C. Doris et.al.|[2404.07917](http://arxiv.org/abs/2404.07917)|**[link](https://github.com/anniedoris/design_qa)**|
+|**2024-04-11**|**HGRN2: Gated Linear RNNs with State Expansion**|Zhen Qin et.al.|[2404.07904](http://arxiv.org/abs/2404.07904)|**[link](https://github.com/opennlplab/hgrn2)**|
+|**2024-04-11**|**High-Dimension Human Value Representation in Large Language Models**|Samuel Cahyawijaya et.al.|[2404.07900](http://arxiv.org/abs/2404.07900)|null|
+|**2024-04-11**|**Guiding Large Language Models to Post-Edit Machine Translation with Error Annotations**|Dayeon Ki et.al.|[2404.07851](http://arxiv.org/abs/2404.07851)|**[link](https://github.com/dayeonki/mt_feedback)**|
+|**2024-04-11**|**On Training Data Influence of GPT Models**|Qingyi Liu et.al.|[2404.07840](http://arxiv.org/abs/2404.07840)|null|
+|**2024-04-11**|**RecurrentGemma: Moving Past Transformers for Efficient Open Language Models**|Aleksandar Botev et.al.|[2404.07839](http://arxiv.org/abs/2404.07839)|null|
+|**2024-04-11**|**Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution**|Handi Deng et.al.|[2404.07833](http://arxiv.org/abs/2404.07833)|null|
+|**2024-04-11**|**Heron-Bench: A Benchmark for Evaluating Vision Language Models in Japanese**|Yuichi Inoue et.al.|[2404.07824](http://arxiv.org/abs/2404.07824)|**[link](https://github.com/turingmotors/heron)**|
 |**2024-04-10**|**BRAVE: Broadening the visual encoding of vision-language models**|Oğuzhan Fatih Kar et.al.|[2404.07204](http://arxiv.org/abs/2404.07204)|null|
 |**2024-04-10**|**UMBRAE: Unified Multimodal Decoding of Brain Signals**|Weihao Xia et.al.|[2404.07202](http://arxiv.org/abs/2404.07202)|null|
 |**2024-04-10**|**Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic**|Sachin Goyal et.al.|[2404.07177](http://arxiv.org/abs/2404.07177)|**[link](https://github.com/locuslab/scaling_laws_data_filtering)**|
@@ -978,6 +999,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-11**|**The Power of Properties: Uncovering the Influential Factors in Emotion Classification**|Tim Büchner et.al.|[2404.07867](http://arxiv.org/abs/2404.07867)|null|
+|**2024-04-11**|**Sparse Laneformer**|Ji Liu et.al.|[2404.07821](http://arxiv.org/abs/2404.07821)|null|
+|**2024-04-11**|**NeuroNCAP: Photorealistic Closed-loop Safety Testing for Autonomous Driving**|William Ljungbergh et.al.|[2404.07762](http://arxiv.org/abs/2404.07762)|**[link](https://github.com/wljungbergh/neuroncap)**|
+|**2024-04-11**|**Enhancing Valuation of Variable Annuities in Lévy Models with Stochastic Interest Rate**|Ludovic Goudenège et.al.|[2404.07658](http://arxiv.org/abs/2404.07658)|null|
+|**2024-04-11**|**Homography Guided Temporal Fusion for Road Line and Marking Segmentation**|Shan Wang et.al.|[2404.07626](http://arxiv.org/abs/2404.07626)|**[link](https://github.com/shanwang-shan/homofusion)**|
+|**2024-04-11**|**International environmental treaties: An honest or a misguided effort**|Reza Hafezi et.al.|[2404.07574](http://arxiv.org/abs/2404.07574)|null|
+|**2024-04-11**|**Can Vehicle Motion Planning Generalize to Realistic Long-tail Scenarios?**|Marcel Hallgarten et.al.|[2404.07569](http://arxiv.org/abs/2404.07569)|null|
+|**2024-04-11**|**PillarTrack: Redesigning Pillar-based Transformer Network for Single Object Tracking on Point Clouds**|Weisheng Xu et.al.|[2404.07495](http://arxiv.org/abs/2404.07495)|**[link](https://github.com/stiphyjay/pillartrack)**|
+|**2024-04-11**|**WESE: Weak Exploration to Strong Exploitation for LLM Agents**|Xu Huang et.al.|[2404.07456](http://arxiv.org/abs/2404.07456)|null|
+|**2024-04-11**|**Data-Driven Portfolio Management for Motion Pictures Industry: A New Data-Driven Optimization Methodology Using a Large Language Model as the Expert**|Mohammad Alipour-Vaezi et.al.|[2404.07434](http://arxiv.org/abs/2404.07434)|null|
+|**2024-04-11**|**Diversity's Double-Edged Sword: Analyzing Race's Effect on Remote Pair Programming Interactions**|Shandler A. Mason et.al.|[2404.07427](http://arxiv.org/abs/2404.07427)|null|
+|**2024-04-10**|**Structured Reinforcement Learning for Media Streaming at the Wireless Edge**|Archana Bura et.al.|[2404.07315](http://arxiv.org/abs/2404.07315)|null|
+|**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|null|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
