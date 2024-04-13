@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.12
+## Updated on 2024.04.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1011,7 +1011,7 @@ layout: default
 |**2024-04-11**|**Data-Driven Portfolio Management for Motion Pictures Industry: A New Data-Driven Optimization Methodology Using a Large Language Model as the Expert**|Mohammad Alipour-Vaezi et.al.|[2404.07434](http://arxiv.org/abs/2404.07434)|null|
 |**2024-04-11**|**Diversity's Double-Edged Sword: Analyzing Race's Effect on Remote Pair Programming Interactions**|Shandler A. Mason et.al.|[2404.07427](http://arxiv.org/abs/2404.07427)|null|
 |**2024-04-10**|**Structured Reinforcement Learning for Media Streaming at the Wireless Edge**|Archana Bura et.al.|[2404.07315](http://arxiv.org/abs/2404.07315)|null|
-|**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|null|
+|**2024-04-10**|**Sequential Decision Making with Expert Demonstrations under Unobserved Heterogeneity**|Vahid Balazadeh et.al.|[2404.07266](http://arxiv.org/abs/2404.07266)|**[link](https://github.com/vdblm/ExPerior)**|
 |**2024-04-10**|**Reward Learning from Suboptimal Demonstrations with Applications in Surgical Electrocautery**|Zohre Karimi et.al.|[2404.07185](http://arxiv.org/abs/2404.07185)|null|
 |**2024-04-10**|**Machine learning-based similarity measure to forecast M&A from patent data**|Giambattista Albora et.al.|[2404.07179](http://arxiv.org/abs/2404.07179)|null|
 |**2024-04-10**|**Rethinking Out-of-Distribution Detection for Reinforcement Learning: Advancing Methods for Evaluation and Detection**|Linas Nasvytis et.al.|[2404.07099](http://arxiv.org/abs/2404.07099)|**[link](https://github.com/linasnas/dexter)**|
