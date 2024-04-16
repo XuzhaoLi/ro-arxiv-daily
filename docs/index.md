@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1027,7 +1027,7 @@ layout: default
 |**2024-04-12**|**Maturity of Vehicle Digital Twins: From Monitoring to Enabling Autonomous Driving**|Robert Klar et.al.|[2404.08438](http://arxiv.org/abs/2404.08438)|null|
 |**2024-04-12**|**SIR-RL: Reinforcement Learning for Optimized Policy Control during Epidemiological Outbreaks in Emerging Market and Developing Economies**|Maeghal Jain et.al.|[2404.08423](http://arxiv.org/abs/2404.08423)|null|
 |**2024-04-12**|**Collective Bayesian Decision-Making in a Swarm of Miniaturized Robots for Surface Inspection**|Thiemen Siemensma et.al.|[2404.08390](http://arxiv.org/abs/2404.08390)|null|
-|**2024-04-12**|**Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data**|Nils Lehmann et.al.|[2404.08325](http://arxiv.org/abs/2404.08325)|null|
+|**2024-04-12**|**Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data**|Nils Lehmann et.al.|[2404.08325](http://arxiv.org/abs/2404.08325)|**[link](https://github.com/nilsleh/tropical_cyclone_uq)**|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271](http://arxiv.org/abs/2404.08271)|null|
 |**2024-04-12**|**Enhancing Fairness and Performance in Machine Learning Models: A Multi-Task Learning Approach with Monte-Carlo Dropout and Pareto Optimality**|Khadija Zanna et.al.|[2404.08230](http://arxiv.org/abs/2404.08230)|null|
 |**2024-04-11**|**Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**|Md Nahid Sadik et.al.|[2404.08081](http://arxiv.org/abs/2404.08081)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.04.15
+## Updated on 2024.04.16
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -112,7 +112,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -1024,7 +1024,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1036,7 +1036,7 @@
 |**2024-04-12**|**Maturity of Vehicle Digital Twins: From Monitoring to Enabling Autonomous Driving**|Robert Klar et.al.|[2404.08438](http://arxiv.org/abs/2404.08438)|null|
 |**2024-04-12**|**SIR-RL: Reinforcement Learning for Optimized Policy Control during Epidemiological Outbreaks in Emerging Market and Developing Economies**|Maeghal Jain et.al.|[2404.08423](http://arxiv.org/abs/2404.08423)|null|
 |**2024-04-12**|**Collective Bayesian Decision-Making in a Swarm of Miniaturized Robots for Surface Inspection**|Thiemen Siemensma et.al.|[2404.08390](http://arxiv.org/abs/2404.08390)|null|
-|**2024-04-12**|**Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data**|Nils Lehmann et.al.|[2404.08325](http://arxiv.org/abs/2404.08325)|null|
+|**2024-04-12**|**Uncertainty Aware Tropical Cyclone Wind Speed Estimation from Satellite Data**|Nils Lehmann et.al.|[2404.08325](http://arxiv.org/abs/2404.08325)|**[link](https://github.com/nilsleh/tropical_cyclone_uq)**|
 |**2024-04-12**|**Transfer Learning Study of Motion Transformer-based Trajectory Predictions**|Lars Ullrich et.al.|[2404.08271](http://arxiv.org/abs/2404.08271)|null|
 |**2024-04-12**|**Enhancing Fairness and Performance in Machine Learning Models: A Multi-Task Learning Approach with Monte-Carlo Dropout and Pareto Optimality**|Khadija Zanna et.al.|[2404.08230](http://arxiv.org/abs/2404.08230)|null|
 |**2024-04-11**|**Real-Time Detection and Analysis of Vehicles and Pedestrians using Deep Learning**|Md Nahid Sadik et.al.|[2404.08081](http://arxiv.org/abs/2404.08081)|null|
@@ -1789,5 +1789,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240415>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
 
