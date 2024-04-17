@@ -1,4 +1,4 @@
-## Updated on 2024.04.16
+## Updated on 2024.04.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -113,7 +113,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -139,6 +139,8 @@
 |**2024-04-15**|**A Self-feedback Knowledge Elicitation Approach for Chemical Reaction Predictions**|Pengfei Liu et.al.|[2404.09606](http://arxiv.org/abs/2404.09606)|**[link](https://github.com/ai-hpc-research-team/slm4crp)**|
 |**2024-04-15**|**Improving Recall of Large Language Models: A Model Collaboration Approach for Relational Triple Extraction**|Zepeng Ding et.al.|[2404.09593](http://arxiv.org/abs/2404.09593)|null|
 |**2024-04-15**|**Modelling Language**|Jumbly Grindrod et.al.|[2404.09579](http://arxiv.org/abs/2404.09579)|null|
+|**2024-04-15**|**Transformers, Contextualism, and Polysemy**|Jumbly Grindrod et.al.|[2404.09577](http://arxiv.org/abs/2404.09577)|null|
+|**2024-04-15**|**Large language models and linguistic intentionality**|Jumbly Grindrod et.al.|[2404.09576](http://arxiv.org/abs/2404.09576)|null|
 |**2024-04-12**|**Probing the 3D Awareness of Visual Foundation Models**|Mohamed El Banani et.al.|[2404.08636](http://arxiv.org/abs/2404.08636)|**[link](https://github.com/mbanani/probe3d)**|
 |**2024-04-12**|**Pre-training Small Base LMs with Fewer Tokens**|Sunny Sanyal et.al.|[2404.08634](http://arxiv.org/abs/2404.08634)|**[link](https://github.com/sanyalsunny111/llm-inheritune)**|
 |**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631](http://arxiv.org/abs/2404.08631)|null|
@@ -1045,7 +1047,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1071,6 +1073,7 @@
 |**2024-04-13**|**Voting Participation and Engagement in Blockchain-Based Fan Tokens**|Lennart Ante et.al.|[2404.08906](http://arxiv.org/abs/2404.08906)|null|
 |**2024-04-12**|**WROOM: An Autonomous Driving Approach for Off-Road Navigation**|Dvij Kalaria et.al.|[2404.08855](http://arxiv.org/abs/2404.08855)|null|
 |**2024-04-12**|**A Typology of Decision-Making Tasks for Visualization**|Camelia D. Brumar et.al.|[2404.08812](http://arxiv.org/abs/2404.08812)|null|
+|**2024-04-12**|**Semantic Approach to Quantifying the Consistency of Diffusion Model Image Generation**|Brinnae Bent et.al.|[2404.08799](http://arxiv.org/abs/2404.08799)|null|
 |**2024-04-12**|**FusionPortableV2: A Unified Multi-Sensor Dataset for Generalized SLAM Across Diverse Platforms and Scalable Environments**|Hexiang Wei et.al.|[2404.08563](http://arxiv.org/abs/2404.08563)|null|
 |**2024-04-12**|**Leveraging Multi-AI Agents for Cross-Domain Knowledge Discovery**|Shiva Aryal et.al.|[2404.08511](http://arxiv.org/abs/2404.08511)|null|
 |**2024-04-12**|**Prescribing Optimal Health-Aware Operation for Urban Air Mobility with Deep Reinforcement Learning**|Mina Montazeri et.al.|[2404.08497](http://arxiv.org/abs/2404.08497)|null|
@@ -1830,5 +1833,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240416>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
 
