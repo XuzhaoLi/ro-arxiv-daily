@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Zero-Sum Games for Volterra Integral Equations and Viscosity Solutions of Path-Dependent Hamilton-Jacobi Equations**|Mikhail I. Gomoyunov et.al.|[2404.10428](http://arxiv.org/abs/2404.10428)|null|
+|**2024-04-16**|**Urban Water Sprinkler Routing: A Multi-Depot Mixed Capacitated Arc Routing Problem Incorporating Real-Time Demands**|Hongtai Yang et.al.|[2404.10230](http://arxiv.org/abs/2404.10230)|null|
 |**2024-04-13**|**Fast Gradient Computation for Gromov-Wasserstein Distance**|Wei Zhang et.al.|[2404.08970](http://arxiv.org/abs/2404.08970)|null|
 |**2024-04-12**|**A Parametric Approach for Solving Convex Quadratic Optimization with Indicators Over Trees**|Aaresh Bhathena et.al.|[2404.08178](http://arxiv.org/abs/2404.08178)|null|
 |**2024-04-06**|**Viscosity solutions for mean field optimal switching with a two-time-scale Markov chain**|Tian Chen et.al.|[2404.07998](http://arxiv.org/abs/2404.07998)|null|
@@ -119,6 +121,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776](http://arxiv.org/abs/2404.10776)|null|
+|**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
+|**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
+|**2024-04-16**|**Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**|Shusheng Xu et.al.|[2404.10719](http://arxiv.org/abs/2404.10719)|null|
+|**2024-04-16**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
+|**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704](http://arxiv.org/abs/2404.10704)|null|
+|**2024-04-16**|**An empirical study on code review activity prediction in practice**|Doriane Olewicki et.al.|[2404.10703](http://arxiv.org/abs/2404.10703)|null|
+|**2024-04-16**|**Automating REST API Postman Test Cases Using LLM**|S Deepika Sri et.al.|[2404.10678](http://arxiv.org/abs/2404.10678)|null|
+|**2024-04-16**|**Self-playing Adversarial Language Game Enhances LLM Reasoning**|Pengyu Cheng et.al.|[2404.10642](http://arxiv.org/abs/2404.10642)|**[link](https://github.com/linear95/spag)**|
+|**2024-04-16**|**HLAT: High-quality Large Language Model Pre-trained on AWS Trainium**|Haozheng Fan et.al.|[2404.10630](http://arxiv.org/abs/2404.10630)|null|
+|**2024-04-16**|**Private Attribute Inference from Images with Vision-Language Models**|Batuhan Tömekçe et.al.|[2404.10618](http://arxiv.org/abs/2404.10618)|null|
+|**2024-04-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al.|[2404.10595](http://arxiv.org/abs/2404.10595)|null|
+|**2024-04-16**|**Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training**|Masanori Hirano et.al.|[2404.10555](http://arxiv.org/abs/2404.10555)|null|
+|**2024-04-16**|**Unveiling the Misuse Potential of Base Large Language Models via In-Context Learning**|Xiao Wang et.al.|[2404.10552](http://arxiv.org/abs/2404.10552)|null|
+|**2024-04-16**|**Capturing the Macroscopic Behaviour of Molecular Dynamics with Membership Functions**|Alexander Sikorski et.al.|[2404.10523](http://arxiv.org/abs/2404.10523)|null|
+|**2024-04-16**|**CoTAR: Chain-of-Thought Attribution Reasoning with Multi-level Granularity**|Moshe Berchansky et.al.|[2404.10513](http://arxiv.org/abs/2404.10513)|null|
+|**2024-04-16**|**White Men Lead, Black Women Help: Uncovering Gender, Racial, and Intersectional Bias in Language Agency**|Yixin Wan et.al.|[2404.10508](http://arxiv.org/abs/2404.10508)|null|
+|**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501](http://arxiv.org/abs/2404.10501)|null|
+|**2024-04-16**|**When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical Paradigm**|Chenggian Ma et.al.|[2404.10500](http://arxiv.org/abs/2404.10500)|null|
+|**2024-04-16**|**Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**|Xiaoyang Chen et.al.|[2404.10496](http://arxiv.org/abs/2404.10496)|null|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763](http://arxiv.org/abs/2404.09763)|null|
 |**2024-04-15**|**Resilience of Large Language Models for Noisy Instructions**|Bin Wang et.al.|[2404.09754](http://arxiv.org/abs/2404.09754)|null|
 |**2024-04-15**|**Personalized Collaborative Fine-Tuning for On-Device Large Language Models**|Nicolas Wagner et.al.|[2404.09753](http://arxiv.org/abs/2404.09753)|null|
@@ -1053,6 +1075,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
+|**2024-04-16**|**PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment**|Jade Kandel et.al.|[2404.10661](http://arxiv.org/abs/2404.10661)|null|
+|**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
+|**2024-04-16**|**Automated Evaluation of Large Vision-Language Models on Self-driving Corner Cases**|Yanze Li et.al.|[2404.10595](http://arxiv.org/abs/2404.10595)|null|
+|**2024-04-16**|**PAKT: Perspectivized Argumentation Knowledge Graph and Tool for Deliberation Analysis (with Supplementary Materials)**|Moritz Plenz et.al.|[2404.10570](http://arxiv.org/abs/2404.10570)|null|
+|**2024-04-16**|**Quantum Mechanics of Human Perception, Behaviour and Decision-Making: A Do-It-Yourself Model Kit for Modelling Optical Illusions and Opinion Formation in Social Networks**|Ivan S. Maksymov et.al.|[2404.10554](http://arxiv.org/abs/2404.10554)|null|
+|**2024-04-16**|**Warm-Start Variational Quantum Policy Iteration**|Nico Meyer et.al.|[2404.10546](http://arxiv.org/abs/2404.10546)|**[link](https://github.com/nicomeyer96/ws-varqpi)**|
+|**2024-04-16**|**LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System**|Shijing Hu et.al.|[2404.10498](http://arxiv.org/abs/2404.10498)|null|
+|**2024-04-16**|**Would You Trust an AI Doctor? Building Reliable Medical Predictions with Kernel Dropout Uncertainty**|Ubaid Azam et.al.|[2404.10483](http://arxiv.org/abs/2404.10483)|null|
+|**2024-04-16**|**AudioProtoPNet: An interpretable deep learning model for bird sound classification**|René Heinrich et.al.|[2404.10420](http://arxiv.org/abs/2404.10420)|null|
+|**2024-04-16**|**Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery**|Payal Varshney et.al.|[2404.10356](http://arxiv.org/abs/2404.10356)|null|
+|**2024-04-16**|**Application of Deep Learning Methods to Processing of Noisy Medical Video Data**|Danil Afonchikov et.al.|[2404.10319](http://arxiv.org/abs/2404.10319)|null|
+|**2024-04-16**|**NeuroMorphix: A Novel Brain MRI Asymmetry-specific Feature Construction Approach For Seizure Recurrence Prediction**|Soumen Ghosh et.al.|[2404.10290](http://arxiv.org/abs/2404.10290)|null|
+|**2024-04-16**|**PreGSU-A Generalized Traffic Scene Understanding Model for Autonomous Driving based on Pre-trained Graph Attention Network**|Yuning Wang et.al.|[2404.10263](http://arxiv.org/abs/2404.10263)|null|
+|**2024-04-16**|**Rethinking Software Engineering in the Foundation Model Era: From Task-Driven AI Copilots to Goal-Driven AI Pair Programmers**|Ahmed E. Hassan et.al.|[2404.10225](http://arxiv.org/abs/2404.10225)|null|
+|**2024-04-16**|**The Impact of Machine Learning on Society: An Analysis of Current Trends and Future Implications**|Md Kamrul Hossain Siam et.al.|[2404.10204](http://arxiv.org/abs/2404.10204)|null|
+|**2024-04-15**|**Online Estimation via Offline Estimation: An Information-Theoretic Framework**|Dylan J. Foster et.al.|[2404.10122](http://arxiv.org/abs/2404.10122)|null|
+|**2024-04-15**|**Explainable Light-Weight Deep Learning Pipeline for Improved Drought Stres**|Aswini Kumar Patra et.al.|[2404.10073](http://arxiv.org/abs/2404.10073)|null|
+|**2024-04-15**|**Evaluating the Explainability of Attributes and Prototypes for a Medical Classification Model**|Luisa Gallée et.al.|[2404.09917](http://arxiv.org/abs/2404.09917)|null|
+|**2024-04-15**|**Flow-Based Synthesis of Reactive Tests for Discrete Decision-Making Systems with Temporal Logic Specifications**|Josefine B. Graebener et.al.|[2404.09888](http://arxiv.org/abs/2404.09888)|null|
 |**2024-04-15**|**Effective Reinforcement Learning Based on Structural Information Principles**|Xianghua Zeng et.al.|[2404.09760](http://arxiv.org/abs/2404.09760)|null|
 |**2024-04-15**|**Sampling for Model Predictive Trajectory Planning in Autonomous Driving using Normalizing Flows**|Georg Rabenstein et.al.|[2404.09657](http://arxiv.org/abs/2404.09657)|null|
 |**2024-04-15**|**SparseOcc: Rethinking Sparse Latent Representation for Vision-Based Semantic Occupancy Prediction**|Pin Tang et.al.|[2404.09502](http://arxiv.org/abs/2404.09502)|null|
