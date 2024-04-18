@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Itō and Itō-Wentzell chain rule for flows of conditional laws of continuous semimartingales: an easy approach**|Assil Fadle et.al.|[2404.11010](http://arxiv.org/abs/2404.11010)|null|
 |**2024-04-16**|**Zero-Sum Games for Volterra Integral Equations and Viscosity Solutions of Path-Dependent Hamilton-Jacobi Equations**|Mikhail I. Gomoyunov et.al.|[2404.10428](http://arxiv.org/abs/2404.10428)|null|
 |**2024-04-16**|**Urban Water Sprinkler Routing: A Multi-Depot Mixed Capacitated Arc Routing Problem Incorporating Real-Time Demands**|Hongtai Yang et.al.|[2404.10230](http://arxiv.org/abs/2404.10230)|null|
 |**2024-04-13**|**Fast Gradient Computation for Gromov-Wasserstein Distance**|Wei Zhang et.al.|[2404.08970](http://arxiv.org/abs/2404.08970)|null|
@@ -114,6 +115,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
+|**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
+|**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
+|**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581](http://arxiv.org/abs/2404.11581)|null|
+|**2024-04-17**|**On the Scalability of GNNs for Molecular Graphs**|Maciej Sypetkowski et.al.|[2404.11568](http://arxiv.org/abs/2404.11568)|null|
+|**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
+|**2024-04-17**|**Quantifying Multilingual Performance of Large Language Models Across Languages**|Zihao Li et.al.|[2404.11553](http://arxiv.org/abs/2404.11553)|null|
+|**2024-04-17**|**Evaluating Span Extraction in Generative Paradigm: A Reflection on Aspect-Based Sentiment Analysis**|Soyoung Yang et.al.|[2404.11539](http://arxiv.org/abs/2404.11539)|null|
+|**2024-04-17**|**FedPFT: Federated Proxy Fine-Tuning of Foundation Models**|Zhaopeng Peng et.al.|[2404.11536](http://arxiv.org/abs/2404.11536)|**[link](https://github.com/pzp-dzd/fedpft)**|
+|**2024-04-17**|**Select and Reorder: A Novel Approach for Neural Sign Language Production**|Harry Walsh et.al.|[2404.11532](http://arxiv.org/abs/2404.11532)|null|
+|**2024-04-17**|**Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization**|Costas Mavromatis et.al.|[2404.11531](http://arxiv.org/abs/2404.11531)|null|
+|**2024-04-17**|**Embedding Privacy in Computational Social Science and Artificial Intelligence Research**|Keenan Jones et.al.|[2404.11515](http://arxiv.org/abs/2404.11515)|null|
+|**2024-04-17**|**Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models**|Yushuo Chen et.al.|[2404.11502](http://arxiv.org/abs/2404.11502)|**[link](https://github.com/rucaibox/coarse-to-fine-evaluation-of-inference-efficiency)**|
+|**2024-04-17**|**Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models**|Yue Zhou et.al.|[2404.11500](http://arxiv.org/abs/2404.11500)|**[link](https://github.com/yue-llm-pit/scop)**|
+|**2024-04-17**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
+|**2024-04-17**|**Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**|Sunhao Dai et.al.|[2404.11457](http://arxiv.org/abs/2404.11457)|**[link](https://github.com/kid-22/llm-ir-bias-fairness-survey)**|
+|**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
+|**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
+|**2024-04-17**|**DUPE: Detection Undermining via Prompt Engineering for Deepfake Text**|James Weichert et.al.|[2404.11408](http://arxiv.org/abs/2404.11408)|null|
 |**2024-04-16**|**Nearly Optimal Algorithms for Contextual Dueling Bandits from Adversarial Feedback**|Qiwei Di et.al.|[2404.10776](http://arxiv.org/abs/2404.10776)|null|
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
@@ -1066,6 +1087,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
+|**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
+|**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
+|**2024-04-17**|**Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI**|Tanzina Taher Ifty et.al.|[2404.11428](http://arxiv.org/abs/2404.11428)|null|
+|**2024-04-17**|**SERENE: A Collusion Resilient Replication-based Verification Framework**|Amir Esmaeili et.al.|[2404.11410](http://arxiv.org/abs/2404.11410)|null|
+|**2024-04-17**|**Pharmacokinetic Measurements in Dose Finding Model Guided by Escalation with Overdose Control**|Arnab Kumar Maity et.al.|[2404.11406](http://arxiv.org/abs/2404.11406)|null|
+|**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
+|**2024-04-17**|**The dynamics of diversity on corporate boards**|Matthias Raddant et.al.|[2404.11334](http://arxiv.org/abs/2404.11334)|null|
+|**2024-04-17**|**Towards Human Awareness in Robot Task Planning with Large Language Models**|Yuchen Liu et.al.|[2404.11267](http://arxiv.org/abs/2404.11267)|null|
+|**2024-04-17**|**KI-GAN: Knowledge-Informed Generative Adversarial Networks for Enhanced Multi-Vehicle Trajectory Forecasting at Signalized Intersections**|Chuheng Wei et.al.|[2404.11181](http://arxiv.org/abs/2404.11181)|**[link](https://github.com/chuhengwei/ki_gan)**|
+|**2024-04-17**|**D-Aug: Enhancing Data Augmentation for Dynamic LiDAR Scenes**|Jiaxing Zhao et.al.|[2404.11127](http://arxiv.org/abs/2404.11127)|null|
+|**2024-04-17**|**Reuse out-of-year data to enhance land cover mappingvia feature disentanglement and contrastive learning**|Cassio F. Dantas et.al.|[2404.11114](http://arxiv.org/abs/2404.11114)|null|
+|**2024-04-17**|**Recommender Systems in Financial Trading: Using machine-based conviction analysis in an explainable AI investment framework**|Alicia Vidler et.al.|[2404.11080](http://arxiv.org/abs/2404.11080)|null|
+|**2024-04-17**|**Do you need a DAO?**|Henrik Axelsen et.al.|[2404.11076](http://arxiv.org/abs/2404.11076)|null|
+|**2024-04-17**|**Sky-GVIO: an enhanced GNSS/INS/Vision navigation with FCN-based sky-segmentation in urban canyon**|Jingrong Wang et.al.|[2404.11070](http://arxiv.org/abs/2404.11070)|**[link](https://github.com/whuwangjr/sky-view-images)**|
+|**2024-04-17**|**Periodicity in New York State COVID-19 Hospitalizations Leveraged from the Variable Bandpass Periodic Block Bootstrap**|Asmaa Ahmad et.al.|[2404.11006](http://arxiv.org/abs/2404.11006)|null|
+|**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
+|**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|null|
+|**2024-04-17**|**Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**|Jan-Philipp Fränken et.al.|[2404.10975](http://arxiv.org/abs/2404.10975)|**[link](https://github.com/cicl-stanford/moral-evals)**|
+|**2024-04-16**|**Human-Algorithm Collaborative Bayesian Optimization for Engineering Systems**|Tom Savage et.al.|[2404.10949](http://arxiv.org/abs/2404.10949)|null|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
 |**2024-04-16**|**PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment**|Jade Kandel et.al.|[2404.10661](http://arxiv.org/abs/2404.10661)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
