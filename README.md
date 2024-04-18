@@ -1,4 +1,4 @@
-## Updated on 2024.04.17
+## Updated on 2024.04.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 |**2024-04-16**|**Zero-Sum Games for Volterra Integral Equations and Viscosity Solutions of Path-Dependent Hamilton-Jacobi Equations**|Mikhail I. Gomoyunov et.al.|[2404.10428](http://arxiv.org/abs/2404.10428)|null|
 |**2024-04-16**|**Urban Water Sprinkler Routing: A Multi-Depot Mixed Capacitated Arc Routing Problem Incorporating Real-Time Demands**|Hongtai Yang et.al.|[2404.10230](http://arxiv.org/abs/2404.10230)|null|
 |**2024-04-13**|**Fast Gradient Computation for Gromov-Wasserstein Distance**|Wei Zhang et.al.|[2404.08970](http://arxiv.org/abs/2404.08970)|null|
-|**2024-04-12**|**A Parametric Approach for Solving Convex Quadratic Optimization with Indicators Over Trees**|Aaresh Bhathena et.al.|[2404.08178](http://arxiv.org/abs/2404.08178)|null|
+|**2024-04-12**|**A Parametric Approach for Solving Convex Quadratic Optimization with Indicators Over Trees**|Aaresh Bhathena et.al.|[2404.08178](http://arxiv.org/abs/2404.08178)|**[link](https://github.com/aareshfb/tree-parametric-algorithm)**|
 |**2024-04-06**|**Viscosity solutions for mean field optimal switching with a two-time-scale Markov chain**|Tian Chen et.al.|[2404.07998](http://arxiv.org/abs/2404.07998)|null|
 |**2024-04-11**|**Parameterized Fast and Safe Tracking (FaSTrack) using Deepreach**|Hyun Joe Jeong et.al.|[2404.07431](http://arxiv.org/abs/2404.07431)|null|
 |**2024-04-09**|**Inexact Policy Iteration Methods for Large-Scale Markov Decision Processes**|Matilde Gargiani et.al.|[2404.06136](http://arxiv.org/abs/2404.06136)|null|
@@ -115,7 +115,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -125,7 +125,7 @@
 |**2024-04-16**|**COMBO: Compositional World Models for Embodied Multi-Agent Cooperation**|Hongxin Zhang et.al.|[2404.10775](http://arxiv.org/abs/2404.10775)|null|
 |**2024-04-16**|**Deep Learning and LLM-based Methods Applied to Stellar Lightcurve Classification**|Yu-Yang Li et.al.|[2404.10757](http://arxiv.org/abs/2404.10757)|null|
 |**2024-04-16**|**Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study**|Shusheng Xu et.al.|[2404.10719](http://arxiv.org/abs/2404.10719)|null|
-|**2024-04-16**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
+|**2024-04-17**|**Dual Modalities of Text: Visual and Textual Generative Pre-training**|Yekun Chai et.al.|[2404.10710](http://arxiv.org/abs/2404.10710)|null|
 |**2024-04-16**|**Question Difficulty Ranking for Multiple-Choice Reading Comprehension**|Vatsal Raina et.al.|[2404.10704](http://arxiv.org/abs/2404.10704)|null|
 |**2024-04-16**|**An empirical study on code review activity prediction in practice**|Doriane Olewicki et.al.|[2404.10703](http://arxiv.org/abs/2404.10703)|null|
 |**2024-04-16**|**Automating REST API Postman Test Cases Using LLM**|S Deepika Sri et.al.|[2404.10678](http://arxiv.org/abs/2404.10678)|null|
@@ -140,7 +140,7 @@
 |**2024-04-16**|**White Men Lead, Black Women Help: Uncovering Gender, Racial, and Intersectional Bias in Language Agency**|Yixin Wan et.al.|[2404.10508](http://arxiv.org/abs/2404.10508)|null|
 |**2024-04-16**|**Self-Supervised Visual Preference Alignment**|Ke Zhu et.al.|[2404.10501](http://arxiv.org/abs/2404.10501)|null|
 |**2024-04-16**|**When Emotional Stimuli meet Prompt Designing: An Auto-Prompt Graphical Paradigm**|Chenggian Ma et.al.|[2404.10500](http://arxiv.org/abs/2404.10500)|null|
-|**2024-04-16**|**Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**|Xiaoyang Chen et.al.|[2404.10496](http://arxiv.org/abs/2404.10496)|null|
+|**2024-04-16**|**Spiral of Silences: How is Large Language Model Killing Information Retrieval? -- A Case Study on Open Domain Question Answering**|Xiaoyang Chen et.al.|[2404.10496](http://arxiv.org/abs/2404.10496)|**[link](https://github.com/verdurechen/sos-retrieval-loop)**|
 |**2024-04-15**|**KG-CTG: Citation Generation through Knowledge Graph-guided Large Language Models**|Avinash Anand et.al.|[2404.09763](http://arxiv.org/abs/2404.09763)|null|
 |**2024-04-15**|**Resilience of Large Language Models for Noisy Instructions**|Bin Wang et.al.|[2404.09754](http://arxiv.org/abs/2404.09754)|null|
 |**2024-04-15**|**Personalized Collaborative Fine-Tuning for On-Device Large Language Models**|Nicolas Wagner et.al.|[2404.09753](http://arxiv.org/abs/2404.09753)|null|
@@ -1069,7 +1069,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1875,5 +1875,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
 
