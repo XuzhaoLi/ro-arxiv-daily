@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**Recursive stochastic differential games with non-Lipschitzian generators and viscosity solutions of Hamilton-Jacobi-Bellman-Isaacs equation**|Guangchen Wang et.al.|[2404.12129](http://arxiv.org/abs/2404.12129)|null|
+|**2024-04-18**|**Actor-Critic Reinforcement Learning with Phased Actor**|Ruofan Wu et.al.|[2404.11834](http://arxiv.org/abs/2404.11834)|null|
 |**2024-04-18**|**Itō and Itō-Wentzell chain rule for flows of conditional laws of continuous semimartingales: an easy approach**|Assil Fadle et.al.|[2404.11010](http://arxiv.org/abs/2404.11010)|null|
 |**2024-04-16**|**Zero-Sum Games for Volterra Integral Equations and Viscosity Solutions of Path-Dependent Hamilton-Jacobi Equations**|Mikhail I. Gomoyunov et.al.|[2404.10428](http://arxiv.org/abs/2404.10428)|null|
 |**2024-04-16**|**Urban Water Sprinkler Routing: A Multi-Depot Mixed Capacitated Arc Routing Problem Incorporating Real-Time Demands**|Hongtai Yang et.al.|[2404.10230](http://arxiv.org/abs/2404.10230)|null|
@@ -122,6 +124,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
+|**2024-04-18**|**Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models**|Aitor Ormazabal et.al.|[2404.12387](http://arxiv.org/abs/2404.12387)|null|
+|**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**From $r$ to $Q^*$ : Your Language Model is Secretly a Q-Function**|Rafael Rafailov et.al.|[2404.12358](http://arxiv.org/abs/2404.12358)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
+|**2024-04-18**|**Evaluating AI for Law: Bridging the Gap with Open-Source Solutions**|Rohan Bhambhoria et.al.|[2404.12349](http://arxiv.org/abs/2404.12349)|null|
+|**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
+|**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
+|**2024-04-18**|**Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment**|Zhaofeng Wu et.al.|[2404.12318](http://arxiv.org/abs/2404.12318)|null|
+|**2024-04-18**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317](http://arxiv.org/abs/2404.12317)|null|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-04-18**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
+|**2024-04-18**|**Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery**|Yona Falinie A. Gaus et.al.|[2404.12285](http://arxiv.org/abs/2404.12285)|null|
+|**2024-04-18**|**Enhancing Embedding Performance through Large Language Model-based Text Enrichment and Rewriting**|Nicholas Harris et.al.|[2404.12283](http://arxiv.org/abs/2404.12283)|null|
+|**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
+|**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273](http://arxiv.org/abs/2404.12273)|null|
+|**2024-04-18**|**Who Validates the Validators? Aligning LLM-Assisted Evaluation of LLM Outputs with Human Preferences**|Shreya Shankar et.al.|[2404.12272](http://arxiv.org/abs/2404.12272)|null|
+|**2024-04-18**|**Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM**|Michelle S. Lam et.al.|[2404.12259](http://arxiv.org/abs/2404.12259)|**[link](https://github.com/michelle123lam/lloom)**|
 |**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
@@ -1096,6 +1118,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-18**|**RoboDreamer: Learning Compositional World Models for Robot Imagination**|Siyuan Zhou et.al.|[2404.12377](http://arxiv.org/abs/2404.12377)|null|
+|**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
+|**2024-04-18**|**Decision making in stochastic extensive form I: Stochastic decision forests**|E. Emanuel Rapsch et.al.|[2404.12332](http://arxiv.org/abs/2404.12332)|null|
+|**2024-04-18**|**Reducing Bias in Pre-trained Models by Tuning while Penalizing Change**|Niklas Penzel et.al.|[2404.12292](http://arxiv.org/abs/2404.12292)|null|
+|**2024-04-18**|**An Online Spatial-Temporal Graph Trajectory Planner for Autonomous Vehicles**|Jilan Samiuddin et.al.|[2404.12256](http://arxiv.org/abs/2404.12256)|null|
+|**2024-04-18**|**Privacy-Preserving UCB Decision Process Verification via zk-SNARKs**|Xikun Jiang et.al.|[2404.12186](http://arxiv.org/abs/2404.12186)|null|
+|**2024-04-18**|**Stability Certificates for Receding Horizon Games**|Sophie Hall et.al.|[2404.12165](http://arxiv.org/abs/2404.12165)|null|
+|**2024-04-18**|**The Neutrality Fallacy: When Algorithmic Fairness Interventions are (Not) Positive Action**|Hilde Weerts et.al.|[2404.12143](http://arxiv.org/abs/2404.12143)|null|
+|**2024-04-18**|**Character is Destiny: Can Large Language Models Simulate Persona-Driven Decisions in Role-Playing?**|Rui Xu et.al.|[2404.12138](http://arxiv.org/abs/2404.12138)|null|
+|**2024-04-18**|**mABC: multi-Agent Blockchain-Inspired Collaboration for root cause analysis in micro-services architecture**|Wei Zhang et.al.|[2404.12135](http://arxiv.org/abs/2404.12135)|**[link](https://github.com/knediny/mABC)**|
+|**2024-04-18**|**Intelligence Education made in Europe**|Lars Berger et.al.|[2404.12125](http://arxiv.org/abs/2404.12125)|null|
+|**2024-04-18**|**Evolutionary Multi-Objective Optimisation for Fairness-Aware Self Adjusting Memory Classifiers in Data Streams**|Pivithuru Thejan Amarasinghe et.al.|[2404.12076](http://arxiv.org/abs/2404.12076)|null|
+|**2024-04-18**|**emrQA-msquad: A Medical Dataset Structured with the SQuAD V2.0 Framework, Enriched with emrQA Medical Information**|Jimenez Eladio et.al.|[2404.12050](http://arxiv.org/abs/2404.12050)|null|
+|**2024-04-18**|**Cost and CO2 emissions co-optimisation of green hydrogen production in a grid-connected renewable energy system**|Sleiman Farah et.al.|[2404.11995](http://arxiv.org/abs/2404.11995)|null|
+|**2024-04-18**|**S4TP: Social-Suitable and Safety-Sensitive Trajectory Planning for Autonomous Vehicles**|Xiao Wang et.al.|[2404.11946](http://arxiv.org/abs/2404.11946)|null|
+|**2024-04-18**|**Toward Short-Term Glucose Prediction Solely Based on CGM Time Series**|Ming Cheng et.al.|[2404.11924](http://arxiv.org/abs/2404.11924)|null|
+|**2024-04-18**|**JointPPO: Diving Deeper into the Effectiveness of PPO in Multi-Agent Reinforcement Learning**|Chenxing Liu et.al.|[2404.11831](http://arxiv.org/abs/2404.11831)|null|
+|**2024-04-17**|**TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation**|Thomas Monninger et.al.|[2404.11803](http://arxiv.org/abs/2404.11803)|null|
+|**2024-04-17**|**Multimodal 3D Object Detection on Unseen Domains**|Deepti Hegde et.al.|[2404.11764](http://arxiv.org/abs/2404.11764)|null|
+|**2024-04-17**|**Language Models Still Struggle to Zero-shot Reason about Time Series**|Mike A. Merrill et.al.|[2404.11757](http://arxiv.org/abs/2404.11757)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
