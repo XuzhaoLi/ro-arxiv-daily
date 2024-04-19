@@ -1,4 +1,4 @@
-## Updated on 2024.04.18
+## Updated on 2024.04.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-17**|**Itō and Itō-Wentzell chain rule for flows of conditional laws of continuous semimartingales: an easy approach**|Assil Fadle et.al.|[2404.11010](http://arxiv.org/abs/2404.11010)|null|
+|**2024-04-18**|**Itō and Itō-Wentzell chain rule for flows of conditional laws of continuous semimartingales: an easy approach**|Assil Fadle et.al.|[2404.11010](http://arxiv.org/abs/2404.11010)|null|
 |**2024-04-16**|**Zero-Sum Games for Volterra Integral Equations and Viscosity Solutions of Path-Dependent Hamilton-Jacobi Equations**|Mikhail I. Gomoyunov et.al.|[2404.10428](http://arxiv.org/abs/2404.10428)|null|
 |**2024-04-16**|**Urban Water Sprinkler Routing: A Multi-Depot Mixed Capacitated Arc Routing Problem Incorporating Real-Time Demands**|Hongtai Yang et.al.|[2404.10230](http://arxiv.org/abs/2404.10230)|null|
 |**2024-04-13**|**Fast Gradient Computation for Gromov-Wasserstein Distance**|Wei Zhang et.al.|[2404.08970](http://arxiv.org/abs/2404.08970)|null|
@@ -116,13 +116,13 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-17**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
+|**2024-04-18**|**Private federated discovery of out-of-vocabulary words for Gboard**|Ziteng Sun et.al.|[2404.11607](http://arxiv.org/abs/2404.11607)|null|
 |**2024-04-17**|**VG4D: Vision-Language Model Goes 4D Video Recognition**|Zhichao Deng et.al.|[2404.11605](http://arxiv.org/abs/2404.11605)|**[link](https://github.com/shark0-0/vg4d)**|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**Prompt Optimizer of Text-to-Image Diffusion Models for Abstract Concept Understanding**|Zezhong Fan et.al.|[2404.11589](http://arxiv.org/abs/2404.11589)|null|
@@ -137,7 +137,7 @@
 |**2024-04-17**|**Embedding Privacy in Computational Social Science and Artificial Intelligence Research**|Keenan Jones et.al.|[2404.11515](http://arxiv.org/abs/2404.11515)|null|
 |**2024-04-17**|**Towards Coarse-to-Fine Evaluation of Inference Efficiency for Large Language Models**|Yushuo Chen et.al.|[2404.11502](http://arxiv.org/abs/2404.11502)|**[link](https://github.com/rucaibox/coarse-to-fine-evaluation-of-inference-efficiency)**|
 |**2024-04-17**|**Paraphrase and Solve: Exploring and Exploiting the Impact of Surface Form on Mathematical Reasoning in Large Language Models**|Yue Zhou et.al.|[2404.11500](http://arxiv.org/abs/2404.11500)|**[link](https://github.com/yue-llm-pit/scop)**|
-|**2024-04-17**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
+|**2024-04-18**|**Octopus v3: Technical Report for On-device Sub-billion Multimodal AI Agent**|Wei Chen et.al.|[2404.11459](http://arxiv.org/abs/2404.11459)|null|
 |**2024-04-17**|**Unifying Bias and Unfairness in Information Retrieval: A Survey of Challenges and Opportunities with Large Language Models**|Sunhao Dai et.al.|[2404.11457](http://arxiv.org/abs/2404.11457)|**[link](https://github.com/kid-22/llm-ir-bias-fairness-survey)**|
 |**2024-04-17**|**AI-Enhanced Cognitive Behavioral Therapy: Deep Learning and Large Language Models for Extracting Cognitive Pathways from Social Media Texts**|Meng Jiang et.al.|[2404.11449](http://arxiv.org/abs/2404.11449)|null|
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
@@ -1090,7 +1090,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1100,7 +1100,7 @@
 |**2024-04-17**|**Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review**|Ahmed Maged et.al.|[2404.11597](http://arxiv.org/abs/2404.11597)|null|
 |**2024-04-17**|**Open-Ended Wargames with Large Language Models**|Daniel P. Hogan et.al.|[2404.11446](http://arxiv.org/abs/2404.11446)|**[link](https://github.com/iqtlabs/snowglobe)**|
 |**2024-04-17**|**Explainable Lung Disease Classification from Chest X-Ray Images Utilizing Deep Learning and XAI**|Tanzina Taher Ifty et.al.|[2404.11428](http://arxiv.org/abs/2404.11428)|null|
-|**2024-04-17**|**SERENE: A Collusion Resilient Replication-based Verification Framework**|Amir Esmaeili et.al.|[2404.11410](http://arxiv.org/abs/2404.11410)|null|
+|**2024-04-18**|**SERENE: A Collusion Resilient Replication-based Verification Framework**|Amir Esmaeili et.al.|[2404.11410](http://arxiv.org/abs/2404.11410)|null|
 |**2024-04-17**|**Pharmacokinetic Measurements in Dose Finding Model Guided by Escalation with Overdose Control**|Arnab Kumar Maity et.al.|[2404.11406](http://arxiv.org/abs/2404.11406)|null|
 |**2024-04-17**|**Detector Collapse: Backdooring Object Detection to Catastrophic Overload or Blindness**|Hangtao Zhang et.al.|[2404.11357](http://arxiv.org/abs/2404.11357)|null|
 |**2024-04-17**|**The dynamics of diversity on corporate boards**|Matthias Raddant et.al.|[2404.11334](http://arxiv.org/abs/2404.11334)|null|
@@ -1115,7 +1115,7 @@
 |**2024-04-17**|**How to deal with glare for improved perception of Autonomous Vehicles**|Muhammad Z. Alam et.al.|[2404.10992](http://arxiv.org/abs/2404.10992)|null|
 |**2024-04-17**|**Group-Aware Coordination Graph for Multi-Agent Reinforcement Learning**|Wei Duan et.al.|[2404.10976](http://arxiv.org/abs/2404.10976)|null|
 |**2024-04-17**|**Procedural Dilemma Generation for Evaluating Moral Reasoning in Humans and Language Models**|Jan-Philipp Fränken et.al.|[2404.10975](http://arxiv.org/abs/2404.10975)|**[link](https://github.com/cicl-stanford/moral-evals)**|
-|**2024-04-16**|**Human-Algorithm Collaborative Bayesian Optimization for Engineering Systems**|Tom Savage et.al.|[2404.10949](http://arxiv.org/abs/2404.10949)|null|
+|**2024-04-16**|**Human-Algorithm Collaborative Bayesian Optimization for Engineering Systems**|Tom Savage et.al.|[2404.10949](http://arxiv.org/abs/2404.10949)|**[link](https://github.com/optimal-pse-lab/humbo)**|
 |**2024-04-16**|**N-Agent Ad Hoc Teamwork**|Caroline Wang et.al.|[2404.10740](http://arxiv.org/abs/2404.10740)|null|
 |**2024-04-16**|**PD-Insighter: A Visual Analytics System to Monitor Daily Actions for Parkinson's Disease Treatment**|Jade Kandel et.al.|[2404.10661](http://arxiv.org/abs/2404.10661)|null|
 |**2024-04-16**|**Towards free-response paradigm: a theory on decision-making in spiking neural networks**|Zhichao Zhu et.al.|[2404.10599](http://arxiv.org/abs/2404.10599)|null|
@@ -1916,5 +1916,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240418>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240419>back to top</a>)</p>
 
