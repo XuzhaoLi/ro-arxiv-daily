@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1137,7 +1137,7 @@ layout: default
 |**2024-04-19**|**Language-Driven Active Learning for Diverse Open-Set 3D Object Detection**|Ross Greer et.al.|[2404.12856](http://arxiv.org/abs/2404.12856)|null|
 |**2024-04-19**|**Explainable Deepfake Video Detection using Convolutional Neural Network and CapsuleNet**|Gazi Hasin Ishrak et.al.|[2404.12841](http://arxiv.org/abs/2404.12841)|null|
 |**2024-04-19**|**Open Datasets for AI-Enabled Radio Resource Control in Non-Terrestrial Networks**|Husnain Shahid et.al.|[2404.12813](http://arxiv.org/abs/2404.12813)|null|
-|**2024-04-19**|**Algorithmic Changes Are Not Enough: Evaluating the Removal of Race Adjustment from the eGFR Equation**|Marika M. Cusick et.al.|[2404.12812](http://arxiv.org/abs/2404.12812)|null|
+|**2024-04-19**|**Algorithmic Changes Are Not Enough: Evaluating the Removal of Race Adjustment from the eGFR Equation**|Marika M. Cusick et.al.|[2404.12812](http://arxiv.org/abs/2404.12812)|**[link](https://github.com/StanfordHPDS/egfr_equation_shc)**|
 |**2024-04-19**|**A Point-Based Approach to Efficient LiDAR Multi-Task Perception**|Christopher Lang et.al.|[2404.12798](http://arxiv.org/abs/2404.12798)|null|
 |**2024-04-19**|**Camera Agnostic Two-Head Network for Ego-Lane Inference**|Chaehyeon Song et.al.|[2404.12770](http://arxiv.org/abs/2404.12770)|null|
 |**2024-04-19**|**Immersive Analysis: Enhancing Material Inspection of X-Ray Computed Tomography Datasets in Augmented Reality**|Alexander Gall et.al.|[2404.12751](http://arxiv.org/abs/2404.12751)|null|
