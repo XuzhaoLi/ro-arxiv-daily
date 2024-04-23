@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-21**|**Stochastic Multi-round Submodular Optimization with Budget**|Vincenzo Auletta et.al.|[2404.13737](http://arxiv.org/abs/2404.13737)|null|
+|**2024-04-21**|**Planning of Truck Platooning for Road-Network Capacitated Vehicle Routing Problem**|Yilang Hao et.al.|[2404.13512](http://arxiv.org/abs/2404.13512)|null|
+|**2024-04-20**|**Liquidity Pool Design on Automated Market Makers**|Xue Dong He et.al.|[2404.13291](http://arxiv.org/abs/2404.13291)|null|
+|**2024-04-19**|**Decentralized Coordination of Distributed Energy Resources through Local Energy Markets and Deep Reinforcement Learning**|Daniel May et.al.|[2404.13142](http://arxiv.org/abs/2404.13142)|null|
 |**2024-04-18**|**NLP-enabled trajectory map-matching in urban road networks using transformer sequence-to-sequence model**|Sevin Mohammadi et.al.|[2404.12460](http://arxiv.org/abs/2404.12460)|null|
 |**2024-04-18**|**Recursive stochastic differential games with non-Lipschitzian generators and viscosity solutions of Hamilton-Jacobi-Bellman-Isaacs equation**|Guangchen Wang et.al.|[2404.12129](http://arxiv.org/abs/2404.12129)|null|
 |**2024-04-18**|**Actor-Critic Reinforcement Learning with Phased Actor**|Ruofan Wu et.al.|[2404.11834](http://arxiv.org/abs/2404.11834)|null|
@@ -125,6 +129,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**AutoAD III: The Prequel -- Back to the Pixels**|Tengda Han et.al.|[2404.14412](http://arxiv.org/abs/2404.14412)|null|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**|Yuying Ge et.al.|[2404.14396](http://arxiv.org/abs/2404.14396)|**[link](https://github.com/ailab-cvc/seed-x)**|
+|**2024-04-22**|**PARAMANU-GANITA: Language Model with Mathematical Capabilities**|Mitodru Niyogi et.al.|[2404.14395](http://arxiv.org/abs/2404.14395)|null|
+|**2024-04-22**|**A Multimodal Automated Interpretability Agent**|Tamar Rott Shaham et.al.|[2404.14394](http://arxiv.org/abs/2404.14394)|null|
+|**2024-04-22**|**A Survey on Self-Evolution of Large Language Models**|Zhengwei Tao et.al.|[2404.14387](http://arxiv.org/abs/2404.14387)|null|
+|**2024-04-22**|**Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph**|Xiaochen Kev Gao et.al.|[2404.14372](http://arxiv.org/abs/2404.14372)|**[link](https://github.com/shangdatalab/flan-graph)**|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Better Synthetic Data by Retrieving and Transforming Existing Datasets**|Saumya Gandhi et.al.|[2404.14361](http://arxiv.org/abs/2404.14361)|**[link](https://github.com/neulab/prompt2model)**|
+|**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani et.al.|[2404.14356](http://arxiv.org/abs/2404.14356)|null|
+|**2024-04-22**|**Calc-CMU at SemEval-2024 Task 7: Pre-Calc -- Learning to Use the Calculator Improves Numeracy in Language Models**|Vishruth Veerendranath et.al.|[2404.14355](http://arxiv.org/abs/2404.14355)|**[link](https://github.com/calc-cmu/pre-calc)**|
+|**2024-04-22**|**Automated Long Answer Grading with RiceChem Dataset**|Shashank Sonkar et.al.|[2404.14316](http://arxiv.org/abs/2404.14316)|null|
+|**2024-04-22**|**Self-Supervised Alignment with Mutual Information: Learning to Follow Principles without Preference Labels**|Jan-Philipp Fränken et.al.|[2404.14313](http://arxiv.org/abs/2404.14313)|**[link](https://github.com/janphilippfranken/sami)**|
+|**2024-04-22**|**Explaining Arguments' Strength: Unveiling the Role of Attacks and Supports (Technical Report)**|Xiang Yin et.al.|[2404.14304](http://arxiv.org/abs/2404.14304)|null|
+|**2024-04-22**|**Marking: Visual Grading with Highlighting Errors and Annotating Missing Bits**|Shashank Sonkar et.al.|[2404.14301](http://arxiv.org/abs/2404.14301)|null|
+|**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296](http://arxiv.org/abs/2404.14296)|null|
+|**2024-04-22**|**A Survey on Efficient Inference for Large Language Models**|Zixuan Zhou et.al.|[2404.14294](http://arxiv.org/abs/2404.14294)|null|
+|**2024-04-22**|**LLM-Personalize: Aligning LLM Planners with Human Preferences via Reinforced Self-Training for Housekeeping Robots**|Dongge Han et.al.|[2404.14285](http://arxiv.org/abs/2404.14285)|null|
+|**2024-04-22**|**Detecting and Mitigating Hallucination in Large Vision Language Models via Fine-Grained AI Feedback**|Wenyi Xiao et.al.|[2404.14233](http://arxiv.org/abs/2404.14233)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046](http://arxiv.org/abs/2404.13046)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
@@ -1139,6 +1163,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Analysing the interaction of expansion decisions by end customers and grid development in the context of a municipal energy system**|Paul Maximilian Röhrig et.al.|[2404.14371](http://arxiv.org/abs/2404.14371)|null|
+|**2024-04-22**|**PLUTO: Pushing the Limit of Imitation Learning-based Planning for Autonomous Driving**|Jie Cheng et.al.|[2404.14327](http://arxiv.org/abs/2404.14327)|null|
+|**2024-04-22**|**Localization Based on MIMO Backscattering from Retro-Directive Antenna Arrays**|Marina Lotti et.al.|[2404.14206](http://arxiv.org/abs/2404.14206)|null|
+|**2024-04-22**|**Unlawful Proxy Discrimination: A Framework for Challenging Inherently Discriminatory Algorithms**|Hilde Weerts et.al.|[2404.14050](http://arxiv.org/abs/2404.14050)|null|
+|**2024-04-22**|**PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer**|Rui She et.al.|[2404.14034](http://arxiv.org/abs/2404.14034)|null|
+|**2024-04-22**|**Collaborative Perception Datasets in Autonomous Driving: A Survey**|Melih Yazgan et.al.|[2404.14022](http://arxiv.org/abs/2404.14022)|null|
+|**2024-04-22**|**Benchmarking Multi-Modal LLMs for Testing Visual Deep Learning Systems Through the Lens of Image Mutation**|Liwen Wang et.al.|[2404.13945](http://arxiv.org/abs/2404.13945)|null|
+|**2024-04-22**|**Open Datasets for Satellite Radio Resource Control**|Husnain Shahid et.al.|[2404.13920](http://arxiv.org/abs/2404.13920)|null|
+|**2024-04-22**|**Surveying Attitudinal Alignment Between Large Language Models Vs. Humans Towards 17 Sustainable Development Goals**|Qingyang Wu et.al.|[2404.13885](http://arxiv.org/abs/2404.13885)|null|
+|**2024-04-22**|**Neural Radiance Field in Autonomous Driving: A Survey**|Lei He et.al.|[2404.13816](http://arxiv.org/abs/2404.13816)|null|
+|**2024-04-21**|**Soar: Design and Deployment of A Smart Roadside Infrastructure System for Autonomous Driving**|Shuyao Shi et.al.|[2404.13786](http://arxiv.org/abs/2404.13786)|null|
+|**2024-04-21**|**A Practical Multilevel Governance Framework for Autonomous and Intelligent Systems**|Lukas D. Pöhler et.al.|[2404.13719](http://arxiv.org/abs/2404.13719)|null|
+|**2024-04-21**|**In-situ process monitoring and adaptive quality enhancement in laser additive manufacturing: a critical review**|Lequn Chen et.al.|[2404.13673](http://arxiv.org/abs/2404.13673)|null|
+|**2024-04-21**|**Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments**|Zirui Wang et.al.|[2404.13600](http://arxiv.org/abs/2404.13600)|null|
+|**2024-04-20**|**FisheyeDetNet: Object Detection on Fisheye Surround View Camera Systems for Automated Driving**|Ganesh Sistu et.al.|[2404.13443](http://arxiv.org/abs/2404.13443)|null|
+|**2024-04-20**|**Distribution Network Restoration: Resource Scheduling Considering Coupled Transportation-Power Networks**|Harshal D. Kaushik et.al.|[2404.13422](http://arxiv.org/abs/2404.13422)|null|
+|**2024-04-20**|**On Modeling Multi-Criteria Decision Making with Uncertain Information using Probabilistic Rules**|Shengxin Hong et.al.|[2404.13419](http://arxiv.org/abs/2404.13419)|null|
+|**2024-04-20**|**Social Force Embedded Mixed Graph Convolutional Network for Multi-class Trajectory Prediction**|Quancheng Du et.al.|[2404.13378](http://arxiv.org/abs/2404.13378)|null|
+|**2024-04-20**|**Beyond Collaborative Filtering: A Relook at Task Formulation in Recommender Systems**|Aixin Sun et.al.|[2404.13375](http://arxiv.org/abs/2404.13375)|null|
+|**2024-04-20**|**On Risk-Sensitive Decision Making Under Uncertainty**|Chung-Han Hsieh et.al.|[2404.13371](http://arxiv.org/abs/2404.13371)|null|
 |**2024-04-19**|**Towards Robust Ferrous Scrap Material Classification with Deep Learning and Conformal Prediction**|Paulo Henrique dos Santos et.al.|[2404.13002](http://arxiv.org/abs/2404.13002)|null|
 |**2024-04-19**|**Private Agent-Based Modeling**|Ayush Chopra et.al.|[2404.12983](http://arxiv.org/abs/2404.12983)|null|
 |**2024-04-19**|**Physical Backdoor Attack can Jeopardize Driving with Vision-Large-Language Models**|Zhenyang Ni et.al.|[2404.12916](http://arxiv.org/abs/2404.12916)|null|
