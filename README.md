@@ -13,12 +13,12 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
-|**2024-05-02**|**Lipschitz constant estimation for general neural network architectures using control tools**|Patricia Pauli et.al.|[2405.01125](http://arxiv.org/abs/2405.01125)|null|
+|**2024-05-02**|**Lipschitz constant estimation for general neural network architectures using control tools**|Patricia Pauli et.al.|[2405.01125](http://arxiv.org/abs/2405.01125)|**[link](https://github.com/ppauli/GLipSDP)**|
 |**2024-05-01**|**A biased random-key genetic algorithm with variable mutants to solve a vehicle routing problem**|Paola Festa et.al.|[2405.00268](http://arxiv.org/abs/2405.00268)|null|
 |**2024-04-28**|**Bi-objective optimization of a VRP problem applied to urban solid waste collection through a model that includes the visual attraction of routes**|Diego Rossit et.al.|[2405.00068](http://arxiv.org/abs/2405.00068)|null|
 |**2024-04-26**|**Energy Storage Arbitrage in Two-settlement Markets: A Transformer-Based Approach**|Saud Alghumayjan et.al.|[2404.17683](http://arxiv.org/abs/2404.17683)|null|
 |**2024-04-25**|**Path integral control under McKean-Vlasov dynamics**|Timothy Bennett et.al.|[2404.17006](http://arxiv.org/abs/2404.17006)|null|
-|**2024-04-25**|**Parallel and (Nearly) Work-Efficient Dynamic Programming**|Xiangyun Ding et.al.|[2404.16314](http://arxiv.org/abs/2404.16314)|null|
+|**2024-04-25**|**Parallel and (Nearly) Work-Efficient Dynamic Programming**|Xiangyun Ding et.al.|[2404.16314](http://arxiv.org/abs/2404.16314)|**[link](https://github.com/ucrparlay/parallel-work-efficient-dynamic-programming)**|
 |**2024-04-23**|**Prediction from compression for models with infinite memory, with applications to hidden Markov and renewal processes**|Yanjun Han et.al.|[2404.15454](http://arxiv.org/abs/2404.15454)|null|
 |**2024-04-26**|**Variational Dynamic Programming for Stochastic Optimal Control**|Marc Lambert et.al.|[2404.14806](http://arxiv.org/abs/2404.14806)|**[link](https://github.com/marc-h-lambert/kl-control)**|
 |**2024-04-22**|**Tile-Weighted Rate-Distortion Optimized Packet Scheduling for 360 $^\circ$ VR Video Streaming**|Haopeng Wang et.al.|[2404.14573](http://arxiv.org/abs/2404.14573)|null|
@@ -145,7 +145,7 @@
 |**2024-05-02**|**FLAME: Factuality-Aware Alignment for Large Language Models**|Sheng-Chieh Lin et.al.|[2405.01525](http://arxiv.org/abs/2405.01525)|null|
 |**2024-05-02**|**A separability-based approach to quantifying generalization: which layer is best?**|Luciano Dyballa et.al.|[2405.01524](http://arxiv.org/abs/2405.01524)|null|
 |**2024-05-02**|**Transformer-Aided Semantic Communications**|Matin Mortaheb et.al.|[2405.01521](http://arxiv.org/abs/2405.01521)|null|
-|**2024-05-02**|**D2PO: Discriminator-Guided DPO with Response Evaluation Models**|Prasann Singhal et.al.|[2405.01511](http://arxiv.org/abs/2405.01511)|null|
+|**2024-05-02**|**D2PO: Discriminator-Guided DPO with Response Evaluation Models**|Prasann Singhal et.al.|[2405.01511](http://arxiv.org/abs/2405.01511)|**[link](https://github.com/PrasannS/d2po)**|
 |**2024-05-02**|**Analyzing the Role of Semantic Representations in the Era of Large Language Models**|Zhijing Jin et.al.|[2405.01502](http://arxiv.org/abs/2405.01502)|**[link](https://github.com/causalnlp/amr_llm)**|
 |**2024-05-02**|**Supporting Business Document Workflows via Collection-Centric Information Foraging with Large Language Models**|Raymond Fok et.al.|[2405.01501](http://arxiv.org/abs/2405.01501)|null|
 |**2024-05-02**|**Controllable Text Generation in the Instruction-Tuning Era**|Dhananjay Ashok et.al.|[2405.01490](http://arxiv.org/abs/2405.01490)|null|
@@ -1343,7 +1343,7 @@
 |**2024-05-02**|**Generative manufacturing systems using diffusion models and ChatGPT**|Xingyu Li et.al.|[2405.00958](http://arxiv.org/abs/2405.00958)|null|
 |**2024-05-02**|**Provably Efficient Reinforcement Learning for Adversarial Restless Multi-Armed Bandits with Unknown Transitions and Bandit Feedback**|Guojun Xiong et.al.|[2405.00950](http://arxiv.org/abs/2405.00950)|null|
 |**2024-05-01**|**DiL-NeRF: Delving into Lidar for Neural Radiance Field on Street Scenes**|Shanlin Sun et.al.|[2405.00900](http://arxiv.org/abs/2405.00900)|null|
-|**2024-05-01**|**Uncovering Agendas: A Novel French & English Dataset for Agenda Detection on Social Media**|Gregorios Katsios et.al.|[2405.00821](http://arxiv.org/abs/2405.00821)|null|
+|**2024-05-01**|**Uncovering Agendas: A Novel French & English Dataset for Agenda Detection on Social Media**|Gregorios Katsios et.al.|[2405.00821](http://arxiv.org/abs/2405.00821)|**[link](https://github.com/HiyaToki/Uncovering-Agendas)**|
 |**2024-05-01**|**ADM: Accelerated Diffusion Model via Estimated Priors for Robust Motion Prediction under Uncertainties**|Jiahui Li et.al.|[2405.00797](http://arxiv.org/abs/2405.00797)|null|
 |**2024-05-01**|**Lane Segmentation Refinement with Diffusion Models**|Antonio Ruiz et.al.|[2405.00620](http://arxiv.org/abs/2405.00620)|null|
 |**2024-05-01**|**New Trends on the Systems Approach to Modeling SARS-CoV-2 Pandemics in a Globally Connected Planet**|Giulia Bertaglia et.al.|[2405.00541](http://arxiv.org/abs/2405.00541)|null|
