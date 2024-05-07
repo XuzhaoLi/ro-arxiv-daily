@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.06
+## Updated on 2024.05.07
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
