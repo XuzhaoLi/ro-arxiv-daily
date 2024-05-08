@@ -1,4 +1,4 @@
-## Updated on 2024.05.07
+## Updated on 2024.05.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -134,7 +134,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -150,7 +150,7 @@
 |**2024-05-06**|**GREEN: Generative Radiology Report Evaluation and Error Notation**|Sophie Ostmeier et.al.|[2405.03595](http://arxiv.org/abs/2405.03595)|null|
 |**2024-05-06**|**Enabling High-Sparsity Foundational Llama Models with Efficient Pretraining and Deployment**|Abhinav Agarwalla et.al.|[2405.03594](http://arxiv.org/abs/2405.03594)|null|
 |**2024-05-06**|**Liberating Seen Classes: Boosting Few-Shot and Zero-Shot Text Classification via Anchor Generation and Classification Reframing**|Han Liu et.al.|[2405.03565](http://arxiv.org/abs/2405.03565)|null|
-|**2024-05-06**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
+|**2024-05-07**|**ID-centric Pre-training for Recommendation**|Yiqing Wu et.al.|[2405.03562](http://arxiv.org/abs/2405.03562)|null|
 |**2024-05-06**|**AlphaMath Almost Zero: process Supervision without process**|Guoxin Chen et.al.|[2405.03553](http://arxiv.org/abs/2405.03553)|null|
 |**2024-05-06**|**MAmmoTH2: Scaling Instructions from the Web**|Xiang Yue et.al.|[2405.03548](http://arxiv.org/abs/2405.03548)|null|
 |**2024-05-06**|**Position Paper: Leveraging Foundational Models for Black-Box Optimization: Benefits, Challenges, and Future Directions**|Xingyou Song et.al.|[2405.03547](http://arxiv.org/abs/2405.03547)|null|
@@ -158,7 +158,7 @@
 |**2024-05-06**|**UnsafeBench: Benchmarking Image Safety Classifiers on Real-World and AI-Generated Images**|Yiting Qu et.al.|[2405.03486](http://arxiv.org/abs/2405.03486)|null|
 |**2024-05-06**|**LGTM: Local-to-Global Text-Driven Human Motion Diffusion Model**|Haowen Sun et.al.|[2405.03485](http://arxiv.org/abs/2405.03485)|**[link](https://github.com/l-sun/lgtm)**|
 |**2024-05-06**|**Doing Personal LAPS: LLM-Augmented Dialogue Construction for Personalized Multi-Session Conversational Search**|Hideaki Joko et.al.|[2405.03480](http://arxiv.org/abs/2405.03480)|null|
-|**2024-05-06**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
+|**2024-05-07**|**Large Language Models (LLMs) as Agents for Augmented Democracy**|Jairo Gudiño-Rosero et.al.|[2405.03452](http://arxiv.org/abs/2405.03452)|null|
 |**2024-05-06**|**SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence**|Hangyuan Ji et.al.|[2405.03446](http://arxiv.org/abs/2405.03446)|null|
 |**2024-05-03**|**Vibe-Eval: A hard evaluation suite for measuring progress of multimodal language models**|Piotr Padlewski et.al.|[2405.02287](http://arxiv.org/abs/2405.02287)|**[link](https://github.com/reka-ai/reka-vibe-eval)**|
 |**2024-05-03**|**Structural Pruning of Pre-trained Language Models via Neural Architecture Search**|Aaron Klein et.al.|[2405.02267](http://arxiv.org/abs/2405.02267)|null|
@@ -1363,7 +1363,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2420,5 +2420,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240508>back to top</a>)</p>
 
