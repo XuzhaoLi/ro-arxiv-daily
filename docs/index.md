@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Novel Tour Construction Heuristic for Pick-Up and Delivery Routing Problems**|Mithun Goutham et.al.|[2405.03774](http://arxiv.org/abs/2405.03774)|null|
 |**2024-05-05**|**TSP Escapes the $O(2^n n^2)$ Curse**|Mihail Stoian et.al.|[2405.03018](http://arxiv.org/abs/2405.03018)|null|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
 |**2024-05-02**|**Lipschitz constant estimation for general neural network architectures using control tools**|Patricia Pauli et.al.|[2405.01125](http://arxiv.org/abs/2405.01125)|**[link](https://github.com/ppauli/GLipSDP)**|
@@ -133,6 +134,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**ChatHuman: Language-driven 3D Human Understanding with Retrieval-Augmented Tool Reasoning**|Jing Lin et.al.|[2405.04533](http://arxiv.org/abs/2405.04533)|null|
+|**2024-05-07**|**QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving**|Yujun Lin et.al.|[2405.04532](http://arxiv.org/abs/2405.04532)|**[link](https://github.com/mit-han-lab/qserve)**|
+|**2024-05-07**|**NaturalCodeBench: Examining Coding Performance Mismatch on HumanEval and Natural User Prompts**|Shudan Zhang et.al.|[2405.04520](http://arxiv.org/abs/2405.04520)|null|
+|**2024-05-07**|**xLSTM: Extended Long Short-Term Memory**|Maximilian Beck et.al.|[2405.04517](http://arxiv.org/abs/2405.04517)|null|
+|**2024-05-07**|**A Transformer with Stack Attention**|Jiaoda Li et.al.|[2405.04515](http://arxiv.org/abs/2405.04515)|**[link](https://github.com/rycolab/stack-transformer)**|
+|**2024-05-07**|**Unveiling Disparities in Web Task Handling Between Human and Web Agent**|Kihoon Son et.al.|[2405.04497](http://arxiv.org/abs/2405.04497)|null|
+|**2024-05-07**|**Toward In-Context Teaching: Adapting Examples to Students' Misconceptions**|Alexis Ross et.al.|[2405.04495](http://arxiv.org/abs/2405.04495)|null|
+|**2024-05-07**|**Representation Learning of Daily Movement Data Using Text Encoders**|Alexander Capstick et.al.|[2405.04494](http://arxiv.org/abs/2405.04494)|**[link](https://github.com/alexcapstick/text-encoders-for-daily-movement-data)**|
+|**2024-05-07**|**DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model**|DeepSeek-AI et.al.|[2405.04434](http://arxiv.org/abs/2405.04434)|**[link](https://github.com/deepseek-ai/deepseek-v2)**|
+|**2024-05-07**|**The Silicone Ceiling: Auditing GPT's Race and Gender Biases in Hiring**|Lena Armstrong et.al.|[2405.04412](http://arxiv.org/abs/2405.04412)|null|
+|**2024-05-07**|**Learning To See But Forgetting To Follow: Visual Instruction Tuning Makes LLMs More Prone To Jailbreak Attacks**|Georgios Pantazopoulos et.al.|[2405.04403](http://arxiv.org/abs/2405.04403)|**[link](https://github.com/gpantaz/vl_jailbreak)**|
+|**2024-05-07**|**Large Language Models Cannot Explain Themselves**|Advait Sarkar et.al.|[2405.04382](http://arxiv.org/abs/2405.04382)|null|
+|**2024-05-07**|**A Fourth Wave of Open Data? Exploring the Spectrum of Scenarios for Open Data and Generative AI**|Hannah Chafetz et.al.|[2405.04333](http://arxiv.org/abs/2405.04333)|null|
+|**2024-05-07**|**Deception in Reinforced Autonomous Agents: The Unconventional Rabbit Hat Trick in Legislation**|Atharvan Dogra et.al.|[2405.04325](http://arxiv.org/abs/2405.04325)|null|
+|**2024-05-07**|**Granite Code Models: A Family of Open Foundation Models for Code Intelligence**|Mayank Mishra et.al.|[2405.04324](http://arxiv.org/abs/2405.04324)|**[link](https://github.com/ibm-granite/granite-code-models)**|
+|**2024-05-07**|**Accelerating Speculative Decoding using Dynamic Speculation Length**|Jonathan Mamou et.al.|[2405.04304](http://arxiv.org/abs/2405.04304)|null|
+|**2024-05-07**|**Enhancing the Efficiency and Accuracy of Underlying Asset Reviews in Structured Finance: The Application of Multi-agent Framework**|Xiangpeng Wan et.al.|[2405.04294](http://arxiv.org/abs/2405.04294)|**[link](https://github.com/elricwan/audit)**|
+|**2024-05-07**|**Who Wrote This? The Key to Zero-Shot LLM-Generated Text Detection Is GECScore**|Junchao Wu et.al.|[2405.04286](http://arxiv.org/abs/2405.04286)|null|
+|**2024-05-07**|**On the Foundations of Earth and Climate Foundation Models**|Xiao Xiang Zhu et.al.|[2405.04285](http://arxiv.org/abs/2405.04285)|null|
+|**2024-05-07**|**Semantic API Alignment: Linking High-level User Goals to APIs**|Robert Feldt et.al.|[2405.04236](http://arxiv.org/abs/2405.04236)|null|
 |**2024-05-06**|**Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs**|Muhammad Uzair Khattak et.al.|[2405.03690](http://arxiv.org/abs/2405.03690)|null|
 |**2024-05-06**|**Pose Priors from Language Models**|Sanjay Subramanian et.al.|[2405.03689](http://arxiv.org/abs/2405.03689)|null|
 |**2024-05-06**|**Large Language Models Reveal Information Operation Goals, Tactics, and Narrative Frames**|Keith Burghardt et.al.|[2405.03688](http://arxiv.org/abs/2405.03688)|null|
@@ -1360,6 +1381,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**New allometric models for the USA create a step-change in forest carbon estimation, modeling, and mapping**|Lucas K. Johnson et.al.|[2405.04507](http://arxiv.org/abs/2405.04507)|null|
+|**2024-05-07**|**TorchDriveEnv: A Reinforcement Learning Benchmark for Autonomous Driving with Reactive, Realistic, and Diverse Non-Playable Characters**|Jonathan Wilder Lavington et.al.|[2405.04491](http://arxiv.org/abs/2405.04491)|null|
+|**2024-05-07**|**POV Learning: Individual Alignment of Multimodal Models using Human Perception**|Simon Werner et.al.|[2405.04443](http://arxiv.org/abs/2405.04443)|null|
+|**2024-05-07**|**Designing, Developing, and Validating Network Intelligence for Scaling in Service-Based Architectures based on Deep Reinforcement Learning**|Paola Soto et.al.|[2405.04441](http://arxiv.org/abs/2405.04441)|null|
+|**2024-05-07**|**Designing the Network Intelligence Stratum for 6G Networks**|Paola Soto et.al.|[2405.04432](http://arxiv.org/abs/2405.04432)|null|
+|**2024-05-07**|**Mathematical Modeling of $^{18}$F-Fluoromisonidazole ($^{18}$ F-FMISO) Radiopharmaceutical Transport in Vascularized Solid Tumors**|Mohammad Amin Abazari et.al.|[2405.04418](http://arxiv.org/abs/2405.04418)|null|
+|**2024-05-07**|**Weakly-Supervised Residual Evidential Learning for Multi-Instance Uncertainty Estimation**|Pei Liu et.al.|[2405.04405](http://arxiv.org/abs/2405.04405)|null|
+|**2024-05-07**|**Efficient Online Set-valued Classification with Bandit Feedback**|Zhou Wang et.al.|[2405.04393](http://arxiv.org/abs/2405.04393)|null|
+|**2024-05-07**|**DriveWorld: 4D Pre-trained Scene Understanding via World Models for Autonomous Driving**|Chen Min et.al.|[2405.04390](http://arxiv.org/abs/2405.04390)|null|
+|**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
+|**2024-05-07**|**pFedLVM: A Large Vision Model (LVM)-Driven and Latent Feature-Based Personalized Federated Learning Framework in Autonomous Driving**|Wei-Bin Kou et.al.|[2405.04146](http://arxiv.org/abs/2405.04146)|null|
+|**2024-05-07**|**Policy Learning with a Language Bottleneck**|Megha Srivastava et.al.|[2405.04118](http://arxiv.org/abs/2405.04118)|**[link](https://github.com/meghabyte/bottleneck)**|
+|**2024-05-07**|**ESP: Extro-Spective Prediction for Long-term Behavior Reasoning in Emergency Scenarios**|Dingrui Wang et.al.|[2405.04100](http://arxiv.org/abs/2405.04100)|null|
+|**2024-05-07**|**Counterfactual and Semifactual Explanations in Abstract Argumentation: Formal Foundations, Complexity and Computation**|Gianvincenzo Alfano et.al.|[2405.04081](http://arxiv.org/abs/2405.04081)|null|
+|**2024-05-07**|**Feature Map Convergence Evaluation for Functional Module**|Ludan Zhang et.al.|[2405.04041](http://arxiv.org/abs/2405.04041)|null|
+|**2024-05-07**|**Uncovering implementable dormant pruning decisions from three different stakeholder perspectives**|Deanna Flynn et.al.|[2405.04030](http://arxiv.org/abs/2405.04030)|null|
+|**2024-05-07**|**Lumbar Spine Tumor Segmentation and Localization in T2 MRI Images Using AI**|Rikathi Pal et.al.|[2405.04023](http://arxiv.org/abs/2405.04023)|null|
+|**2024-05-07**|**Certified Policy Verification and Synthesis for MDPs under Distributional Reach-avoidance Properties**|S. Akshay et.al.|[2405.04015](http://arxiv.org/abs/2405.04015)|null|
+|**2024-05-07**|**Deep Event-based Object Detection in Autonomous Driving: A Survey**|Bingquan Zhou et.al.|[2405.03995](http://arxiv.org/abs/2405.03995)|null|
+|**2024-05-07**|**Unified End-to-End V2X Cooperative Autonomous Driving**|Zhiwei Li et.al.|[2405.03971](http://arxiv.org/abs/2405.03971)|null|
 |**2024-05-06**|**Anti-Heroes: An Ethics-focused Method for Responsible Designer Intentions**|Shikha Mehta et.al.|[2405.03674](http://arxiv.org/abs/2405.03674)|null|
 |**2024-05-06**|**RoboCar: A Rapidly Deployable Open-Source Platform for Autonomous Driving Research**|Mehdi Testouri et.al.|[2405.03572](http://arxiv.org/abs/2405.03572)|null|
 |**2024-05-06**|**Is Sora a World Simulator? A Comprehensive Survey on General World Models and Beyond**|Zheng Zhu et.al.|[2405.03520](http://arxiv.org/abs/2405.03520)|**[link](https://github.com/gigaai-research/general-world-models-survey)**|
