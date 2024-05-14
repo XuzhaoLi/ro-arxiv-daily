@@ -1,4 +1,4 @@
-## Updated on 2024.05.13
+## Updated on 2024.05.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 |**2024-05-10**|**Dynamic programming principle and computable prices in financial market models with transaction costs**|Emmanuel Lepinette et.al.|[2405.06623](http://arxiv.org/abs/2405.06623)|null|
 |**2024-05-09**|**Change point localisation and inference in fragmented functional data**|Gengyu Xue et.al.|[2405.05730](http://arxiv.org/abs/2405.05730)|**[link](https://github.com/gengyuxue/fragmentcp)**|
 |**2024-05-09**|**Infinite horizon stochastic recursive control problems with jumps: dynamic programming and stochastic verification theorems**|Sheng Luo et.al.|[2405.05561](http://arxiv.org/abs/2405.05561)|null|
-|**2024-05-08**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
+|**2024-05-11**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
 |**2024-05-06**|**Novel Tour Construction Heuristic for Pick-Up and Delivery Routing Problems**|Mithun Goutham et.al.|[2405.03774](http://arxiv.org/abs/2405.03774)|null|
 |**2024-05-05**|**TSP Escapes the $O(2^n n^2)$ Curse**|Mihail Stoian et.al.|[2405.03018](http://arxiv.org/abs/2405.03018)|null|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
@@ -139,14 +139,14 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
-|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|**[link](https://github.com/idanshen/Value-Augmented-Sampling)**|
 |**2024-05-10**|**Multimodal LLMs Struggle with Basic Visual Network Analysis: a VNA Benchmark**|Evan M. Williams et.al.|[2405.06634](http://arxiv.org/abs/2405.06634)|null|
 |**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
 |**2024-05-10**|**Explaining Text Similarity in Transformer Models**|Alexandros Vasileiou et.al.|[2405.06604](http://arxiv.org/abs/2405.06604)|null|
@@ -1448,7 +1448,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2563,5 +2563,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240513>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240514>back to top</a>)</p>
 
