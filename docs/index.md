@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.14
+## Updated on 2024.05.15
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2024-05-10**|**Dynamic programming principle and computable prices in financial market models with transaction costs**|Emmanuel Lepinette et.al.|[2405.06623](http://arxiv.org/abs/2405.06623)|null|
 |**2024-05-09**|**Change point localisation and inference in fragmented functional data**|Gengyu Xue et.al.|[2405.05730](http://arxiv.org/abs/2405.05730)|**[link](https://github.com/gengyuxue/fragmentcp)**|
 |**2024-05-09**|**Infinite horizon stochastic recursive control problems with jumps: dynamic programming and stochastic verification theorems**|Sheng Luo et.al.|[2405.05561](http://arxiv.org/abs/2405.05561)|null|
-|**2024-05-11**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
+|**2024-05-14**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
 |**2024-05-06**|**Novel Tour Construction Heuristic for Pick-Up and Delivery Routing Problems**|Mithun Goutham et.al.|[2405.03774](http://arxiv.org/abs/2405.03774)|null|
 |**2024-05-05**|**TSP Escapes the $O(2^n n^2)$ Curse**|Mihail Stoian et.al.|[2405.03018](http://arxiv.org/abs/2405.03018)|null|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
@@ -149,7 +149,7 @@ layout: default
 |**2024-05-13**|**PyZoBot: A Platform for Conversational Information Extraction and Synthesis from Curated Zotero Reference Libraries through Advanced Retrieval-Augmented Generation**|Suad Alshammari et.al.|[2405.07963](http://arxiv.org/abs/2405.07963)|null|
 |**2024-05-13**|**AgentClinic: a multimodal agent benchmark to evaluate AI in simulated clinical environments**|Samuel Schmidgall et.al.|[2405.07960](http://arxiv.org/abs/2405.07960)|null|
 |**2024-05-13**|**EconLogicQA: A Question-Answering Benchmark for Evaluating Large Language Models in Economic Sequential Reasoning**|Yinzhu Quan et.al.|[2405.07938](http://arxiv.org/abs/2405.07938)|null|
-|**2024-05-13**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
+|**2024-05-14**|**PARDEN, Can You Repeat That? Defending against Jailbreaks via Repetition**|Ziyang Zhang et.al.|[2405.07932](http://arxiv.org/abs/2405.07932)|**[link](https://github.com/ed-zh/parden)**|
 |**2024-05-13**|**Stable Diffusion-based Data Augmentation for Federated Learning with Non-IID Data**|Mahdi Morafah et.al.|[2405.07925](http://arxiv.org/abs/2405.07925)|null|
 |**2024-05-13**|**Can Better Text Semantics in Prompt Tuning Improve VLM Generalization?**|Hari Chandana Kuchibhotla et.al.|[2405.07921](http://arxiv.org/abs/2405.07921)|null|
 |**2024-05-13**|**A Systematic Investigation of Distilling Large Language Models into Cross-Encoders for Passage Re-ranking**|Ferdinand Schlatt et.al.|[2405.07920](http://arxiv.org/abs/2405.07920)|null|
