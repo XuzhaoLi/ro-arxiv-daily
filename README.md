@@ -1,4 +1,4 @@
-## Updated on 2024.05.19
+## Updated on 2024.05.20
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -23,7 +23,7 @@
 |**2024-05-09**|**Infinite horizon stochastic recursive control problems with jumps: dynamic programming and stochastic verification theorems**|Sheng Luo et.al.|[2405.05561](http://arxiv.org/abs/2405.05561)|null|
 |**2024-05-14**|**Robust Reward Placement under Uncertainty**|Petros Petsinis et.al.|[2405.05433](http://arxiv.org/abs/2405.05433)|null|
 |**2024-05-06**|**Novel Tour Construction Heuristic for Pick-Up and Delivery Routing Problems**|Mithun Goutham et.al.|[2405.03774](http://arxiv.org/abs/2405.03774)|null|
-|**2024-05-05**|**TSP Escapes the $O(2^n n^2)$ Curse**|Mihail Stoian et.al.|[2405.03018](http://arxiv.org/abs/2405.03018)|null|
+|**2024-05-05**|**TSP Escapes the $O(2^n n^2)$ Curse**|Mihail Stoian et.al.|[2405.03018](http://arxiv.org/abs/2405.03018)|**[link](https://github.com/stoianmihail/fastertsp)**|
 |**2024-05-02**|**DiffusionPipe: Training Large Diffusion Models with Efficient Pipelines**|Ye Tian et.al.|[2405.01248](http://arxiv.org/abs/2405.01248)|null|
 |**2024-05-02**|**Lipschitz constant estimation for general neural network architectures using control tools**|Patricia Pauli et.al.|[2405.01125](http://arxiv.org/abs/2405.01125)|**[link](https://github.com/ppauli/GLipSDP)**|
 |**2024-05-01**|**A biased random-key genetic algorithm with variable mutants to solve a vehicle routing problem**|Paola Festa et.al.|[2405.00268](http://arxiv.org/abs/2405.00268)|null|
@@ -145,17 +145,17 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
-|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/Jingkang50/OpenPSG)**|
+|**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
-|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|null|
-|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-16**|**HW-GPT-Bench: Hardware-Aware Architecture Benchmark for Language Models**|Rhea Sanjay Sukthanker et.al.|[2405.10299](http://arxiv.org/abs/2405.10299)|**[link](https://github.com/automl/hw-aware-llm-bench)**|
+|**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**Timeline-based Sentence Decomposition with In-Context Learning for Temporal Fact Extraction**|Jianhao Chen et.al.|[2405.10288](http://arxiv.org/abs/2405.10288)|null|
 |**2024-05-16**|**FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models**|Adrian Bulat et.al.|[2405.10286](http://arxiv.org/abs/2405.10286)|null|
 |**2024-05-16**|**Revisiting OPRO: The Limitations of Small-Scale LLMs as Optimizers**|Tuo Zhang et.al.|[2405.10276](http://arxiv.org/abs/2405.10276)|null|
@@ -1534,7 +1534,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -1542,7 +1542,7 @@
 |---|---|---|---|---|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
-|**2024-05-16**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
+|**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
 |**2024-05-16**|**Towards Consistent and Explainable Motion Prediction using Heterogeneous Graph Attention**|Tobias Demmler et.al.|[2405.10134](http://arxiv.org/abs/2405.10134)|null|
 |**2024-05-16**|**Cooperative Visual-LiDAR Extrinsic Calibration Technology for Intersection Vehicle-Infrastructure: A review**|Xinyu Zhang et.al.|[2405.10132](http://arxiv.org/abs/2405.10132)|null|
 |**2024-05-16**|**When Large Language Model Meets Optimization**|Sen Huang et.al.|[2405.10098](http://arxiv.org/abs/2405.10098)|null|
@@ -1558,7 +1558,7 @@
 |**2024-05-15**|**DemOpts: Fairness corrections in COVID-19 case prediction models**|Naman Awasthi et.al.|[2405.09483](http://arxiv.org/abs/2405.09483)|null|
 |**2024-05-15**|**Facilitating Opinion Diversity through Hybrid NLP Approaches**|Michiel van der Meer et.al.|[2405.09439](http://arxiv.org/abs/2405.09439)|null|
 |**2024-05-15**|**The Unfairness of $\varepsilon$ -Fairness**|Tolulope Fadina et.al.|[2405.09360](http://arxiv.org/abs/2405.09360)|null|
-|**2024-05-15**|**Multi-Source Conformal Inference Under Distribution Shift**|Yi Liu et.al.|[2405.09331](http://arxiv.org/abs/2405.09331)|null|
+|**2024-05-15**|**Multi-Source Conformal Inference Under Distribution Shift**|Yi Liu et.al.|[2405.09331](http://arxiv.org/abs/2405.09331)|**[link](https://github.com/yiliu1998/Multi-Source-Conformal)**|
 |**2024-05-15**|**Reinforcement Learning-Based Framework for the Intelligent Adaptation of User Interfaces**|Daniel Gaspar-Figueiredo et.al.|[2405.09255](http://arxiv.org/abs/2405.09255)|null|
 |**2024-05-15**|**CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving**|Dechen Gao et.al.|[2405.09111](http://arxiv.org/abs/2405.09111)|null|
 |**2024-05-15**|**Explainable AI for Ship Collision Avoidance: Decoding Decision-Making Processes and Behavioral Intentions**|Hitoshi Yoshioka et.al.|[2405.09081](http://arxiv.org/abs/2405.09081)|null|
@@ -2712,5 +2712,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240519>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
 
