@@ -12,9 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Semantic Trajectory Data Mining with LLM-Informed POI Classification**|Yifan Liu et.al.|[2405.11715](http://arxiv.org/abs/2405.11715)|null|
+|**2024-05-18**|**On the Trajectory Regularity of ODE-based Diffusion Sampling**|Defang Chen et.al.|[2405.11326](http://arxiv.org/abs/2405.11326)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
 |**2024-05-14**|**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**|Jiaju Chen et.al.|[2405.08582](http://arxiv.org/abs/2405.08582)|**[link](https://github.com/Jiaju-Chen/UpliftRec)**|
-|**2024-05-13**|**Dynamic Programming for Symbolic Boolean Realizability and Synthesis**|Yi Lin et.al.|[2405.07975](http://arxiv.org/abs/2405.07975)|null|
+|**2024-05-20**|**Dynamic Programming for Symbolic Boolean Realizability and Synthesis**|Yi Lin et.al.|[2405.07975](http://arxiv.org/abs/2405.07975)|null|
 |**2024-05-13**|**Space Domain based Ecological Cooperative and Adaptive Cruise Control on Rolling Terrain**|Mingyue Lei et.al.|[2405.07553](http://arxiv.org/abs/2405.07553)|null|
 |**2024-05-12**|**Deciding regular games: a playground for exponential time algorithms**|Zihui Liang et.al.|[2405.07188](http://arxiv.org/abs/2405.07188)|null|
 |**2024-05-12**|**Trade execution games in a Markovian environment**|Masamitsu Ohnishi et.al.|[2405.07184](http://arxiv.org/abs/2405.07184)|null|
@@ -151,6 +153,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning**|Guanglin Zhou et.al.|[2405.12217](http://arxiv.org/abs/2405.12217)|null|
+|**2024-05-20**|**MathBench: Evaluating the Theory and Application Proficiency of LLMs with a Hierarchical Mathematics Benchmark**|Hongwei Liu et.al.|[2405.12209](http://arxiv.org/abs/2405.12209)|**[link](https://github.com/open-compass/mathbench)**|
+|**2024-05-20**|**Developers' Perceptions on the Impact of ChatGPT in Software Development: A Survey**|Thiago S. Vaillant et.al.|[2405.12195](http://arxiv.org/abs/2405.12195)|null|
+|**2024-05-20**|**CT-Eval: Benchmarking Chinese Text-to-Table Performance in Large Language Models**|Haoxiang Shi et.al.|[2405.12174](http://arxiv.org/abs/2405.12174)|null|
+|**2024-05-20**|**Fennec: Fine-grained Language Model Evaluation and Correction Extended through Branching and Bridging**|Xiaobo Liang et.al.|[2405.12163](http://arxiv.org/abs/2405.12163)|**[link](https://github.com/dropreg/fennec)**|
+|**2024-05-20**|**Eliciting Problem Specifications via Large Language Models**|Robert E. Wray et.al.|[2405.12147](http://arxiv.org/abs/2405.12147)|null|
+|**2024-05-20**|**DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM**|Xuchen Li et.al.|[2405.12139](http://arxiv.org/abs/2405.12139)|null|
+|**2024-05-20**|**MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning**|Ting Jiang et.al.|[2405.12130](http://arxiv.org/abs/2405.12130)|null|
+|**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
+|**2024-05-20**|**Imp: Highly Capable Large Multimodal Models for Mobile Devices**|Zhenwei Shao et.al.|[2405.12107](http://arxiv.org/abs/2405.12107)|null|
+|**2024-05-20**|**DOP: Diagnostic-Oriented Prompting for Large Language Models in Mathematical Correction**|Hao Chen et.al.|[2405.12100](http://arxiv.org/abs/2405.12100)|null|
+|**2024-05-20**|**Distributional Semantics, Holism, and the Instability of Meaning**|Jumbly Grindrod et.al.|[2405.12084](http://arxiv.org/abs/2405.12084)|null|
+|**2024-05-20**|**PARALLELGPUOS: A Concurrent OS-level GPU Checkpoint and Restore System using Validated Speculation**|Zhuobin Huang et.al.|[2405.12079](http://arxiv.org/abs/2405.12079)|null|
+|**2024-05-20**|**CLAMBER: A Benchmark of Identifying and Clarifying Ambiguous Information Needs in Large Language Models**|Tong Zhang et.al.|[2405.12063](http://arxiv.org/abs/2405.12063)|**[link](https://github.com/zt991211/clamber)**|
+|**2024-05-20**|**STYLE: Improving Domain Transferability of Asking Clarification Questions in Large Language Model Powered Conversational Agents**|Yue Chen et.al.|[2405.12059](http://arxiv.org/abs/2405.12059)|null|
+|**2024-05-20**|**KG-RAG: Bridging the Gap Between Knowledge and Creativity**|Diego Sanmartin et.al.|[2405.12035](http://arxiv.org/abs/2405.12035)|null|
+|**2024-05-20**|**Can AI Relate: Testing Large Language Model Response for Mental Health Support**|Saadia Gabriel et.al.|[2405.12021](http://arxiv.org/abs/2405.12021)|null|
+|**2024-05-20**|**MTVQA: Benchmarking Multilingual Text-Centric Visual Question Answering**|Jingqun Tang et.al.|[2405.11985](http://arxiv.org/abs/2405.11985)|null|
+|**2024-05-20**|**A review on the use of large language models as virtual tutors**|Silvia García-Méndez et.al.|[2405.11983](http://arxiv.org/abs/2405.11983)|null|
+|**2024-05-20**|**Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays**|Zhichao Sun et.al.|[2405.11976](http://arxiv.org/abs/2405.11976)|**[link](https://github.com/sunzc-sunny/ppad)**|
 |**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
 |**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
 |**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
@@ -1560,6 +1582,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-20**|**Optimistic Query Routing in Clustering-based Approximate Maximum Inner Product Search**|Sebastian Bruch et.al.|[2405.12207](http://arxiv.org/abs/2405.12207)|null|
+|**2024-05-20**|**Robust VAR Capability Curve of DER with Uncertain Renewable Generation**|Aditya Shankar Kar et.al.|[2405.12184](http://arxiv.org/abs/2405.12184)|null|
+|**2024-05-20**|**EdgeLoc: A Communication-Adaptive Parallel System for Real-Time Localization in Infrastructure-Assisted Autonomous Driving**|Boyi Liu et.al.|[2405.12120](http://arxiv.org/abs/2405.12120)|null|
+|**2024-05-20**|**PATE: Proximity-Aware Time series anomaly Evaluation**|Ramin Ghorbani et.al.|[2405.12096](http://arxiv.org/abs/2405.12096)|**[link](https://github.com/raminghorbanii/pate)**|
+|**2024-05-20**|**Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?**|Yang Dai et.al.|[2405.12094](http://arxiv.org/abs/2405.12094)|null|
+|**2024-05-20**|**Safe by Design Autonomous Driving Systems**|Marius Bozga et.al.|[2405.11995](http://arxiv.org/abs/2405.11995)|null|
+|**2024-05-20**|**Tutorial on Silicon Photonics Integrated Platform Fiber Edge Coupling**|Sergey S. Avdeev et.al.|[2405.11980](http://arxiv.org/abs/2405.11980)|null|
+|**2024-05-20**|**A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation**|Sushmita Sarker et.al.|[2405.11903](http://arxiv.org/abs/2405.11903)|null|
+|**2024-05-20**|**Social norm dynamics in a behavioral epidemic model on multiplex networks**|Christos Charalambous et.al.|[2405.11887](http://arxiv.org/abs/2405.11887)|null|
+|**2024-05-20**|**Stereo-Knowledge Distillation from dpMV to Dual Pixels for Light Field Video Reconstruction**|Aryan Garg et.al.|[2405.11823](http://arxiv.org/abs/2405.11823)|null|
+|**2024-05-20**|**Efficient Multi-agent Reinforcement Learning by Planning**|Qihan Liu et.al.|[2405.11778](http://arxiv.org/abs/2405.11778)|**[link](https://github.com/liuqh16/mazero)**|
+|**2024-05-20**|**Configurable Mirror Descent: Towards a Unification of Decision Making**|Pengdeng Li et.al.|[2405.11746](http://arxiv.org/abs/2405.11746)|**[link](https://github.com/ipadli/cmd)**|
+|**2024-05-20**|**Estimating optimal tailored active surveillance strategy under interval censoring**|Muxuan Liang et.al.|[2405.11720](http://arxiv.org/abs/2405.11720)|null|
+|**2024-05-20**|**QComp: A QSAR-Based Data Completion Framework for Drug Discovery**|Bingjia Yang et.al.|[2405.11703](http://arxiv.org/abs/2405.11703)|null|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**Interpretable Machine Learning Enhances Disease Prognosis: Applications on COVID-19 and Onward**|Ke Ma et.al.|[2405.11672](http://arxiv.org/abs/2405.11672)|null|
+|**2024-05-19**|**Auto-Platoon : Freight by example**|Tharun V. Puthanveettil et.al.|[2405.11659](http://arxiv.org/abs/2405.11659)|null|
+|**2024-05-19**|**URDFormer: A Pipeline for Constructing Articulated Simulation Environments from Real-World Images**|Zoey Chen et.al.|[2405.11656](http://arxiv.org/abs/2405.11656)|null|
+|**2024-05-19**|**Movie Revenue Prediction using Machine Learning Models**|Vikranth Udandarao et.al.|[2405.11651](http://arxiv.org/abs/2405.11651)|**[link](https://github.com/vikranth3140/movie-revenue-prediction)**|
+|**2024-05-19**|**Searching Realistic-Looking Adversarial Objects For Autonomous Driving Systems**|Shengxiang Sun et.al.|[2405.11629](http://arxiv.org/abs/2405.11629)|null|
 |**2024-05-17**|**Strategic control for a Boltzmann like decision-making model**|Luis Guillermo Venegas-Pineda et.al.|[2405.10915](http://arxiv.org/abs/2405.10915)|null|
 |**2024-05-17**|**Contestable AI needs Computational Argumentation**|Francesco Leofante et.al.|[2405.10729](http://arxiv.org/abs/2405.10729)|null|
 |**2024-05-17**|**Challenging the Human-in-the-loop in Algorithmic Decision-making**|Sebastian Tschiatschek et.al.|[2405.10706](http://arxiv.org/abs/2405.10706)|null|
