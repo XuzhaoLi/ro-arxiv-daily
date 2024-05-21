@@ -1,4 +1,4 @@
-## Updated on 2024.05.20
+## Updated on 2024.05.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -145,12 +145,32 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Observational Scaling Laws and the Predictability of Language Model Performance**|Yangjun Ruan et.al.|[2405.10938](http://arxiv.org/abs/2405.10938)|null|
+|**2024-05-17**|**A Survey on Large Language Models with Multilingualism: Recent Advances and New Frontiers**|Kaiyu Huang et.al.|[2405.10936](http://arxiv.org/abs/2405.10936)|**[link](https://github.com/kaiyuhwang/mllm-survey)**|
+|**2024-05-17**|**The Local Interaction Basis: Identifying Computationally-Relevant and Sparsely Interacting Features in Neural Networks**|Lucius Bushnaq et.al.|[2405.10928](http://arxiv.org/abs/2405.10928)|null|
+|**2024-05-17**|**Blackbox Adaptation for Medical Image Segmentation**|Jay N. Paranjape et.al.|[2405.10913](http://arxiv.org/abs/2405.10913)|**[link](https://github.com/jayparanjape/blackbox)**|
+|**2024-05-17**|**COGNET-MD, an evaluation framework and dataset for Large Language Model benchmarks in the medical domain**|Dimitrios P. Panagoulias et.al.|[2405.10893](http://arxiv.org/abs/2405.10893)|null|
+|**2024-05-17**|**Application of Artificial Intelligence in Schizophrenia Rehabilitation Management: Systematic Literature Review**|Hongyi Yang et.al.|[2405.10883](http://arxiv.org/abs/2405.10883)|null|
+|**2024-05-17**|**ECR-Chain: Advancing Generative Language Models to Better Emotion-Cause Reasoners through Reasoning Chains**|Zhaopei Huang et.al.|[2405.10860](http://arxiv.org/abs/2405.10860)|**[link](https://github.com/hzp3517/ecr-chain)**|
+|**2024-05-17**|**The Future of Large Language Model Pre-training is Federated**|Lorenzo Sani et.al.|[2405.10853](http://arxiv.org/abs/2405.10853)|null|
+|**2024-05-17**|**Open-Vocabulary Spatio-Temporal Action Detection**|Tao Wu et.al.|[2405.10832](http://arxiv.org/abs/2405.10832)|null|
+|**2024-05-17**|**Large Language Model (LLM) for Telecommunications: A Comprehensive Survey on Principles, Key Techniques, and Opportunities**|Hao Zhou et.al.|[2405.10825](http://arxiv.org/abs/2405.10825)|null|
+|**2024-05-17**|**ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios**|Markus Bayer et.al.|[2405.10808](http://arxiv.org/abs/2405.10808)|null|
+|**2024-05-17**|**The Relational Machine Calculus**|Chris Barrett et.al.|[2405.10801](http://arxiv.org/abs/2405.10801)|null|
+|**2024-05-17**|**Empowering Small-Scale Knowledge Graphs: A Strategy of Leveraging General-Purpose Knowledge Graphs for Enriched Embeddings**|Albert Sawczyn et.al.|[2405.10745](http://arxiv.org/abs/2405.10745)|null|
+|**2024-05-17**|**Efficient Multimodal Large Language Models: A Survey**|Yizhang Jin et.al.|[2405.10739](http://arxiv.org/abs/2405.10739)|**[link](https://github.com/lijiannuist/efficient-multimodal-llms-survey)**|
+|**2024-05-17**|**INDUS: Effective and Efficient Language Models for Scientific Applications**|Bishwaranjan Bhattacharjee et.al.|[2405.10725](http://arxiv.org/abs/2405.10725)|null|
+|**2024-05-17**|**SignLLM: Sign Languages Production Large Language Models**|Sen Fang et.al.|[2405.10718](http://arxiv.org/abs/2405.10718)|null|
+|**2024-05-17**|**Persian Pronoun Resolution: Leveraging Neural Networks and Language Models**|Hassan Haji Mohammadi et.al.|[2405.10714](http://arxiv.org/abs/2405.10714)|null|
+|**2024-05-17**|**SynDy: Synthetic Dynamic Dataset Generation Framework for Misinformation Tasks**|Michael Shliselberg et.al.|[2405.10700](http://arxiv.org/abs/2405.10700)|null|
+|**2024-05-17**|**Revolutionizing Process Mining: A Novel Architecture for ChatGPT Integration and Enhanced User Experience through Optimized Prompt Engineering**|Mehrdad Agha Mohammad Ali Kermani et.al.|[2405.10689](http://arxiv.org/abs/2405.10689)|null|
+|**2024-05-17**|**Realistic Evaluation of Toxicity in Large Language Models**|Tinh Son Luong et.al.|[2405.10659](http://arxiv.org/abs/2405.10659)|null|
 |**2024-05-16**|**UniRAG: Universal Retrieval Augmentation for Multi-Modal Large Language Models**|Sahel Sharifymoghaddam et.al.|[2405.10311](http://arxiv.org/abs/2405.10311)|null|
 |**2024-05-16**|**4D Panoptic Scene Graph Generation**|Jingkang Yang et.al.|[2405.10305](http://arxiv.org/abs/2405.10305)|**[link](https://github.com/jingkang50/psg4d)**|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
@@ -1534,12 +1554,23 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-17**|**Strategic control for a Boltzmann like decision-making model**|Luis Guillermo Venegas-Pineda et.al.|[2405.10915](http://arxiv.org/abs/2405.10915)|null|
+|**2024-05-17**|**Contestable AI needs Computational Argumentation**|Francesco Leofante et.al.|[2405.10729](http://arxiv.org/abs/2405.10729)|null|
+|**2024-05-17**|**Challenging the Human-in-the-loop in Algorithmic Decision-making**|Sebastian Tschiatschek et.al.|[2405.10706](http://arxiv.org/abs/2405.10706)|null|
+|**2024-05-17**|**Empowering Prior to Court Legal Analysis: A Transparent and Accessible Dataset for Defensive Statement Classification and Interpretation**|Yannis Spyridis et.al.|[2405.10702](http://arxiv.org/abs/2405.10702)|null|
+|**2024-05-17**|**Pragmatic Communication for Remote Control of Finite-State Markov Processes**|Pietro Talli et.al.|[2405.10672](http://arxiv.org/abs/2405.10672)|null|
+|**2024-05-17**|**GEOcc: Geometrically Enhanced 3D Occupancy Network with Implicit-Explicit Depth Fusion and Contextual Self-Supervision**|Xin Tan et.al.|[2405.10591](http://arxiv.org/abs/2405.10591)|null|
+|**2024-05-17**|**Team Samsung-RAL: Technical Report for 2024 RoboDrive Challenge-Robust Map Segmentation Track**|Xiaoshuai Hao et.al.|[2405.10567](http://arxiv.org/abs/2405.10567)|null|
+|**2024-05-17**|**NeRO: Neural Road Surface Reconstruction**|Ruibo Wang et.al.|[2405.10554](http://arxiv.org/abs/2405.10554)|null|
+|**2024-05-17**|**Guidelines for evaluation of complex multi agent test scenarios**|Ana Isabel Garcia Guerra et.al.|[2405.10526](http://arxiv.org/abs/2405.10526)|null|
+|**2024-05-16**|**Tell me more: Intent Fulfilment Framework for Enhancing User Experiences in Conversational XAI**|Anjana Wijekoon et.al.|[2405.10446](http://arxiv.org/abs/2405.10446)|null|
+|**2024-05-16**|**Monitizer: Automating Design and Evaluation of Neural Network Monitors**|Muqsit Azeem et.al.|[2405.10350](http://arxiv.org/abs/2405.10350)|null|
 |**2024-05-16**|**Stochastic Q-learning for Large Discrete Action Spaces**|Fares Fourati et.al.|[2405.10310](http://arxiv.org/abs/2405.10310)|null|
 |**2024-05-16**|**Conformal Alignment: Knowing When to Trust Foundation Models with Guarantees**|Yu Gui et.al.|[2405.10301](http://arxiv.org/abs/2405.10301)|null|
 |**2024-05-17**|**Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning**|Yuexiang Zhai et.al.|[2405.10292](http://arxiv.org/abs/2405.10292)|null|
@@ -2712,5 +2743,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240520>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240521>back to top</a>)</p>
 
