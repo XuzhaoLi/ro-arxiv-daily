@@ -1,4 +1,4 @@
-## Updated on 2024.05.24
+## Updated on 2024.05.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2024-05-23**|**Optimal Whole Body Trajectory Planning for Mobile Manipulators in Planetary Exploration and Construction**|Federica Storiale et.al.|[2405.14363](http://arxiv.org/abs/2405.14363)|null|
 |**2024-05-23**|**Deterministic Policies for Constrained Reinforcement Learning in Polynomial-Time**|Jeremy McMahan et.al.|[2405.14183](http://arxiv.org/abs/2405.14183)|null|
 |**2024-05-22**|**Tackling Decision Processes with Non-Cumulative Objectives using Reinforcement Learning**|Maximilian Nägele et.al.|[2405.13609](http://arxiv.org/abs/2405.13609)|null|
-|**2024-05-21**|**Parallel Algorithm for Optimal Threshold Labeling of Ordinal Regression Methods**|Ryoya Yamasaki et.al.|[2405.12756](http://arxiv.org/abs/2405.12756)|null|
+|**2024-05-21**|**Parallel Algorithm for Optimal Threshold Labeling of Ordinal Regression Methods**|Ryoya Yamasaki et.al.|[2405.12756](http://arxiv.org/abs/2405.12756)|**[link](https://github.com/yamasakiryoya/ECOTL)**|
 |**2024-05-21**|**Short and simple introduction to Bellman filtering and smoothing**|Rutger-Jan Lange et.al.|[2405.12668](http://arxiv.org/abs/2405.12668)|null|
 |**2024-05-21**|**Data-driven Coordinated AC/DC Control Strategy for Frequency Safety**|Qianni Cao et.al.|[2405.12546](http://arxiv.org/abs/2405.12546)|null|
 |**2024-05-20**|**Semantic Trajectory Data Mining with LLM-Informed POI Classification**|Yifan Liu et.al.|[2405.11715](http://arxiv.org/abs/2405.11715)|null|
@@ -155,7 +155,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -1624,18 +1624,18 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[2405.14870](http://arxiv.org/abs/2405.14870)|null|
+|**2024-05-23**|**An Empirical Study of Training State-of-the-Art LiDAR Segmentation Models**|Jiahao Sun et.al.|[2405.14870](http://arxiv.org/abs/2405.14870)|**[link](https://github.com/open-mmlab/mmdetection3d)**|
 |**2024-05-23**|**Local Causal Discovery for Structural Evidence of Direct Discrimination**|Jacqueline Maasch et.al.|[2405.14848](http://arxiv.org/abs/2405.14848)|null|
 |**2024-05-23**|**As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**|Shomik Jain et.al.|[2405.14812](http://arxiv.org/abs/2405.14812)|null|
 |**2024-05-23**|**DIDI: Diffusion-Guided Diversity for Offline Behavioral Generation**|Jinxin Liu et.al.|[2405.14790](http://arxiv.org/abs/2405.14790)|null|
 |**2024-05-23**|**FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models**|Hongyang Yang et.al.|[2405.14767](http://arxiv.org/abs/2405.14767)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
-|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747](http://arxiv.org/abs/2405.14747)|**[link](https://github.com/Franpin/TopoLogic)**|
+|**2024-05-23**|**TopoLogic: An Interpretable Pipeline for Lane Topology Reasoning on Driving Scenes**|Yanping Fu et.al.|[2405.14747](http://arxiv.org/abs/2405.14747)|null|
 |**2024-05-23**|**Exploring Prosocial Irrationality for LLM Agents: A Social Cognition View**|Xuan Liu et.al.|[2405.14744](http://arxiv.org/abs/2405.14744)|null|
 |**2024-05-23**|**Iterative Causal Segmentation: Filling the Gap between Market Segmentation and Marketing Strategy**|Kaihua Ding et.al.|[2405.14743](http://arxiv.org/abs/2405.14743)|null|
 |**2024-05-23**|**A Systematic and Formal Study of the Impact of Local Differential Privacy on Fairness: Preliminary Results**|Karima Makhlouf et.al.|[2405.14725](http://arxiv.org/abs/2405.14725)|null|
@@ -2873,5 +2873,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240524>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240525>back to top</a>)</p>
 
