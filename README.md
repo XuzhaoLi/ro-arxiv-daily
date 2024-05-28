@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Q-value Regularized Transformer for Offline Reinforcement Learning**|Shengchao Hu et.al.|[2405.17098](http://arxiv.org/abs/2405.17098)|null|
+|**2024-05-25**|**A Bi-Objective Approach to Last-Mile Delivery Routing Considering Driver Preferences**|Juan Pablo Mesa et.al.|[2405.16051](http://arxiv.org/abs/2405.16051)|null|
+|**2024-05-24**|**Inference of Utilities and Time Preference in Sequential Decision-Making**|Haoyang Cao et.al.|[2405.15975](http://arxiv.org/abs/2405.15975)|null|
 |**2024-05-24**|**Stability and Performance Analysis of Model Predictive Control of Uncertain Linear Systems**|Changrui Liu et.al.|[2405.15552](http://arxiv.org/abs/2405.15552)|null|
 |**2024-05-24**|**An Approximate Dynamic Programming Framework for Occlusion-Robust Multi-Object Tracking**|Pratyusha Musunuru et.al.|[2405.15137](http://arxiv.org/abs/2405.15137)|null|
 |**2024-05-23**|**Two-Stage ML-Guided Decision Rules for Sequential Decision Making under Uncertainty**|Andrew Rosemberg et.al.|[2405.14973](http://arxiv.org/abs/2405.14973)|null|
@@ -27,7 +30,7 @@
 |**2024-05-18**|**On the Trajectory Regularity of ODE-based Diffusion Sampling**|Defang Chen et.al.|[2405.11326](http://arxiv.org/abs/2405.11326)|null|
 |**2024-05-15**|**Harmonizing Human Insights and AI Precision: Hand in Hand for Advancing Knowledge Graph Task**|Shurong Wang et.al.|[2405.09477](http://arxiv.org/abs/2405.09477)|null|
 |**2024-05-14**|**Treatment Effect Estimation for User Interest Exploration on Recommender Systems**|Jiaju Chen et.al.|[2405.08582](http://arxiv.org/abs/2405.08582)|**[link](https://github.com/Jiaju-Chen/UpliftRec)**|
-|**2024-05-20**|**Dynamic Programming for Symbolic Boolean Realizability and Synthesis**|Yi Lin et.al.|[2405.07975](http://arxiv.org/abs/2405.07975)|null|
+|**2024-05-27**|**Dynamic Programming for Symbolic Boolean Realizability and Synthesis**|Yi Lin et.al.|[2405.07975](http://arxiv.org/abs/2405.07975)|null|
 |**2024-05-13**|**Space Domain based Ecological Cooperative and Adaptive Cruise Control on Rolling Terrain**|Mingyue Lei et.al.|[2405.07553](http://arxiv.org/abs/2405.07553)|null|
 |**2024-05-12**|**Deciding regular games: a playground for exponential time algorithms**|Zihui Liang et.al.|[2405.07188](http://arxiv.org/abs/2405.07188)|null|
 |**2024-05-12**|**Trade execution games in a Markovian environment**|Masamitsu Ohnishi et.al.|[2405.07184](http://arxiv.org/abs/2405.07184)|null|
@@ -164,6 +167,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Matryoshka Multimodal Models**|Mu Cai et.al.|[2405.17430](http://arxiv.org/abs/2405.17430)|null|
+|**2024-05-27**|**NV-Embed: Improved Techniques for Training LLMs as Generalist Embedding Models**|Chankyu Lee et.al.|[2405.17428](http://arxiv.org/abs/2405.17428)|null|
+|**2024-05-27**|**Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**|Kuan-Chih Huang et.al.|[2405.17427](http://arxiv.org/abs/2405.17427)|**[link](https://github.com/kuanchihhuang/reason3d)**|
+|**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424](http://arxiv.org/abs/2405.17424)|null|
+|**2024-05-27**|**Privacy-Aware Visual Language Models**|Laurens Samson et.al.|[2405.17423](http://arxiv.org/abs/2405.17423)|null|
+|**2024-05-27**|**Self-Corrected Multimodal Large Language Model for End-to-End Robot Manipulation**|Jiaming Liu et.al.|[2405.17418](http://arxiv.org/abs/2405.17418)|null|
+|**2024-05-27**|**THREAD: Thinking Deeper with Recursive Spawning**|Philip Schroeder et.al.|[2405.17402](http://arxiv.org/abs/2405.17402)|null|
+|**2024-05-27**|**The Expressive Capacity of State Space Models: A Formal Language Perspective**|Yash Sarrof et.al.|[2405.17394](http://arxiv.org/abs/2405.17394)|null|
+|**2024-05-27**|**MindMerger: Efficient Boosting LLM Reasoning in non-English Languages**|Zixian Huang et.al.|[2405.17386](http://arxiv.org/abs/2405.17386)|null|
+|**2024-05-27**|**Unlocking the Secrets of Linear Complexity Sequence Model from A Unified Perspective**|Zhen Qin et.al.|[2405.17383](http://arxiv.org/abs/2405.17383)|null|
+|**2024-05-27**|**ReMoDetect: Reward Models Recognize Aligned LLM's Generations**|Hyunseok Lee et.al.|[2405.17382](http://arxiv.org/abs/2405.17382)|null|
+|**2024-05-27**|**Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention**|Zhen Qin et.al.|[2405.17381](http://arxiv.org/abs/2405.17381)|**[link](https://github.com/opennlplab/transnormerllm)**|
+|**2024-05-27**|**RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects**|Ahmed Allam et.al.|[2405.17378](http://arxiv.org/abs/2405.17378)|null|
+|**2024-05-27**|**Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models**|ShengYun Peng et.al.|[2405.17374](http://arxiv.org/abs/2405.17374)|null|
+|**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346](http://arxiv.org/abs/2405.17346)|**[link](https://github.com/xqlin98/apohf)**|
+|**2024-05-27**|**Exploring and steering the moral compass of Large Language Models**|Alejandro Tlaie et.al.|[2405.17345](http://arxiv.org/abs/2405.17345)|null|
+|**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
+|**2024-05-27**|**XFormParser: A Simple and Effective Multimodal Multilingual Semi-structured Form Parser**|Xianfu Cheng et.al.|[2405.17336](http://arxiv.org/abs/2405.17336)|null|
+|**2024-05-27**|**FedHPL: Efficient Heterogeneous Federated Learning with Prompt Tuning and Logit Distillation**|Yuting Ma et.al.|[2405.17267](http://arxiv.org/abs/2405.17267)|null|
+|**2024-05-27**|**On the Noise Robustness of In-Context Learning for Text Generation**|Hongfu Gao et.al.|[2405.17264](http://arxiv.org/abs/2405.17264)|null|
 |**2024-05-24**|**Scaling Laws for Discriminative Classification in Large Language Models**|Dean Wyatte et.al.|[2405.15765](http://arxiv.org/abs/2405.15765)|null|
 |**2024-05-24**|**Filtered Corpus Training (FiCT) Shows that Language Models can Generalize from Indirect Evidence**|Abhinav Patil et.al.|[2405.15750](http://arxiv.org/abs/2405.15750)|null|
 |**2024-05-24**|**Sparse maximal update parameterization: A holistic approach to sparse training dynamics**|Nolan Dey et.al.|[2405.15743](http://arxiv.org/abs/2405.15743)|null|
@@ -1653,6 +1676,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction**|Yuanhui Huang et.al.|[2405.17429](http://arxiv.org/abs/2405.17429)|**[link](https://github.com/huang-yh/gaussianformer)**|
+|**2024-05-27**|**Benchmarking and Improving Bird's Eye View Perception Robustness in Autonomous Driving**|Shaoyuan Xie et.al.|[2405.17426](http://arxiv.org/abs/2405.17426)|**[link](https://github.com/Daniel-xsy/RoboBEV)**|
+|**2024-05-27**|**LARM: Large Auto-Regressive Model for Long-Horizon Embodied Intelligence**|Zhuoling Li et.al.|[2405.17424](http://arxiv.org/abs/2405.17424)|null|
+|**2024-05-27**|**Hardness-Aware Scene Synthesis for Semi-Supervised 3D Object Detection**|Shuai Zeng et.al.|[2405.17422](http://arxiv.org/abs/2405.17422)|**[link](https://github.com/wzzheng/hass)**|
+|**2024-05-27**|**MultiOOD: Scaling Out-of-Distribution Detection for Multiple Modalities**|Hao Dong et.al.|[2405.17419](http://arxiv.org/abs/2405.17419)|**[link](https://github.com/donghao51/multiood)**|
+|**2024-05-27**|**Vista: A Generalizable Driving World Model with High Fidelity and Versatile Controllability**|Shenyuan Gao et.al.|[2405.17398](http://arxiv.org/abs/2405.17398)|**[link](https://github.com/opendrivelab/vista)**|
+|**2024-05-27**|**BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction**|Zikang Zhou et.al.|[2405.17372](http://arxiv.org/abs/2405.17372)|null|
+|**2024-05-27**|**Rethinking Transformers in Solving POMDPs**|Chenhao Lu et.al.|[2405.17358](http://arxiv.org/abs/2405.17358)|**[link](https://github.com/ctp314/tfporl)**|
+|**2024-05-27**|**Exploring and steering the moral compass of Large Language Models**|Alejandro Tlaie et.al.|[2405.17345](http://arxiv.org/abs/2405.17345)|null|
+|**2024-05-27**|**Leveraging Offline Data in Linear Latent Bandits**|Chinmaya Kausik et.al.|[2405.17324](http://arxiv.org/abs/2405.17324)|null|
+|**2024-05-27**|**Towards Accurate Ego-lane Identification with Early Time Series Classification**|Yuchuan Jin et.al.|[2405.17270](http://arxiv.org/abs/2405.17270)|null|
+|**2024-05-27**|**"Pass the butter": A study on desktop-classic multitasking robotic arm based on advanced YOLOv7 and BERT**|Haohua Que et.al.|[2405.17250](http://arxiv.org/abs/2405.17250)|null|
+|**2024-05-27**|**InsigHTable: Insight-driven Hierarchical Table Visualization with Reinforcement Learning**|Guozheng Li et.al.|[2405.17229](http://arxiv.org/abs/2405.17229)|null|
+|**2024-05-27**|**Collage is the New Writing: Exploring the Fragmentation of Text and User Interfaces in AI Tools**|Daniel Buschek et.al.|[2405.17217](http://arxiv.org/abs/2405.17217)|null|
+|**2024-05-27**|**CoSLight: Co-optimizing Collaborator Selection and Decision-making to Enhance Traffic Signal Control**|Jingqing Ruan et.al.|[2405.17152](http://arxiv.org/abs/2405.17152)|**[link](https://github.com/anonymousaccountss/coslight)**|
+|**2024-05-27**|**DINO-SD: Champion Solution for ICRA 2024 RoboDepth Challenge**|Yifan Mao et.al.|[2405.17102](http://arxiv.org/abs/2405.17102)|null|
+|**2024-05-27**|**A Two-Level Stochastic Model for the Lateral Movement of Vehicles Within Their Lane Under Homogeneous Traffic Conditions**|Nicole Neis et.al.|[2405.17080](http://arxiv.org/abs/2405.17080)|null|
+|**2024-05-27**|**Efficient mid-term forecasting of hourly electricity load using generalized additive models**|Monika Zimmermann et.al.|[2405.17070](http://arxiv.org/abs/2405.17070)|null|
+|**2024-05-27**|**BWArea Model: Learning World Model, Inverse Dynamics, and Policy for Controllable Language Generation**|Chengxing Jia et.al.|[2405.17039](http://arxiv.org/abs/2405.17039)|null|
+|**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
 |**2024-05-24**|**Enhancing Adverse Drug Event Detection with Multimodal Dataset: Corpus Creation and Model Development**|Pranab Sahoo et.al.|[2405.15766](http://arxiv.org/abs/2405.15766)|**[link](https://github.com/singhayush27/mmade)**|
 |**2024-05-24**|**An Adaptive Framework for Manipulator Skill Reproduction in Dynamic Environments**|Ryan Donald et.al.|[2405.15711](http://arxiv.org/abs/2405.15711)|null|
 |**2024-05-24**|**SMART: Scalable Multi-agent Real-time Simulation via Next-token Prediction**|Wei Wu et.al.|[2405.15677](http://arxiv.org/abs/2405.15677)|null|
