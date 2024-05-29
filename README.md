@@ -1,4 +1,4 @@
-## Updated on 2024.05.28
+## Updated on 2024.05.29
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -161,7 +161,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240529>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -180,7 +180,7 @@
 |**2024-05-27**|**ReMoDetect: Reward Models Recognize Aligned LLM's Generations**|Hyunseok Lee et.al.|[2405.17382](http://arxiv.org/abs/2405.17382)|null|
 |**2024-05-27**|**Various Lengths, Constant Speed: Efficient Language Modeling with Lightning Attention**|Zhen Qin et.al.|[2405.17381](http://arxiv.org/abs/2405.17381)|**[link](https://github.com/opennlplab/transnormerllm)**|
 |**2024-05-27**|**RTL-Repo: A Benchmark for Evaluating LLMs on Large-Scale RTL Design Projects**|Ahmed Allam et.al.|[2405.17378](http://arxiv.org/abs/2405.17378)|null|
-|**2024-05-27**|**Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models**|ShengYun Peng et.al.|[2405.17374](http://arxiv.org/abs/2405.17374)|null|
+|**2024-05-28**|**Navigating the Safety Landscape: Measuring Risks in Finetuning Large Language Models**|ShengYun Peng et.al.|[2405.17374](http://arxiv.org/abs/2405.17374)|null|
 |**2024-05-27**|**Prompt Optimization with Human Feedback**|Xiaoqiang Lin et.al.|[2405.17346](http://arxiv.org/abs/2405.17346)|**[link](https://github.com/xqlin98/apohf)**|
 |**2024-05-27**|**Exploring and steering the moral compass of Large Language Models**|Alejandro Tlaie et.al.|[2405.17345](http://arxiv.org/abs/2405.17345)|null|
 |**2024-05-27**|**Cost-efficient Knowledge-based Question Answering with Large Language Models**|Junnan Dong et.al.|[2405.17337](http://arxiv.org/abs/2405.17337)|null|
@@ -1670,7 +1670,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240529>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2959,5 +2959,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240528>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240529>back to top</a>)</p>
 
