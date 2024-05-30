@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**A numerical algorithm with linear complexity for Multi-marginal Optimal Transport with $L^1$ Cost**|Chunhui Chen et.al.|[2405.19246](http://arxiv.org/abs/2405.19246)|null|
 |**2024-05-28**|**A Pontryagin Perspective on Reinforcement Learning**|Onno Eberhard et.al.|[2405.18100](http://arxiv.org/abs/2405.18100)|null|
 |**2024-05-27**|**Q-value Regularized Transformer for Offline Reinforcement Learning**|Shengchao Hu et.al.|[2405.17098](http://arxiv.org/abs/2405.17098)|null|
 |**2024-05-25**|**A Bi-Objective Approach to Last-Mile Delivery Routing Considering Driver Preferences**|Juan Pablo Mesa et.al.|[2405.16051](http://arxiv.org/abs/2405.16051)|null|
@@ -168,6 +169,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**X-VILA: Cross-Modality Alignment for Large Language Model**|Hanrong Ye et.al.|[2405.19335](http://arxiv.org/abs/2405.19335)|null|
+|**2024-05-29**|**LLMs Meet Multimodal Generation and Editing: A Survey**|Yingqing He et.al.|[2405.19334](http://arxiv.org/abs/2405.19334)|**[link](https://github.com/yingqinghe/awesome-llms-meet-multimodal-generation)**|
+|**2024-05-29**|**Multi-Modal Generative Embedding Model**|Feipeng Ma et.al.|[2405.19333](http://arxiv.org/abs/2405.19333)|null|
+|**2024-05-29**|**Self-Exploring Language Models: Active Preference Elicitation for Online Alignment**|Shenao Zhang et.al.|[2405.19332](http://arxiv.org/abs/2405.19332)|**[link](https://github.com/shenao-zhang/selm)**|
+|**2024-05-29**|**Normative Modules: A Generative Agent Architecture for Learning Norms that Supports Multi-Agent Cooperation**|Atrisha Sarkar et.al.|[2405.19328](http://arxiv.org/abs/2405.19328)|null|
+|**2024-05-29**|**MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series**|Ge Zhang et.al.|[2405.19327](http://arxiv.org/abs/2405.19327)|null|
+|**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
+|**2024-05-29**|**Nearest Neighbor Speculative Decoding for LLM Generation and Attribution**|Minghan Li et.al.|[2405.19325](http://arxiv.org/abs/2405.19325)|null|
+|**2024-05-29**|**Are Large Language Models Chameleons?**|Mingmeng Geng et.al.|[2405.19323](http://arxiv.org/abs/2405.19323)|null|
+|**2024-05-29**|**Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF**|Shicong Cen et.al.|[2405.19320](http://arxiv.org/abs/2405.19320)|null|
+|**2024-05-29**|**Robust Preference Optimization through Reward Model Distillation**|Adam Fisch et.al.|[2405.19316](http://arxiv.org/abs/2405.19316)|null|
+|**2024-05-29**|**Matryoshka Query Transformer for Large Vision-Language Models**|Wenbo Hu et.al.|[2405.19315](http://arxiv.org/abs/2405.19315)|**[link](https://github.com/gordonhu608/mqt-llava)**|
+|**2024-05-29**|**Language Models Trained to do Arithmetic Predict Human Risky and Intertemporal Choice**|Jian-Qiao Zhu et.al.|[2405.19313](http://arxiv.org/abs/2405.19313)|null|
+|**2024-05-29**|**Expert-Guided Extinction of Toxic Tokens for Debiased Generation**|Xueyao Sun et.al.|[2405.19299](http://arxiv.org/abs/2405.19299)|null|
+|**2024-05-29**|**MASSIVE Multilingual Abstract Meaning Representation: A Dataset and Baselines for Hallucination Detection**|Michael Regan et.al.|[2405.19285](http://arxiv.org/abs/2405.19285)|null|
+|**2024-05-29**|**Optimizing Foundation Model Inference on a Many-tiny-core Open-source RISC-V Platform**|Viviane Potocnik et.al.|[2405.19284](http://arxiv.org/abs/2405.19284)|null|
+|**2024-05-29**|**Programmable Motion Generation for Open-Set Motion Control Tasks**|Hanchao Liu et.al.|[2405.19283](http://arxiv.org/abs/2405.19283)|null|
+|**2024-05-29**|**PediatricsGPT: Large Language Models as Chinese Medical Assistants for Pediatric Applications**|Dingkang Yang et.al.|[2405.19266](http://arxiv.org/abs/2405.19266)|null|
+|**2024-05-29**|**AlchemistCoder: Harmonizing and Eliciting Code Capability by Hindsight Tuning on Multi-source Data**|Zifan Song et.al.|[2405.19265](http://arxiv.org/abs/2405.19265)|**[link](https://github.com/internlm/alchemistcoder)**|
+|**2024-05-29**|**Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models**|Zhanhui Zhou et.al.|[2405.19262](http://arxiv.org/abs/2405.19262)|null|
 |**2024-05-28**|**Why are Visually-Grounded Language Models Bad at Image Classification?**|Yuhui Zhang et.al.|[2405.18415](http://arxiv.org/abs/2405.18415)|**[link](https://github.com/yuhui-zh15/vlmclassifier)**|
 |**2024-05-28**|**Don't Forget to Connect! Improving RAG with Graph-based Reranking**|Jialin Dong et.al.|[2405.18414](http://arxiv.org/abs/2405.18414)|null|
 |**2024-05-28**|**WIDIn: Wording Image for Domain-Invariant Representation in Single-Source Domain Generalization**|Jiawei Ma et.al.|[2405.18405](http://arxiv.org/abs/2405.18405)|null|
@@ -1697,6 +1718,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-29**|**Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models**|Tianrun Chen et.al.|[2405.19326](http://arxiv.org/abs/2405.19326)|null|
+|**2024-05-29**|**Language Models Trained to do Arithmetic Predict Human Risky and Intertemporal Choice**|Jian-Qiao Zhu et.al.|[2405.19313](http://arxiv.org/abs/2405.19313)|null|
+|**2024-05-29**|**Real-Time Environment Condition Classification for Autonomous Vehicles**|Marco Introvigne et.al.|[2405.19305](http://arxiv.org/abs/2405.19305)|null|
+|**2024-05-29**|**Towards Next-Generation Urban Decision Support Systems through AI-Powered Generation of Scientific Ontology using Large Language Models -- A Case in Optimizing Intermodal Freight Transportation**|Jose Tupayachi et.al.|[2405.19255](http://arxiv.org/abs/2405.19255)|null|
+|**2024-05-29**|**Diffusion-based Dynamics Models for Long-Horizon Rollout in Offline Reinforcement Learning**|Hanye Zhao et.al.|[2405.19189](http://arxiv.org/abs/2405.19189)|null|
+|**2024-05-29**|**Conditional Latent ODEs for Motion Prediction in Autonomous Driving**|Khang Truong Giang et.al.|[2405.19183](http://arxiv.org/abs/2405.19183)|null|
+|**2024-05-29**|**Learning Interpretable Scheduling Algorithms for Data Processing Clusters**|Zhibo Hu et.al.|[2405.19131](http://arxiv.org/abs/2405.19131)|null|
+|**2024-05-29**|**Early Detection of Critical Urban Events using Mobile Phone Network Data**|Pierre Lemaire et.al.|[2405.19125](http://arxiv.org/abs/2405.19125)|null|
+|**2024-05-29**|**Can Graph Learning Improve Task Planning?**|Xixi Wu et.al.|[2405.19119](http://arxiv.org/abs/2405.19119)|null|
+|**2024-05-29**|**Quantum Optimal Control of Squeezing in Cavity Optomechanics**|Anton Halaski et.al.|[2405.19070](http://arxiv.org/abs/2405.19070)|null|
+|**2024-05-29**|**A Good Foundation is Worth Many Labels: Label-Efficient Panoptic Segmentation**|Niclas Vödisch et.al.|[2405.19035](http://arxiv.org/abs/2405.19035)|**[link](https://github.com/robot-learning-freiburg/PASTEL)**|
+|**2024-05-29**|**Distributed Management of Fluctuating Energy Resources in Dynamic Networked Systems**|Xiaotong Cheng et.al.|[2405.19015](http://arxiv.org/abs/2405.19015)|null|
+|**2024-05-29**|**Optimizing Vehicular Networks with Variational Quantum Circuits-based Reinforcement Learning**|Zijiang Yan et.al.|[2405.18984](http://arxiv.org/abs/2405.18984)|null|
+|**2024-05-29**|**DecomCAM: Advancing Beyond Saliency Maps through Decomposition and Integration**|Yuguang Yang et.al.|[2405.18882](http://arxiv.org/abs/2405.18882)|**[link](https://github.com/capricornguang/decomcam)**|
+|**2024-05-29**|**On Fairness Concerns in the Blockchain Ecosystem**|Johnnatan Messias Peixoto Afonso et.al.|[2405.18876](http://arxiv.org/abs/2405.18876)|null|
+|**2024-05-29**|**SSGA-Net: Stepwise Spatial Global-local Aggregation Networks for for Autonomous Driving**|Yiming Cui et.al.|[2405.18857](http://arxiv.org/abs/2405.18857)|null|
+|**2024-05-29**|**LetsMap: Unsupervised Representation Learning for Semantic BEV Mapping**|Nikhil Gosala et.al.|[2405.18852](http://arxiv.org/abs/2405.18852)|null|
+|**2024-05-29**|**SFANet: Spatial-Frequency Attention Network for Weather Forecasting**|Jiaze Wang et.al.|[2405.18849](http://arxiv.org/abs/2405.18849)|null|
+|**2024-05-29**|**FDQN: A Flexible Deep Q-Network Framework for Game Automation**|Prabhath Reddy Gujavarthy et.al.|[2405.18761](http://arxiv.org/abs/2405.18761)|**[link](https://github.com/prabhath-r/FDQN_RL)**|
+|**2024-05-29**|**Multi-objective Cross-task Learning via Goal-conditioned GPT-based Decision Transformers for Surgical Robot Task Automation**|Jiawei Fu et.al.|[2405.18757](http://arxiv.org/abs/2405.18757)|null|
 |**2024-05-28**|**3D StreetUnveiler with Semantic-Aware 2DGS**|Jingwei Xu et.al.|[2405.18416](http://arxiv.org/abs/2405.18416)|null|
 |**2024-05-28**|**Is a 3D-Tokenized LLM the Key to Reliable Autonomous Driving?**|Yifan Bai et.al.|[2405.18361](http://arxiv.org/abs/2405.18361)|null|
 |**2024-05-28**|**MMCTAgent: Multi-modal Critical Thinking Agent Framework for Complex Visual Reasoning**|Somnath Kumar et.al.|[2405.18358](http://arxiv.org/abs/2405.18358)|null|
