@@ -12,6 +12,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
+|**2024-06-04**|**Branches: A Fast Dynamic Programming and Branch & Bound Algorithm for Optimal Decision Trees**|Ayman Chaouki et.al.|[2406.02175](http://arxiv.org/abs/2406.02175)|null|
+|**2024-06-03**|**An efficient solution to Hidden Markov Models on trees with coupled branches**|Farzan Vafa et.al.|[2406.01663](http://arxiv.org/abs/2406.01663)|null|
+|**2024-06-03**|**A New View on Planning in Online Reinforcement Learning**|Kevin Roice et.al.|[2406.01562](http://arxiv.org/abs/2406.01562)|null|
+|**2024-06-02**|**Dual Policy Reinforcement Learning for Real-time Rebalancing in Bike-sharing Systems**|Jiaqi Liang et.al.|[2406.00868](http://arxiv.org/abs/2406.00868)|null|
+|**2024-06-02**|**Computing Optimal Equilibria in Repeated Games with Restarts**|Ratip Emin Berker et.al.|[2406.00851](http://arxiv.org/abs/2406.00851)|null|
+|**2024-06-02**|**A Lazy Abstraction Algorithm for Markov Decision Processes: Theory and Initial Evaluation**|Dániel Szekeres et.al.|[2406.00824](http://arxiv.org/abs/2406.00824)|null|
+|**2024-06-02**|**Model Predictive Control and Reinforcement Learning: A Unified Framework Based on Dynamic Programming**|Dimitri P. Bertsekas et.al.|[2406.00592](http://arxiv.org/abs/2406.00592)|null|
+|**2024-06-01**|**Optimal Transmission Power Scheduling for Networked Control System under DoS Attack**|Siyi Wang et.al.|[2406.00540](http://arxiv.org/abs/2406.00540)|null|
+|**2024-06-01**|**A Single-Loop Robust Policy Gradient Method for Robust Markov Decision Processes**|Zhenwei Lin et.al.|[2406.00274](http://arxiv.org/abs/2406.00274)|null|
 |**2024-05-31**|**Finding Diverse Solutions Parameterized by Cliquewidth**|Karolina Drabik et.al.|[2405.20931](http://arxiv.org/abs/2405.20931)|null|
 |**2024-05-29**|**A numerical algorithm with linear complexity for Multi-marginal Optimal Transport with $L^1$ Cost**|Chunhui Chen et.al.|[2405.19246](http://arxiv.org/abs/2405.19246)|null|
 |**2024-05-28**|**A Pontryagin Perspective on Reinforcement Learning**|Onno Eberhard et.al.|[2405.18100](http://arxiv.org/abs/2405.18100)|null|
@@ -170,6 +180,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|null|
+|**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
+|**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547](http://arxiv.org/abs/2406.02547)|**[link](https://github.com/showlab/VisInContext)**|
+|**2024-06-04**|**To Believe or Not to Believe Your LLM**|Yasin Abbasi Yadkori et.al.|[2406.02543](http://arxiv.org/abs/2406.02543)|null|
+|**2024-06-04**|**Loki: Low-Rank Keys for Efficient Sparse Attention**|Prajwal Singhania et.al.|[2406.02542](http://arxiv.org/abs/2406.02542)|null|
+|**2024-06-04**|**Parrot: Multilingual Visual Instruction Tuning**|Hai-Long Sun et.al.|[2406.02539](http://arxiv.org/abs/2406.02539)|null|
+|**2024-06-04**|**TopViewRS: Vision-Language Models as Top-View Spatial Reasoners**|Chengzu Li et.al.|[2406.02537](http://arxiv.org/abs/2406.02537)|null|
+|**2024-06-04**|**Mitigate Position Bias in Large Language Models via Scaling a Single Dimension**|Yijiong Yu et.al.|[2406.02536](http://arxiv.org/abs/2406.02536)|null|
+|**2024-06-04**|**SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices**|Ruslan Svirschevski et.al.|[2406.02532](http://arxiv.org/abs/2406.02532)|null|
+|**2024-06-04**|**Scalable MatMul-free Language Modeling**|Rui-Jie Zhu et.al.|[2406.02528](http://arxiv.org/abs/2406.02528)|**[link](https://github.com/ridgerchu/matmulfreellm)**|
+|**2024-06-04**|**CheckEmbed: Effective Verification of LLM Solutions to Open-Ended Tasks**|Maciej Besta et.al.|[2406.02524](http://arxiv.org/abs/2406.02524)|null|
+|**2024-06-04**|**RoboCasa: Large-Scale Simulation of Everyday Tasks for Generalist Robots**|Soroush Nasiriany et.al.|[2406.02523](http://arxiv.org/abs/2406.02523)|null|
+|**2024-06-04**|**Demystifying the Compression of Mixture-of-Experts Through a Unified Framework**|Shwai He et.al.|[2406.02500](http://arxiv.org/abs/2406.02500)|null|
+|**2024-06-04**|**Hiding Text in Large Language Models: Introducing Unconditional Token Forcing Confusion**|Jakub Hoscilowicz et.al.|[2406.02481](http://arxiv.org/abs/2406.02481)|**[link](https://github.com/j-hoscilowic/zurek-stegano)**|
+|**2024-06-04**|**Analyzing Temporal Complex Events with Large Language Models? A Benchmark towards Temporal, Long Context Understanding**|Zhihan Zhang et.al.|[2406.02472](http://arxiv.org/abs/2406.02472)|null|
+|**2024-06-04**|**Meta-Designing Quantum Experiments with Language Models**|Sören Arlt et.al.|[2406.02470](http://arxiv.org/abs/2406.02470)|null|
+|**2024-06-04**|**Seed-TTS: A Family of High-Quality Versatile Speech Generation Models**|Philip Anastassiou et.al.|[2406.02430](http://arxiv.org/abs/2406.02430)|null|
+|**2024-06-04**|**Self-Supervised Singing Voice Pre-Training towards Speech-to-Singing Conversion**|Ruiqi Li et.al.|[2406.02429](http://arxiv.org/abs/2406.02429)|null|
+|**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
+|**2024-06-04**|**Multiple Choice Questions and Large Languages Models: A Case Study with Fictional Medical Data**|Maxime Griot et.al.|[2406.02394](http://arxiv.org/abs/2406.02394)|null|
 |**2024-05-31**|**Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis**|Chaoyou Fu et.al.|[2405.21075](http://arxiv.org/abs/2405.21075)|null|
 |**2024-05-31**|**Code Pretraining Improves Entity Tracking Abilities of Language Models**|Najoung Kim et.al.|[2405.21068](http://arxiv.org/abs/2405.21068)|null|
 |**2024-05-31**|**Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality**|Tri Dao et.al.|[2405.21060](http://arxiv.org/abs/2405.21060)|**[link](https://github.com/state-spaces/mamba)**|
@@ -1759,6 +1789,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
+|**2024-06-04**|**How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?**|Tianchi Liu et.al.|[2406.02483](http://arxiv.org/abs/2406.02483)|null|
+|**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
+|**2024-06-04**|**Out-of-Distribution Runtime Adaptation with Conformalized Neural Network Ensembles**|Polo Contreras et.al.|[2406.02436](http://arxiv.org/abs/2406.02436)|null|
+|**2024-06-04**|**Decoupling of neural network calibration measures**|Dominik Werner Wolf et.al.|[2406.02411](http://arxiv.org/abs/2406.02411)|null|
+|**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
+|**2024-06-04**|**Label-wise Aleatoric and Epistemic Uncertainty Quantification**|Yusuf Sale et.al.|[2406.02354](http://arxiv.org/abs/2406.02354)|null|
+|**2024-06-04**|**Disentangled Representation via Variational AutoEncoder for Continuous Treatment Effect Estimation**|Ruijing Cui et.al.|[2406.02310](http://arxiv.org/abs/2406.02310)|null|
+|**2024-06-04**|**Enabling Decision-Making with the Modified Causal Forest: Policy Trees for Treatment Assignment**|Hugo Bodory et.al.|[2406.02241](http://arxiv.org/abs/2406.02241)|null|
+|**2024-06-04**|**Towards an Extensible Model-Based Digital Twin Framework for Space Launch Vehicles**|Ran Wei et.al.|[2406.02222](http://arxiv.org/abs/2406.02222)|null|
+|**2024-06-04**|**Rectifying Reinforcement Learning for Reward Matching**|Haoran He et.al.|[2406.02213](http://arxiv.org/abs/2406.02213)|null|
+|**2024-06-04**|**Radar Spectra-Language Model for Automotive Scene Parsing**|Mariia Pushkareva et.al.|[2406.02158](http://arxiv.org/abs/2406.02158)|null|
+|**2024-06-04**|**UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|[2406.02147](http://arxiv.org/abs/2406.02147)|null|
+|**2024-06-04**|**Why Would You Suggest That? Human Trust in Language Model Responses**|Manasi Sharma et.al.|[2406.02018](http://arxiv.org/abs/2406.02018)|null|
+|**2024-06-04**|**Mamba as Decision Maker: Exploring Multi-scale Sequence Modeling in Offline Reinforcement Learning**|Jiahang Cao et.al.|[2406.02013](http://arxiv.org/abs/2406.02013)|null|
+|**2024-06-04**|**Exploring Real World Map Change Generalization of Prior-Informed HD Map Prediction Models**|Samuel M. Bateman et.al.|[2406.01961](http://arxiv.org/abs/2406.01961)|null|
+|**2024-06-04**|**Improving Generalization in Aerial and Terrestrial Mobile Robots Control Through Delayed Policy Learning**|Ricardo B. Grando et.al.|[2406.01952](http://arxiv.org/abs/2406.01952)|null|
+|**2024-06-04**|**Orthogonal Causal Calibration**|Justin Whitehouse et.al.|[2406.01933](http://arxiv.org/abs/2406.01933)|null|
+|**2024-06-04**|**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**|Chen Mao et.al.|[2406.01906](http://arxiv.org/abs/2406.01906)|**[link](https://github.com/chain-mao/progeo)**|
+|**2024-06-04**|**Large Language Model-Enabled Multi-Agent Manufacturing Systems**|Jonghan Lim et.al.|[2406.01893](http://arxiv.org/abs/2406.01893)|null|
 |**2024-05-31**|**Designing for Fairness in Human-Robot Interactions**|Houston Claure et.al.|[2405.21044](http://arxiv.org/abs/2405.21044)|null|
 |**2024-05-31**|**G-Transformer for Conditional Average Potential Outcome Estimation over Time**|Konstantin Hess et.al.|[2405.21012](http://arxiv.org/abs/2405.21012)|null|
 |**2024-05-31**|**Hard Cases Detection in Motion Prediction by Vision-Language Foundation Models**|Yi Yang et.al.|[2405.20991](http://arxiv.org/abs/2405.20991)|**[link](https://github.com/kth-rpl/detect_vlm)**|
