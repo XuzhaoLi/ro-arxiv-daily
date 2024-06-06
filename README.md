@@ -180,6 +180,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
+|**2024-06-05**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Sun Ao et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
+|**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
+|**2024-06-05**|**BIPED: Pedagogically Informed Tutoring System for ESL Education**|Soonwoo Kwon et.al.|[2406.03486](http://arxiv.org/abs/2406.03486)|null|
+|**2024-06-05**|**Does your data spark joy? Performance gains from domain upsampling at the end of training**|Cody Blakeney et.al.|[2406.03476](http://arxiv.org/abs/2406.03476)|null|
+|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
+|**2024-06-05**|**What is the Best Way for ChatGPT to Translate Poetry?**|Shanshan Wang et.al.|[2406.03450](http://arxiv.org/abs/2406.03450)|null|
+|**2024-06-05**|**Pre-trained Large Language Models Use Fourier Features to Compute Addition**|Tianyi Zhou et.al.|[2406.03445](http://arxiv.org/abs/2406.03445)|null|
+|**2024-06-05**|**Are language models rational? The case of coherence norms and belief revision**|Thomas Hofweber et.al.|[2406.03442](http://arxiv.org/abs/2406.03442)|null|
+|**2024-06-05**|**Cycles of Thought: Measuring LLM Confidence through Stable Explanations**|Evan Becker et.al.|[2406.03441](http://arxiv.org/abs/2406.03441)|null|
+|**2024-06-05**|**Computation-Efficient Era: A Comprehensive Survey of State Space Models in Medical Image Analysis**|Moein Heidari et.al.|[2406.03430](http://arxiv.org/abs/2406.03430)|**[link](https://github.com/xmindflow/awesome_mamba)**|
+|**2024-06-05**|**Interactive Text-to-Image Retrieval with Large Language Models: A Plug-and-Play Approach**|Saehyung Lee et.al.|[2406.03411](http://arxiv.org/abs/2406.03411)|**[link](https://github.com/saehyung-lee/plugir)**|
+|**2024-06-05**|**Automating Turkish Educational Quiz Generation Using Large Language Models**|Kamyar Zeinalipour et.al.|[2406.03397](http://arxiv.org/abs/2406.03397)|null|
+|**2024-06-05**|**Log Parsing with Self-Generated In-Context Learning and Self-Correction**|Yifan Wu et.al.|[2406.03376](http://arxiv.org/abs/2406.03376)|null|
+|**2024-06-05**|**IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models**|David Ifeoluwa Adelani et.al.|[2406.03368](http://arxiv.org/abs/2406.03368)|null|
+|**2024-06-05**|**CLMASP: Coupling Large Language Models with Answer Set Programming for Robotic Task Planning**|Xinrui Lin et.al.|[2406.03367](http://arxiv.org/abs/2406.03367)|null|
+|**2024-06-05**|**LLM-based Rewriting of Inappropriate Argumentation using Reinforcement Learning from Machine Feedback**|Timon Ziegenbein et.al.|[2406.03363](http://arxiv.org/abs/2406.03363)|null|
+|**2024-06-05**|**Save It for the "Hot" Day: An LLM-Empowered Visual Analytics System for Heat Risk Management**|Haobo Li et.al.|[2406.03317](http://arxiv.org/abs/2406.03317)|null|
+|**2024-06-05**|**The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games**|Mikhail Mozikov et.al.|[2406.03299](http://arxiv.org/abs/2406.03299)|null|
+|**2024-06-05**|**SpikeLM: Towards General Spike-Driven Language Modeling via Elastic Bi-Spiking Mechanisms**|Xingrun Xing et.al.|[2406.03287](http://arxiv.org/abs/2406.03287)|**[link](https://github.com/xingrun-xing/spikelm)**|
 |**2024-06-04**|**Learning to grok: Emergence of in-context learning and skill composition in modular arithmetic tasks**|Tianyu He et.al.|[2406.02550](http://arxiv.org/abs/2406.02550)|**[link](https://github.com/ablghtianyi/ICL_Modular_Arithmetic)**|
 |**2024-06-04**|**Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation**|Mohamed El Amine Boudjoghra et.al.|[2406.02548](http://arxiv.org/abs/2406.02548)|**[link](https://github.com/aminebdj/openyolo3d)**|
 |**2024-06-04**|**Leveraging Visual Tokens for Extended Text Contexts in Multi-Modal Learning**|Alex Jinpeng Wang et.al.|[2406.02547](http://arxiv.org/abs/2406.02547)|**[link](https://github.com/showlab/VisInContext)**|
@@ -1789,6 +1809,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
+|**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461](http://arxiv.org/abs/2406.03461)|null|
+|**2024-06-05**|**RemixTape: Enriching Narratives about Metrics with Semantic Alignment and Contextual Recommendation**|Matthew Brehmer et.al.|[2406.03415](http://arxiv.org/abs/2406.03415)|null|
+|**2024-06-05**|**What Matters in Hierarchical Search for Combinatorial Reasoning Problems?**|Michał Zawalski et.al.|[2406.03361](http://arxiv.org/abs/2406.03361)|null|
+|**2024-06-05**|**The Good, the Bad, and the Hulk-like GPT: Analyzing Emotional Decisions of Large Language Models in Cooperation and Bargaining Games**|Mikhail Mozikov et.al.|[2406.03299](http://arxiv.org/abs/2406.03299)|null|
+|**2024-06-05**|**Prompt-based Visual Alignment for Zero-shot Policy Transfer**|Haihan Gao et.al.|[2406.03250](http://arxiv.org/abs/2406.03250)|null|
+|**2024-06-05**|**Challenges and Considerations in the Evaluation of Bayesian Causal Discovery**|Amir Mohammad Karimi Mamaghan et.al.|[2406.03209](http://arxiv.org/abs/2406.03209)|null|
+|**2024-06-05**|**Situation Monitor: Diversity-Driven Zero-Shot Out-of-Distribution Detection using Budding Ensemble Architecture for Object Detection**|Qutub Syed et.al.|[2406.03188](http://arxiv.org/abs/2406.03188)|null|
+|**2024-06-05**|**Missci: Reconstructing Fallacies in Misrepresented Science**|Max Glockner et.al.|[2406.03181](http://arxiv.org/abs/2406.03181)|null|
+|**2024-06-05**|**Detecting Model Misspecification in Amortized Bayesian Inference with Neural Networks: An Extended Investigation**|Marvin Schmitt et.al.|[2406.03154](http://arxiv.org/abs/2406.03154)|null|
+|**2024-06-05**|**Enhanced Automotive Object Detection via RGB-D Fusion in a DiffusionDet Framework**|Eliraz Orfaig et.al.|[2406.03129](http://arxiv.org/abs/2406.03129)|null|
+|**2024-06-05**|**Enhancing 3D Lane Detection and Topology Reasoning with 2D Lane Priors**|Han Li et.al.|[2406.03105](http://arxiv.org/abs/2406.03105)|null|
+|**2024-06-05**|**Task-Oriented Wireless Communications for Collaborative Perception in Intelligent Unmanned Systems**|Sheng Zhou et.al.|[2406.03086](http://arxiv.org/abs/2406.03086)|null|
+|**2024-06-05**|**"Give Me an Example Like This": Episodic Active Reinforcement Learning from Demonstrations**|Muhan Hou et.al.|[2406.03069](http://arxiv.org/abs/2406.03069)|null|
+|**2024-06-05**|**Efficient Exploration of the Rashomon Set of Rule Set Models**|Martino Ciaperoni et.al.|[2406.03059](http://arxiv.org/abs/2406.03059)|null|
+|**2024-06-05**|**Correlation of Software-in-the-Loop Simulation with Physical Testing for Autonomous Driving**|Zhennan Fei et.al.|[2406.03040](http://arxiv.org/abs/2406.03040)|null|
+|**2024-06-05**|**Analyzing the Influence of Training Samples on Explanations**|André Artelt et.al.|[2406.03012](http://arxiv.org/abs/2406.03012)|null|
+|**2024-06-05**|**Unveiling Selection Biases: Exploring Order and Token Sensitivity in Large Language Models**|Sheng-Lun Wei et.al.|[2406.03009](http://arxiv.org/abs/2406.03009)|null|
+|**2024-06-05**|**DriVLMe: Enhancing LLM-based Autonomous Driving Agents with Embodied and Social Experiences**|Yidong Huang et.al.|[2406.03008](http://arxiv.org/abs/2406.03008)|null|
+|**2024-06-05**|**Simplification of Risk Averse POMDPs with Performance Guarantees**|Yaacov Pariente et.al.|[2406.03000](http://arxiv.org/abs/2406.03000)|null|
 |**2024-06-04**|**Enhancing predictive imaging biomarker discovery through treatment effect analysis**|Shuhan Xiao et.al.|[2406.02534](http://arxiv.org/abs/2406.02534)|null|
 |**2024-06-04**|**How Do Neural Spoofing Countermeasures Detect Partially Spoofed Audio?**|Tianchi Liu et.al.|[2406.02483](http://arxiv.org/abs/2406.02483)|null|
 |**2024-06-04**|**A Generalized Apprenticeship Learning Framework for Modeling Heterogeneous Student Pedagogical Strategies**|Md Mirajul Islam et.al.|[2406.02450](http://arxiv.org/abs/2406.02450)|null|
