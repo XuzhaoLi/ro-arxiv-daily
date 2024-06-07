@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently**|Sergio Calo et.al.|[2406.04056](http://arxiv.org/abs/2406.04056)|null|
 |**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
 |**2024-06-04**|**Branches: A Fast Dynamic Programming and Branch & Bound Algorithm for Optimal Decision Trees**|Ayman Chaouki et.al.|[2406.02175](http://arxiv.org/abs/2406.02175)|**[link](https://github.com/Chaoukia/branches)**|
 |**2024-06-03**|**An efficient solution to Hidden Markov Models on trees with coupled branches**|Farzan Vafa et.al.|[2406.01663](http://arxiv.org/abs/2406.01663)|null|
@@ -173,6 +174,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Verbalized Machine Learning: Revisiting Machine Learning with Language Models**|Tim Z. Xiao et.al.|[2406.04344](http://arxiv.org/abs/2406.04344)|null|
+|**2024-06-06**|**Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image**|Stanislaw Szymanowicz et.al.|[2406.04343](http://arxiv.org/abs/2406.04343)|null|
+|**2024-06-06**|**Learning 1D Causal Visual Representation with De-focus Attention Networks**|Chenxin Tao et.al.|[2406.04342](http://arxiv.org/abs/2406.04342)|**[link](https://github.com/opengvlab/de-focus-attention-networks)**|
+|**2024-06-06**|**RoboMamba: Multimodal State Space Model for Efficient Robot Reasoning and Manipulation**|Jiaming Liu et.al.|[2406.04339](http://arxiv.org/abs/2406.04339)|null|
+|**2024-06-06**|**Coherent Zero-Shot Visual Instruction Generation**|Quynh Phung et.al.|[2406.04337](http://arxiv.org/abs/2406.04337)|null|
+|**2024-06-06**|**DeepStack: Deeply Stacking Visual Tokens is Surprisingly Simple and Effective for LMMs**|Lingchen Meng et.al.|[2406.04334](http://arxiv.org/abs/2406.04334)|null|
+|**2024-06-06**|**PaCE: Parsimonious Concept Engineering for Large Language Models**|Jinqi Luo et.al.|[2406.04331](http://arxiv.org/abs/2406.04331)|**[link](https://github.com/peterljq/parsimonious-concept-engineering)**|
+|**2024-06-06**|**Parameter-Inverted Image Pyramid Networks**|Xizhou Zhu et.al.|[2406.04330](http://arxiv.org/abs/2406.04330)|**[link](https://github.com/opengvlab/piip)**|
+|**2024-06-06**|**Simplified and Generalized Masked Diffusion for Discrete Data**|Jiaxin Shi et.al.|[2406.04329](http://arxiv.org/abs/2406.04329)|null|
+|**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|null|
+|**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
+|**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
+|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|null|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|null|
+|**2024-06-06**|**Quixer: A Quantum Transformer Model**|Nikhil Khatri et.al.|[2406.04305](http://arxiv.org/abs/2406.04305)|null|
+|**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
+|**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
+|**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291](http://arxiv.org/abs/2406.04291)|null|
+|**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|null|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
@@ -1800,6 +1821,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
+|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143](http://arxiv.org/abs/2406.04143)|null|
+|**2024-06-06**|**Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster**|Agostina Calabrese et.al.|[2406.04106](http://arxiv.org/abs/2406.04106)|null|
+|**2024-06-06**|**Leveraging automatic strategy discovery to teach people how to select better projects**|Lovis Heindrich et.al.|[2406.04082](http://arxiv.org/abs/2406.04082)|null|
+|**2024-06-06**|**A Road-Map for Transferring Software Engineering methods for Model-Based Early V&V of Behaviour to Systems Engineering**|Johan Cederbladh et.al.|[2406.04037](http://arxiv.org/abs/2406.04037)|null|
+|**2024-06-06**|**Contrastive Sparse Autoencoders for Interpreting Planning of Chess-Playing Agents**|Yoann Poupart et.al.|[2406.04028](http://arxiv.org/abs/2406.04028)|**[link](https://github.com/Xmaster6y/lczero-planning)**|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
+|**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
+|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[2406.03877](http://arxiv.org/abs/2406.03877)|null|
+|**2024-06-06**|**Small area estimation with generalized random forests: Estimating poverty rates in Mexico**|Nicolas Frink et.al.|[2406.03861](http://arxiv.org/abs/2406.03861)|null|
+|**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
+|**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
+|**2024-06-06**|**Views about ChatGPT: Are human decision making and human learning necessary?**|Eiji Yamamura et.al.|[2406.03823](http://arxiv.org/abs/2406.03823)|null|
+|**2024-06-06**|**Bayesian generalized method of moments applied to pseudo-observations in survival analysis**|Léa Orsini et.al.|[2406.03821](http://arxiv.org/abs/2406.03821)|null|
+|**2024-06-06**|**POAM: Probabilistic Online Attentive Mapping for Efficient Robotic Information Gathering**|Weizhe Chen et.al.|[2406.03669](http://arxiv.org/abs/2406.03669)|null|
+|**2024-06-05**|**Ensembling Portfolio Strategies for Long-Term Investments: A Distribution-Free Preference Framework for Decision-Making and Algorithms**|Duy Khanh Lam et.al.|[2406.03652](http://arxiv.org/abs/2406.03652)|null|
+|**2024-06-05**|**FedPylot: Navigating Federated Learning for Real-Time Object Detection in Internet of Vehicles**|Cyprien Quéméneur et.al.|[2406.03611](http://arxiv.org/abs/2406.03611)|**[link](https://github.com/cyprienquemeneur/fedpylot)**|
 |**2024-06-05**|**AD-H: Autonomous Driving with Hierarchical Agents**|Zaibin Zhang et.al.|[2406.03474](http://arxiv.org/abs/2406.03474)|null|
 |**2024-06-05**|**Polarization Wavefront Lidar: Learning Large Scene Reconstruction from Polarized Wavefronts**|Dominik Scheuble et.al.|[2406.03461](http://arxiv.org/abs/2406.03461)|null|
 |**2024-06-05**|**RemixTape: Enriching Narratives about Metrics with Semantic Alignment and Contextual Recommendation**|Matthew Brehmer et.al.|[2406.03415](http://arxiv.org/abs/2406.03415)|null|
