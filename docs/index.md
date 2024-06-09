@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.08
+## Updated on 2024.06.09
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -24,7 +24,7 @@ layout: default
 |**2024-05-27**|**Q-value Regularized Transformer for Offline Reinforcement Learning**|Shengchao Hu et.al.|[2405.17098](http://arxiv.org/abs/2405.17098)|null|
 |**2024-05-25**|**A Bi-Objective Approach to Last-Mile Delivery Routing Considering Driver Preferences**|Juan Pablo Mesa et.al.|[2405.16051](http://arxiv.org/abs/2405.16051)|null|
 |**2024-06-03**|**Inference of Utilities and Time Preference in Sequential Decision-Making**|Haoyang Cao et.al.|[2405.15975](http://arxiv.org/abs/2405.15975)|null|
-|**2024-05-31**|**Stability and Performance Analysis of Model Predictive Control of Uncertain Linear Systems**|Changrui Liu et.al.|[2405.15552](http://arxiv.org/abs/2405.15552)|null|
+|**2024-05-31**|**Stability and Performance Analysis of Model Predictive Control of Uncertain Linear Systems**|Changrui Liu et.al.|[2405.15552](http://arxiv.org/abs/2405.15552)|**[link](https://github.com/lcrekko/lq_mpc)**|
 |**2024-05-24**|**An Approximate Dynamic Programming Framework for Occlusion-Robust Multi-Object Tracking**|Pratyusha Musunuru et.al.|[2405.15137](http://arxiv.org/abs/2405.15137)|null|
 |**2024-05-23**|**Two-Stage ML-Guided Decision Rules for Sequential Decision Making under Uncertainty**|Andrew Rosemberg et.al.|[2405.14973](http://arxiv.org/abs/2405.14973)|null|
 |**2024-05-23**|**A rolling horizon heuristic approach for a multi-stage stochastic waste collection problem**|Andrea Spinelli et.al.|[2405.14499](http://arxiv.org/abs/2405.14499)|**[link](https://github.com/aspinellibg/StochwasteIRP)**|
@@ -186,14 +186,14 @@ layout: default
 |**2024-06-06**|**Causal Estimation of Memorisation Profiles**|Pietro Lesci et.al.|[2406.04327](http://arxiv.org/abs/2406.04327)|null|
 |**2024-06-06**|**ShareGPT4Video: Improving Video Understanding and Generation with Better Captions**|Lin Chen et.al.|[2406.04325](http://arxiv.org/abs/2406.04325)|null|
 |**2024-06-06**|**Step-aware Preference Optimization: Aligning Preference with Denoising Performance at Each Step**|Zhanhao Liang et.al.|[2406.04314](http://arxiv.org/abs/2406.04314)|null|
-|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|null|
-|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|null|
+|**2024-06-06**|**Improving Alignment and Robustness with Short Circuiting**|Andy Zou et.al.|[2406.04313](http://arxiv.org/abs/2406.04313)|**[link](https://github.com/blackswan-ai/short-circuiting)**|
+|**2024-06-06**|**Semantically Diverse Language Generation for Uncertainty Estimation in Language Models**|Lukas Aichberger et.al.|[2406.04306](http://arxiv.org/abs/2406.04306)|**[link](https://github.com/ml-jku/SDLG)**|
 |**2024-06-06**|**Quixer: A Quantum Transformer Model**|Nikhil Khatri et.al.|[2406.04305](http://arxiv.org/abs/2406.04305)|null|
 |**2024-06-06**|**Text-to-Drive: Diverse Driving Behavior Synthesis via Large Language Models**|Phat Nguyen et.al.|[2406.04300](http://arxiv.org/abs/2406.04300)|null|
 |**2024-06-06**|**VISTA: Visualized Text Embedding For Universal Multi-Modal Retrieval**|Junjie Zhou et.al.|[2406.04292](http://arxiv.org/abs/2406.04292)|**[link](https://github.com/flagopen/flagembedding)**|
 |**2024-06-06**|**Stratified Prediction-Powered Inference for Hybrid Language Model Evaluation**|Adam Fisch et.al.|[2406.04291](http://arxiv.org/abs/2406.04291)|null|
 |**2024-06-06**|**What Languages are Easy to Language-Model? A Perspective from Learning Probabilistic Regular Languages**|Nadav Borenstein et.al.|[2406.04289](http://arxiv.org/abs/2406.04289)|null|
-|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|null|
+|**2024-06-06**|**Characterizing Similarities and Divergences in Conversational Tones in Humans and LLMs by Sampling with People**|Dun-Ming Huang et.al.|[2406.04278](http://arxiv.org/abs/2406.04278)|**[link](https://github.com/jacobyn/SamplingTonesACL)**|
 |**2024-06-05**|**Wings: Learning Multimodal LLMs without Text-only Forgetting**|Yi-Kai Zhang et.al.|[2406.03496](http://arxiv.org/abs/2406.03496)|null|
 |**2024-06-06**|**Seq1F1B: Efficient Sequence-Level Pipeline Parallelism for Large Language Model Training**|Ao Sun et.al.|[2406.03488](http://arxiv.org/abs/2406.03488)|null|
 |**2024-06-05**|**Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends**|Sanjana Ramprasad et.al.|[2406.03487](http://arxiv.org/abs/2406.03487)|null|
@@ -1822,14 +1822,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-06**|**Regularized KL-Divergence for Well-Defined Function-Space Variational Inference in Bayesian neural networks**|Tristan Cinquin et.al.|[2406.04317](http://arxiv.org/abs/2406.04317)|null|
-|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143](http://arxiv.org/abs/2406.04143)|null|
-|**2024-06-06**|**Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster**|Agostina Calabrese et.al.|[2406.04106](http://arxiv.org/abs/2406.04106)|null|
-|**2024-06-06**|**Leveraging automatic strategy discovery to teach people how to select better projects**|Lovis Heindrich et.al.|[2406.04082](http://arxiv.org/abs/2406.04082)|null|
+|**2024-06-06**|**Do Language Models Understand Morality? Towards a Robust Detection of Moral Content**|Luana Bulla et.al.|[2406.04143](http://arxiv.org/abs/2406.04143)|**[link](https://github.com/LuanaBulla/Detection-of-Morality-in-Text)**|
+|**2024-06-06**|**Explainability and Hate Speech: Structured Explanations Make Social Media Moderators Faster**|Agostina Calabrese et.al.|[2406.04106](http://arxiv.org/abs/2406.04106)|**[link](https://github.com/Ago3/structured_explanations_make_moderators_faster)**|
+|**2024-06-06**|**Leveraging automatic strategy discovery to teach people how to select better projects**|Lovis Heindrich et.al.|[2406.04082](http://arxiv.org/abs/2406.04082)|**[link](https://github.com/lovis-heindrich/MGPS-project-selection)**|
 |**2024-06-06**|**A Road-Map for Transferring Software Engineering methods for Model-Based Early V&V of Behaviour to Systems Engineering**|Johan Cederbladh et.al.|[2406.04037](http://arxiv.org/abs/2406.04037)|null|
 |**2024-06-06**|**Contrastive Sparse Autoencoders for Interpreting Planning of Chess-Playing Agents**|Yoann Poupart et.al.|[2406.04028](http://arxiv.org/abs/2406.04028)|**[link](https://github.com/Xmaster6y/lczero-planning)**|
-|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|null|
+|**2024-06-06**|**Frequency-based Matcher for Long-tailed Semantic Segmentation**|Shan Li et.al.|[2406.03917](http://arxiv.org/abs/2406.03917)|**[link](https://github.com/caopulan/Mask2Former-LT)**|
 |**2024-06-06**|**Memorization in deep learning: A survey**|Jiaheng Wei et.al.|[2406.03880](http://arxiv.org/abs/2406.03880)|null|
-|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[2406.03877](http://arxiv.org/abs/2406.03877)|null|
+|**2024-06-06**|**Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-To-End Autonomous Driving**|Xiaosong Jia et.al.|[2406.03877](http://arxiv.org/abs/2406.03877)|**[link](https://github.com/Thinklab-SJTU/Bench2Drive)**|
 |**2024-06-06**|**Small area estimation with generalized random forests: Estimating poverty rates in Mexico**|Nicolas Frink et.al.|[2406.03861](http://arxiv.org/abs/2406.03861)|null|
 |**2024-06-06**|**Performance of large language models in numerical vs. semantic medical knowledge: Benchmarking on evidence-based Q&As**|Eden Avnat et.al.|[2406.03855](http://arxiv.org/abs/2406.03855)|null|
 |**2024-06-06**|**Monocular Localization with Semantics Map for Autonomous Vehicles**|Jixiang Wan et.al.|[2406.03835](http://arxiv.org/abs/2406.03835)|null|
