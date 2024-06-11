@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Leveraging Hyperscanning EEG and VR Omnidirectional Treadmill to Explore Inter-Brain Synchrony in Collaborative Spatial Navigation**|Chun-Hsiang Chuang et.al.|[2406.06327](http://arxiv.org/abs/2406.06327)|null|
+|**2024-06-09**|**Production and distribution planning, scheduling, and routing optimization in a yogurt supply chain under demand uncertainty: A case study**|Babak Javadi et.al.|[2406.05803](http://arxiv.org/abs/2406.05803)|null|
+|**2024-06-09**|**Heart Sound Segmentation Using Deep Learning Techniques**|Manas Madine et.al.|[2406.05653](http://arxiv.org/abs/2406.05653)|null|
 |**2024-06-06**|**Bisimulation Metrics are Optimal Transport Distances, and Can be Computed Efficiently**|Sergio Calo et.al.|[2406.04056](http://arxiv.org/abs/2406.04056)|null|
 |**2024-06-04**|**GrootVL: Tree Topology is All You Need in State Space Model**|Yicheng Xiao et.al.|[2406.02395](http://arxiv.org/abs/2406.02395)|**[link](https://github.com/easonxiao-888/grootvl)**|
 |**2024-06-04**|**Branches: A Fast Dynamic Programming and Branch & Bound Algorithm for Optimal Decision Trees**|Ayman Chaouki et.al.|[2406.02175](http://arxiv.org/abs/2406.02175)|**[link](https://github.com/Chaoukia/branches)**|
@@ -174,6 +177,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**Merlin: A Vision Language Foundation Model for 3D Computed Tomography**|Louis Blankemeier et.al.|[2406.06512](http://arxiv.org/abs/2406.06512)|null|
+|**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499](http://arxiv.org/abs/2406.06499)|null|
+|**2024-06-10**|**Direct Preference Optimization for Suppressing Hallucinated Prior Exams in Radiology Report Generation**|Oishi Banerjee et.al.|[2406.06496](http://arxiv.org/abs/2406.06496)|null|
+|**2024-06-10**|**Can Language Models Serve as Text-Based World Simulators?**|Ruoyao Wang et.al.|[2406.06485](http://arxiv.org/abs/2406.06485)|null|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
+|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|null|
+|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
+|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
+|**2024-06-10**|**Insights from Social Shaping Theory: The Appropriation of Large Language Models in an Undergraduate Programming Course**|Aadarsh Padiyath et.al.|[2406.06451](http://arxiv.org/abs/2406.06451)|null|
+|**2024-06-10**|**LLM Dataset Inference: Did you train on my dataset?**|Pratyush Maini et.al.|[2406.06443](http://arxiv.org/abs/2406.06443)|**[link](https://github.com/pratyushmaini/llm_dataset_inference)**|
+|**2024-06-10**|**Interpretability of Language Models via Task Spaces**|Lucas Weber et.al.|[2406.06441](http://arxiv.org/abs/2406.06441)|null|
+|**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435](http://arxiv.org/abs/2406.06435)|**[link](https://github.com/itm-kitware/llm-alignable-dm)**|
+|**2024-06-10**|**Multivariate Stochastic Dominance via Optimal Transport and Applications to Models Benchmarking**|Gabriel Rioux et.al.|[2406.06425](http://arxiv.org/abs/2406.06425)|null|
+|**2024-06-10**|**An Empirical Design Justice Approach to Identifying Ethical Considerations in the Intersection of Large Language Models and Social Robotics**|Alva Markelius et.al.|[2406.06400](http://arxiv.org/abs/2406.06400)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
 |**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
@@ -1841,6 +1864,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Adaptive Opponent Policy Detection in Multi-Agent MDPs: Real-Time Strategy Switch Identification Using Running Error Estimation**|Mohidul Haque Mridul et.al.|[2406.06500](http://arxiv.org/abs/2406.06500)|null|
+|**2024-06-10**|**Can Language Models Serve as Text-Based World Simulators?**|Ruoyao Wang et.al.|[2406.06485](http://arxiv.org/abs/2406.06485)|null|
+|**2024-06-10**|**Language Models are Alignable Decision-Makers: Dataset and Application to the Medical Triage Domain**|Brian Hu et.al.|[2406.06435](http://arxiv.org/abs/2406.06435)|**[link](https://github.com/itm-kitware/llm-alignable-dm)**|
+|**2024-06-10**|**Hybrid Video Anomaly Detection for Anomalous Scenarios in Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06423](http://arxiv.org/abs/2406.06423)|null|
+|**2024-06-10**|**UMAD: Unsupervised Mask-Level Anomaly Detection for Autonomous Driving**|Daniel Bogdoll et.al.|[2406.06370](http://arxiv.org/abs/2406.06370)|null|
+|**2024-06-10**|**DualAD: Disentangling the Dynamic and Static World for End-to-End Driving**|Simon Doll et.al.|[2406.06264](http://arxiv.org/abs/2406.06264)|null|
+|**2024-06-10**|**Data Augmentation in Earth Observation: A Diffusion Model Approach**|Tiago Sousa et.al.|[2406.06218](http://arxiv.org/abs/2406.06218)|null|
+|**2024-06-10**|**Federated Machine Reasoning for Resource Provisioning in 6G O-RAN**|Swastika Roy et.al.|[2406.06128](http://arxiv.org/abs/2406.06128)|null|
+|**2024-06-10**|**Sim-To-Real Transfer for Visual Reinforcement Learning of Deformable Object Manipulation for Robot-Assisted Surgery**|Paul Maria Scheikl et.al.|[2406.06092](http://arxiv.org/abs/2406.06092)|null|
+|**2024-06-10**|**Algorithms for Multi-Criteria Decision-Making and Efficiency Analysis Problems**|Fuh-Hwa Franklin Liu et.al.|[2406.06090](http://arxiv.org/abs/2406.06090)|null|
+|**2024-06-10**|**Text Analysis of ETDs in ProQuest Dissertations and Theses (PQDT) Global (2016-2018)**|Manika Lamba et.al.|[2406.06076](http://arxiv.org/abs/2406.06076)|null|
+|**2024-06-10**|**Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review**|Hafez Ghaemi et.al.|[2406.06041](http://arxiv.org/abs/2406.06041)|null|
+|**2024-06-10**|**Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context**|Jingru Jia et.al.|[2406.05972](http://arxiv.org/abs/2406.05972)|null|
+|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925](http://arxiv.org/abs/2406.05925)|null|
+|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857](http://arxiv.org/abs/2406.05857)|null|
+|**2024-06-09**|**BOSC: A toolbox for aerial imagery mapping**|Ricard Durall et.al.|[2406.05833](http://arxiv.org/abs/2406.05833)|**[link](https://github.com/RicardDurall/BOSC_toolbox)**|
+|**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
+|**2024-06-09**|**Production and distribution planning, scheduling, and routing optimization in a yogurt supply chain under demand uncertainty: A case study**|Babak Javadi et.al.|[2406.05803](http://arxiv.org/abs/2406.05803)|null|
+|**2024-06-09**|**SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05800](http://arxiv.org/abs/2406.05800)|null|
+|**2024-06-09**|**Numerical solution of a PDE arising from prediction with expert advice**|Jeff Calder et.al.|[2406.05754](http://arxiv.org/abs/2406.05754)|**[link](https://github.com/jwcalder/predictionpde)**|
 |**2024-06-07**|**Pretraining Decision Transformers with Reward Prediction for In-Context Multi-task Structured Bandit Learning**|Subhojyoti Mukherjee et.al.|[2406.05064](http://arxiv.org/abs/2406.05064)|null|
 |**2024-06-07**|**Digital Twins of the EM Environment: Benchmark for Ray Launching Models**|Michele Zhu et.al.|[2406.05042](http://arxiv.org/abs/2406.05042)|null|
 |**2024-06-07**|**Online Frequency Scheduling by Learning Parallel Actions**|Anastasios Giovanidis et.al.|[2406.05041](http://arxiv.org/abs/2406.05041)|null|
