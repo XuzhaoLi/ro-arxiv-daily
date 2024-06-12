@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -18,7 +18,7 @@ layout: default
 |**2024-06-02**|**Dual Policy Reinforcement Learning for Real-time Rebalancing in Bike-sharing Systems**|Jiaqi Liang et.al.|[2406.00868](http://arxiv.org/abs/2406.00868)|null|
 |**2024-06-02**|**Computing Optimal Equilibria in Repeated Games with Restarts**|Ratip Emin Berker et.al.|[2406.00851](http://arxiv.org/abs/2406.00851)|null|
 |**2024-06-02**|**A Lazy Abstraction Algorithm for Markov Decision Processes: Theory and Initial Evaluation**|Dániel Szekeres et.al.|[2406.00824](http://arxiv.org/abs/2406.00824)|null|
-|**2024-06-02**|**Model Predictive Control and Reinforcement Learning: A Unified Framework Based on Dynamic Programming**|Dimitri P. Bertsekas et.al.|[2406.00592](http://arxiv.org/abs/2406.00592)|null|
+|**2024-06-10**|**Model Predictive Control and Reinforcement Learning: A Unified Framework Based on Dynamic Programming**|Dimitri P. Bertsekas et.al.|[2406.00592](http://arxiv.org/abs/2406.00592)|null|
 |**2024-06-01**|**Optimal Transmission Power Scheduling for Networked Control System under DoS Attack**|Siyi Wang et.al.|[2406.00540](http://arxiv.org/abs/2406.00540)|null|
 |**2024-06-01**|**A Single-Loop Robust Policy Gradient Method for Robust Markov Decision Processes**|Zhenwei Lin et.al.|[2406.00274](http://arxiv.org/abs/2406.00274)|null|
 |**2024-05-31**|**Finding Diverse Solutions Parameterized by Cliquewidth**|Karolina Drabik et.al.|[2405.20931](http://arxiv.org/abs/2405.20931)|null|
@@ -187,8 +187,8 @@ layout: default
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
 |**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
-|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-10**|**VCR: Visual Caption Restoration**|Tianyu Zhang et.al.|[2406.06462](http://arxiv.org/abs/2406.06462)|**[link](https://github.com/tianyu-z/vcr)**|
+|**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
 |**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
 |**2024-06-10**|**Insights from Social Shaping Theory: The Appropriation of Large Language Models in an Undergraduate Programming Course**|Aadarsh Padiyath et.al.|[2406.06451](http://arxiv.org/abs/2406.06451)|null|
@@ -1877,8 +1877,8 @@ layout: default
 |**2024-06-10**|**Text Analysis of ETDs in ProQuest Dissertations and Theses (PQDT) Global (2016-2018)**|Manika Lamba et.al.|[2406.06076](http://arxiv.org/abs/2406.06076)|null|
 |**2024-06-10**|**Risk Sensitivity in Markov Games and Multi-Agent Reinforcement Learning: A Systematic Review**|Hafez Ghaemi et.al.|[2406.06041](http://arxiv.org/abs/2406.06041)|null|
 |**2024-06-10**|**Decision-Making Behavior Evaluation Framework for LLMs under Uncertain Context**|Jingru Jia et.al.|[2406.05972](http://arxiv.org/abs/2406.05972)|null|
-|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925](http://arxiv.org/abs/2406.05925)|null|
-|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857](http://arxiv.org/abs/2406.05857)|null|
+|**2024-06-09**|**Hello Again! LLM-powered Personalized Agent for Long-term Dialogue**|Hao Li et.al.|[2406.05925](http://arxiv.org/abs/2406.05925)|**[link](https://github.com/leolee99/ld-agent)**|
+|**2024-06-09**|**Self-supervised Adversarial Training of Monocular Depth Estimation against Physical-World Attacks**|Zhiyuan Cheng et.al.|[2406.05857](http://arxiv.org/abs/2406.05857)|**[link](https://github.com/Bob-cheng/DepthModelHardening)**|
 |**2024-06-09**|**BOSC: A toolbox for aerial imagery mapping**|Ricard Durall et.al.|[2406.05833](http://arxiv.org/abs/2406.05833)|**[link](https://github.com/RicardDurall/BOSC_toolbox)**|
 |**2024-06-09**|**ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.|[2406.05810](http://arxiv.org/abs/2406.05810)|null|
 |**2024-06-09**|**Production and distribution planning, scheduling, and routing optimization in a yogurt supply chain under demand uncertainty: A case study**|Babak Javadi et.al.|[2406.05803](http://arxiv.org/abs/2406.05803)|null|
