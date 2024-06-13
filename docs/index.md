@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Coordinated Trading Strategies for Battery Storage in Reserve and Spot Markets**|Paul E. Seifert et.al.|[2406.08390](http://arxiv.org/abs/2406.08390)|null|
 |**2024-06-11**|**Flow Map Matching**|Nicholas M. Boffi et.al.|[2406.07507](http://arxiv.org/abs/2406.07507)|null|
 |**2024-06-11**|**Variational inequalities and smooth-fit principle for singular stochastic control problems in Hilbert spaces**|Salvatore Federico et.al.|[2406.07242](http://arxiv.org/abs/2406.07242)|null|
 |**2024-06-10**|**Stochastic Guidance of Buoyancy Controlled Vehicles under Ice Shelves using Ocean Currents**|Federico Rossi et.al.|[2406.06724](http://arxiv.org/abs/2406.06724)|null|
@@ -180,6 +181,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**What If We Recaption Billions of Web Images with LLaMA-3?**|Xianhang Li et.al.|[2406.08478](http://arxiv.org/abs/2406.08478)|null|
+|**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
+|**2024-06-12**|**Real2Code: Reconstruct Articulated Objects via Code Generation**|Zhao Mandi et.al.|[2406.08474](http://arxiv.org/abs/2406.08474)|null|
+|**2024-06-12**|**PAL: Pluralistic Alignment Framework for Learning from Heterogeneous Preferences**|Daiwei Chen et.al.|[2406.08469](http://arxiv.org/abs/2406.08469)|null|
+|**2024-06-12**|**Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing**|Zhangchen Xu et.al.|[2406.08464](http://arxiv.org/abs/2406.08464)|null|
+|**2024-06-12**|**AToM-Bot: Embodied Fulfillment of Unspoken Human Needs with Affective Theory of Mind**|Wei Ding et.al.|[2406.08455](http://arxiv.org/abs/2406.08455)|null|
+|**2024-06-12**|**OLMES: A Standard for Language Model Evaluations**|Yuling Gu et.al.|[2406.08446](http://arxiv.org/abs/2406.08446)|null|
+|**2024-06-12**|**SVSNet+: Enhancing Speaker Voice Similarity Assessment Models with Representations from Speech Foundation Models**|Chun Yin et.al.|[2406.08445](http://arxiv.org/abs/2406.08445)|null|
+|**2024-06-12**|**TasTe: Teaching Large Language Models to Translate through Self-Reflection**|Yutong Wang et.al.|[2406.08434](http://arxiv.org/abs/2406.08434)|null|
+|**2024-06-12**|**Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL**|Zijin Hong et.al.|[2406.08426](http://arxiv.org/abs/2406.08426)|null|
+|**2024-06-12**|**OmniCorpus: An Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text**|Qingyun Li et.al.|[2406.08418](http://arxiv.org/abs/2406.08418)|**[link](https://github.com/opengvlab/omnicorpus)**|
+|**2024-06-12**|**Discovering Preference Optimization Algorithms with and for Large Language Models**|Chris Lu et.al.|[2406.08414](http://arxiv.org/abs/2406.08414)|null|
+|**2024-06-12**|**Memory Is All You Need: An Overview of Compute-in-Memory Architectures for Accelerating Large Language Model Inference**|Christopher Wolters et.al.|[2406.08413](http://arxiv.org/abs/2406.08413)|null|
+|**2024-06-12**|**MMWorld: Towards Multi-discipline Multi-faceted World Model Evaluation in Videos**|Xuehai He et.al.|[2406.08407](http://arxiv.org/abs/2406.08407)|**[link](https://github.com/eric-ai-lab/mmworld)**|
+|**2024-06-12**|**Understanding Sounds, Missing the Questions: The Challenge of Object Hallucination in Large Audio-Language Models**|Chun-Yi Kuan et.al.|[2406.08402](http://arxiv.org/abs/2406.08402)|null|
+|**2024-06-12**|**cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers**|Anirudh Sundar et.al.|[2406.08398](http://arxiv.org/abs/2406.08398)|null|
+|**2024-06-12**|**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**|Jiannan Wu et.al.|[2406.08394](http://arxiv.org/abs/2406.08394)|null|
+|**2024-06-12**|**Large Language Models Must Be Taught to Know What They Don't Know**|Sanyam Kapoor et.al.|[2406.08391](http://arxiv.org/abs/2406.08391)|**[link](https://github.com/activatedgeek/calibration-tuning)**|
+|**2024-06-12**|**Banal Deception Human-AI Ecosystems: A Study of People's Perceptions of LLM-generated Deceptive Behaviour**|Xiao Zhan et.al.|[2406.08386](http://arxiv.org/abs/2406.08386)|null|
+|**2024-06-12**|**APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio**|Weizhao He et.al.|[2406.08372](http://arxiv.org/abs/2406.08372)|null|
 |**2024-06-11**|**A3VLM: Actionable Articulation-Aware Vision Language Model**|Siyuan Huang et.al.|[2406.07549](http://arxiv.org/abs/2406.07549)|**[link](https://github.com/changhaonan/a3vlm)**|
 |**2024-06-11**|**Image and Video Tokenization with Binary Spherical Quantization**|Yue Zhao et.al.|[2406.07548](http://arxiv.org/abs/2406.07548)|**[link](https://github.com/zhaoyue-zephyrus/bsq-vit)**|
 |**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545](http://arxiv.org/abs/2406.07545)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
@@ -1887,6 +1908,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-12**|**Enhancing End-to-End Autonomous Driving with Latent World Model**|Yingyan Li et.al.|[2406.08481](http://arxiv.org/abs/2406.08481)|null|
+|**2024-06-12**|**PRIBOOT: A New Data-Driven Expert for Improved Driving Simulations**|Daniel Coelho et.al.|[2406.08421](http://arxiv.org/abs/2406.08421)|null|
+|**2024-06-12**|**LaneCPP: Continuous 3D Lane Detection using Physical Priors**|Maximilian Pittner et.al.|[2406.08381](http://arxiv.org/abs/2406.08381)|null|
+|**2024-06-12**|**Utilizing Navigation Path to Generate Target Point for Enhanced End-to-End Autonomous Driving Planning**|Yuanhua Shen et.al.|[2406.08349](http://arxiv.org/abs/2406.08349)|null|
+|**2024-06-12**|**Causality for Tabular Data Synthesis: A High-Order Structure Causal Benchmark Framework**|Ruibo Tu et.al.|[2406.08311](http://arxiv.org/abs/2406.08311)|**[link](https://github.com/turuibo/cautabbench)**|
+|**2024-06-12**|**The Importance of Positional Encoding Initialization in Transformers for Relational Reasoning**|Takuya Ito et.al.|[2406.08272](http://arxiv.org/abs/2406.08272)|null|
+|**2024-06-12**|**Valeo4Cast: A Modular Approach to End-to-End Forecasting**|Yihong Xu et.al.|[2406.08113](http://arxiv.org/abs/2406.08113)|null|
+|**2024-06-12**|**Conference Proceedings of The European DAO Workshop 2024**|Florian Spychiger et.al.|[2406.08110](http://arxiv.org/abs/2406.08110)|null|
+|**2024-06-12**|**CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems**|Qianli Wang et.al.|[2406.08101](http://arxiv.org/abs/2406.08101)|null|
+|**2024-06-12**|**LVBench: An Extreme Long Video Understanding Benchmark**|Weihan Wang et.al.|[2406.08035](http://arxiv.org/abs/2406.08035)|null|
+|**2024-06-12**|**Deep reinforcement learning with positional context for intraday trading**|Sven Goluža et.al.|[2406.08013](http://arxiv.org/abs/2406.08013)|null|
+|**2024-06-12**|**Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning**|Yizhe Huang et.al.|[2406.08002](http://arxiv.org/abs/2406.08002)|null|
+|**2024-06-12**|**Asymptotically Optimal Regret for Black-Box Predict-then-Optimize**|Samuel Tan et.al.|[2406.07866](http://arxiv.org/abs/2406.07866)|null|
+|**2024-06-12**|**Are Objective Explanatory Evaluation metrics Trustworthy? An Adversarial Analysis**|Prithwijit Chowdhury et.al.|[2406.07820](http://arxiv.org/abs/2406.07820)|null|
+|**2024-06-11**|**"It answers questions that I didn't know I had": Ph.D. Students' Evaluation of an Information Sharing Knowledge Graph**|Stanislava Gardasevic et.al.|[2406.07730](http://arxiv.org/abs/2406.07730)|null|
+|**2024-06-11**|**Out-Of-Context Prompting Boosts Fairness and Robustness in Large Language Model Predictions**|Leonardo Cotta et.al.|[2406.07685](http://arxiv.org/abs/2406.07685)|null|
+|**2024-06-11**|**PLT-D3: A High-fidelity Dynamic Driving Simulation Dataset for Stereo Depth and Scene Flow**|Joshua Tokarsky et.al.|[2406.07667](http://arxiv.org/abs/2406.07667)|null|
 |**2024-06-11**|**Comparing Deep Learning Models for Rice Mapping in Bhutan Using High Resolution Satellite Imagery**|Biplov Bhandari et.al.|[2406.07482](http://arxiv.org/abs/2406.07482)|null|
 |**2024-06-11**|**Beyond ELBOs: A Large-Scale Evaluation of Variational Methods for Sampling**|Denis Blessing et.al.|[2406.07423](http://arxiv.org/abs/2406.07423)|**[link](https://github.com/denisbless/variational_sampling_methods)**|
 |**2024-06-11**|**Enhancing Tabular Data Optimization with a Flexible Graph-based Reinforced Exploration Strategy**|Xiaohan Huang et.al.|[2406.07404](http://arxiv.org/abs/2406.07404)|null|
