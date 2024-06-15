@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.14
+## Updated on 2024.06.15
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -197,7 +197,7 @@ layout: default
 |**2024-06-13**|**Enhancing Domain Adaptation through Prompt Gradient Alignment**|Hoang Phan et.al.|[2406.09353](http://arxiv.org/abs/2406.09353)|null|
 |**2024-06-13**|**Separations in the Representational Capabilities of Transformers and Recurrent Architectures**|Satwik Bhattamishra et.al.|[2406.09347](http://arxiv.org/abs/2406.09347)|null|
 |**2024-06-13**|**DiscreteSLU: A Large Language Model with Self-Supervised Discrete Speech Units for Spoken Language Understanding**|Suwon Shon et.al.|[2406.09345](http://arxiv.org/abs/2406.09345)|null|
-|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334](http://arxiv.org/abs/2406.09334)|null|
+|**2024-06-13**|**ProxyLM: Predicting Language Model Performance on Multilingual Tasks via Proxy Models**|David Anugraha et.al.|[2406.09334](http://arxiv.org/abs/2406.09334)|**[link](https://github.com/davidanugraha/proxylm)**|
 |**2024-06-13**|**REVS: Unlearning Sensitive Information in Language Models via Rank Editing in the Vocabulary Space**|Tomer Ashuach et.al.|[2406.09325](http://arxiv.org/abs/2406.09325)|null|
 |**2024-06-13**|**Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs**|Zhao Xu et.al.|[2406.09324](http://arxiv.org/abs/2406.09324)|**[link](https://github.com/usail-hkust/bag_of_tricks_for_llm_jailbreaking)**|
 |**2024-06-13**|**JailbreakEval: An Integrated Toolkit for Evaluating Jailbreak Attempts Against Large Language Models**|Delong Ran et.al.|[2406.09321](http://arxiv.org/abs/2406.09321)|**[link](https://github.com/thuccslab/jailbreakeval)**|
