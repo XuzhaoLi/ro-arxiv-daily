@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2024-06-16**|**Solving Co-Path/Cycle Packing Faster than $3^k$**|Yuxi Liu et.al.|[2406.10829](http://arxiv.org/abs/2406.10829)|null|
 |**2024-06-15**|**Scheduling two types of jobs with minimum makespan**|Song Cao et.al.|[2406.10467](http://arxiv.org/abs/2406.10467)|null|
 |**2024-06-14**|**CycleTrajectory: An End-to-End Pipeline for Enriching and Analyzing GPS Trajectories to Understand Cycling Behavior and Environment**|Meihui Wang et.al.|[2406.10069](http://arxiv.org/abs/2406.10069)|null|
-|**2024-06-13**|**Optimal Control of Agent-Based Dynamics under Deep Galerkin Feedback Laws**|Frederik Kelbel et.al.|[2406.09141](http://arxiv.org/abs/2406.09141)|null|
+|**2024-06-13**|**Optimal Control of Agent-Based Dynamics under Deep Galerkin Feedback Laws**|Frederik Kelbel et.al.|[2406.09141](http://arxiv.org/abs/2406.09141)|**[link](https://github.com/FreditorK/Optimal-Control-of-Agent-Based-Dynamics)**|
 |**2024-06-13**|**Coordinated Trading Strategies for Battery Storage in Reserve and Spot Markets**|Paul E. Seifert et.al.|[2406.08390](http://arxiv.org/abs/2406.08390)|null|
 |**2024-06-11**|**Flow Map Matching**|Nicholas M. Boffi et.al.|[2406.07507](http://arxiv.org/abs/2406.07507)|null|
 |**2024-06-11**|**Variational inequalities and smooth-fit principle for singular stochastic control problems in Hilbert spaces**|Salvatore Federico et.al.|[2406.07242](http://arxiv.org/abs/2406.07242)|null|
@@ -1976,7 +1976,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Optimal Transport-Assisted Risk-Sensitive Q-Learning**|Zahra Shahrooei et.al.|[2406.11774](http://arxiv.org/abs/2406.11774)|null|
-|**2024-06-17**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
+|**2024-06-18**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
 |**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[2406.11707](http://arxiv.org/abs/2406.11707)|null|
 |**2024-06-17**|**Communication-Efficient MARL for Platoon Stability and Energy-efficiency Co-optimization in Cooperative Adaptive Cruise Control of CAVs**|Min Hua et.al.|[2406.11653](http://arxiv.org/abs/2406.11653)|null|
 |**2024-06-17**|**Statistical Evolution of ODI Cricket: Analyzing Performance Trends and Effect Sizes**|Pratik Mullick et.al.|[2406.11652](http://arxiv.org/abs/2406.11652)|null|
@@ -1994,7 +1994,7 @@ layout: default
 |**2024-06-17**|**Unanimity of two selves in decision making**|Pierre Bardier et.al.|[2406.11166](http://arxiv.org/abs/2406.11166)|null|
 |**2024-06-17**|**Model Adaptation for Time Constrained Embodied Control**|Jaehyun Song et.al.|[2406.11128](http://arxiv.org/abs/2406.11128)|null|
 |**2024-06-16**|**Not All Bias is Bad: Balancing Rational Deviations and Cognitive Biases in Large Language Model Reasoning**|Liman Wang et.al.|[2406.10999](http://arxiv.org/abs/2406.10999)|null|
-|**2024-06-16**|**City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization**|Zihao Jiao et.al.|[2406.10958](http://arxiv.org/abs/2406.10958)|null|
+|**2024-06-18**|**City-LEO: Toward Transparent City Management Using LLM with End-to-End Optimization**|Zihao Jiao et.al.|[2406.10958](http://arxiv.org/abs/2406.10958)|null|
 |**2024-06-14**|**CarLLaVA: Vision language models for camera-only closed-loop driving**|Katrin Renz et.al.|[2406.10165](http://arxiv.org/abs/2406.10165)|null|
 |**2024-06-14**|**MapVision: CVPR 2024 Autonomous Grand Challenge Mapless Driving Tech Report**|Zhongyu Yang et.al.|[2406.10125](http://arxiv.org/abs/2406.10125)|null|
 |**2024-06-14**|**DurLAR: A High-fidelity 128-channel LiDAR Dataset with Panoramic Ambient and Reflectivity Imagery for Multi-modal Autonomous Driving Applications**|Li Li et.al.|[2406.10068](http://arxiv.org/abs/2406.10068)|**[link](https://github.com/l1997i/DurLAR)**|
