@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
 |**2024-06-17**|**LibProf: A Python Profiler for Improving Cold Start Performance in Serverless Applications**|Syed Salauddin Mohammad Tariq et.al.|[2406.11734](http://arxiv.org/abs/2406.11734)|null|
 |**2024-06-17**|**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**|Shengbo Wang et.al.|[2406.11281](http://arxiv.org/abs/2406.11281)|null|
 |**2024-06-16**|**WeShap: Weak Supervision Source Evaluation with Shapley Values**|Naiqing Guan et.al.|[2406.11010](http://arxiv.org/abs/2406.11010)|null|
@@ -195,6 +196,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
+|**2024-06-18**|**GroPrompt: Efficient Grounded Prompting and Adaptation for Referring Video Object Segmentation**|Ci-Siang Lin et.al.|[2406.12834](http://arxiv.org/abs/2406.12834)|null|
+|**2024-06-18**|**LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation**|Seyedarmin Azizi et.al.|[2406.12832](http://arxiv.org/abs/2406.12832)|**[link](https://github.com/arminazizi98/lamda)**|
+|**2024-06-18**|**What Are the Odds? Language Models Are Capable of Probabilistic Reasoning**|Akshay Paruchuri et.al.|[2406.12830](http://arxiv.org/abs/2406.12830)|null|
+|**2024-06-18**|**From RAGs to rich parameters: Probing how language models utilize external knowledge over parametric information for factual queries**|Hitesh Wadhwa et.al.|[2406.12824](http://arxiv.org/abs/2406.12824)|null|
+|**2024-06-18**|**Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?**|Pinzhen Chen et.al.|[2406.12822](http://arxiv.org/abs/2406.12822)|null|
+|**2024-06-18**|**Adversarial Attacks on Multimodal Agents**|Chen Henry Wu et.al.|[2406.12814](http://arxiv.org/abs/2406.12814)|**[link](https://github.com/chenwu98/agent-attack)**|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809](http://arxiv.org/abs/2406.12809)|null|
+|**2024-06-18**|**Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents**|Zehao Wang et.al.|[2406.12806](http://arxiv.org/abs/2406.12806)|null|
+|**2024-06-18**|**Supporting Human Raters with the Detection of Harmful Content using Large Language Models**|Kurt Thomas et.al.|[2406.12800](http://arxiv.org/abs/2406.12800)|null|
+|**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
+|**2024-06-18**|**In-Context Learning of Energy Functions**|Rylan Schaeffer et.al.|[2406.12785](http://arxiv.org/abs/2406.12785)|null|
+|**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784](http://arxiv.org/abs/2406.12784)|null|
+|**2024-06-18**|**Hopping Too Late: Exploring the Limitations of Large Language Models on Multi-Hop Queries**|Eden Biran et.al.|[2406.12775](http://arxiv.org/abs/2406.12775)|null|
+|**2024-06-18**|**Towards Exact Gradient-based Training on Analog In-memory Computing**|Zhaoxian Wu et.al.|[2406.12774](http://arxiv.org/abs/2406.12774)|null|
+|**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
+|**2024-06-18**|**OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**|Zhen Huang et.al.|[2406.12753](http://arxiv.org/abs/2406.12753)|**[link](https://github.com/gair-nlp/olympicarena)**|
+|**2024-06-18**|**Benchmarking Multi-Image Understanding in Vision and Language Models: Perception, Knowledge, Reasoning, and Multi-Hop Reasoning**|Bingchen Zhao et.al.|[2406.12742](http://arxiv.org/abs/2406.12742)|**[link](https://github.com/dtennant/mirb_eval)**|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
 |**2024-06-17**|**MMDU: A Multi-Turn Multi-Image Dialog Understanding Benchmark and Instruction-Tuning Dataset for LVLMs**|Ziyu Liu et.al.|[2406.11833](http://arxiv.org/abs/2406.11833)|**[link](https://github.com/liuziyu77/mmdu)**|
@@ -1984,6 +2005,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**Scalable Rule Lists Learning with Sampling**|Leonardo Pellegrina et.al.|[2406.12803](http://arxiv.org/abs/2406.12803)|null|
+|**2024-06-18**|**Online-Adaptive Anomaly Detection for Defect Identification in Aircraft Assembly**|Siddhant Shete et.al.|[2406.12698](http://arxiv.org/abs/2406.12698)|null|
+|**2024-06-18**|**Investigating the Role of Explainability and AI Literacy in User Compliance**|Niklas Kühl et.al.|[2406.12660](http://arxiv.org/abs/2406.12660)|null|
+|**2024-06-18**|**Ask-before-Plan: Proactive Language Agents for Real-World Planning**|Xuan Zhang et.al.|[2406.12639](http://arxiv.org/abs/2406.12639)|**[link](https://github.com/magicgh/ask-before-plan)**|
+|**2024-06-18**|**Reparameterizable Dual-Resolution Network for Real-time Semantic Segmentation**|Guoyu Yang et.al.|[2406.12496](http://arxiv.org/abs/2406.12496)|null|
+|**2024-06-18**|**PlanRAG: A Plan-then-Retrieval Augmented Generation for Generative Large Language Models as Decision Makers**|Myeonghwa Lee et.al.|[2406.12430](http://arxiv.org/abs/2406.12430)|**[link](https://github.com/myeon9h/planrag)**|
+|**2024-06-18**|**Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models**|David Bergström et.al.|[2406.12423](http://arxiv.org/abs/2406.12423)|null|
+|**2024-06-18**|**UAV-based Intelligent Information Systems on Winter Road Safety for Autonomous Vehicles**|Siva Ariram et.al.|[2406.12370](http://arxiv.org/abs/2406.12370)|null|
+|**2024-06-18**|**A framework for developing a knowledge management platform**|Marie Lisandra Zepeda Mendoza et.al.|[2406.12313](http://arxiv.org/abs/2406.12313)|null|
+|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214](http://arxiv.org/abs/2406.12214)|null|
+|**2024-06-18**|**MiSuRe is all you need to explain your image segmentation**|Syed Nouman Hasany et.al.|[2406.12173](http://arxiv.org/abs/2406.12173)|null|
+|**2024-06-18**|**Statistical Uncertainty in Word Embeddings: GloVe-V**|Andrea Vallebueno et.al.|[2406.12165](http://arxiv.org/abs/2406.12165)|null|
+|**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125](http://arxiv.org/abs/2406.12125)|null|
+|**2024-06-17**|**Computing in the Life Sciences: From Early Algorithms to Modern AI**|Samuel A. Donkor et.al.|[2406.12108](http://arxiv.org/abs/2406.12108)|**[link](https://github.com/in-vivo-group/generative-biology)**|
+|**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
+|**2024-06-17**|**Grade Score: Quantifying LLM Performance in Option Selection**|Dmitri Iourovitski et.al.|[2406.12043](http://arxiv.org/abs/2406.12043)|**[link](https://github.com/iodmitri/gradelab)**|
+|**2024-06-17**|**FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**|Ziyue Xu et.al.|[2406.12009](http://arxiv.org/abs/2406.12009)|null|
+|**2024-06-17**|**Online Pareto-Optimal Decision-Making for Complex Tasks using Active Inference**|Peter Amorese et.al.|[2406.11984](http://arxiv.org/abs/2406.11984)|null|
+|**2024-06-17**|**Crossfusor: A Cross-Attention Transformer Enhanced Conditional Diffusion Model for Car-Following Trajectory Prediction**|Junwei You et.al.|[2406.11941](http://arxiv.org/abs/2406.11941)|null|
 |**2024-06-17**|**Optimal Transport-Assisted Risk-Sensitive Q-Learning**|Zahra Shahrooei et.al.|[2406.11774](http://arxiv.org/abs/2406.11774)|null|
 |**2024-06-18**|**CHG Shapley: Efficient Data Valuation and Selection towards Trustworthy Machine Learning**|Huaiguang Cai et.al.|[2406.11730](http://arxiv.org/abs/2406.11730)|null|
 |**2024-06-17**|**A First Physical-World Trajectory Prediction Attack via LiDAR-induced Deceptions in Autonomous Driving**|Yang Lou et.al.|[2406.11707](http://arxiv.org/abs/2406.11707)|null|
