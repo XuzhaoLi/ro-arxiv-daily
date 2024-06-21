@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.20
+## Updated on 2024.06.21
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2005,11 +2005,11 @@ layout: default
 |**2024-06-18**|**Deep Temporal Deaggregation: Large-Scale Spatio-Temporal Generative Models**|David Bergström et.al.|[2406.12423](http://arxiv.org/abs/2406.12423)|null|
 |**2024-06-18**|**UAV-based Intelligent Information Systems on Winter Road Safety for Autonomous Vehicles**|Siva Ariram et.al.|[2406.12370](http://arxiv.org/abs/2406.12370)|null|
 |**2024-06-18**|**A framework for developing a knowledge management platform**|Marie Lisandra Zepeda Mendoza et.al.|[2406.12313](http://arxiv.org/abs/2406.12313)|null|
-|**2024-06-18**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214](http://arxiv.org/abs/2406.12214)|null|
-|**2024-06-18**|**MiSuRe is all you need to explain your image segmentation**|Syed Nouman Hasany et.al.|[2406.12173](http://arxiv.org/abs/2406.12173)|null|
+|**2024-06-19**|**Is Your HD Map Constructor Reliable under Sensor Corruptions?**|Xiaoshuai Hao et.al.|[2406.12214](http://arxiv.org/abs/2406.12214)|null|
+|**2024-06-19**|**MiSuRe is all you need to explain your image segmentation**|Syed Nouman Hasany et.al.|[2406.12173](http://arxiv.org/abs/2406.12173)|null|
 |**2024-06-18**|**Statistical Uncertainty in Word Embeddings: GloVe-V**|Andrea Vallebueno et.al.|[2406.12165](http://arxiv.org/abs/2406.12165)|null|
 |**2024-06-17**|**Efficient Sequential Decision Making with Large Language Models**|Dingyang Chen et.al.|[2406.12125](http://arxiv.org/abs/2406.12125)|null|
-|**2024-06-17**|**Computing in the Life Sciences: From Early Algorithms to Modern AI**|Samuel A. Donkor et.al.|[2406.12108](http://arxiv.org/abs/2406.12108)|**[link](https://github.com/in-vivo-group/generative-biology)**|
+|**2024-06-19**|**Computing in the Life Sciences: From Early Algorithms to Modern AI**|Samuel A. Donkor et.al.|[2406.12108](http://arxiv.org/abs/2406.12108)|**[link](https://github.com/in-vivo-group/generative-biology)**|
 |**2024-06-17**|**DistillNeRF: Perceiving 3D Scenes from Single-Glance Images by Distilling Neural Fields and Foundation Model Features**|Letian Wang et.al.|[2406.12095](http://arxiv.org/abs/2406.12095)|null|
 |**2024-06-17**|**Grade Score: Quantifying LLM Performance in Option Selection**|Dmitri Iourovitski et.al.|[2406.12043](http://arxiv.org/abs/2406.12043)|**[link](https://github.com/iodmitri/gradelab)**|
 |**2024-06-17**|**FinTruthQA: A Benchmark Dataset for Evaluating the Quality of Financial Information Disclosure**|Ziyue Xu et.al.|[2406.12009](http://arxiv.org/abs/2406.12009)|null|
