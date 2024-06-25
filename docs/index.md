@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**A multiplicative surface signature through its Magnus expansion**|Ilya Chevyrev et.al.|[2406.16856](http://arxiv.org/abs/2406.16856)|null|
+|**2024-06-24**|**Stochastic Path-Dependent Volatility Models for Price-Storage Dynamics in Natural Gas Markets and Discrete-Time Swing Option Pricing**|Jinniao Qiu et.al.|[2406.16400](http://arxiv.org/abs/2406.16400)|null|
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
 |**2024-06-19**|**A programmable wafer-scale chiroptical heterostructure of twisted aligned carbon nanotubes and phase change materials**|Jichao Fan et.al.|[2406.13190](http://arxiv.org/abs/2406.13190)|null|
 |**2024-06-14**|**Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction**|Wenzhao Jiang et.al.|[2406.12923](http://arxiv.org/abs/2406.12923)|null|
@@ -192,6 +194,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
+|**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
+|**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
+|**2024-06-24**|**Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**|Aditya Sharma et.al.|[2406.16851](http://arxiv.org/abs/2406.16851)|null|
+|**2024-06-24**|**RaTEScore: A Metric for Radiology Report Generation**|Weike Zhao et.al.|[2406.16845](http://arxiv.org/abs/2406.16845)|null|
+|**2024-06-24**|**From Decoding to Meta-Generation: Inference-time Algorithms for Large Language Models**|Sean Welleck et.al.|[2406.16838](http://arxiv.org/abs/2406.16838)|null|
+|**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
+|**2024-06-24**|**Understanding and Mitigating Tokenization Bias in Language Models**|Buu Phan et.al.|[2406.16829](http://arxiv.org/abs/2406.16829)|null|
+|**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
+|**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
+|**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
+|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797](http://arxiv.org/abs/2406.16797)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
+|**2024-06-24**|**Adam-mini: Use Fewer Learning Rates To Gain More**|Yushun Zhang et.al.|[2406.16793](http://arxiv.org/abs/2406.16793)|null|
+|**2024-06-24**|**M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models**|Rishabh Maheshwary et.al.|[2406.16783](http://arxiv.org/abs/2406.16783)|null|
+|**2024-06-24**|**It Is Not About What You Say, It Is About How You Say It: A Surprisingly Simple Approach for Improving Reading Comprehension**|Sagi Shaier et.al.|[2406.16779](http://arxiv.org/abs/2406.16779)|null|
+|**2024-06-24**|**Finding Transformer Circuits with Edge Pruning**|Adithya Bhaskar et.al.|[2406.16778](http://arxiv.org/abs/2406.16778)|**[link](https://github.com/princeton-nlp/edge-pruning)**|
+|**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
+|**2024-06-24**|**WARP: On the Benefits of Weight Averaged Rewarded Policies**|Alexandre Ramé et.al.|[2406.16768](http://arxiv.org/abs/2406.16768)|null|
+|**2024-06-24**|**The GPT-WritingPrompts Dataset: A Comparative Analysis of Character Portrayal in Short Stories**|Xi Yu Huang et.al.|[2406.16767](http://arxiv.org/abs/2406.16767)|**[link](https://github.com/kristinhuangg/gpt-writing-prompts)**|
+|**2024-06-24**|**Towards Fast Multilingual LLM Inference: Speculative Decoding and Specialized Drafters**|Euiin Yi et.al.|[2406.16758](http://arxiv.org/abs/2406.16758)|null|
 |**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
 |**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
 |**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
@@ -2039,6 +2061,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
+|**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
+|**2024-06-24**|**Hacking a surrogate model approach to XAI**|Alexander Wilhelm et.al.|[2406.16626](http://arxiv.org/abs/2406.16626)|null|
+|**2024-06-24**|**QuadrupedGPT: Towards a Versatile Quadruped Agent in Open-ended Worlds**|Ye Wang et.al.|[2406.16578](http://arxiv.org/abs/2406.16578)|null|
+|**2024-06-24**|**Differentiable Distributionally Robust Optimization Layers**|Xutao Ma et.al.|[2406.16571](http://arxiv.org/abs/2406.16571)|**[link](https://github.com/docu-lab/differentiable_dro_layers)**|
+|**2024-06-24**|**Conditional Bayesian Quadrature**|Zonghao Chen et.al.|[2406.16530](http://arxiv.org/abs/2406.16530)|null|
+|**2024-06-24**|**UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models**|Zhanyue Qin et.al.|[2406.16382](http://arxiv.org/abs/2406.16382)|null|
+|**2024-06-24**|**What Do VLMs NOTICE? A Mechanistic Interpretability Pipeline for Noise-free Text-Image Corruption and Evaluation**|Michal Golovanevsky et.al.|[2406.16320](http://arxiv.org/abs/2406.16320)|null|
+|**2024-06-24**|**SegNet4D: Effective and Efficient 4D LiDAR Semantic Segmentation in Autonomous Driving Environments**|Neng Wang et.al.|[2406.16279](http://arxiv.org/abs/2406.16279)|**[link](https://github.com/nubot-nudt/segnet4d)**|
+|**2024-06-23**|**Hardware-Aware Neural Dropout Search for Reliable Uncertainty Prediction on FPGA**|Zehuan Zhang et.al.|[2406.16198](http://arxiv.org/abs/2406.16198)|null|
+|**2024-06-23**|**Accelerating Matrix Diagonalization through Decision Transformers with Epsilon-Greedy Optimization**|Kshitij Bhatta et.al.|[2406.16191](http://arxiv.org/abs/2406.16191)|null|
+|**2024-06-23**|**DV-3DLane: End-to-end Multi-modal 3D Lane Detection with Dual-view Representation**|Yueru Luo et.al.|[2406.16072](http://arxiv.org/abs/2406.16072)|**[link](https://github.com/jmoonr/dv-3dlane)**|
+|**2024-06-23**|**Entropy-driven decision-making dynamics sheds light on the emergence of the "paradox of choice"**|Manish Gupta et.al.|[2406.16051](http://arxiv.org/abs/2406.16051)|null|
+|**2024-06-23**|**Imperfect-Recall Games: Equilibrium Concepts and Their Complexity**|Emanuel Tewolde et.al.|[2406.15970](http://arxiv.org/abs/2406.15970)|null|
+|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
+|**2024-06-22**|**Learning Abstract World Model for Value-preserving Planning with Options**|Rafael Rodriguez-Sanchez et.al.|[2406.15850](http://arxiv.org/abs/2406.15850)|null|
+|**2024-06-22**|**CaT-BENCH: Benchmarking Language Model Understanding of Causal and Temporal Dependencies in Plans**|Yash Kumar Lal et.al.|[2406.15823](http://arxiv.org/abs/2406.15823)|null|
+|**2024-06-22**|**Privacy Implications of Explainable AI in Data-Driven Systems**|Fatima Ezzeddine et.al.|[2406.15789](http://arxiv.org/abs/2406.15789)|null|
+|**2024-06-22**|**ISS-Scenario: Scenario-based Testing in CARLA**|Renjue Li et.al.|[2406.15777](http://arxiv.org/abs/2406.15777)|null|
+|**2024-06-21**|**PathoWAve: A Deep Learning-based Weight Averaging Method for Improving Domain Generalization in Histopathology Images**|Parastoo Sotoudeh Sharifi et.al.|[2406.15685](http://arxiv.org/abs/2406.15685)|**[link](https://github.com/parastoosotoudeh/pathowave)**|
 |**2024-06-21**|**NAVSIM: Data-Driven Non-Reactive Autonomous Vehicle Simulation and Benchmarking**|Daniel Dauner et.al.|[2406.15349](http://arxiv.org/abs/2406.15349)|**[link](https://github.com/autonomousvision/navsim)**|
 |**2024-06-21**|**Towards Robust Training Datasets for Machine Learning with Ontologies: A Case Study for Emergency Road Vehicle Detection**|Lynn Vonderhaar et.al.|[2406.15268](http://arxiv.org/abs/2406.15268)|null|
 |**2024-06-21**|**Multimodal Deformable Image Registration for Long-COVID Analysis Based on Progressive Alignment and Multi-perspective Loss**|Jiahua Li et.al.|[2406.15172](http://arxiv.org/abs/2406.15172)|null|
