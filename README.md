@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Splitting Guarantees for Prophet Inequalities via Nonlinear Systems**|Johannes Brustle et.al.|[2406.17767](http://arxiv.org/abs/2406.17767)|null|
+|**2024-06-25**|**Using iterated local alignment to aggregate GPS trajectories into a traffic flow map**|Tarn Duong et.al.|[2406.17500](http://arxiv.org/abs/2406.17500)|null|
 |**2024-06-24**|**A multiplicative surface signature through its Magnus expansion**|Ilya Chevyrev et.al.|[2406.16856](http://arxiv.org/abs/2406.16856)|null|
 |**2024-06-24**|**Stochastic Path-Dependent Volatility Models for Price-Storage Dynamics in Natural Gas Markets and Discrete-Time Swing Option Pricing**|Jinniao Qiu et.al.|[2406.16400](http://arxiv.org/abs/2406.16400)|null|
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
@@ -201,6 +203,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770](http://arxiv.org/abs/2406.17770)|**[link](https://github.com/phoenixz810/mg-llava)**|
+|**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
+|**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
+|**2024-06-25**|**CaLMQA: Exploring culturally specific long-form question answering across 23 languages**|Shane Arora et.al.|[2406.17761](http://arxiv.org/abs/2406.17761)|**[link](https://github.com/2015aroras/calmqa)**|
+|**2024-06-25**|**Accelerating Clinical Evidence Synthesis with Large Language Models**|Zifeng Wang et.al.|[2406.17755](http://arxiv.org/abs/2406.17755)|null|
+|**2024-06-25**|**Measuring and Benchmarking Large Language Models' Capabilities to Generate Persuasive Language**|Amalie Brogaard Pauli et.al.|[2406.17753](http://arxiv.org/abs/2406.17753)|null|
+|**2024-06-25**|**Recite, Reconstruct, Recollect: Memorization in LMs as a Multifaceted Phenomenon**|USVSN Sai Prashanth et.al.|[2406.17746](http://arxiv.org/abs/2406.17746)|null|
+|**2024-06-25**|**Point-SAM: Promptable 3D Segmentation Model for Point Clouds**|Yuchen Zhou et.al.|[2406.17741](http://arxiv.org/abs/2406.17741)|**[link](https://github.com/zyc00/point-sam)**|
+|**2024-06-25**|**Find Parent then Label Children: A Two-stage Taxonomy Completion Method with Pre-trained Language Model**|Fei Xia et.al.|[2406.17739](http://arxiv.org/abs/2406.17739)|null|
+|**2024-06-25**|**LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users**|Elinor Poole-Dayan et.al.|[2406.17737](http://arxiv.org/abs/2406.17737)|null|
+|**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
+|**2024-06-25**|**From Distributional to Overton Pluralism: Investigating Large Language Model Alignment**|Thom Lake et.al.|[2406.17692](http://arxiv.org/abs/2406.17692)|**[link](https://github.com/thomlake/investigating-alignment)**|
+|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
+|**2024-06-25**|**Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**|Yuan Li et.al.|[2406.17675](http://arxiv.org/abs/2406.17675)|null|
+|**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
+|**2024-06-25**|**LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic**|Aditya Kalyanpur et.al.|[2406.17663](http://arxiv.org/abs/2406.17663)|null|
+|**2024-06-25**|**Grass: Compute Efficient Low-Memory LLM Training with Structured Sparse Gradients**|Aashiq Muhamed et.al.|[2406.17660](http://arxiv.org/abs/2406.17660)|**[link](https://github.com/aashiqmuhamed/grass)**|
+|**2024-06-25**|**DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning**|Xiaohan Zhang et.al.|[2406.17659](http://arxiv.org/abs/2406.17659)|null|
+|**2024-06-25**|**Leveraging Large Language Models for Software Model Completion: Results from Industrial and Public Datasets**|Christof Tinnes et.al.|[2406.17651](http://arxiv.org/abs/2406.17651)|null|
+|**2024-06-25**|**Variationist: Exploring Multifaceted Variation and Bias in Written Language Data**|Alan Ramponi et.al.|[2406.17647](http://arxiv.org/abs/2406.17647)|null|
 |**2024-06-24**|**Cambrian-1: A Fully Open, Vision-Centric Exploration of Multimodal LLMs**|Shengbang Tong et.al.|[2406.16860](http://arxiv.org/abs/2406.16860)|**[link](https://github.com/cambrian-mllm/cambrian)**|
 |**2024-06-24**|**EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees**|Yuhui Li et.al.|[2406.16858](http://arxiv.org/abs/2406.16858)|null|
 |**2024-06-24**|**Long Context Transfer from Language to Vision**|Peiyuan Zhang et.al.|[2406.16852](http://arxiv.org/abs/2406.16852)|**[link](https://github.com/evolvinglmms-lab/longva)**|
@@ -2070,6 +2092,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/abs/2406.17680)|null|
+|**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
+|**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/abs/2406.17627)|null|
+|**2024-06-25**|**Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks**|Yuang Wei et.al.|[2406.17518](http://arxiv.org/abs/2406.17518)|null|
+|**2024-06-25**|**Robust Pareto Design of GaN HEMTs for Millimeter-Wave Applications**|Rafael Perez Martinez et.al.|[2406.17337](http://arxiv.org/abs/2406.17337)|null|
+|**2024-06-25**|**Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies**|Mike Allenspach et.al.|[2406.17333](http://arxiv.org/abs/2406.17333)|null|
+|**2024-06-25**|**The State-Action-Reward-State-Action Algorithm in Spatial Prisoner's Dilemma Game**|Lanyu Yang et.al.|[2406.17326](http://arxiv.org/abs/2406.17326)|null|
+|**2024-06-25**|**Can We Trust the Performance Evaluation of Uncertainty Estimation Methods in Text Summarization?**|Jianfeng He et.al.|[2406.17274](http://arxiv.org/abs/2406.17274)|null|
+|**2024-06-25**|**Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving**|Ce Zhang et.al.|[2406.17265](http://arxiv.org/abs/2406.17265)|null|
+|**2024-06-25**|**Large Language Models are Interpretable Learners**|Ruochen Wang et.al.|[2406.17224](http://arxiv.org/abs/2406.17224)|**[link](https://github.com/ruocwang/llm-symbolic-program)**|
+|**2024-06-25**|**VR-based Blockchain-enabled Data Visualization Framework For Manufacturing Industry**|Nitol Saha et.al.|[2406.17207](http://arxiv.org/abs/2406.17207)|null|
+|**2024-06-25**|**Model Checking of vGOAL**|Yi Yang et.al.|[2406.17206](http://arxiv.org/abs/2406.17206)|null|
+|**2024-06-24**|**Paraphrase and Aggregate with Large Language Models for Minimizing Intent Classification Errors**|Vikas Yadav et.al.|[2406.17163](http://arxiv.org/abs/2406.17163)|null|
+|**2024-06-24**|**Integrating Generative AI with Network Digital Twins for Enhanced Network Operations**|Kassi Muhammad et.al.|[2406.17112](http://arxiv.org/abs/2406.17112)|null|
+|**2024-06-24**|**Learning Temporal Distances: Contrastive Successor Features Can Provide a Metric Structure for Decision-Making**|Vivek Myers et.al.|[2406.17098](http://arxiv.org/abs/2406.17098)|**[link](https://github.com/vivekmyers/contrastive_metrics)**|
+|**2024-06-24**|**Boosting Bitcoin Minute Trend Prediction Using the Separation Index**|Zeinab Shahsafdari et.al.|[2406.17083](http://arxiv.org/abs/2406.17083)|null|
+|**2024-06-24**|**Large Language Models Assume People are More Rational than We Really are**|Ryan Liu et.al.|[2406.17055](http://arxiv.org/abs/2406.17055)|null|
+|**2024-06-24**|**Fair game: Urban free-ranging dogs balance resource use and risk aversion at seasonal fairs**|Sourabh Biswas et.al.|[2406.17004](http://arxiv.org/abs/2406.17004)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
 |**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
 |**2024-06-24**|**Hacking a surrogate model approach to XAI**|Alexander Wilhelm et.al.|[2406.16626](http://arxiv.org/abs/2406.16626)|null|
