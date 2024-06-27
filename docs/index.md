@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.26
+## Updated on 2024.06.27
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2024-06-21**|**Exact discovery is polynomial for sparse causal Bayesian networks**|Felix L. Rios et.al.|[2406.15012](http://arxiv.org/abs/2406.15012)|**[link](https://github.com/felixleopoldo/dncdagger)**|
 |**2024-06-19**|**A programmable wafer-scale chiroptical heterostructure of twisted aligned carbon nanotubes and phase change materials**|Jichao Fan et.al.|[2406.13190](http://arxiv.org/abs/2406.13190)|null|
 |**2024-06-14**|**Interpretable Cascading Mixture-of-Experts for Urban Traffic Congestion Prediction**|Wenzhao Jiang et.al.|[2406.12923](http://arxiv.org/abs/2406.12923)|null|
-|**2024-06-18**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
+|**2024-06-26**|**LayerMerge: Neural Network Depth Compression through Layer Pruning and Merging**|Jinuk Kim et.al.|[2406.12837](http://arxiv.org/abs/2406.12837)|**[link](https://github.com/snu-mllab/layermerge)**|
 |**2024-06-17**|**LibProf: A Python Profiler for Improving Cold Start Performance in Serverless Applications**|Syed Salauddin Mohammad Tariq et.al.|[2406.11734](http://arxiv.org/abs/2406.11734)|null|
 |**2024-06-17**|**Statistical Learning of Distributionally Robust Stochastic Control in Continuous State Spaces**|Shengbo Wang et.al.|[2406.11281](http://arxiv.org/abs/2406.11281)|null|
 |**2024-06-16**|**WeShap: Weak Supervision Source Evaluation with Shapley Values**|Naiqing Guan et.al.|[2406.11010](http://arxiv.org/abs/2406.11010)|null|
@@ -208,7 +208,7 @@ layout: default
 |**2024-06-25**|**LLM Targeted Underperformance Disproportionately Impacts Vulnerable Users**|Elinor Poole-Dayan et.al.|[2406.17737](http://arxiv.org/abs/2406.17737)|null|
 |**2024-06-25**|**FedBiOT: LLM Local Fine-tuning in Federated Learning without Full Model**|Feijie Wu et.al.|[2406.17706](http://arxiv.org/abs/2406.17706)|null|
 |**2024-06-25**|**From Distributional to Overton Pluralism: Investigating Large Language Model Alignment**|Thom Lake et.al.|[2406.17692](http://arxiv.org/abs/2406.17692)|**[link](https://github.com/thomlake/investigating-alignment)**|
-|**2024-06-25**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|null|
+|**2024-06-26**|**VarBench: Robust Language Model Benchmarking Through Dynamic Variable Perturbation**|Kun Qian et.al.|[2406.17681](http://arxiv.org/abs/2406.17681)|**[link](https://github.com/qbetterk/VarBench)**|
 |**2024-06-25**|**Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**|Yuan Li et.al.|[2406.17675](http://arxiv.org/abs/2406.17675)|null|
 |**2024-06-25**|**LaTable: Towards Large Tabular Models**|Boris van Breugel et.al.|[2406.17673](http://arxiv.org/abs/2406.17673)|null|
 |**2024-06-25**|**LLM-ARC: Enhancing LLMs with an Automated Reasoning Critic**|Aditya Kalyanpur et.al.|[2406.17663](http://arxiv.org/abs/2406.17663)|null|
@@ -2086,7 +2086,7 @@ layout: default
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/abs/2406.17680)|null|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/abs/2406.17627)|null|
-|**2024-06-25**|**Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks**|Yuang Wei et.al.|[2406.17518](http://arxiv.org/abs/2406.17518)|null|
+|**2024-06-26**|**Enhancing Explainability of Knowledge Learning Paths: Causal Knowledge Networks**|Yuang Wei et.al.|[2406.17518](http://arxiv.org/abs/2406.17518)|null|
 |**2024-06-25**|**Robust Pareto Design of GaN HEMTs for Millimeter-Wave Applications**|Rafael Perez Martinez et.al.|[2406.17337](http://arxiv.org/abs/2406.17337)|null|
 |**2024-06-25**|**Task Adaptation in Industrial Human-Robot Interaction: Leveraging Riemannian Motion Policies**|Mike Allenspach et.al.|[2406.17333](http://arxiv.org/abs/2406.17333)|null|
 |**2024-06-25**|**The State-Action-Reward-State-Action Algorithm in Spatial Prisoner's Dilemma Game**|Lanyu Yang et.al.|[2406.17326](http://arxiv.org/abs/2406.17326)|null|
@@ -2100,7 +2100,7 @@ layout: default
 |**2024-06-24**|**Learning Temporal Distances: Contrastive Successor Features Can Provide a Metric Structure for Decision-Making**|Vivek Myers et.al.|[2406.17098](http://arxiv.org/abs/2406.17098)|**[link](https://github.com/vivekmyers/contrastive_metrics)**|
 |**2024-06-24**|**Boosting Bitcoin Minute Trend Prediction Using the Separation Index**|Zeinab Shahsafdari et.al.|[2406.17083](http://arxiv.org/abs/2406.17083)|null|
 |**2024-06-24**|**Large Language Models Assume People are More Rational than We Really are**|Ryan Liu et.al.|[2406.17055](http://arxiv.org/abs/2406.17055)|null|
-|**2024-06-24**|**Fair game: Urban free-ranging dogs balance resource use and risk aversion at seasonal fairs**|Sourabh Biswas et.al.|[2406.17004](http://arxiv.org/abs/2406.17004)|null|
+|**2024-06-26**|**Fair game: Urban free-ranging dogs balance resource use and risk aversion at seasonal fairs**|Sourabh Biswas et.al.|[2406.17004](http://arxiv.org/abs/2406.17004)|null|
 |**2024-06-24**|**GPT-4V Explorations: Mining Autonomous Driving**|Zixuan Li et.al.|[2406.16817](http://arxiv.org/abs/2406.16817)|null|
 |**2024-06-24**|**ShanghaiTech Mapping Robot is All You Need: Robot System for Collecting Universal Ground Vehicle Datasets**|Bowen Xu et.al.|[2406.16713](http://arxiv.org/abs/2406.16713)|null|
 |**2024-06-24**|**Hacking a surrogate model approach to XAI**|Alexander Wilhelm et.al.|[2406.16626](http://arxiv.org/abs/2406.16626)|null|
