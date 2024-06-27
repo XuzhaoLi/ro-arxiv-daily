@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Tiered Service Architecture for Remote Patient Monitoring**|Siddharth Chandak et.al.|[2406.18000](http://arxiv.org/abs/2406.18000)|null|
 |**2024-06-25**|**Splitting Guarantees for Prophet Inequalities via Nonlinear Systems**|Johannes Brustle et.al.|[2406.17767](http://arxiv.org/abs/2406.17767)|null|
 |**2024-06-25**|**Using iterated local alignment to aggregate GPS trajectories into a traffic flow map**|Tarn Duong et.al.|[2406.17500](http://arxiv.org/abs/2406.17500)|null|
 |**2024-06-24**|**A multiplicative surface signature through its Magnus expansion**|Ilya Chevyrev et.al.|[2406.16856](http://arxiv.org/abs/2406.16856)|null|
@@ -203,6 +204,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Towards Compositionality in Concept Learning**|Adam Stein et.al.|[2406.18534](http://arxiv.org/abs/2406.18534)|**[link](https://github.com/adaminsky/compositional_concepts)**|
+|**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
+|**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
+|**2024-06-26**|**CharXiv: Charting Gaps in Realistic Chart Understanding in Multimodal LLMs**|Zirui Wang et.al.|[2406.18521](http://arxiv.org/abs/2406.18521)|null|
+|**2024-06-26**|**"Is ChatGPT a Better Explainer than My Professor?": Evaluating the Explanation Capabilities of LLMs in Conversation Compared to a Human Baseline**|Grace Li et.al.|[2406.18512](http://arxiv.org/abs/2406.18512)|null|
+|**2024-06-26**|**WildTeaming at Scale: From In-the-Wild Jailbreaks to (Adversarially) Safer Language Models**|Liwei Jiang et.al.|[2406.18510](http://arxiv.org/abs/2406.18510)|null|
+|**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
+|**2024-06-26**|**Is In-Context Learning a Type of Gradient-Based Learning? Evidence from the Inverse Frequency Effect in Structural Priming**|Zhenghao Zhou et.al.|[2406.18501](http://arxiv.org/abs/2406.18501)|null|
+|**2024-06-26**|**Role-Play Zero-Shot Prompting with Large Language Models for Open-Domain Human-Machine Conversation**|Ahmed Njifenjou et.al.|[2406.18460](http://arxiv.org/abs/2406.18460)|null|
+|**2024-06-26**|**Cascading Large Language Models for Salient Event Graph Generation**|Xingwei Tan et.al.|[2406.18449](http://arxiv.org/abs/2406.18449)|null|
+|**2024-06-26**|**New intelligent empowerment for digital transformation**|Peng Yifeng et.al.|[2406.18440](http://arxiv.org/abs/2406.18440)|null|
+|**2024-06-26**|**IRCAN: Mitigating Knowledge Conflicts in LLM Generation via Identifying and Reweighting Context-Aware Neurons**|Dan Shi et.al.|[2406.18406](http://arxiv.org/abs/2406.18406)|null|
+|**2024-06-26**|**Do LLMs dream of elephants (when told not to)? Latent concept association and associative memory in transformers**|Yibo Jiang et.al.|[2406.18400](http://arxiv.org/abs/2406.18400)|null|
+|**2024-06-26**|**Adversarial Search Engine Optimization for Large Language Models**|Fredrik Nestaas et.al.|[2406.18382](http://arxiv.org/abs/2406.18382)|null|
+|**2024-06-26**|**MALSIGHT: Exploring Malicious Source Code and Benign Pseudocode for Iterative Binary Malware Summarization**|Haolang Lu et.al.|[2406.18379](http://arxiv.org/abs/2406.18379)|null|
+|**2024-06-26**|**Themis: Towards Flexible and Interpretable NLG Evaluation**|Xinyu Hu et.al.|[2406.18365](http://arxiv.org/abs/2406.18365)|null|
+|**2024-06-26**|**AI Alignment through Reinforcement Learning from Human Feedback? Contradictions and Limitations**|Adam Dahlgren Lindström et.al.|[2406.18346](http://arxiv.org/abs/2406.18346)|null|
+|**2024-06-26**|**PDFA Distillation via String Probability Queries {PDFA Distillation via String Probability Queries}**|Robert Baumgartner et.al.|[2406.18328](http://arxiv.org/abs/2406.18328)|null|
+|**2024-06-26**|**PaCoST: Paired Confidence Significance Testing for Benchmark Contamination Detection in Large Language Models**|Huixuan Zhang et.al.|[2406.18326](http://arxiv.org/abs/2406.18326)|null|
+|**2024-06-26**|**MathOdyssey: Benchmarking Mathematical Problem-Solving Skills in Large Language Models Using Odyssey Math Data**|Meng Fang et.al.|[2406.18321](http://arxiv.org/abs/2406.18321)|null|
 |**2024-06-25**|**MG-LLaVA: Towards Multi-Granularity Visual Instruction Tuning**|Xiangyu Zhao et.al.|[2406.17770](http://arxiv.org/abs/2406.17770)|**[link](https://github.com/phoenixz810/mg-llava)**|
 |**2024-06-25**|**EXTRACT: Efficient Policy Learning by Extracting Transferrable Robot Skills from Offline Data**|Jesse Zhang et.al.|[2406.17768](http://arxiv.org/abs/2406.17768)|null|
 |**2024-06-25**|**BMIKE-53: Investigating Cross-Lingual Knowledge Editing with In-Context Learning**|Ercong Nie et.al.|[2406.17764](http://arxiv.org/abs/2406.17764)|null|
@@ -2092,6 +2113,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Mental Modeling of Reinforcement Learning Agents by Language Models**|Wenhao Lu et.al.|[2406.18505](http://arxiv.org/abs/2406.18505)|null|
+|**2024-06-26**|**Complexity Aversion**|Yuan Gu et.al.|[2406.18463](http://arxiv.org/abs/2406.18463)|null|
+|**2024-06-26**|**XLD: A Cross-Lane Dataset for Benchmarking Novel Driving View Synthesis**|Hao Li et.al.|[2406.18360](http://arxiv.org/abs/2406.18360)|null|
+|**2024-06-26**|**Kolmogorov-Arnold Graph Neural Networks**|Gianluca De Carlo et.al.|[2406.18354](http://arxiv.org/abs/2406.18354)|null|
+|**2024-06-26**|**Octo-planner: On-device Language Model for Planner-Action Agents**|Wei Chen et.al.|[2406.18082](http://arxiv.org/abs/2406.18082)|null|
+|**2024-06-26**|**On Calibration of Speech Classification Models: Insights from Energy-Based Model Investigations**|Yaqian Hao et.al.|[2406.18065](http://arxiv.org/abs/2406.18065)|null|
+|**2024-06-26**|**Multi-step Knowledge Retrieval and Inference over Unstructured Data**|Aditya Kalyanpur et.al.|[2406.17987](http://arxiv.org/abs/2406.17987)|null|
+|**2024-06-25**|**Emerging AI-based weather prediction models as downscaling tools**|Nikolay Koldunov et.al.|[2406.17977](http://arxiv.org/abs/2406.17977)|null|
+|**2024-06-25**|**Unbiasing on the Fly: Explanation-Guided Human Oversight of Machine Learning System Decisions**|Hussaini Mamman et.al.|[2406.17906](http://arxiv.org/abs/2406.17906)|null|
+|**2024-06-25**|**Analysis of the Causes of Car Accidents in the United States of America in 2023: Gauge People Understanding of Data Visualisation**|Hamoud Alhazmi et.al.|[2406.17872](http://arxiv.org/abs/2406.17872)|null|
 |**2024-06-25**|**End-to-End Autonomous Driving without Costly Modularization and 3D Manual Annotation**|Mingzhe Guo et.al.|[2406.17680](http://arxiv.org/abs/2406.17680)|null|
 |**2024-06-25**|**MDHA: Multi-Scale Deformable Transformer with Hybrid Anchors for Multi-View 3D Object Detection**|Michelle Adeline et.al.|[2406.17654](http://arxiv.org/abs/2406.17654)|null|
 |**2024-06-25**|**Querying Labeled Time Series Data with Scenario Programs**|Devan Shanker et.al.|[2406.17627](http://arxiv.org/abs/2406.17627)|null|
