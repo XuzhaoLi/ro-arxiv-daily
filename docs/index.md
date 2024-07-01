@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.30
+## Updated on 2024.07.01
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -210,16 +210,16 @@ layout: default
 |**2024-06-27**|**MCNC: Manifold Constrained Network Compression**|Chayne Thrash et.al.|[2406.19301](http://arxiv.org/abs/2406.19301)|null|
 |**2024-06-27**|**From Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs by Finetuning on Synthetic Data**|Zheyang Xiong et.al.|[2406.19292](http://arxiv.org/abs/2406.19292)|null|
 |**2024-06-27**|**PhysioLLM: Supporting Personalized Health Insights with Wearables and Large Language Models**|Cathy Mengying Fang et.al.|[2406.19283](http://arxiv.org/abs/2406.19283)|null|
-|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|null|
-|**2024-06-27**|**VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation**|Yixiao Song et.al.|[2406.19276](http://arxiv.org/abs/2406.19276)|null|
+|**2024-06-27**|**HuatuoGPT-Vision, Towards Injecting Medical Visual Knowledge into Multimodal LLMs at Scale**|Junying Chen et.al.|[2406.19280](http://arxiv.org/abs/2406.19280)|**[link](https://github.com/freedomintelligence/huatuogpt-vision)**|
+|**2024-06-27**|**VERISCORE: Evaluating the factuality of verifiable claims in long-form text generation**|Yixiao Song et.al.|[2406.19276](http://arxiv.org/abs/2406.19276)|**[link](https://github.com/Yixiao-Song/VeriScore)**|
 |**2024-06-27**|**AutoPureData: Automated Filtering of Web Data for LLM Fine-tuning**|Praneeth Vadlapati et.al.|[2406.19271](http://arxiv.org/abs/2406.19271)|**[link](https://github.com/Pro-GenAI/AutoPureData)**|
 |**2024-06-27**|**Read Anywhere Pointed: Layout-aware GUI Screen Reading with Tree-of-Lens Grounding**|Yue Fan et.al.|[2406.19263](http://arxiv.org/abs/2406.19263)|null|
 |**2024-06-27**|**Enhancing Video-Language Representations with Structural Spatio-Temporal Alignment**|Hao Fei et.al.|[2406.19255](http://arxiv.org/abs/2406.19255)|null|
 |**2024-06-27**|**AutoRAG-HP: Automatic Online Hyper-Parameter Tuning for Retrieval-Augmented Generation**|Jia Fu et.al.|[2406.19251](http://arxiv.org/abs/2406.19251)|null|
-|**2024-06-27**|**Revealing Fine-Grained Values and Opinions in Large Language Models**|Dustin Wright et.al.|[2406.19238](http://arxiv.org/abs/2406.19238)|null|
-|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
+|**2024-06-27**|**Revealing Fine-Grained Values and Opinions in Large Language Models**|Dustin Wright et.al.|[2406.19238](http://arxiv.org/abs/2406.19238)|**[link](https://github.com/copenlu/llm-pct-tropes)**|
+|**2024-06-28**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
 |**2024-06-27**|**Seeing Is Believing: Black-Box Membership Inference Attacks Against Retrieval Augmented Generation**|Yuying Li et.al.|[2406.19234](http://arxiv.org/abs/2406.19234)|null|
-|**2024-06-27**|**RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs**|Ekaterina Taktasheva et.al.|[2406.19232](http://arxiv.org/abs/2406.19232)|null|
+|**2024-06-28**|**RuBLiMP: Russian Benchmark of Linguistic Minimal Pairs**|Ekaterina Taktasheva et.al.|[2406.19232](http://arxiv.org/abs/2406.19232)|null|
 |**2024-06-26**|**Towards Compositionality in Concept Learning**|Adam Stein et.al.|[2406.18534](http://arxiv.org/abs/2406.18534)|**[link](https://github.com/adaminsky/compositional_concepts)**|
 |**2024-06-26**|**Symbolic Learning Enables Self-Evolving Agents**|Wangchunshu Zhou et.al.|[2406.18532](http://arxiv.org/abs/2406.18532)|**[link](https://github.com/aiwaves-cn/agents)**|
 |**2024-06-26**|**PrExMe! Large Scale Prompt Exploration of Open Source LLMs for Machine Translation and Summarization Evaluation**|Christoph Leiter et.al.|[2406.18528](http://arxiv.org/abs/2406.18528)|null|
@@ -2129,7 +2129,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-27**|**TTP-Based Cyber Resilience Index: A Probabilistic Quantitative Approach to Measure Defence Effectiveness Against Cyber Attacks**|Lampis Alevizos et.al.|[2406.19374](http://arxiv.org/abs/2406.19374)|null|
 |**2024-06-27**|**The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning**|Shaobo Cui et.al.|[2406.19307](http://arxiv.org/abs/2406.19307)|null|
-|**2024-06-27**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
+|**2024-06-28**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
 |**2024-06-27**|**Think Step by Step: Chain-of-Gesture Prompting for Error Detection in Robotic Surgical Videos**|Zhimin Shao et.al.|[2406.19217](http://arxiv.org/abs/2406.19217)|null|
 |**2024-06-27**|**CELLO: Causal Evaluation of Large Vision-Language Models**|Meiqi Chen et.al.|[2406.19131](http://arxiv.org/abs/2406.19131)|**[link](https://github.com/opencausalab/cello)**|
 |**2024-06-27**|**Evidential Concept Embedding Models: Towards Reliable Concept Explanations for Skin Disease Diagnosis**|Yibo Gao et.al.|[2406.19130](http://arxiv.org/abs/2406.19130)|**[link](https://github.com/obiyoag/evi-cem)**|
@@ -2139,7 +2139,7 @@ layout: default
 |**2024-06-27**|**Sequential three-way group decision-making for double hierarchy hesitant fuzzy linguistic term set**|Nanfang Luo et.al.|[2406.18884](http://arxiv.org/abs/2406.18884)|null|
 |**2024-06-27**|**From Biased Selective Labels to Pseudo-Labels: An Expectation-Maximization Framework for Learning from Biased Decisions**|Trenton Chang et.al.|[2406.18865](http://arxiv.org/abs/2406.18865)|**[link](https://github.com/mld3/dcem)**|
 |**2024-06-27**|**Predicting the duration of traffic incidents for Sydney greater metropolitan area using machine learning methods**|Artur Grigorev et.al.|[2406.18861](http://arxiv.org/abs/2406.18861)|**[link](https://github.com/future-mobility-lab/sydneyincidents)**|
-|**2024-06-26**|**The Impact of Feature Representation on the Accuracy of Photonic Neural Networks**|Mauricio Gomes de Queiroz et.al.|[2406.18757](http://arxiv.org/abs/2406.18757)|null|
+|**2024-06-28**|**The Impact of Feature Representation on the Accuracy of Photonic Neural Networks**|Mauricio Gomes de Queiroz et.al.|[2406.18757](http://arxiv.org/abs/2406.18757)|null|
 |**2024-06-26**|**Decentralized Semantic Traffic Control in AVs Using RL and DQN for Dynamic Roadblocks**|Emanuel Figetakis et.al.|[2406.18741](http://arxiv.org/abs/2406.18741)|null|
 |**2024-06-26**|**Petal-X: Human-Centered Visual Explanations to Improve Cardiovascular Risk Communication**|Diego Rojo et.al.|[2406.18690](http://arxiv.org/abs/2406.18690)|null|
 |**2024-06-26**|**A Zero Auxiliary Knowledge Membership Inference Attack on Aggregate Location Data**|Vincent Guan et.al.|[2406.18671](http://arxiv.org/abs/2406.18671)|null|
