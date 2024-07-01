@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Online Optimization of DNN Inference Network Utility in Collaborative Edge Computing**|Rui Li et.al.|[2406.19613](http://arxiv.org/abs/2406.19613)|null|
+|**2024-06-27**|**Efficient and Distributed Large-Scale 3D Map Registration using Tomographic Features**|Halil Utku Unlu et.al.|[2406.19461](http://arxiv.org/abs/2406.19461)|null|
 |**2024-06-27**|**Cuts in Graphs with Matroid Constraints**|Aritra Banik et.al.|[2406.19134](http://arxiv.org/abs/2406.19134)|null|
 |**2024-06-27**|**State and Input Constrained Output-Feedback Adaptive Optimal Control of Affine Nonlinear Systems**|Tochukwu Elijah Ogri et.al.|[2406.18804](http://arxiv.org/abs/2406.18804)|null|
 |**2024-06-26**|**Markov Decision Process and Approximate Dynamic Programming for a Patient Assignment Scheduling problem**|Malgorzata M. O'Reilly et.al.|[2406.18618](http://arxiv.org/abs/2406.18618)|null|
@@ -200,6 +202,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
+|**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
+|**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087](http://arxiv.org/abs/2406.20087)|null|
+|**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
+|**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079](http://arxiv.org/abs/2406.20079)|**[link](https://github.com/anisha2102/molecular_facts)**|
+|**2024-06-28**|**EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model**|Yuxuan Zhang et.al.|[2406.20076](http://arxiv.org/abs/2406.20076)|null|
+|**2024-06-28**|**To Word Senses and Beyond: Inducing Concepts with Contextualized Language Models**|Bastien Liétard et.al.|[2406.20054](http://arxiv.org/abs/2406.20054)|null|
+|**2024-06-28**|**Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation**|Danny Halawi et.al.|[2406.20053](http://arxiv.org/abs/2406.20053)|null|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
+|**2024-06-28**|**BioMNER: A Dataset for Biomedical Method Entity Recognition**|Chen Tang et.al.|[2406.20038](http://arxiv.org/abs/2406.20038)|null|
+|**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
+|**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015](http://arxiv.org/abs/2406.20015)|**[link](https://github.com/toolbehonest/toolbehonest)**|
+|**2024-06-28**|**The SIFo Benchmark: Investigating the Sequential Instruction Following Ability of Large Language Models**|Xinyi Chen et.al.|[2406.19999](http://arxiv.org/abs/2406.19999)|null|
+|**2024-06-28**|**Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model**|Habib Hajimolahoseini et.al.|[2406.19995](http://arxiv.org/abs/2406.19995)|null|
+|**2024-06-28**|**ScaleBiO: Scalable Bilevel Optimization for LLM Data Reweighting**|Rui Pan et.al.|[2406.19976](http://arxiv.org/abs/2406.19976)|null|
+|**2024-06-28**|**STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical**|Guohao Sun et.al.|[2406.19973](http://arxiv.org/abs/2406.19973)|null|
+|**2024-06-28**|**Into the Unknown: Generating Geospatial Descriptions for New Environments**|Tzuf Paz-Argaman et.al.|[2406.19967](http://arxiv.org/abs/2406.19967)|null|
+|**2024-06-28**|**Simulating Financial Market via Large Language Model based Agents**|Shen Gao et.al.|[2406.19966](http://arxiv.org/abs/2406.19966)|null|
 |**2024-06-27**|**ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**|Jr-Jen Chen et.al.|[2406.19392](http://arxiv.org/abs/2406.19392)|**[link](https://github.com/rextime/rextime)**|
 |**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384](http://arxiv.org/abs/2406.19384)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
 |**2024-06-27**|**The Model Arena for Cross-lingual Sentiment Analysis: A Comparative Study in the Era of Large Language Models**|Xiliang Zhu et.al.|[2406.19358](http://arxiv.org/abs/2406.19358)|null|
@@ -2127,6 +2149,19 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Futility analyses for the MCP-Mod methodology based on longitudinal models**|Björn Bornkamp et.al.|[2406.19965](http://arxiv.org/abs/2406.19965)|null|
+|**2024-06-28**|**Automated Deep Neural Network Inference Partitioning for Distributed Embedded Systems**|Fabian Kreß et.al.|[2406.19913](http://arxiv.org/abs/2406.19913)|null|
+|**2024-06-28**|**Evaluating potential landing sites for the Artemis III mission using a multi-criteria decision making approach**|Eloy Peña-Asensio et.al.|[2406.19863](http://arxiv.org/abs/2406.19863)|null|
+|**2024-06-28**|**Operator World Models for Reinforcement Learning**|Pietro Novelli et.al.|[2406.19861](http://arxiv.org/abs/2406.19861)|null|
+|**2024-06-28**|**StreamMOTP: Streaming and Unified Framework for Joint 3D Multi-Object Tracking and Trajectory Prediction**|Jiaheng Zhuang et.al.|[2406.19844](http://arxiv.org/abs/2406.19844)|null|
+|**2024-06-28**|**LCSim: A Large-Scale Controllable Traffic Simulator**|Yuheng Zhang et.al.|[2406.19781](http://arxiv.org/abs/2406.19781)|null|
+|**2024-06-28**|**Deep Fusion Model for Brain Tumor Classification Using Fine-Grained Gradient Preservation**|Niful Islam et.al.|[2406.19690](http://arxiv.org/abs/2406.19690)|null|
+|**2024-06-28**|**Enhancing Radiological Diagnosis: A Collaborative Approach Integrating AI and Human Expertise for Visual Miss Correction**|Akash Awasthi et.al.|[2406.19686](http://arxiv.org/abs/2406.19686)|null|
+|**2024-06-28**|**Deep Learning-based Depth Estimation Methods from Monocular Image and Videos: A Comprehensive Survey**|Uchitha Rajapaksha et.al.|[2406.19675](http://arxiv.org/abs/2406.19675)|null|
+|**2024-06-28**|**Practical Power System Inertia Monitoring Based on Pumped Storage Hydropower Operation Signature**|Hongyu Li et.al.|[2406.19627](http://arxiv.org/abs/2406.19627)|null|
+|**2024-06-28**|**Multimodal Data Integration for Precision Oncology: Challenges and Future Directions**|Huajun Zhou et.al.|[2406.19611](http://arxiv.org/abs/2406.19611)|null|
+|**2024-06-27**|**Semantic orchestration and exploitation of material data: A dataspace solution demonstrated on steel and cooper applications**|Yoav Nahshon et.al.|[2406.19509](http://arxiv.org/abs/2406.19509)|null|
+|**2024-06-27**|**Multi-agent Cooperative Games Using Belief Map Assisted Training**|Qinwei Huang et.al.|[2406.19477](http://arxiv.org/abs/2406.19477)|null|
 |**2024-06-27**|**TTP-Based Cyber Resilience Index: A Probabilistic Quantitative Approach to Measure Defence Effectiveness Against Cyber Attacks**|Lampis Alevizos et.al.|[2406.19374](http://arxiv.org/abs/2406.19374)|null|
 |**2024-06-27**|**The Odyssey of Commonsense Causality: From Foundational Benchmarks to Cutting-Edge Reasoning**|Shaobo Cui et.al.|[2406.19307](http://arxiv.org/abs/2406.19307)|null|
 |**2024-06-28**|**FlowVQA: Mapping Multimodal Logic in Visual Question Answering with Flowcharts**|Shubhankar Singh et.al.|[2406.19237](http://arxiv.org/abs/2406.19237)|null|
