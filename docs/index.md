@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -221,7 +221,7 @@ layout: default
 |**2024-07-02**|**ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**|Chan Young Park et.al.|[2407.02472](http://arxiv.org/abs/2407.02472)|**[link](https://github.com/stellali7/valueScope)**|
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
 |**2024-07-02**|**Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**|Kheir Eddine Daouadi et.al.|[2407.02448](http://arxiv.org/abs/2407.02448)|null|
-|**2024-07-02**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
+|**2024-07-03**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
 |**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408](http://arxiv.org/abs/2407.02408)|null|
 |**2024-07-02**|**Assessing the Code Clone Detection Capability of Large Language Models**|Zixian Zhang et.al.|[2407.02402](http://arxiv.org/abs/2407.02402)|null|
 |**2024-07-02**|**Learning to Refine with Fine-Grained Natural Language Feedback**|Manya Wadhwa et.al.|[2407.02397](http://arxiv.org/abs/2407.02397)|**[link](https://github.com/manyawadhwa/dcr)**|
@@ -2188,7 +2188,7 @@ layout: default
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
 |**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
 |**2024-07-02**|**Revolutionising Role-Playing Games with ChatGPT**|Rita Stampfl et.al.|[2407.02048](http://arxiv.org/abs/2407.02048)|null|
-|**2024-07-02**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Marani Badr-Eddine et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
+|**2024-07-03**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
 |**2024-07-02**|**FlowTrack: Point-level Flow Network for 3D Single Object Tracking**|Shuo Li et.al.|[2407.01959](http://arxiv.org/abs/2407.01959)|null|
 |**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[2407.01956](http://arxiv.org/abs/2407.01956)|null|
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|

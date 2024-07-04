@@ -1,4 +1,4 @@
-## Updated on 2024.07.03
+## Updated on 2024.07.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -213,7 +213,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -228,7 +228,7 @@
 |**2024-07-02**|**ValueScope: Unveiling Implicit Norms and Values via Return Potential Model of Social Interactions**|Chan Young Park et.al.|[2407.02472](http://arxiv.org/abs/2407.02472)|**[link](https://github.com/stellali7/valueScope)**|
 |**2024-07-02**|**Reliable Confidence Intervals for Information Retrieval Evaluation Using Generative A.I**|Harrie Oosterhuis et.al.|[2407.02464](http://arxiv.org/abs/2407.02464)|null|
 |**2024-07-02**|**Ensemble of pre-trained language models and data augmentation for hate speech detection from Arabic tweets**|Kheir Eddine Daouadi et.al.|[2407.02448](http://arxiv.org/abs/2407.02448)|null|
-|**2024-07-02**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
+|**2024-07-03**|**Video Watermarking: Safeguarding Your Video from (Unauthorized) Annotations by Video-based LLMs**|Jinmin Li et.al.|[2407.02411](http://arxiv.org/abs/2407.02411)|null|
 |**2024-07-02**|**CEB: Compositional Evaluation Benchmark for Fairness in Large Language Models**|Song Wang et.al.|[2407.02408](http://arxiv.org/abs/2407.02408)|null|
 |**2024-07-02**|**Assessing the Code Clone Detection Capability of Large Language Models**|Zixian Zhang et.al.|[2407.02402](http://arxiv.org/abs/2407.02402)|null|
 |**2024-07-02**|**Learning to Refine with Fine-Grained Natural Language Feedback**|Manya Wadhwa et.al.|[2407.02397](http://arxiv.org/abs/2407.02397)|**[link](https://github.com/manyawadhwa/dcr)**|
@@ -2182,7 +2182,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2197,7 +2197,7 @@
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
 |**2024-07-02**|**LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection**|Yansong Gong et.al.|[2407.02061](http://arxiv.org/abs/2407.02061)|null|
 |**2024-07-02**|**Revolutionising Role-Playing Games with ChatGPT**|Rita Stampfl et.al.|[2407.02048](http://arxiv.org/abs/2407.02048)|null|
-|**2024-07-02**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Marani Badr-Eddine et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
+|**2024-07-03**|**ViG-Bias: Visually Grounded Bias Discovery and Mitigation**|Badr-Eddine Marani et.al.|[2407.01996](http://arxiv.org/abs/2407.01996)|null|
 |**2024-07-02**|**FlowTrack: Point-level Flow Network for 3D Single Object Tracking**|Shuo Li et.al.|[2407.01959](http://arxiv.org/abs/2407.01959)|null|
 |**2024-07-02**|**Cloud-Edge-Terminal Collaborative AIGC for Autonomous Driving**|Jianan Zhang et.al.|[2407.01956](http://arxiv.org/abs/2407.01956)|null|
 |**2024-07-02**|**CatMemo at the FinLLM Challenge Task: Fine-Tuning Large Language Models using Data Fusion in Financial Applications**|Yupeng Cao et.al.|[2407.01953](http://arxiv.org/abs/2407.01953)|null|
@@ -3883,5 +3883,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240704>back to top</a>)</p>
 
