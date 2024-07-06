@@ -20,7 +20,7 @@ layout: default
 |**2024-06-28**|**Leveraging Fixed-Parameter Tractability for Robot Inspection Planning**|Yosuke Mizutani et.al.|[2407.00251](http://arxiv.org/abs/2407.00251)|null|
 |**2024-06-28**|**Approximate Solutions for Multi-Trip Route Planning in Time-Sensitive Situations**|Bahar Cavdar et.al.|[2407.00173](http://arxiv.org/abs/2407.00173)|null|
 |**2024-06-28**|**Online Optimization of DNN Inference Network Utility in Collaborative Edge Computing**|Rui Li et.al.|[2406.19613](http://arxiv.org/abs/2406.19613)|null|
-|**2024-06-27**|**Efficient and Distributed Large-Scale 3D Map Registration using Tomographic Features**|Halil Utku Unlu et.al.|[2406.19461](http://arxiv.org/abs/2406.19461)|null|
+|**2024-06-27**|**Efficient and Distributed Large-Scale 3D Map Registration using Tomographic Features**|Halil Utku Unlu et.al.|[2406.19461](http://arxiv.org/abs/2406.19461)|**[link](https://github.com/RISC-NYUAD/tomographic-map-matching)**|
 |**2024-06-27**|**Cuts in Graphs with Matroid Constraints**|Aritra Banik et.al.|[2406.19134](http://arxiv.org/abs/2406.19134)|null|
 |**2024-06-27**|**State and Input Constrained Output-Feedback Adaptive Optimal Control of Affine Nonlinear Systems**|Tochukwu Elijah Ogri et.al.|[2406.18804](http://arxiv.org/abs/2406.18804)|null|
 |**2024-06-26**|**Markov Decision Process and Approximate Dynamic Programming for a Patient Assignment Scheduling problem**|Malgorzata M. O'Reilly et.al.|[2406.18618](http://arxiv.org/abs/2406.18618)|null|
@@ -230,9 +230,9 @@ layout: default
 |**2024-07-03**|**Let the Code LLM Edit Itself When You Edit the Code**|Zhenyu He et.al.|[2407.03157](http://arxiv.org/abs/2407.03157)|null|
 |**2024-07-03**|**Reinforcement Learning for Sequence Design Leveraging Protein Language Models**|Jithendaraa Subramanian et.al.|[2407.03154](http://arxiv.org/abs/2407.03154)|null|
 |**2024-07-03**|**Enhancing Translation Accuracy of Large Language Models through Continual Pre-Training on Parallel Data**|Minato Kondo et.al.|[2407.03145](http://arxiv.org/abs/2407.03145)|null|
-|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|null|
+|**2024-07-03**|**Social Bias Evaluation for Large Language Models Requires Prompt Variations**|Rem Hida et.al.|[2407.03129](http://arxiv.org/abs/2407.03129)|**[link](https://github.com/rem-h4/llm_socialbias_prompts)**|
 |**2024-07-03**|**KeyVideoLLM: Towards Large-scale Video Keyframe Selection**|Hao Liang et.al.|[2407.03104](http://arxiv.org/abs/2407.03104)|null|
-|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|null|
+|**2024-07-03**|**Cactus: Towards Psychological Counseling Conversations using Cognitive Behavioral Theory**|Suyeon Lee et.al.|[2407.03103](http://arxiv.org/abs/2407.03103)|**[link](https://github.com/coding-groot/cactus)**|
 |**2024-07-03**|**ScreenTK: Seamless Detection of Time-Killing Moments Using Continuous Mobile Screen Text Monitoring**|Le Fang et.al.|[2407.03063](http://arxiv.org/abs/2407.03063)|null|
 |**2024-07-02**|**MInference 1.0: Accelerating Pre-filling for Long-Context LLMs via Dynamic Sparse Attention**|Huiqiang Jiang et.al.|[2407.02490](http://arxiv.org/abs/2407.02490)|**[link](https://github.com/microsoft/MInference)**|
 |**2024-07-02**|**Neurocache: Efficient Vector Retrieval for Long-range Language Modeling**|Ali Safaya et.al.|[2407.02486](http://arxiv.org/abs/2407.02486)|**[link](https://github.com/alisafaya/neurocache)**|
@@ -2219,7 +2219,7 @@ layout: default
 |**2024-07-02**|**AutoSplat: Constrained Gaussian Splatting for Autonomous Driving Scene Reconstruction**|Mustafa Khan et.al.|[2407.02598](http://arxiv.org/abs/2407.02598)|null|
 |**2024-07-02**|**Diffusion Models for Tabular Data Imputation and Synthetic Data Generation**|Mario Villaizán-Vallelado et.al.|[2407.02549](http://arxiv.org/abs/2407.02549)|null|
 |**2024-07-02**|**AXIAL: Attention-based eXplainability for Interpretable Alzheimer's Localized Diagnosis using 2D CNNs on 3D MRI brain scans**|Gabriele Lozupone et.al.|[2407.02418](http://arxiv.org/abs/2407.02418)|**[link](https://github.com/GabrieleLozupone/AXIAL)**|
-|**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273](http://arxiv.org/abs/2407.02273)|null|
+|**2024-07-02**|**Multilingual Trolley Problems for Language Models**|Zhijing Jin et.al.|[2407.02273](http://arxiv.org/abs/2407.02273)|**[link](https://github.com/causalNLP/moralmachine)**|
 |**2024-07-02**|**Research on Reliable and Safe Occupancy Grid Prediction in Underground Parking Lots**|JiaQi Luo et.al.|[2407.02197](http://arxiv.org/abs/2407.02197)|null|
 |**2024-07-02**|**I2EKF-LO: A Dual-Iteration Extended Kalman Filter Based LiDAR Odometry**|Wenlu Yu et.al.|[2407.02190](http://arxiv.org/abs/2407.02190)|null|
 |**2024-07-02**|**Distributional Regression U-Nets for the Postprocessing of Precipitation Ensemble Forecasts**|Romain Pic et.al.|[2407.02125](http://arxiv.org/abs/2407.02125)|**[link](https://github.com/pic-romain/unet-pp)**|
