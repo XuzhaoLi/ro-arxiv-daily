@@ -12,6 +12,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**GOALPlace: Begin with the End in Mind**|Anthony Agnesina et.al.|[2407.04579](http://arxiv.org/abs/2407.04579)|null|
+|**2024-07-04**|**Advanced Artificial Intelligence Strategy for Optimizing Urban Rail Network Design using Nature-Inspired Algorithms**|Hariram Sampath Kumar et.al.|[2407.04087](http://arxiv.org/abs/2407.04087)|null|
+|**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237](http://arxiv.org/abs/2407.03237)|null|
 |**2024-07-03**|**A Two-stage Identification Method for Switched Linear Systems**|Zheng Wenju et.al.|[2407.02743](http://arxiv.org/abs/2407.02743)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
@@ -221,6 +224,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694](http://arxiv.org/abs/2407.04694)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693](http://arxiv.org/abs/2407.04693)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681](http://arxiv.org/abs/2407.04681)|null|
+|**2024-07-05**|**Lost in Translation: The Algorithmic Gap Between LMs and the Brain**|Tommaso Tosato et.al.|[2407.04680](http://arxiv.org/abs/2407.04680)|null|
+|**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai et.al.|[2407.04675](http://arxiv.org/abs/2407.04675)|null|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**Speculative Speech Recognition by Audio-Prefixed Low-Rank Adaptation of Language Models**|Bolaji Yusuf et.al.|[2407.04641](http://arxiv.org/abs/2407.04641)|null|
+|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
+|**2024-07-05**|**On scalable oversight with weak LLMs judging strong LLMs**|Zachary Kenton et.al.|[2407.04622](http://arxiv.org/abs/2407.04622)|null|
+|**2024-07-05**|**CountGD: Multi-Modal Open-World Counting**|Niki Amini-Naieni et.al.|[2407.04619](http://arxiv.org/abs/2407.04619)|null|
+|**2024-07-05**|**ARM: Efficient Guided Decoding with Autoregressive Reward Models**|Sergey Troshin et.al.|[2407.04615](http://arxiv.org/abs/2407.04615)|null|
+|**2024-07-05**|**AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation**|Yuhan Zhu et.al.|[2407.04603](http://arxiv.org/abs/2407.04603)|null|
+|**2024-07-05**|**Written Term Detection Improves Spoken Term Detection**|Bolaji Yusuf et.al.|[2407.04601](http://arxiv.org/abs/2407.04601)|**[link](https://github.com/bolajiy/golden-retriever)**|
+|**2024-07-05**|**Testing learning hypotheses using neural networks by manipulating learning data**|Cara Su-Yi Leong et.al.|[2407.04593](http://arxiv.org/abs/2407.04593)|null|
+|**2024-07-05**|**Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions**|Shumaila Javaid et.al.|[2407.04581](http://arxiv.org/abs/2407.04581)|null|
+|**2024-07-05**|**VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models**|Hang Gao et.al.|[2407.04573](http://arxiv.org/abs/2407.04573)|null|
+|**2024-07-05**|**Not (yet) the whole story: Evaluating Visual Storytelling Requires More than Measuring Coherence, Grounding, and Repetition**|Aditya K Surikuchi et.al.|[2407.04559](http://arxiv.org/abs/2407.04559)|null|
+|**2024-07-05**|**Spontaneous Reward Hacking in Iterative Self-Refinement**|Jane Pan et.al.|[2407.04549](http://arxiv.org/abs/2407.04549)|null|
+|**2024-07-05**|**PoPreRo: A New Dataset for Popularity Prediction of Romanian Reddit Posts**|Ana-Cristina Rogoz et.al.|[2407.04541](http://arxiv.org/abs/2407.04541)|**[link](https://github.com/ana-rogoz/poprero)**|
+|**2024-07-05**|**GPT vs RETRO: Exploring the Intersection of Retrieval and Parameter-Efficient Fine-Tuning**|Aleksander Ficek et.al.|[2407.04528](http://arxiv.org/abs/2407.04528)|null|
 |**2024-07-03**|**Planetarium: A Rigorous Benchmark for Translating Text to Structured Planning Languages**|Max Zuo et.al.|[2407.03321](http://arxiv.org/abs/2407.03321)|**[link](https://github.com/batsresearch/planetarium)**|
 |**2024-07-03**|**InternLM-XComposer-2.5: A Versatile Large Vision Language Model Supporting Long-Contextual Input and Output**|Pan Zhang et.al.|[2407.03320](http://arxiv.org/abs/2407.03320)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2024-07-03**|**BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations**|Zhantao Yang et.al.|[2407.03314](http://arxiv.org/abs/2407.03314)|null|
@@ -2210,6 +2233,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**DCZNMaker: A Web-based Application for Multi-Attribute Utilities Analysis**|Adrienne Kline et.al.|[2407.04655](http://arxiv.org/abs/2407.04655)|null|
+|**2024-07-05**|**Multiple stage stochastic linear programming with multiple objectives: flexible decision making**|Andreas H. Hamel et.al.|[2407.04602](http://arxiv.org/abs/2407.04602)|null|
+|**2024-07-05**|**Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions**|Shumaila Javaid et.al.|[2407.04581](http://arxiv.org/abs/2407.04581)|null|
+|**2024-07-05**|**Graph Reinforcement Learning in Power Grids: A Survey**|Mohamed Hassouna et.al.|[2407.04522](http://arxiv.org/abs/2407.04522)|null|
+|**2024-07-05**|**Leveraging Graph Structures to Detect Hallucinations in Large Language Models**|Noa Nonkes et.al.|[2407.04485](http://arxiv.org/abs/2407.04485)|null|
+|**2024-07-05**|**Optimizing the image correction pipeline for pedestrian detection in the thermal-infrared domain**|Christophe Karam et.al.|[2407.04484](http://arxiv.org/abs/2407.04484)|null|
+|**2024-07-05**|**Are Large Language Models Strategic Decision Makers? A Study of Performance and Bias in Two-Player Non-Zero-Sum Games**|Nathan Herr et.al.|[2407.04467](http://arxiv.org/abs/2407.04467)|null|
+|**2024-07-05**|**Nash epidemics**|Simon K. Schnyder et.al.|[2407.04366](http://arxiv.org/abs/2407.04366)|null|
+|**2024-07-05**|**AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**|Petr Anokhin et.al.|[2407.04363](http://arxiv.org/abs/2407.04363)|**[link](https://github.com/airi-institute/arigraph)**|
+|**2024-07-05**|**Dance of the ADS: Orchestrating Failures through Historically-Informed Scenario Fuzzing**|Tong Wang et.al.|[2407.04359](http://arxiv.org/abs/2407.04359)|null|
+|**2024-07-05**|**MobileFlow: A Multimodal LLM For Mobile GUI Agent**|Songqin Nong et.al.|[2407.04346](http://arxiv.org/abs/2407.04346)|null|
+|**2024-07-05**|**Towards Stable 3D Object Detection**|Jiabao Wang et.al.|[2407.04305](http://arxiv.org/abs/2407.04305)|null|
+|**2024-07-05**|**Robust Decision Transformer: Tackling Data Corruption in Offline RL via Sequence Modeling**|Jiawei Xu et.al.|[2407.04285](http://arxiv.org/abs/2407.04285)|null|
+|**2024-07-05**|**WOMD-Reasoning: A Large-Scale Language Dataset for Interaction and Driving Intentions Reasoning**|Yiheng Li et.al.|[2407.04281](http://arxiv.org/abs/2407.04281)|null|
+|**2024-07-05**|**Research, Applications and Prospects of Event-Based Pedestrian Detection: A Survey**|Han Wang et.al.|[2407.04277](http://arxiv.org/abs/2407.04277)|null|
+|**2024-07-04**|**Quantifying Prediction Consistency Under Model Multiplicity in Tabular LLMs**|Faisal Hamman et.al.|[2407.04173](http://arxiv.org/abs/2407.04173)|null|
+|**2024-07-04**|**ChartGemma: Visual Instruction-tuning for Chart Reasoning in the Wild**|Ahmed Masry et.al.|[2407.04172](http://arxiv.org/abs/2407.04172)|**[link](https://github.com/vis-nlp/chartgemma)**|
+|**2024-07-04**|**Annotating Control-Flow Graphs for Formalized Test Coverage Criteria**|Sean Kauffman et.al.|[2407.04144](http://arxiv.org/abs/2407.04144)|null|
+|**2024-07-04**|**Behavioural gap assessment of human-vehicle interaction in real and virtual reality-based scenarios in autonomous driving**|Sergio. Martín Serrano et.al.|[2407.04070](http://arxiv.org/abs/2407.04070)|null|
+|**2024-07-04**|**Detect Closer Surfaces that can be Seen: New Modeling and Evaluation in Cross-domain 3D Object Detection**|Ruixiao Zhang et.al.|[2407.04061](http://arxiv.org/abs/2407.04061)|null|
 |**2024-07-03**|**Cooperative Multi-Agent Deep Reinforcement Learning Methods for UAV-aided Mobile Edge Computing Networks**|Mintae Kim et.al.|[2407.03280](http://arxiv.org/abs/2407.03280)|null|
 |**2024-07-03**|**Streaming Large-Scale Electron Microscopy Data to a Supercomputing Facility**|Samuel S. Welborn et.al.|[2407.03215](http://arxiv.org/abs/2407.03215)|null|
 |**2024-07-03**|**Tail calibration of probabilistic forecasts**|Sam Allen et.al.|[2407.03167](http://arxiv.org/abs/2407.03167)|null|
