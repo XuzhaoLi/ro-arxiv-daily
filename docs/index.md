@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2339,7 +2339,7 @@ layout: default
 |**2024-07-10**|**Exploring the Untouched Sweeps for Conflict-Aware 3D Segmentation Pretraining**|Tianfang Sun et.al.|[2407.07465](http://arxiv.org/abs/2407.07465)|null|
 |**2024-07-10**|**CM-DQN: A Value-Based Deep Reinforcement Learning Model to Simulate Confirmation Bias**|Jiacheng Shen et.al.|[2407.07454](http://arxiv.org/abs/2407.07454)|**[link](https://github.com/patrickhshs/cm-dqn)**|
 |**2024-07-10**|**Long-Term Fairness in Sequential Multi-Agent Selection with Positive Reinforcement**|Bhagyashree Puranik et.al.|[2407.07350](http://arxiv.org/abs/2407.07350)|null|
-|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|null|
+|**2024-07-11**|**FALFormer: Feature-aware Landmarks self-attention for Whole-slide Image Classification**|Doanh C. Bui et.al.|[2407.07340](http://arxiv.org/abs/2407.07340)|**[link](https://github.com/quiil/falformer)**|
 |**2024-07-10**|**Event-Aided Time-to-Collision Estimation for Autonomous Driving**|Jinghang Li et.al.|[2407.07324](http://arxiv.org/abs/2407.07324)|null|
 |**2024-07-09**|**Exploring Camera Encoder Designs for Autonomous Driving Perception**|Barath Lakshmanan et.al.|[2407.07276](http://arxiv.org/abs/2407.07276)|null|
 |**2024-07-09**|**The mouth speaks as much as the eyes: Free-ranging dogs depend on inner facial features for human recognition**|Rohan Sarkar et.al.|[2407.07192](http://arxiv.org/abs/2407.07192)|null|
