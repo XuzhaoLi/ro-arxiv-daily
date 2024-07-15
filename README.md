@@ -1,4 +1,4 @@
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@
 |**2024-07-04**|**Advanced Artificial Intelligence Strategy for Optimizing Urban Rail Network Design using Nature-Inspired Algorithms**|Hariram Sampath Kumar et.al.|[2407.04087](http://arxiv.org/abs/2407.04087)|null|
 |**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237](http://arxiv.org/abs/2407.03237)|null|
-|**2024-07-03**|**A Two-stage Identification Method for Switched Linear Systems**|Zheng Wenju et.al.|[2407.02743](http://arxiv.org/abs/2407.02743)|null|
+|**2024-07-12**|**A Two-stage Identification Method for Switched Linear Systems**|Zheng Wenju et.al.|[2407.02743](http://arxiv.org/abs/2407.02743)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
 |**2024-06-28**|**Edge-DIRECT: A Deep Reinforcement Learning-based Method for Solving Heterogeneous Electric Vehicle Routing Problem with Time Window Constraints**|Arash Mozhdehi et.al.|[2407.01615](http://arxiv.org/abs/2407.01615)|null|
 |**2024-07-02**|**Contractual Reinforcement Learning: Pulling Arms with Invisible Hands**|Jibang Wu et.al.|[2407.01458](http://arxiv.org/abs/2407.01458)|null|
@@ -223,7 +223,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -2312,7 +2312,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -4123,5 +4123,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240715>back to top</a>)</p>
 

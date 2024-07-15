@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.14
+## Updated on 2024.07.15
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -16,7 +16,7 @@ layout: default
 |**2024-07-04**|**Advanced Artificial Intelligence Strategy for Optimizing Urban Rail Network Design using Nature-Inspired Algorithms**|Hariram Sampath Kumar et.al.|[2407.04087](http://arxiv.org/abs/2407.04087)|null|
 |**2024-07-04**|**Multi-Time Scale Service Caching and Pricing in MEC Systems with Dynamic Program Popularity**|Yiming Chen et.al.|[2407.03804](http://arxiv.org/abs/2407.03804)|null|
 |**2024-07-03**|**Reconsidering utility: unveiling the limitations of synthetic mobility data generation algorithms in real-life scenarios**|Alexandra Kapp et.al.|[2407.03237](http://arxiv.org/abs/2407.03237)|null|
-|**2024-07-03**|**A Two-stage Identification Method for Switched Linear Systems**|Zheng Wenju et.al.|[2407.02743](http://arxiv.org/abs/2407.02743)|null|
+|**2024-07-12**|**A Two-stage Identification Method for Switched Linear Systems**|Zheng Wenju et.al.|[2407.02743](http://arxiv.org/abs/2407.02743)|null|
 |**2024-07-02**|**DM3D: Distortion-Minimized Weight Pruning for Lossless 3D Object Detection**|Kaixin Xu et.al.|[2407.02098](http://arxiv.org/abs/2407.02098)|null|
 |**2024-06-28**|**Edge-DIRECT: A Deep Reinforcement Learning-based Method for Solving Heterogeneous Electric Vehicle Routing Problem with Time Window Constraints**|Arash Mozhdehi et.al.|[2407.01615](http://arxiv.org/abs/2407.01615)|null|
 |**2024-07-02**|**Contractual Reinforcement Learning: Pulling Arms with Invisible Hands**|Jibang Wu et.al.|[2407.01458](http://arxiv.org/abs/2407.01458)|null|
