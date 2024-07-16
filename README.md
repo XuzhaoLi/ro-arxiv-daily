@@ -12,6 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**Enabling MCTS Explainability for Sequential Planning Through Computation Tree Logic**|Ziyan An et.al.|[2407.10820](http://arxiv.org/abs/2407.10820)|null|
+|**2024-07-14**|**Fine Grained Lower Bounds for Multidimensional Knapsack**|Ilan Doron-Arad et.al.|[2407.10146](http://arxiv.org/abs/2407.10146)|null|
+|**2024-07-12**|**Investigating the Interplay of Prioritized Replay and Generalization**|Parham Mohammad Panahi et.al.|[2407.09702](http://arxiv.org/abs/2407.09702)|null|
+|**2024-07-12**|**An efficient algorithm to compute the minimum free energy of interacting nucleic acid strands**|Ahmed Shalaby et.al.|[2407.09676](http://arxiv.org/abs/2407.09676)|null|
+|**2024-07-12**|**Hamilton-Jacobi Reachability in Reinforcement Learning: A Survey**|Milan Ganai et.al.|[2407.09645](http://arxiv.org/abs/2407.09645)|null|
 |**2024-07-12**|**Integer programs with nearly totally unimodular matrices: the cographic case**|Manuel Aprile et.al.|[2407.09477](http://arxiv.org/abs/2407.09477)|null|
 |**2024-07-12**|**A new approach to principal-agent problems with volatility control**|Alessandro Chiusolo et.al.|[2407.09471](http://arxiv.org/abs/2407.09471)|null|
 |**2024-07-12**|**CAACS: A Carbon Aware Ant Colony System**|Marina Lin et.al.|[2407.09404](http://arxiv.org/abs/2407.09404)|null|
@@ -234,6 +239,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
+|**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?**|Ruisheng Cao et.al.|[2407.10956](http://arxiv.org/abs/2407.10956)|**[link](https://github.com/xlang-ai/spider2-v)**|
+|**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
+|**2024-07-15**|**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**|Yaoting Wang et.al.|[2407.10947](http://arxiv.org/abs/2407.10947)|**[link](https://github.com/gewu-lab/sounding-object-segmentation-preference)**|
+|**2024-07-15**|**Learning from Naturally Occurring Feedback**|Shachar Don-Yehiya et.al.|[2407.10944](http://arxiv.org/abs/2407.10944)|null|
+|**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
+|**2024-07-15**|**Fine-Tuning and Prompt Optimization: Two Great Steps that Work Better Together**|Dilara Soylu et.al.|[2407.10930](http://arxiv.org/abs/2407.10930)|null|
+|**2024-07-15**|**Benchmarking Vision Language Models for Cultural Understanding**|Shravan Nayak et.al.|[2407.10920](http://arxiv.org/abs/2407.10920)|null|
+|**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|null|
+|**2024-07-15**|**Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique**|Mark Russinovich et.al.|[2407.10887](http://arxiv.org/abs/2407.10887)|null|
+|**2024-07-15**|**SLIP: Securing LLMs IP Using Weights Decomposition**|Yehonathan Refael et.al.|[2407.10886](http://arxiv.org/abs/2407.10886)|null|
+|**2024-07-15**|**Understanding the Importance of Evolutionary Search in Automated Heuristic Design with Large Language Models**|Rui Zhang et.al.|[2407.10873](http://arxiv.org/abs/2407.10873)|null|
+|**2024-07-15**|**GPT Sonograpy: Hand Gesture Decoding from Forearm Ultrasound Images via VLM**|Keshav Bimbraw et.al.|[2407.10870](http://arxiv.org/abs/2407.10870)|null|
+|**2024-07-15**|**Physics-Inspired Generative Models in Medical Imaging: A Review**|Dennis Hein et.al.|[2407.10856](http://arxiv.org/abs/2407.10856)|null|
+|**2024-07-15**|**Weighted Grouped Query Attention in Transformers**|Sai Sena Chinnakonduru et.al.|[2407.10855](http://arxiv.org/abs/2407.10855)|null|
+|**2024-07-15**|**An Actionable Framework for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2407.10853](http://arxiv.org/abs/2407.10853)|null|
+|**2024-07-15**|**MetaLLM: A High-performant and Cost-efficient Dynamic Framework for Wrapping LLMs**|Quang H. Nguyen et.al.|[2407.10834](http://arxiv.org/abs/2407.10834)|null|
+|**2024-07-15**|**BiasScanner: Automatic Detection and Classification of News Bias to Strengthen Democracy**|Tim Menzner et.al.|[2407.10829](http://arxiv.org/abs/2407.10829)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
 |**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
@@ -2343,6 +2368,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-15**|**RepVF: A Unified Vector Fields Representation for Multi-task 3D Perception**|Chunliang Li et.al.|[2407.10876](http://arxiv.org/abs/2407.10876)|**[link](https://github.com/jbji/repvf)**|
+|**2024-07-15**|**Enhancing Cyber Security through Predictive Analytics: Real-Time Threat Detection and Response**|Muhammad Danish et.al.|[2407.10864](http://arxiv.org/abs/2407.10864)|null|
+|**2024-07-15**|**DINO Pre-training for Vision-based End-to-end Autonomous Driving**|Shubham Juneja et.al.|[2407.10803](http://arxiv.org/abs/2407.10803)|null|
+|**2024-07-15**|**Interactive Public Transport Infrastructure Analysis through Mobility Profiles: Making the Mobility Transition Transparent**|Yannick Metz et.al.|[2407.10791](http://arxiv.org/abs/2407.10791)|null|
+|**2024-07-15**|**The Missing Link: Allocation Performance in Causal Machine Learning**|Unai Fischer-Abaigar et.al.|[2407.10779](http://arxiv.org/abs/2407.10779)|null|
+|**2024-07-15**|**Last-Iterate Global Convergence of Policy Gradients for Constrained Reinforcement Learning**|Alessandro Montenegro et.al.|[2407.10775](http://arxiv.org/abs/2407.10775)|null|
+|**2024-07-15**|**Multi-Objective Optimization and Multi-Criteria Decision-Making Approach to Design Multi-Tubular Packed-Bed Membrane Reactor in Oxidative Dehydrogenation of Ethane**|Seyed Reza Nabavi et.al.|[2407.10774](http://arxiv.org/abs/2407.10774)|null|
+|**2024-07-15**|**Globally-Constrained Decentralized Optimization with Variable Coupling**|Dandan Wang et.al.|[2407.10770](http://arxiv.org/abs/2407.10770)|null|
+|**2024-07-15**|**Addressing Image Hallucination in Text-to-Image Generation through Factual Image Retrieval**|Youngsun Lim et.al.|[2407.10683](http://arxiv.org/abs/2407.10683)|null|
+|**2024-07-15**|**XEQ Scale for Evaluating XAI Experience Quality Grounded in Psychometric Theory**|Anjana Wijekoon et.al.|[2407.10662](http://arxiv.org/abs/2407.10662)|null|
+|**2024-07-15**|**Exploring incentive strategies and predicting development trends for new energy vehicles**|Tao Jin et.al.|[2407.10611](http://arxiv.org/abs/2407.10611)|null|
+|**2024-07-15**|**Leveraging Hybrid Intelligence Towards Sustainable and Energy-Efficient Machine Learning**|Daniel Geissler et.al.|[2407.10580](http://arxiv.org/abs/2407.10580)|null|
+|**2024-07-15**|**Understanding the Dependence of Perception Model Competency on Regions in an Image**|Sara Pohland et.al.|[2407.10543](http://arxiv.org/abs/2407.10543)|**[link](https://github.com/sarapohland/explainable-competency)**|
+|**2024-07-15**|**Communication- and Computation-Efficient Distributed Decision-Making in Multi-Robot Networks**|Zirui Xu et.al.|[2407.10382](http://arxiv.org/abs/2407.10382)|null|
+|**2024-07-14**|**Mapping the Scholarship of Dark Pattern Regulation: A Systematic Review of Concepts, Regulatory Paradigms, and Solutions from an Interdisciplinary Perspective**|Weiwei Yi et.al.|[2407.10340](http://arxiv.org/abs/2407.10340)|null|
+|**2024-07-14**|**Follow the Rules: Reasoning for Video Anomaly Detection with Large Language Models**|Yuchen Yang et.al.|[2407.10299](http://arxiv.org/abs/2407.10299)|null|
+|**2024-07-14**|**Next-Generation 6G Networks: Deploying Cybertwin Technology for Enhanced Healthcare Solutions**|Alinafe Kaliwo et.al.|[2407.10292](http://arxiv.org/abs/2407.10292)|null|
+|**2024-07-14**|**Towards detailed and interpretable hybrid modeling of continental-scale bird migration**|Fiona Lippert et.al.|[2407.10259](http://arxiv.org/abs/2407.10259)|null|
+|**2024-07-14**|**RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation**|Li Li et.al.|[2407.10159](http://arxiv.org/abs/2407.10159)|**[link](https://github.com/l1997i/rapid_seg)**|
+|**2024-07-14**|**FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection**|Zheng Jiang et.al.|[2407.10135](http://arxiv.org/abs/2407.10135)|null|
 |**2024-07-12**|**Adaptive Prediction Ensemble: Improving Out-of-Distribution Generalization of Motion Forecasting**|Jinning Li et.al.|[2407.09475](http://arxiv.org/abs/2407.09475)|null|
 |**2024-07-12**|**TRAVERSE: Traffic-Responsive Autonomous Vehicle Experience & Rare-event Simulation for Enhanced safety**|Sandeep Thalapanane et.al.|[2407.09466](http://arxiv.org/abs/2407.09466)|null|
 |**2024-07-12**|**Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion**|Benedikt Hartl et.al.|[2407.09438](http://arxiv.org/abs/2407.09438)|null|
