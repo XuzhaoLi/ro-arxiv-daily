@@ -1,4 +1,4 @@
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -241,7 +241,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -2430,7 +2430,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2440,9 +2440,9 @@
 |**2024-07-18**|**Temporal Representation Learning for Stock Similarities and Its Applications in Investment Management**|Yoontae Hwang et.al.|[2407.13751](http://arxiv.org/abs/2407.13751)|null|
 |**2024-07-18**|**Managing Risk using Rolling Forecasts in Energy-Limited and Stochastic Energy Systems**|Thomas Mortimer et.al.|[2407.13626](http://arxiv.org/abs/2407.13626)|null|
 |**2024-07-18**|**The Storage Location Assignment and Picker Routing Problem: A Generic Branch-Cut-and-Price Algorithm**|Thibault Prunet et.al.|[2407.13570](http://arxiv.org/abs/2407.13570)|null|
-|**2024-07-18**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Alessandro Flaborea et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
+|**2024-07-19**|**Hyp2Nav: Hyperbolic Planning and Curiosity for Crowd Navigation**|Guido Maria D'Amely di Melendugno et.al.|[2407.13567](http://arxiv.org/abs/2407.13567)|null|
 |**2024-07-18**|**Fundamental Visual Navigation Algorithms: Indirect Sequential, Biased Diffusive, & Direct Pathing**|Patrick Govoni et.al.|[2407.13535](http://arxiv.org/abs/2407.13535)|null|
-|**2024-07-18**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|null|
+|**2024-07-19**|**Mask2Map: Vectorized HD Map Construction Using Bird's Eye View Segmentation Masks**|Sehwan Choi et.al.|[2407.13517](http://arxiv.org/abs/2407.13517)|**[link](https://github.com/SehwanChoi0307/Mask2Map)**|
 |**2024-07-18**|**Risk-Aware Vehicle Trajectory Prediction Under Safety-Critical Scenarios**|Qingfan Wang et.al.|[2407.13480](http://arxiv.org/abs/2407.13480)|null|
 |**2024-07-18**|**Improving Out-of-Distribution Generalization of Trajectory Prediction for Autonomous Driving via Polynomial Representations**|Yue Yao et.al.|[2407.13431](http://arxiv.org/abs/2407.13431)|null|
 |**2024-07-18**|**Ultra-Low-Latency Edge Inference for Distributed Sensing**|Zhanwei Wang et.al.|[2407.13360](http://arxiv.org/abs/2407.13360)|null|
@@ -2451,7 +2451,7 @@
 |**2024-07-18**|**$μ$ Drive: User-Controlled Autonomous Driving**|Kun Wang et.al.|[2407.13201](http://arxiv.org/abs/2407.13201)|null|
 |**2024-07-18**|**Adaptive Foundation Models for Online Decisions: HyperAgent with Fast Incremental Uncertainty Estimation**|Yingru Li et.al.|[2407.13195](http://arxiv.org/abs/2407.13195)|null|
 |**2024-07-18**|**Real-Time 3D Occupancy Prediction via Geometric-Semantic Disentanglement**|Yulin He et.al.|[2407.13155](http://arxiv.org/abs/2407.13155)|null|
-|**2024-07-18**|**PG-Rainbow: Using Distributional Reinforcement Learning in Policy Gradient Methods**|WooJae Jeon et.al.|[2407.13146](http://arxiv.org/abs/2407.13146)|null|
+|**2024-07-19**|**PG-Rainbow: Using Distributional Reinforcement Learning in Policy Gradient Methods**|WooJae Jeon et.al.|[2407.13146](http://arxiv.org/abs/2407.13146)|null|
 |**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137](http://arxiv.org/abs/2407.13137)|null|
 |**2024-07-18**|**PG-Attack: A Precision-Guided Adversarial Attack Framework Against Vision Foundation Models for Autonomous Driving**|Jiyuan Fu et.al.|[2407.13111](http://arxiv.org/abs/2407.13111)|null|
 |**2024-07-18**|**On Causally Disentangled State Representation Learning for Reinforcement Learning based Recommender Systems**|Siyu Wang et.al.|[2407.13091](http://arxiv.org/abs/2407.13091)|null|
@@ -4329,5 +4329,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240722>back to top</a>)</p>
 
