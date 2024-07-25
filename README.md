@@ -1,4 +1,4 @@
-## Updated on 2024.07.24
+## Updated on 2024.07.25
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -250,7 +250,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -270,10 +270,10 @@
 |**2024-07-23**|**TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**|Eunseop Yoon et.al.|[2407.16574](http://arxiv.org/abs/2407.16574)|null|
 |**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
 |**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
-|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-24**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
 |**2024-07-23**|**Quantifying the Role of Textual Predictability in Automatic Speech Recognition**|Sean Robertson et.al.|[2407.16537](http://arxiv.org/abs/2407.16537)|null|
 |**2024-07-23**|**Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models**|Aristeidis Panos et.al.|[2407.16526](http://arxiv.org/abs/2407.16526)|null|
-|**2024-07-23**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
+|**2024-07-24**|**AMONGAGENTS: Evaluating Large Language Models in the Interactive Text-Based Social Deduction Game**|Yizhou Chi et.al.|[2407.16521](http://arxiv.org/abs/2407.16521)|null|
 |**2024-07-23**|**Language-Based Security for Low-Level MPC**|Christian Skalka et.al.|[2407.16504](http://arxiv.org/abs/2407.16504)|null|
 |**2024-07-23**|**Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models**|Kenza Benkirane et.al.|[2407.16470](http://arxiv.org/abs/2407.16470)|null|
 |**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
@@ -2499,15 +2499,15 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-07-23**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
+|**2024-07-24**|**A Simulation Benchmark for Autonomous Racing with Large-Scale Human Data**|Adrian Remonda et.al.|[2407.16680](http://arxiv.org/abs/2407.16680)|**[link](https://github.com/dasgringuen/assetto_corsa_gym)**|
 |**2024-07-23**|**Deformable Convolution Based Road Scene Semantic Segmentation of Fisheye Images in Autonomous Driving**|Anam Manzoor et.al.|[2407.16647](http://arxiv.org/abs/2407.16647)|null|
-|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-24**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
 |**2024-07-23**|**Knowledge-driven AI-generated data for accurate and interpretable breast ultrasound diagnoses**|Haojun Yu et.al.|[2407.16634](http://arxiv.org/abs/2407.16634)|null|
 |**2024-07-23**|**MonoWAD: Weather-Adaptive Diffusion Model for Robust Monocular 3D Object Detection**|Youngmin Oh et.al.|[2407.16448](http://arxiv.org/abs/2407.16448)|**[link](https://github.com/visualaikhu/monowad)**|
 |**2024-07-23**|**Can time series forecasting be automated? A benchmark and analysis**|Anvitha Thirthapura Sreedhara et.al.|[2407.16445](http://arxiv.org/abs/2407.16445)|null|
@@ -4452,5 +4452,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240724>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240725>back to top</a>)</p>
 
