@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -2568,7 +2568,7 @@ layout: default
 |**2024-07-26**|**Set risk measures**|Marcelo Righi et.al.|[2407.18687](http://arxiv.org/abs/2407.18687)|null|
 |**2024-07-26**|**Reinforcement Learning for Sustainable Energy: A Survey**|Koen Ponse et.al.|[2407.18597](http://arxiv.org/abs/2407.18597)|null|
 |**2024-07-26**|**PP-TIL: Personalized Planning for Autonomous Driving with Instance-based Transfer Imitation Learning**|Fangze Lin et.al.|[2407.18569](http://arxiv.org/abs/2407.18569)|null|
-|**2024-07-26**|**Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network**|Guipeng Xin et.al.|[2407.18551](http://arxiv.org/abs/2407.18551)|**[link](https://github.com/xingp/dgfnet)**|
+|**2024-07-29**|**Multi-Agent Trajectory Prediction with Difficulty-Guided Feature Enhancement Network**|Guipeng Xin et.al.|[2407.18551](http://arxiv.org/abs/2407.18551)|**[link](https://github.com/xingp/dgfnet)**|
 |**2024-07-26**|**Socially efficient mechanism on the minimum budget**|Hirota Kinoshita et.al.|[2407.18515](http://arxiv.org/abs/2407.18515)|null|
 |**2024-07-26**|**Design Spaces and How Software Designers Use Them: a sampler**|Mary Shaw et.al.|[2407.18502](http://arxiv.org/abs/2407.18502)|null|
 |**2024-07-26**|**Gaussian Lane Keeping: A Robust Prediction Baseline**|David Isele et.al.|[2407.18451](http://arxiv.org/abs/2407.18451)|null|
