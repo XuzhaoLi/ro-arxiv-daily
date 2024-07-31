@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**A Machine Learning Approach to Boost the Vehicle-2-Grid Scheduling**|Gabriele Agliardi et.al.|[2407.20802](http://arxiv.org/abs/2407.20802)|null|
+|**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751](http://arxiv.org/abs/2407.20751)|null|
+|**2024-07-30**|**A UAV-Enabled Time-Sensitive Data Collection Scheme for Grassland Monitoring Edge Networks**|Dongbin Jiao et.al.|[2407.20585](http://arxiv.org/abs/2407.20585)|null|
 |**2024-07-29**|**A Differential Dynamic Programming Framework for Inverse Reinforcement Learning**|Kun Cao et.al.|[2407.19902](http://arxiv.org/abs/2407.19902)|null|
 |**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304](http://arxiv.org/abs/2407.19304)|null|
 |**2024-07-26**|**RRO: A Regularized Routing Optimization Algorithm for Enhanced Throughput and Low Latency with Efficient Complexity**|David Zenati et.al.|[2407.18683](http://arxiv.org/abs/2407.18683)|null|
@@ -255,6 +258,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
+|**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
+|**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001](http://arxiv.org/abs/2407.21001)|null|
+|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
+|**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
+|**2024-07-30**|**UniProcessor: A Text-induced Unified Low-level Image Processor**|Huiyu Duan et.al.|[2407.20928](http://arxiv.org/abs/2407.20928)|**[link](https://github.com/intmegroup/uniprocessor)**|
+|**2024-07-30**|**SSPA: Split-and-Synthesize Prompting with Gated Alignments for Multi-Label Image Recognition**|Hao Tan et.al.|[2407.20920](http://arxiv.org/abs/2407.20920)|null|
+|**2024-07-30**|**Automated Review Generation Method Based on Large Language Models**|Shican Wu et.al.|[2407.20906](http://arxiv.org/abs/2407.20906)|**[link](https://github.com/tju-ecat-ai/automaticreviewgeneration)**|
+|**2024-07-30**|**Faithful and Plausible Natural Language Explanations for Image Classification: A Pipeline Approach**|Adam Wojciechowski et.al.|[2407.20899](http://arxiv.org/abs/2407.20899)|null|
+|**2024-07-30**|**ThinkRepair: Self-Directed Automated Program Repair**|Xin Yin et.al.|[2407.20898](http://arxiv.org/abs/2407.20898)|**[link](https://github.com/vinci-grape/ThinkRepair)**|
+|**2024-07-30**|**Effective Black Box Testing of Sentiment Analysis Classification Networks**|Parsa Karbasizadeh et.al.|[2407.20884](http://arxiv.org/abs/2407.20884)|null|
+|**2024-07-30**|**Breaking Agents: Compromising Autonomous LLM Agents Through Malfunction Amplification**|Boyang Zhang et.al.|[2407.20859](http://arxiv.org/abs/2407.20859)|null|
+|**2024-07-30**|**Learn by Selling: Equipping Large Language Models with Product Knowledge for Context-Driven Recommendations**|Sarthak Anand et.al.|[2407.20856](http://arxiv.org/abs/2407.20856)|null|
+|**2024-07-30**|**Large Language Model (LLM)-enabled Graphs in Dynamic Networking**|Geng Sun et.al.|[2407.20840](http://arxiv.org/abs/2407.20840)|null|
+|**2024-07-30**|**How to Measure the Intelligence of Large Language Models?**|Nils Körber et.al.|[2407.20828](http://arxiv.org/abs/2407.20828)|null|
+|**2024-07-30**|**Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning**|Norman Di Palo et.al.|[2407.20798](http://arxiv.org/abs/2407.20798)|null|
+|**2024-07-30**|**Interpretable Pre-Trained Transformers for Heart Time-Series Data**|Harry J. Davies et.al.|[2407.20775](http://arxiv.org/abs/2407.20775)|null|
+|**2024-07-30**|**OmniBal: Towards Fast Instruct-tuning for Vision-Language Models via Omniverse Computation Balance**|Yongqiang Yao et.al.|[2407.20761](http://arxiv.org/abs/2407.20761)|**[link](https://github.com/modeltc/omnibal)**|
 |**2024-07-29**|**Specify and Edit: Overcoming Ambiguity in Text-Based Image Editing**|Ekaterina Iakovleva et.al.|[2407.20232](http://arxiv.org/abs/2407.20232)|null|
 |**2024-07-29**|**Improving 2D Feature Representations by 3D-Aware Fine-Tuning**|Yuanwen Yue et.al.|[2407.20229](http://arxiv.org/abs/2407.20229)|null|
 |**2024-07-29**|**FlexAttention for Efficient High-Resolution Vision-Language Models**|Junyan Li et.al.|[2407.20228](http://arxiv.org/abs/2407.20228)|null|
@@ -2582,6 +2605,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Integrating Agent-Based and Compartmental Models for Infectious Disease Modeling: A Novel Hybrid Approach**|Inan Bostanci et.al.|[2407.20993](http://arxiv.org/abs/2407.20993)|null|
+|**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
+|**2024-07-30**|**Learning Ordinality in Semantic Segmentation**|Rafael Cristino et.al.|[2407.20959](http://arxiv.org/abs/2407.20959)|null|
+|**2024-07-30**|**Non-linear inhibitory responses enhance performance in collective decision-making**|David March-Pons et.al.|[2407.20927](http://arxiv.org/abs/2407.20927)|null|
+|**2024-07-30**|**How to Choose a Reinforcement-Learning Algorithm**|Fabian Bongratz et.al.|[2407.20917](http://arxiv.org/abs/2407.20917)|null|
+|**2024-07-30**|**Optimizing 5G-Advanced Networks for Time-critical Applications: The Role of L4S**|Guangjin Pan et.al.|[2407.20852](http://arxiv.org/abs/2407.20852)|null|
+|**2024-07-30**|**Task-Oriented Communication for Vehicle-to-Infrastructure Cooperative Perception**|Jiawei Shao et.al.|[2407.20748](http://arxiv.org/abs/2407.20748)|null|
+|**2024-07-30**|**Architectural Influence on Variational Quantum Circuits in Multi-Agent Reinforcement Learning: Evolutionary Strategies for Optimization**|Michael Kölle et.al.|[2407.20739](http://arxiv.org/abs/2407.20739)|null|
+|**2024-07-30**|**Practices and Strategies in Responsive Thematic Map Design: A Report from Design Workshops with Experts**|Sarah Schöttler et.al.|[2407.20735](http://arxiv.org/abs/2407.20735)|null|
+|**2024-07-30**|**Scene-Specific Trajectory Sets: Maximizing Representation in Motion Forecasting**|Abhishek Vivekanandan et.al.|[2407.20732](http://arxiv.org/abs/2407.20732)|null|
+|**2024-07-30**|**Exploring Loss Landscapes through the Lens of Spin Glass Theory**|Hao Liao et.al.|[2407.20724](http://arxiv.org/abs/2407.20724)|null|
+|**2024-07-30**|**On-the-fly Communication-and-Computing to Enable Representation Learning for Distributed Point Clouds**|Xu Chen et.al.|[2407.20710](http://arxiv.org/abs/2407.20710)|null|
+|**2024-07-30**|**Powerful A/B-Testing Metrics and Where to Find Them**|Olivier Jeunen et.al.|[2407.20665](http://arxiv.org/abs/2407.20665)|null|
+|**2024-07-30**|**Enhancing Agricultural Machinery Management through Advanced LLM Integration**|Emily Johnson et.al.|[2407.20588](http://arxiv.org/abs/2407.20588)|null|
+|**2024-07-30**|**Laplace approximation for Bayesian variable selection via Le Cam's one-step procedure**|Tianrui Hou et.al.|[2407.20580](http://arxiv.org/abs/2407.20580)|null|
+|**2024-07-30**|**DiffusionCounterfactuals: Inferring High-dimensional Counterfactuals with Guidance of Causal Representations**|Jiageng Zhu et.al.|[2407.20553](http://arxiv.org/abs/2407.20553)|null|
+|**2024-07-30**|**Evaluating Fairness in Black-box Algorithmic Markets: A Case Study of Ride Sharing in Chicago**|Yuhan Liu et.al.|[2407.20522](http://arxiv.org/abs/2407.20522)|null|
+|**2024-07-29**|**Domain Adaptable Prescriptive AI Agent for Enterprise**|Piero Orderique et.al.|[2407.20447](http://arxiv.org/abs/2407.20447)|null|
+|**2024-07-29**|**Appraisal-Guided Proximal Policy Optimization: Modeling Psychological Disorders in Dynamic Grid World**|Hari Prasad et.al.|[2407.20383](http://arxiv.org/abs/2407.20383)|null|
 |**2024-07-29**|**SAPG: Split and Aggregate Policy Gradients**|Jayesh Singla et.al.|[2407.20230](http://arxiv.org/abs/2407.20230)|null|
 |**2024-07-29**|**Time series forecasting with high stakes: A field study of the air cargo industry**|Abhinav Garg et.al.|[2407.20192](http://arxiv.org/abs/2407.20192)|null|
 |**2024-07-29**|**An Interpretable Rule Creation Method for Black-Box Models based on Surrogate Trees -- SRules**|Mario Parrón Verdasco et.al.|[2407.20070](http://arxiv.org/abs/2407.20070)|null|
