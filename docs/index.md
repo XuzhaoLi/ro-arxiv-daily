@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.31
+## Updated on 2024.08.01
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -261,7 +261,7 @@ layout: default
 |**2024-07-30**|**ThinK: Thinner Key Cache by Query-Driven Pruning**|Yuhui Xu et.al.|[2407.21018](http://arxiv.org/abs/2407.21018)|null|
 |**2024-07-30**|**CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning**|Yuexi Du et.al.|[2407.21011](http://arxiv.org/abs/2407.21011)|**[link](https://github.com/xypb/cleft)**|
 |**2024-07-30**|**GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models**|Ali Abdollahi et.al.|[2407.21001](http://arxiv.org/abs/2407.21001)|null|
-|**2024-07-30**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
+|**2024-07-31**|**MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning**|Yupeng Chen et.al.|[2407.20999](http://arxiv.org/abs/2407.20999)|null|
 |**2024-07-30**|**From Feature Importance to Natural Language Explanations Using LLMs with RAG**|Sule Tekkesinoglu et.al.|[2407.20990](http://arxiv.org/abs/2407.20990)|null|
 |**2024-07-30**|**Large Language Models (LLMs) for Semantic Communication in Edge-based IoT Networks**|Alakesh Kalita et.al.|[2407.20970](http://arxiv.org/abs/2407.20970)|null|
 |**2024-07-30**|**MMTrail: A Multimodal Trailer Video Dataset with Language and Music Descriptions**|Xiaowei Chi et.al.|[2407.20962](http://arxiv.org/abs/2407.20962)|**[link](https://github.com/litwellchi/mmtrail)**|
