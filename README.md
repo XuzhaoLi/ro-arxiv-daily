@@ -1,4 +1,4 @@
-## Updated on 2024.08.01
+## Updated on 2024.08.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -20,7 +20,7 @@
 |**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304](http://arxiv.org/abs/2407.19304)|null|
 |**2024-07-26**|**RRO: A Regularized Routing Optimization Algorithm for Enhanced Throughput and Low Latency with Efficient Complexity**|David Zenati et.al.|[2407.18683](http://arxiv.org/abs/2407.18683)|null|
 |**2024-07-26**|**Mean-field control of non exchangeable systems**|Anna De Crescenzo et.al.|[2407.18635](http://arxiv.org/abs/2407.18635)|null|
-|**2024-07-25**|**Stochastic Games with Minimally Bounded Action Costs**|David Mguni et.al.|[2407.18010](http://arxiv.org/abs/2407.18010)|null|
+|**2024-08-01**|**Stochastic Games with Minimally Bounded Action Costs**|David Mguni et.al.|[2407.18010](http://arxiv.org/abs/2407.18010)|null|
 |**2024-07-25**|**Personalized and Context-aware Route Planning for Edge-assisted Vehicles**|Dinesh Cyril Selvaraj et.al.|[2407.17980](http://arxiv.org/abs/2407.17980)|null|
 |**2024-07-23**|**Data-Driven Optimal Feedback Laws via Kernel Mean Embeddings**|Petar Bevanda et.al.|[2407.16407](http://arxiv.org/abs/2407.16407)|null|
 |**2024-07-23**|**Data-driven Multistage Distributionally Robust Linear Optimization with Nested Distance**|Rui Gao et.al.|[2407.16346](http://arxiv.org/abs/2407.16346)|null|
@@ -260,7 +260,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -280,7 +280,7 @@
 |**2024-07-31**|**CEAR: Automatic construction of a knowledge graph of chemical entities and roles from scientific literature**|Stefan Langer et.al.|[2407.21708](http://arxiv.org/abs/2407.21708)|null|
 |**2024-07-31**|**TransferTOD: A Generalizable Chinese Multi-Domain Task-Oriented Dialogue System with Transfer Capabilities**|Ming Zhang et.al.|[2407.21693](http://arxiv.org/abs/2407.21693)|null|
 |**2024-07-31**|**Synth-Empathy: Towards High-Quality Synthetic Empathy Data**|Hao Liang et.al.|[2407.21669](http://arxiv.org/abs/2407.21669)|null|
-|**2024-07-31**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|null|
+|**2024-08-01**|**Defending Jailbreak Attack in VLMs via Cross-modality Information Detector**|Yue Xu et.al.|[2407.21659](http://arxiv.org/abs/2407.21659)|null|
 |**2024-07-31**|**MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment**|Anurag Das et.al.|[2407.21654](http://arxiv.org/abs/2407.21654)|null|
 |**2024-07-31**|**Zero-Shot Cross-Domain Dialogue State Tracking via Dual Low-Rank Adaptation**|Xiang Luo et.al.|[2407.21633](http://arxiv.org/abs/2407.21633)|null|
 |**2024-07-31**|**TAROT: Task-Oriented Authorship Obfuscation Using Policy Optimization Methods**|Gabriel Loiseau et.al.|[2407.21630](http://arxiv.org/abs/2407.21630)|null|
@@ -2629,7 +2629,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2639,7 +2639,7 @@
 |**2024-07-31**|**An Explainable Vision Transformer with Transfer Learning Combined with Support Vector Machine Based Efficient Drought Stress Identification**|Aswini Kumar Patra et.al.|[2407.21666](http://arxiv.org/abs/2407.21666)|null|
 |**2024-07-31**|**MART: MultiscAle Relational Transformer Networks for Multi-agent Trajectory Prediction**|Seongju Lee et.al.|[2407.21635](http://arxiv.org/abs/2407.21635)|null|
 |**2024-07-31**|**Voxel Scene Graph for Intracranial Hemorrhage**|Antoine P. Sanner et.al.|[2407.21580](http://arxiv.org/abs/2407.21580)|null|
-|**2024-07-31**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
+|**2024-08-01**|**Analysis of Functional Insufficiencies and Triggering Conditions to Improve the SOTIF of an MPC-based Trajectory Planner**|Mirko Conrad et.al.|[2407.21569](http://arxiv.org/abs/2407.21569)|null|
 |**2024-07-31**|**Interpreting and learning voice commands with a Large Language Model for a robot system**|Stanislau Stankevich et.al.|[2407.21512](http://arxiv.org/abs/2407.21512)|null|
 |**2024-07-31**|**Mitral Regurgitation Recogniton based on Unsupervised Out-of-Distribution Detection with Residual Diffusion Amplification**|Zhe Liu et.al.|[2407.21497](http://arxiv.org/abs/2407.21497)|null|
 |**2024-07-31**|**KemenkeuGPT: Leveraging a Large Language Model on Indonesia's Government Financial Data and Regulations to Enhance Decision Making**|Gilang Fajar Febrian et.al.|[2407.21459](http://arxiv.org/abs/2407.21459)|null|
@@ -4691,5 +4691,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240801>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240802>back to top</a>)</p>
 
