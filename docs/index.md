@@ -1789,7 +1789,7 @@ layout: default
 |**2024-04-10**|**Exploring Concept Depth: How Large Language Models Acquire Knowledge at Different Layers?**|Mingyu Jin et.al.|[2404.07066](http://arxiv.org/abs/2404.07066)|**[link](https://github.com/luckfort/cd)**|
 |**2024-04-10**|**Groundedness in Retrieval-augmented Long-form Generation: An Empirical Study**|Alessandro Stolfo et.al.|[2404.07060](http://arxiv.org/abs/2404.07060)|null|
 |**2024-04-10**|**Meta4XNLI: A Crosslingual Parallel Corpus for Metaphor Detection and Interpretation**|Elisa Sanchez-Bayona et.al.|[2404.07053](http://arxiv.org/abs/2404.07053)|**[link](https://github.com/elisanchez-beep/meta4xnli)**|
-|**2024-04-10**|**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**|Ege Özsoy et.al.|[2404.07031](http://arxiv.org/abs/2404.07031)|null|
+|**2024-04-10**|**ORacle: Large Vision-Language Models for Knowledge-Guided Holistic OR Domain Modeling**|Ege Özsoy et.al.|[2404.07031](http://arxiv.org/abs/2404.07031)|**[link](https://github.com/egeozsoy/Oracle)**|
 |**2024-04-10**|**Improving Language Model Reasoning with Self-motivated Learning**|Yunlong Feng et.al.|[2404.07017](http://arxiv.org/abs/2404.07017)|null|
 |**2024-04-10**|**A Mathematical Theory for Learning Semantic Languages by Abstract Learners**|Kuo-Yu Liao et.al.|[2404.07009](http://arxiv.org/abs/2404.07009)|null|
 |**2024-04-10**|**WordDecipher: Enhancing Digital Workspace Communication with Explainable AI for Non-native English Speakers**|Yuexi Chen et.al.|[2404.07005](http://arxiv.org/abs/2404.07005)|null|
@@ -2097,7 +2097,7 @@ layout: default
 |**2024-03-19**|**Toward Sustainable GenAI using Generation Directives for Carbon-Friendly Large Language Model Inference**|Baolin Li et.al.|[2403.12900](http://arxiv.org/abs/2403.12900)|null|
 |**2024-03-19**|**mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**|Anwen Hu et.al.|[2403.12895](http://arxiv.org/abs/2403.12895)|**[link](https://github.com/x-plug/mplug-docowl)**|
 |**2024-03-20**|**MEDBind: Unifying Language and Multimodal Medical Data Embeddings**|Yuan Gao et.al.|[2403.12894](http://arxiv.org/abs/2403.12894)|null|
-|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|null|
+|**2024-03-19**|**HYDRA: A Hyper Agent for Dynamic Compositional Visual Reasoning**|Fucai Ke et.al.|[2403.12884](http://arxiv.org/abs/2403.12884)|**[link](https://github.com/ControlNet/HYDRA)**|
 |**2024-03-19**|**Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models**|Zehui Chen et.al.|[2403.12881](http://arxiv.org/abs/2403.12881)|**[link](https://github.com/internlm/agent-flan)**|
 |**2024-03-19**|**Epistemology of Language Models: Do Language Models Have Holistic Knowledge?**|Minsu Kim et.al.|[2403.12862](http://arxiv.org/abs/2403.12862)|null|
 |**2024-03-19**|**RASP: A Drone-based Reconfigurable Actuation and Sensing Platform Towards Ambient Intelligent Systems**|Minghui Zhao et.al.|[2403.12853](http://arxiv.org/abs/2403.12853)|null|
@@ -4343,7 +4343,7 @@ layout: default
 |**2024-03-12**|**Spatiotemporal Representation Learning for Short and Long Medical Image Time Series**|Chengzhi Shen et.al.|[2403.07513](http://arxiv.org/abs/2403.07513)|null|
 |**2024-03-12**|**Reinforced Sequential Decision-Making for Sepsis Treatment: The POSNEGDM Framework with Mortality Classifier and Transformer**|Dipesh Tamboli et.al.|[2403.07309](http://arxiv.org/abs/2403.07309)|**[link](https://github.com/dipeshtamboli/posnegdm-reinforced-sequential-decision-making-for-sepsis-treatment)**|
 |**2024-03-12**|**Improved Algebraic Inverter Modelling for Four-Wire Power Flow Optimization**|Rahmat Heidari et.al.|[2403.07285](http://arxiv.org/abs/2403.07285)|null|
-|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/abs/2403.07263)|null|
+|**2024-03-12**|**Adaptive Bounding Box Uncertainties via Two-Step Conformal Prediction**|Alexander Timans et.al.|[2403.07263](http://arxiv.org/abs/2403.07263)|**[link](https://github.com/alextimans/conformal-od)**|
 |**2024-03-12**|**Tractable Joint Prediction and Planning over Discrete Behavior Modes for Urban Driving**|Adam Villaflor et.al.|[2403.07232](http://arxiv.org/abs/2403.07232)|null|
 |**2024-03-11**|**Bigraph Matching Weighted with Learnt Incentive Function for Multi-Robot Task Allocation**|Steve Paul et.al.|[2403.07131](http://arxiv.org/abs/2403.07131)|null|
 |**2024-03-11**|**RaceMOP: Mapless Online Path Planning for Multi-Agent Autonomous Racing using Residual Policy Learning**|Raphael Trumpp et.al.|[2403.07129](http://arxiv.org/abs/2403.07129)|**[link](https://github.com/raphajaner/racemop)**|
