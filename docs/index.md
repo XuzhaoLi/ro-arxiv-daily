@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
+|**2024-08-04**|**Non-local Hamilton-Jacobi-Bellman equations for the stochastic optimal control of path-dependent piecewise deterministic processes**|Elena Bandini et.al.|[2408.02147](http://arxiv.org/abs/2408.02147)|null|
+|**2024-08-03**|**Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for Robust Road Network Estimation**|Balázs Opra et.al.|[2408.01640](http://arxiv.org/abs/2408.01640)|null|
 |**2024-08-02**|**Occasionally Observed Piecewise-deterministic Markov Processes**|Marissa Gee et.al.|[2408.01335](http://arxiv.org/abs/2408.01335)|null|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
 |**2024-08-01**|**Deep Learning Approach for Changepoint Detection: Penalty Parameter Optimization**|Tung L Nguyen et.al.|[2408.00856](http://arxiv.org/abs/2408.00856)|null|
@@ -262,6 +265,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637](http://arxiv.org/abs/2408.02637)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
+|**2024-08-05**|**Language Model Can Listen While Speaking**|Ziyang Ma et.al.|[2408.02622](http://arxiv.org/abs/2408.02622)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
+|**2024-08-05**|**Modelling Visual Semantics via Image Captioning to extract Enhanced Multi-Level Cross-Modal Semantic Incongruity Representation with Attention for Multimodal Sarcasm Detection**|Sajal Aggarwal et.al.|[2408.02595](http://arxiv.org/abs/2408.02595)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
+|**2024-08-05**|**DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**|Siying Hu et.al.|[2408.02574](http://arxiv.org/abs/2408.02574)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545](http://arxiv.org/abs/2408.02545)|null|
+|**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544](http://arxiv.org/abs/2408.02544)|null|
+|**2024-08-05**|**Towards Coarse-grained Visual Language Navigation Task Planning Enhanced by Event Knowledge Graph**|Zhao Kaichen et.al.|[2408.02535](http://arxiv.org/abs/2408.02535)|null|
+|**2024-08-05**|**Practical Attacks against Black-box Code Completion Engines**|Slobodan Jenko et.al.|[2408.02509](http://arxiv.org/abs/2408.02509)|null|
+|**2024-08-05**|**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**|Zhaowei Li et.al.|[2408.02503](http://arxiv.org/abs/2408.02503)|null|
+|**2024-08-05**|**Context Conquers Parameters: Outperforming Proprietary LLM in Commit Message Generation**|Aaron Imani et.al.|[2408.02502](http://arxiv.org/abs/2408.02502)|null|
+|**2024-08-05**|**A First Look at License Compliance Capability of LLMs in Code Generation**|Weiwei Xu et.al.|[2408.02487](http://arxiv.org/abs/2408.02487)|null|
+|**2024-08-05**|**Exploring Conditional Multi-Modal Prompts for Zero-shot HOI Detection**|Ting Lei et.al.|[2408.02484](http://arxiv.org/abs/2408.02484)|null|
+|**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
 |**2024-08-02**|**Prompt Recursive Search: A Living Framework with Adaptive Growth in LLM Auto-Prompting**|Xiangyu Zhao et.al.|[2408.01423](http://arxiv.org/abs/2408.01423)|null|
 |**2024-08-02**|**Mission Impossible: A Statistical Perspective on Jailbreaking LLMs**|Jingtong Su et.al.|[2408.01420](http://arxiv.org/abs/2408.01420)|null|
 |**2024-08-02**|**DebateQA: Evaluating Question Answering on Debatable Knowledge**|Rongwu Xu et.al.|[2408.01419](http://arxiv.org/abs/2408.01419)|null|
@@ -2669,6 +2692,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
+|**2024-08-05**|**An Integrated Approach to Importance Sampling and Machine Learning for Efficient Monte Carlo Estimation of Distortion Risk Measures in Black Box Models**|Sören Bettels et.al.|[2408.02401](http://arxiv.org/abs/2408.02401)|null|
+|**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
+|**2024-08-05**|**Is Large Language Model Good at Database Knob Tuning? A Comprehensive Experimental Evaluation**|Yiyan Li et.al.|[2408.02213](http://arxiv.org/abs/2408.02213)|null|
+|**2024-08-04**|**SPINEX-TimeSeries: Similarity-based Predictions with Explainable Neighbors Exploration for Time Series and Forecasting Problems**|Ahmed Z Naser et.al.|[2408.02159](http://arxiv.org/abs/2408.02159)|null|
+|**2024-08-04**|**Model Hijacking Attack in Federated Learning**|Zheng Li et.al.|[2408.02131](http://arxiv.org/abs/2408.02131)|null|
+|**2024-08-04**|**Value-Based Rationales Improve Social Experience: A Multiagent Simulation Study**|Sz-Ting Tzeng et.al.|[2408.02117](http://arxiv.org/abs/2408.02117)|null|
+|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
+|**2024-08-04**|**Reinforcement Learning for an Efficient and Effective Malware Investigation during Cyber Incident Response**|Dipo Dunsin et.al.|[2408.01999](http://arxiv.org/abs/2408.01999)|null|
+|**2024-08-04**|**Optimal and efficient text counterfactuals using Graph Neural Networks**|Dimitris Lymperopoulos et.al.|[2408.01969](http://arxiv.org/abs/2408.01969)|null|
+|**2024-08-04**|**Bilateral Trade Flow Prediction by Gravity-informed Graph Auto-encoder**|Naoto Minakawa et.al.|[2408.01938](http://arxiv.org/abs/2408.01938)|null|
+|**2024-08-03**|**Impact of Major Health Events on Pharmaceutical Stocks: A Comprehensive Analysis Using Macroeconomic and Market Indicators**|Morteza Maleki et.al.|[2408.01883](http://arxiv.org/abs/2408.01883)|null|
+|**2024-08-03**|**ST-SACLF: Style Transfer Informed Self-Attention Classifier for Bias-Aware Painting Classification**|Mridula Vijendran et.al.|[2408.01827](http://arxiv.org/abs/2408.01827)|null|
+|**2024-08-03**|**STDA: Spatio-Temporal Dual-Encoder Network Incorporating Driver Attention to Predict Driver Behaviors Under Safety-Critical Scenarios**|Dongyang Xu et.al.|[2408.01774](http://arxiv.org/abs/2408.01774)|null|
+|**2024-08-03**|**LAM3D: Leveraging Attention for Monocular 3D Object Detection**|Diana-Alexandra Sas et.al.|[2408.01739](http://arxiv.org/abs/2408.01739)|null|
+|**2024-08-03**|**Self-Emotion Blended Dialogue Generation in Social Simulation Agents**|Qiang Zhang et.al.|[2408.01633](http://arxiv.org/abs/2408.01633)|null|
+|**2024-08-03**|**A Comparative Analysis of Wealth Index Predictions in Africa between three Multi-Source Inference Models**|Márton Karsai et.al.|[2408.01631](http://arxiv.org/abs/2408.01631)|null|
+|**2024-08-03**|**Weighted Brier Score -- an Overall Summary Measure for Risk Prediction Models with Clinical Utility Consideration**|Kehao Zhu et.al.|[2408.01626](http://arxiv.org/abs/2408.01626)|null|
+|**2024-08-03**|**Data-Driven Machine Learning Approaches for Predicting In-Hospital Sepsis Mortality**|Arseniy Shumilov et.al.|[2408.01612](http://arxiv.org/abs/2408.01612)|null|
+|**2024-08-02**|**Counterfactual Explanations for Medical Image Classification and Regression using Diffusion Autoencoder**|Matan Atad et.al.|[2408.01571](http://arxiv.org/abs/2408.01571)|null|
 |**2024-08-02**|**NeuralBeta: Estimating Beta Using Deep Learning**|Yuxin Liu et.al.|[2408.01387](http://arxiv.org/abs/2408.01387)|null|
 |**2024-08-02**|**A Robotics-Inspired Scanpath Model Reveals the Importance of Uncertainty and Semantic Object Cues for Gaze Guidance in Dynamic Scenes**|Vito Mengers et.al.|[2408.01322](http://arxiv.org/abs/2408.01322)|null|
 |**2024-08-02**|**PsybORG+: Cognitive Modeling for Triggering and Detection of Cognitive Biases of Advanced Persistent Threats**|Shuo Huang et.al.|[2408.01310](http://arxiv.org/abs/2408.01310)|null|
