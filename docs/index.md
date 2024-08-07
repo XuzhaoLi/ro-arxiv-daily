@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**A Course in Dynamic Optimization**|Bar Light et.al.|[2408.03034](http://arxiv.org/abs/2408.03034)|null|
+|**2024-08-05**|**Positive Dynamic Programming: A Critique**|Aaqib Peerzada et.al.|[2408.02809](http://arxiv.org/abs/2408.02809)|null|
 |**2024-08-05**|**Multi-level Traffic-Responsive Tilt Camera Surveillance through Predictive Correlated Online Learning**|Tao Li et.al.|[2408.02208](http://arxiv.org/abs/2408.02208)|null|
 |**2024-08-04**|**Non-local Hamilton-Jacobi-Bellman equations for the stochastic optimal control of path-dependent piecewise deterministic processes**|Elena Bandini et.al.|[2408.02147](http://arxiv.org/abs/2408.02147)|null|
 |**2024-08-03**|**Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for Robust Road Network Estimation**|Balázs Opra et.al.|[2408.01640](http://arxiv.org/abs/2408.01640)|null|
@@ -265,6 +267,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**CoverBench: A Challenging Benchmark for Complex Claim Verification**|Alon Jacovi et.al.|[2408.03325](http://arxiv.org/abs/2408.03325)|null|
+|**2024-08-06**|**Segment Anything in Medical Images and Videos: Benchmark and Deployment**|Jun Ma et.al.|[2408.03322](http://arxiv.org/abs/2408.03322)|null|
+|**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
+|**2024-08-06**|**KaPO: Knowledge-aware Preference Optimization for Controllable Knowledge Selection in Retrieval-Augmented Language Models**|Ruizhe Zhang et.al.|[2408.03297](http://arxiv.org/abs/2408.03297)|null|
+|**2024-08-06**|**Biomedical SAM 2: Segment Anything in Biomedical Images and Videos**|Zhiling Yan et.al.|[2408.03286](http://arxiv.org/abs/2408.03286)|null|
+|**2024-08-06**|**StructEval: Deepen and Broaden Large Language Model Assessment via Structured Evaluation**|Boxi Cao et.al.|[2408.03281](http://arxiv.org/abs/2408.03281)|null|
+|**2024-08-06**|**Compress and Compare: Interactively Evaluating Efficiency and Behavior Across ML Model Compression Experiments**|Angie Boggust et.al.|[2408.03274](http://arxiv.org/abs/2408.03274)|null|
+|**2024-08-06**|**Synthesizing Text-to-SQL Data from Weak and Strong LLMs**|Jiaxi Yang et.al.|[2408.03256](http://arxiv.org/abs/2408.03256)|null|
+|**2024-08-06**|**Unveiling Factual Recall Behaviors of Large Language Models through Knowledge Neurons**|Yifei Wang et.al.|[2408.03247](http://arxiv.org/abs/2408.03247)|null|
+|**2024-08-06**|**Making Long-Context Language Models Better Multi-Hop Reasoners**|Yanyang Li et.al.|[2408.03246](http://arxiv.org/abs/2408.03246)|null|
+|**2024-08-06**|**Leveraging Parameter Efficient Training Methods for Low Resource Text Classification: A Case Study in Marathi**|Pranita Deshmukh et.al.|[2408.03172](http://arxiv.org/abs/2408.03172)|null|
+|**2024-08-06**|**Conditioning LLMs with Emotion in Neural Machine Translation**|Charles Brazier et.al.|[2408.03150](http://arxiv.org/abs/2408.03150)|null|
+|**2024-08-06**|**Leveraging Entity Information for Cross-Modality Correlation Learning: The Entity-Guided Multimodal Summarization**|Yanghai Zhang et.al.|[2408.03149](http://arxiv.org/abs/2408.03149)|null|
+|**2024-08-06**|**Inference Optimizations for Large Language Models: Effects, Challenges, and Practical Considerations**|Leo Donisch et.al.|[2408.03130](http://arxiv.org/abs/2408.03130)|null|
+|**2024-08-06**|**Lisbon Computational Linguists at SemEval-2024 Task 2: Using A Mistral 7B Model and Data Augmentation**|Artur Guimarães et.al.|[2408.03127](http://arxiv.org/abs/2408.03127)|null|
+|**2024-08-06**|**Evaluating the Translation Performance of Large Language Models Based on Euas-20**|Yan Huang et.al.|[2408.03119](http://arxiv.org/abs/2408.03119)|null|
+|**2024-08-06**|**Topic Modeling with Fine-tuning LLMs and Bag of Sentences**|Johannes Schneider et.al.|[2408.03099](http://arxiv.org/abs/2408.03099)|null|
+|**2024-08-06**|**TestART: Improving LLM-based Unit Test via Co-evolution of Automated Generation and Repair Iteration**|Siqi Gu et.al.|[2408.03095](http://arxiv.org/abs/2408.03095)|null|
+|**2024-08-06**|**500xCompressor: Generalized Prompt Compression for Large Language Models**|Zongqian Li et.al.|[2408.03094](http://arxiv.org/abs/2408.03094)|null|
+|**2024-08-06**|**Extend Model Merging from Fine-Tuned to Pre-Trained Large Language Models via Weight Disentanglement**|Le Yu et.al.|[2408.03092](http://arxiv.org/abs/2408.03092)|null|
 |**2024-08-05**|**Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**|Dongyang Liu et.al.|[2408.02657](http://arxiv.org/abs/2408.02657)|null|
 |**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
 |**2024-08-05**|**Command-line Obfuscation Detection using Small Language Models**|Vojtech Outrata et.al.|[2408.02637](http://arxiv.org/abs/2408.02637)|null|
@@ -2692,6 +2714,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-06**|**Adversarial Safety-Critical Scenario Generation using Naturalistic Human Driving Priors**|Kunkun Hao et.al.|[2408.03200](http://arxiv.org/abs/2408.03200)|null|
+|**2024-08-06**|**RELIEF: Reinforcement Learning Empowered Graph Feature Prompt Tuning**|Jiapeng Zhu et.al.|[2408.03195](http://arxiv.org/abs/2408.03195)|null|
+|**2024-08-06**|**Integrated Intention Prediction and Decision-Making with Spectrum Attention Net and Proximal Policy Optimization**|Xiao Zhou et.al.|[2408.03191](http://arxiv.org/abs/2408.03191)|null|
+|**2024-08-06**|**QADQN: Quantum Attention Deep Q-Network for Financial Market Prediction**|Siddhant Dutta et.al.|[2408.03088](http://arxiv.org/abs/2408.03088)|null|
+|**2024-08-06**|**Research on Autonomous Driving Decision-making Strategies based Deep Reinforcement Learning**|Zixiang Wang et.al.|[2408.03084](http://arxiv.org/abs/2408.03084)|null|
+|**2024-08-06**|**Considerations on free-surface detachment and bed entrainment of fluvial plastics**|Matthias Kramer et.al.|[2408.03081](http://arxiv.org/abs/2408.03081)|null|
+|**2024-08-06**|**SCOPE: A Synthetic Multi-Modal Dataset for Collective Perception Including Physical-Correct Weather Conditions**|Jörg Gamerdinger et.al.|[2408.03065](http://arxiv.org/abs/2408.03065)|null|
+|**2024-08-06**|**Social Behavior as a Key to Learning-based Multi-Agent Pathfinding Dilemmas**|Chengyang He et.al.|[2408.03063](http://arxiv.org/abs/2408.03063)|null|
+|**2024-08-06**|**Uniqueness Analysis of Controllability Scores and Their Application to Brain Networks**|Kazuhiro Sato et.al.|[2408.03023](http://arxiv.org/abs/2408.03023)|null|
+|**2024-08-06**|**Cross-cultural analysis of pedestrian group behaviour influence on crossing decisions in interactions with autonomous vehicles**|Sergio Martín Serrano et.al.|[2408.03003](http://arxiv.org/abs/2408.03003)|null|
+|**2024-08-06**|**Accuracy and Consistency of LLMs in the Registered Dietitian Exam: The Impact of Prompt Engineering and Knowledge Retrieval**|Iman Azimi et.al.|[2408.02964](http://arxiv.org/abs/2408.02964)|null|
+|**2024-08-06**|**Few-shot Scooping Under Domain Shift via Simulated Maximal Deployment Gaps**|Yifan Zhu et.al.|[2408.02949](http://arxiv.org/abs/2408.02949)|null|
+|**2024-08-06**|**Reinforcement Learning based Workflow Scheduling in Cloud and Edge Computing Environments: A Taxonomy, Review and Future Directions**|Amanda Jayanetti et.al.|[2408.02938](http://arxiv.org/abs/2408.02938)|null|
+|**2024-08-06**|**Compromising Embodied Agents with Contextual Backdoor Attacks**|Aishan Liu et.al.|[2408.02882](http://arxiv.org/abs/2408.02882)|null|
+|**2024-08-05**|**On The Stability of Moral Preferences: A Problem with Computational Elicitation Methods**|Kyle Boerstler et.al.|[2408.02862](http://arxiv.org/abs/2408.02862)|null|
+|**2024-08-05**|**Nash Equilibrium in Games on Graphs with Incomplete Preferences**|Abhishek N. Kulkarni et.al.|[2408.02860](http://arxiv.org/abs/2408.02860)|null|
+|**2024-08-05**|**SiCo: A Size-Controllable Virtual Try-On Approach for Informed Decision-Making**|Sherry X. Chen et.al.|[2408.02803](http://arxiv.org/abs/2408.02803)|null|
+|**2024-08-05**|**LLM economicus? Mapping the Behavioral Biases of LLMs via Utility Theory**|Jillian Ross et.al.|[2408.02784](http://arxiv.org/abs/2408.02784)|null|
+|**2024-08-05**|**Enhancing Medical Learning and Reasoning Systems: A Boxology-Based Comparative Analysis of Design Patterns**|Chi Him Ng et.al.|[2408.02709](http://arxiv.org/abs/2408.02709)|null|
 |**2024-08-05**|**From LLMs to LLM-based Agents for Software Engineering: A Survey of Current, Challenges and Future**|Haolin Jin et.al.|[2408.02479](http://arxiv.org/abs/2408.02479)|null|
 |**2024-08-05**|**An Integrated Approach to Importance Sampling and Machine Learning for Efficient Monte Carlo Estimation of Distortion Risk Measures in Black Box Models**|Sören Bettels et.al.|[2408.02401](http://arxiv.org/abs/2408.02401)|null|
 |**2024-08-05**|**Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts**|Andong Tan et.al.|[2408.02265](http://arxiv.org/abs/2408.02265)|null|
