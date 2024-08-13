@@ -1,4 +1,4 @@
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -24,11 +24,11 @@
 |**2024-08-03**|**Leveraging GNSS and Onboard Visual Data from Consumer Vehicles for Robust Road Network Estimation**|Balázs Opra et.al.|[2408.01640](http://arxiv.org/abs/2408.01640)|null|
 |**2024-08-02**|**Occasionally Observed Piecewise-deterministic Markov Processes**|Marissa Gee et.al.|[2408.01335](http://arxiv.org/abs/2408.01335)|null|
 |**2024-08-02**|**The Impact of Program Reduction on Automated Program Repair**|Linas Vidziunas et.al.|[2408.01134](http://arxiv.org/abs/2408.01134)|null|
-|**2024-08-01**|**Deep Learning Approach for Changepoint Detection: Penalty Parameter Optimization**|Tung L Nguyen et.al.|[2408.00856](http://arxiv.org/abs/2408.00856)|**[link](https://github.com/lamtung16/ML_ChangepointDetection)**|
+|**2024-08-11**|**Deep Learning Approach for Changepoint Detection: Penalty Parameter Optimization**|Tung L Nguyen et.al.|[2408.00856](http://arxiv.org/abs/2408.00856)|**[link](https://github.com/lamtung16/ML_ChangepointDetection)**|
 |**2024-07-31**|**Tractable and Provably Efficient Distributional Reinforcement Learning with General Value Function Approximation**|Taehyun Cho et.al.|[2407.21260](http://arxiv.org/abs/2407.21260)|null|
 |**2024-07-30**|**A Machine Learning Approach to Boost the Vehicle-2-Grid Scheduling**|Gabriele Agliardi et.al.|[2407.20802](http://arxiv.org/abs/2407.20802)|null|
 |**2024-07-30**|**Generalized replicator dynamics based on mean-field pairwise comparison dynamic**|Hidekazu Yoshioka et.al.|[2407.20751](http://arxiv.org/abs/2407.20751)|null|
-|**2024-07-30**|**A UAV-Enabled Time-Sensitive Data Collection Scheme for Grassland Monitoring Edge Networks**|Dongbin Jiao et.al.|[2407.20585](http://arxiv.org/abs/2407.20585)|null|
+|**2024-08-10**|**A UAV-Enabled Time-Sensitive Data Collection Scheme for Grassland Monitoring Edge Networks**|Dongbin Jiao et.al.|[2407.20585](http://arxiv.org/abs/2407.20585)|null|
 |**2024-07-29**|**A Differential Dynamic Programming Framework for Inverse Reinforcement Learning**|Kun Cao et.al.|[2407.19902](http://arxiv.org/abs/2407.19902)|null|
 |**2024-07-27**|**Map-Matching Queries under Fréchet Distance on Low-Density Spanners**|Kevin Buchin et.al.|[2407.19304](http://arxiv.org/abs/2407.19304)|null|
 |**2024-07-26**|**RRO: A Regularized Routing Optimization Algorithm for Enhanced Throughput and Low Latency with Efficient Complexity**|David Zenati et.al.|[2407.18683](http://arxiv.org/abs/2407.18683)|null|
@@ -273,7 +273,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -2782,7 +2782,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -2794,7 +2794,7 @@
 |**2024-08-09**|**Evaluating Layout Dimensionalities in PC+VR Asymmetric Collaborative Decision Making**|Daniel Enriquez et.al.|[2408.05105](http://arxiv.org/abs/2408.05105)|null|
 |**2024-08-09**|**DeepInteraction++: Multi-Modality Interaction for Autonomous Driving**|Zeyu Yang et.al.|[2408.05075](http://arxiv.org/abs/2408.05075)|**[link](https://github.com/fudan-zvg/deepinteraction)**|
 |**2024-08-09**|**Surgical-VQLA++: Adversarial Contrastive Learning for Calibrated Robust Visual Question-Localized Answering in Robotic Surgery**|Long Bai et.al.|[2408.04958](http://arxiv.org/abs/2408.04958)|**[link](https://github.com/longbai1006/surgical-vqlaplus)**|
-|**2024-08-09**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910](http://arxiv.org/abs/2408.04910)|**[link](https://github.com/TheOpenSI/cognitive_AI_experiments)**|
+|**2024-08-12**|**Unleashing Artificial Cognition: Integrating Multiple AI Systems**|Muntasir Adnan et.al.|[2408.04910](http://arxiv.org/abs/2408.04910)|**[link](https://github.com/TheOpenSI/cognitive_AI_experiments)**|
 |**2024-08-09**|**CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling**|Hongming Shen et.al.|[2408.04901](http://arxiv.org/abs/2408.04901)|null|
 |**2024-08-09**|**VLM-MPC: Vision Language Foundation Model (VLM)-Guided Model Predictive Controller (MPC) for Autonomous Driving**|Keke Long et.al.|[2408.04821](http://arxiv.org/abs/2408.04821)|null|
 |**2024-08-08**|**DaedalusData: Exploration, Knowledge Externalization and Labeling of Particles in Medical Manufacturing -- A Design Study**|Alexander Wyss et.al.|[2408.04749](http://arxiv.org/abs/2408.04749)|null|
@@ -4951,5 +4951,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240813>back to top</a>)</p>
 
