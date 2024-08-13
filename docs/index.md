@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-11**|**Moderate Exponential-time Quantum Dynamic Programming Across the Subsets for Scheduling Problems**|Camille Grange et.al.|[2408.05741](http://arxiv.org/abs/2408.05741)|null|
+|**2024-08-10**|**Convergence Guarantee of Dynamic Programming for LTL Surrogate Reward**|Zetong Xuan et.al.|[2408.05438](http://arxiv.org/abs/2408.05438)|null|
 |**2024-08-09**|**MIDI-to-Tab: Guitar Tablature Inference via Masked Language Modeling**|Drew Edwards et.al.|[2408.05024](http://arxiv.org/abs/2408.05024)|null|
 |**2024-08-09**|**A Comprehensive System Architecture using Field Programmable Gate Arrays Technology, Dijkstra's Algorithm, and Edge Computing for Emergency Response in Smart Cities**|Mahamat Abdel Aziz Assoul et.al.|[2408.04924](http://arxiv.org/abs/2408.04924)|null|
 |**2024-08-08**|**Mathematical Programming For Adaptive Experiments**|Ethan Che et.al.|[2408.04570](http://arxiv.org/abs/2408.04570)|null|
@@ -272,6 +274,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**FastFiD: Improve Inference Efficiency of Open Domain Question Answering via Sentence Selection**|Yufei Huang et.al.|[2408.06333](http://arxiv.org/abs/2408.06333)|**[link](https://github.com/thunlp/fastfid)**|
+|**2024-08-12**|**Animate, or Inanimate, That is the Question for Large Language Models**|Leonardo Ranaldi et.al.|[2408.06332](http://arxiv.org/abs/2408.06332)|null|
+|**2024-08-12**|**Can We Rely on LLM Agents to Draft Long-Horizon Plans? Let's Take TravelPlanner as an Example**|Yanan Chen et.al.|[2408.06318](http://arxiv.org/abs/2408.06318)|null|
+|**2024-08-12**|**Long-Form Answers to Visual Questions from Blind and Low Vision People**|Mina Huh et.al.|[2408.06303](http://arxiv.org/abs/2408.06303)|null|
+|**2024-08-12**|**The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery**|Chris Lu et.al.|[2408.06292](http://arxiv.org/abs/2408.06292)|**[link](https://github.com/sakanaai/ai-scientist)**|
+|**2024-08-12**|**MovieSum: An Abstractive Summarization Dataset for Movie Screenplays**|Rohit Saxena et.al.|[2408.06281](http://arxiv.org/abs/2408.06281)|**[link](https://github.com/saxenarohit/moviesum)**|
+|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
+|**2024-08-12**|**FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data**|Haoran Sun et.al.|[2408.06273](http://arxiv.org/abs/2408.06273)|null|
+|**2024-08-12**|**A RAG-Based Question-Answering Solution for Cyber-Attack Investigation and Attribution**|Sampath Rajapaksha et.al.|[2408.06272](http://arxiv.org/abs/2408.06272)|null|
+|**2024-08-12**|**Anchored Preference Optimization and Contrastive Revisions: Addressing Underspecification in Alignment**|Karel D'Oosterlinck et.al.|[2408.06266](http://arxiv.org/abs/2408.06266)|null|
+|**2024-08-12**|**Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning**|Yingjin Song et.al.|[2408.06259](http://arxiv.org/abs/2408.06259)|null|
+|**2024-08-12**|**On Effects of Steering Latent Representation for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2408.06223](http://arxiv.org/abs/2408.06223)|null|
+|**2024-08-12**|**Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers**|Zhenting Qi et.al.|[2408.06195](http://arxiv.org/abs/2408.06195)|null|
+|**2024-08-12**|**FruitNeRF: A Unified Neural Radiance Field based Fruit Counting Framework**|Lukas Meyer et.al.|[2408.06190](http://arxiv.org/abs/2408.06190)|**[link](https://github.com/meyerls/fruitnerf)**|
+|**2024-08-12**|**Improving Structural Diversity of Blackbox LLMs via Chain-of-Specification Prompting**|Halley Young et.al.|[2408.06186](http://arxiv.org/abs/2408.06186)|null|
+|**2024-08-12**|**OmniCLIP: Adapting CLIP for Video Recognition with Spatial-Temporal Omni-Scale Feature Learning**|Mushui Liu et.al.|[2408.06158](http://arxiv.org/abs/2408.06158)|null|
+|**2024-08-12**|**LipidBERT: A Lipid Language Model Pre-trained on METiS de novo Lipid Library**|Tianhao Yu et.al.|[2408.06150](http://arxiv.org/abs/2408.06150)|null|
+|**2024-08-12**|**Self-Supervised Learning on MeerKAT Wide-Field Continuum Images**|Erica Lastufka et.al.|[2408.06147](http://arxiv.org/abs/2408.06147)|null|
+|**2024-08-12**|**Med42-v2: A Suite of Clinical LLMs**|Clément Christophe et.al.|[2408.06142](http://arxiv.org/abs/2408.06142)|null|
+|**2024-08-12**|**Utilize Transformers for translating Wikipedia category names**|Hoang-Thang Ta et.al.|[2408.06124](http://arxiv.org/abs/2408.06124)|null|
 |**2024-08-10**|**Preserving Privacy in Large Language Models: A Survey on Current Threats and Solutions**|Michele Miranda et.al.|[2408.05212](http://arxiv.org/abs/2408.05212)|null|
 |**2024-08-09**|**VITA: Towards Open-Source Interactive Omni Multimodal LLM**|Chaoyou Fu et.al.|[2408.05211](http://arxiv.org/abs/2408.05211)|null|
 |**2024-08-09**|**Evaluating the capability of large language models to personalize science texts for diverse middle-school-age learners**|Michael Vaccaro Jr et.al.|[2408.05204](http://arxiv.org/abs/2408.05204)|null|
@@ -2779,6 +2801,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-12**|**Finding Patterns in Ambiguity: Interpretable Stress Testing in the Decision~Boundary**|Inês Gomes et.al.|[2408.06302](http://arxiv.org/abs/2408.06302)|**[link](https://github.com/inesgomes/db-patterns)**|
+|**2024-08-12**|**A Digital Twin Framework Utilizing Machine Learning for Robust Predictive Maintenance: Enhancing Tire Health Monitoring**|Vispi Karkaria et.al.|[2408.06220](http://arxiv.org/abs/2408.06220)|null|
+|**2024-08-12**|**IIT Bombay Racing Driverless: Autonomous Driving Stack for Formula Student AI**|Yash Rampuria et.al.|[2408.06113](http://arxiv.org/abs/2408.06113)|null|
+|**2024-08-12**|**Building Decision Making Models Through Language Model Regime**|Yu Zhang et.al.|[2408.06087](http://arxiv.org/abs/2408.06087)|null|
+|**2024-08-12**|**Sequential sampling without comparison to boundary through model-free reinforcement learning**|Jamal Esmaily et.al.|[2408.06080](http://arxiv.org/abs/2408.06080)|null|
+|**2024-08-12**|**A-BDD: Leveraging Data Augmentations for Safe Autonomous Driving in Adverse Weather and Lighting**|Felix Assion et.al.|[2408.06071](http://arxiv.org/abs/2408.06071)|null|
+|**2024-08-12**|**Perceptual Similarity for Measuring Decision-Making Style and Policy Diversity in Games**|Chiu-Chou Lin et.al.|[2408.06051](http://arxiv.org/abs/2408.06051)|**[link](https://github.com/DSobscure/cgi_drl_platform)**|
+|**2024-08-12**|**Exploring and Learning Structure: Active Inference Approach in Navigational Agents**|Daria de Tinguy et.al.|[2408.05982](http://arxiv.org/abs/2408.05982)|null|
+|**2024-08-12**|**Match Point AI: A Novel AI Framework for Evaluating Data-Driven Tennis Strategies**|Carlo Nübel et.al.|[2408.05960](http://arxiv.org/abs/2408.05960)|null|
+|**2024-08-12**|**Statistically Optimal Uncertainty Quantification for Expensive Black-Box Models**|Shengyi He et.al.|[2408.05887](http://arxiv.org/abs/2408.05887)|null|
+|**2024-08-12**|**Multi-Agent Deep Reinforcement Learning Framework for Wireless MAC Protocol Design and Optimization**|Navid Keshtiarast et.al.|[2408.05884](http://arxiv.org/abs/2408.05884)|null|
+|**2024-08-12**|**Toward Pedestrian Head Tracking: A Benchmark Dataset and an Information Fusion Network**|Kailai Sun et.al.|[2408.05877](http://arxiv.org/abs/2408.05877)|null|
+|**2024-08-11**|**Root Cause Attribution of Delivery Risks via Causal Discovery with Reinforcement Learning**|Shi Bo et.al.|[2408.05860](http://arxiv.org/abs/2408.05860)|null|
+|**2024-08-11**|**Egocentric Vision Language Planning**|Zhirui Fang et.al.|[2408.05802](http://arxiv.org/abs/2408.05802)|null|
+|**2024-08-11**|**Parallel Distributional Deep Reinforcement Learning for Mapless Navigation of Terrestrial Mobile Robots**|Victor Augusto Kich et.al.|[2408.05744](http://arxiv.org/abs/2408.05744)|null|
+|**2024-08-11**|**ICSFuzz: Collision Detector Bug Discovery in Autonomous Driving Simulators**|Weiwei Fu et.al.|[2408.05694](http://arxiv.org/abs/2408.05694)|null|
+|**2024-08-10**|**Residual-INR: Communication Efficient On-Device Learning Using Implicit Neural Representation**|Hanqiu Chen et.al.|[2408.05617](http://arxiv.org/abs/2408.05617)|null|
+|**2024-08-10**|**Meta Clustering of Neural Bandits**|Yikun Ban et.al.|[2408.05586](http://arxiv.org/abs/2408.05586)|null|
+|**2024-08-10**|**What Matters in Autonomous Driving Anomaly Detection: A Weakly Supervised Horizon**|Utkarsh Tiwari et.al.|[2408.05562](http://arxiv.org/abs/2408.05562)|**[link](https://github.com/ut21/wsad-driving)**|
+|**2024-08-10**|**S-SIRUS: an explainability algorithm for spatial regression Random Forest**|Luca Patelli et.al.|[2408.05537](http://arxiv.org/abs/2408.05537)|null|
 |**2024-08-09**|**Modeling Transit in a Fully Integrated Agent-Based Framework: Methodology and Large-Scale Application**|Omer Verbas et.al.|[2408.05176](http://arxiv.org/abs/2408.05176)|null|
 |**2024-08-09**|**Cautious Calibration in Binary Classification**|Mari-Liis Allikivi et.al.|[2408.05120](http://arxiv.org/abs/2408.05120)|null|
 |**2024-08-09**|**Depth Helps: Improving Pre-trained RGB-based Policy with Depth Information Injection**|Xincheng Pang et.al.|[2408.05107](http://arxiv.org/abs/2408.05107)|null|
