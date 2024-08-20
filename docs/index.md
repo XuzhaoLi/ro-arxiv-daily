@@ -7,6 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Efficient Exploration in Deep Reinforcement Learning: A Novel Bayesian Actor-Critic Algorithm**|Nikolai Rozanov et.al.|[2408.10055](http://arxiv.org/abs/2408.10055)|null|
+|**2024-08-19**|**Continuous-Time Dynamic Decision Making with Costly Information**|Christoph Knochenhauer et.al.|[2408.09693](http://arxiv.org/abs/2408.09693)|null|
+|**2024-08-19**|**Solving stochastic climate-economy models: A deep least-squares Monte Carlo approach**|Aleksandar Arandjelović et.al.|[2408.09642](http://arxiv.org/abs/2408.09642)|null|
+|**2024-08-18**|**Exploratory Optimal Stopping: A Singular Control Formulation**|Jodi Dianetti et.al.|[2408.09335](http://arxiv.org/abs/2408.09335)|null|
+|**2024-08-17**|**Optimal Strip Attitude Command of Earth Observation Satellite using Differential Dynamic Programming**|Seungyeop Han et.al.|[2408.09244](http://arxiv.org/abs/2408.09244)|null|
+|**2024-08-17**|**Twin Sorting Dynamic Programming Assisted User Association and Wireless Bandwidth Allocation for Hierarchical Federated Learning**|Rung-Hung Gau et.al.|[2408.09076](http://arxiv.org/abs/2408.09076)|null|
+|**2024-08-17**|**Atlas: Hierarchical Partitioning for Quantum Circuit Simulation on GPUs (Extended Version)**|Mingkuan Xu et.al.|[2408.09055](http://arxiv.org/abs/2408.09055)|null|
 |**2024-08-15**|**Optimal control problems with generalized mean-field dynamics and viscosity solution to Master Bellman equation**|Rainer Buckdahn et.al.|[2408.08046](http://arxiv.org/abs/2408.08046)|null|
 |**2024-08-14**|**Differentiating Policies for Non-Myopic Bayesian Optimization**|Darian Nwankwo et.al.|[2408.07812](http://arxiv.org/abs/2408.07812)|null|
 |**2024-08-11**|**Moderate Exponential-time Quantum Dynamic Programming Across the Subsets for Scheduling Problems**|Camille Grange et.al.|[2408.05741](http://arxiv.org/abs/2408.05741)|null|
@@ -276,6 +283,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
+|**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
+|**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
+|**2024-08-19**|**LongVILA: Scaling Long-Context Visual Language Models for Long Videos**|Fuzhao Xue et.al.|[2408.10188](http://arxiv.org/abs/2408.10188)|**[link](https://github.com/nvlabs/vila)**|
+|**2024-08-19**|**SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models**|Anke Tang et.al.|[2408.10174](http://arxiv.org/abs/2408.10174)|**[link](https://github.com/tanganke/fusion_bench)**|
+|**2024-08-19**|**Customizing Language Models with Instance-wise LoRA for Sequential Recommendation**|Xiaoyu Kong et.al.|[2408.10159](http://arxiv.org/abs/2408.10159)|null|
+|**2024-08-19**|**Multilingual Needle in a Haystack: Investigating Long-Context Behavior of Multilingual Large Language Models**|Amey Hengle et.al.|[2408.10151](http://arxiv.org/abs/2408.10151)|null|
+|**2024-08-19**|**In-Context Learning with Representations: Contextual Generalization of Trained Transformers**|Tong Yang et.al.|[2408.10147](http://arxiv.org/abs/2408.10147)|null|
+|**2024-08-19**|**Instruction Finetuning for Leaderboard Generation from Empirical AI Research**|Salomon Kabongo et.al.|[2408.10141](http://arxiv.org/abs/2408.10141)|null|
+|**2024-08-19**|**Rhyme-aware Chinese lyric generator based on GPT**|Yixiao Yuan et.al.|[2408.10130](http://arxiv.org/abs/2408.10130)|null|
+|**2024-08-19**|**Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track**|Feiyu Pan et.al.|[2408.10125](http://arxiv.org/abs/2408.10125)|null|
+|**2024-08-19**|**Molecular Graph Representation Learning Integrating Large Language Models with Domain-specific Small Models**|Tianyu Zhang et.al.|[2408.10124](http://arxiv.org/abs/2408.10124)|**[link](https://github.com/zhangtia16/molgraph-lardo)**|
+|**2024-08-19**|**Geometry Informed Tokenization of Molecules for Language Model Generation**|Xiner Li et.al.|[2408.10120](http://arxiv.org/abs/2408.10120)|null|
+|**2024-08-19**|**GLIMMER: Incorporating Graph and Lexical Features in Unsupervised Multi-Document Summarization**|Ran Liu et.al.|[2408.10115](http://arxiv.org/abs/2408.10115)|**[link](https://github.com/oswald1997/glimmer)**|
+|**2024-08-19**|**PLUTUS: A Well Pre-trained Large Unified Transformer can Unveil Financial Time Series Regularities**|Yuanjian Xu et.al.|[2408.10111](http://arxiv.org/abs/2408.10111)|null|
+|**2024-08-19**|**ARMADA: Attribute-Based Multimodal Data Augmentation**|Xiaomeng Jin et.al.|[2408.10086](http://arxiv.org/abs/2408.10086)|null|
+|**2024-08-19**|**Personalizing Reinforcement Learning from Human Feedback with Variational Preference Learning**|Sriyash Poddar et.al.|[2408.10075](http://arxiv.org/abs/2408.10075)|null|
+|**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
+|**2024-08-19**|**Privacy Checklist: Privacy Violation Detection Grounding on Contextual Integrity Theory**|Haoran Li et.al.|[2408.10053](http://arxiv.org/abs/2408.10053)|null|
+|**2024-08-19**|**Defense Priorities in the Open-Source AI Debate: A Preliminary Assessment**|Masao Dahlgren et.al.|[2408.10026](http://arxiv.org/abs/2408.10026)|null|
 |**2024-08-16**|**SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation**|Xinyu Xiong et.al.|[2408.08870](http://arxiv.org/abs/2408.08870)|**[link](https://github.com/wzh0120/sam2-unet)**|
 |**2024-08-16**|**PEDAL: Enhancing Greedy Decoding with Large Language Models using Diverse Exemplars**|Sumanth Prabhu et.al.|[2408.08869](http://arxiv.org/abs/2408.08869)|null|
 |**2024-08-16**|**A Hassle-free Algorithm for Private Learning in Practice: Don't Use Tree Aggregation, Use BLTs**|H. Brendan McMahan et.al.|[2408.08868](http://arxiv.org/abs/2408.08868)|null|
@@ -2883,6 +2910,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
+|**2024-08-19**|**Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**|Jiao Chen et.al.|[2408.09972](http://arxiv.org/abs/2408.09972)|null|
+|**2024-08-19**|**Control by Adding Players to Change or Maintain the Shapley-Shubik or the Penrose-Banzhaf Power Index in Weighted Voting Games Is Complete for NP^PP**|Joanna Kaczmarek et.al.|[2408.09953](http://arxiv.org/abs/2408.09953)|null|
+|**2024-08-19**|**Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving**|Jun Yan et.al.|[2408.09839](http://arxiv.org/abs/2408.09839)|**[link](https://github.com/momo1986/robust_sam_iv)**|
+|**2024-08-19**|**Automated Vehicle Driver Monitoring Dataset from Real-World Scenarios**|Mohamed Sabry et.al.|[2408.09833](http://arxiv.org/abs/2408.09833)|null|
+|**2024-08-19**|**GoNoGo: An Efficient LLM-based Multi-Agent System for Streamlining Automotive Software Release Decision-Making**|Arsham Gholamzadeh Khoee et.al.|[2408.09785](http://arxiv.org/abs/2408.09785)|null|
+|**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727](http://arxiv.org/abs/2408.09727)|null|
+|**2024-08-19**|**Optimal Replenishment Strategy for Satellite Constellation with Dual Supply Modes**|Taehyun Sung et.al.|[2408.09696](http://arxiv.org/abs/2408.09696)|null|
+|**2024-08-19**|**Continuous-Time Dynamic Decision Making with Costly Information**|Christoph Knochenhauer et.al.|[2408.09693](http://arxiv.org/abs/2408.09693)|null|
+|**2024-08-19**|**Multi-Agent Reinforcement Learning for Autonomous Driving: A Survey**|Ruiqi Zhang et.al.|[2408.09675](http://arxiv.org/abs/2408.09675)|**[link](https://github.com/huawei-noah/SMARTS)**|
+|**2024-08-19**|**BLADE: Benchmarking Language Model Agents for Data-Driven Science**|Ken Gu et.al.|[2408.09667](http://arxiv.org/abs/2408.09667)|null|
+|**2024-08-19**|**Contextual Bandits for Unbounded Context Distributions**|Puning Zhao et.al.|[2408.09655](http://arxiv.org/abs/2408.09655)|null|
+|**2024-08-18**|**Experimental Design For Causal Inference Through An Optimization Lens**|Jinglong Zhao et.al.|[2408.09607](http://arxiv.org/abs/2408.09607)|null|
+|**2024-08-18**|**Prescribed-time Convergent Distributed Multiobjective Optimization with Dynamic Event-triggered Communication**|Tengyang Gong et.al.|[2408.09602](http://arxiv.org/abs/2408.09602)|null|
+|**2024-08-18**|**Sample-Optimal Large-Scale Optimal Subset Selection**|Zaile Li et.al.|[2408.09537](http://arxiv.org/abs/2408.09537)|null|
+|**2024-08-18**|**Towards Safe and Robust Autonomous Vehicle Platooning: A Self-Organizing Cooperative Control Framework**|Chengkai Xu et.al.|[2408.09468](http://arxiv.org/abs/2408.09468)|null|
+|**2024-08-18**|**In-Memory Learning Automata Architecture using Y-Flash Cell**|Omar Ghazal et.al.|[2408.09456](http://arxiv.org/abs/2408.09456)|null|
+|**2024-08-18**|**Retina-inspired Object Motion Segmentation**|Victoria Clerico et.al.|[2408.09454](http://arxiv.org/abs/2408.09454)|null|
+|**2024-08-18**|**OVOSE: Open-Vocabulary Semantic Segmentation in Event-Based Cameras**|Muhammad Rameez Ur Rahman et.al.|[2408.09424](http://arxiv.org/abs/2408.09424)|**[link](https://github.com/ram95d/ovose)**|
+|**2024-08-18**|**Value-Enriched Population Synthesis: Integrating a Motivational Layer**|Alba Aguilera et.al.|[2408.09407](http://arxiv.org/abs/2408.09407)|null|
 |**2024-08-16**|**Visual Agents as Fast and Slow Thinkers**|Guangyan Sun et.al.|[2408.08862](http://arxiv.org/abs/2408.08862)|null|
 |**2024-08-16**|**HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis**|Zhi-Bo Liu et.al.|[2408.08847](http://arxiv.org/abs/2408.08847)|**[link](https://github.com/xjtuai/histogym)**|
 |**2024-08-16**|**Shapley Marginal Surplus for Strong Models**|Daniel de Marchi et.al.|[2408.08845](http://arxiv.org/abs/2408.08845)|null|
