@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Fault Tolerant Dynamic Task Assignment for UAV-based Search Teams**|Ali Nasir et.al.|[2408.10564](http://arxiv.org/abs/2408.10564)|null|
 |**2024-08-19**|**Efficient Exploration in Deep Reinforcement Learning: A Novel Bayesian Actor-Critic Algorithm**|Nikolai Rozanov et.al.|[2408.10055](http://arxiv.org/abs/2408.10055)|null|
 |**2024-08-19**|**Continuous-Time Dynamic Decision Making with Costly Information**|Christoph Knochenhauer et.al.|[2408.09693](http://arxiv.org/abs/2408.09693)|null|
 |**2024-08-19**|**Solving stochastic climate-economy models: A deep least-squares Monte Carlo approach**|Aleksandar Arandjelović et.al.|[2408.09642](http://arxiv.org/abs/2408.09642)|null|
@@ -290,6 +291,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
+|**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
+|**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|null|
+|**2024-08-20**|**MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding**|Jian Chen et.al.|[2408.11049](http://arxiv.org/abs/2408.11049)|null|
+|**2024-08-20**|**Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders**|Yuan Xin et.al.|[2408.11046](http://arxiv.org/abs/2408.11046)|null|
+|**2024-08-20**|**Reconciling Methodological Paradigms: Employing Large Language Models as Novice Qualitative Research Assistants in Talent Management Research**|Sreyoshi Bhaduri et.al.|[2408.11043](http://arxiv.org/abs/2408.11043)|null|
+|**2024-08-20**|**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**|Chunting Zhou et.al.|[2408.11039](http://arxiv.org/abs/2408.11039)|null|
+|**2024-08-20**|**Scaling Law with Learning Rate Annealing**|Howe Tissue et.al.|[2408.11029](http://arxiv.org/abs/2408.11029)|null|
+|**2024-08-20**|**Athena: Safe Autonomous Agents with Verbal Contrastive Learning**|Tanmana Sadhu et.al.|[2408.11021](http://arxiv.org/abs/2408.11021)|null|
+|**2024-08-20**|**While GitHub Copilot Excels at Coding, Does It Ensure Responsible Output?**|Wen Cheng et.al.|[2408.11006](http://arxiv.org/abs/2408.11006)|**[link](https://github.com/sensente/security-attacks-on-lccts)**|
+|**2024-08-20**|**SenPa-MAE: Sensor Parameter Aware Masked Autoencoder for Multi-Satellite Self-Supervised Pretraining**|Jonathan Prexl et.al.|[2408.11000](http://arxiv.org/abs/2408.11000)|null|
+|**2024-08-20**|**CTP-LLM: Clinical Trial Phase Transition Prediction Using Large Language Models**|Michael Reinisch et.al.|[2408.10995](http://arxiv.org/abs/2408.10995)|null|
+|**2024-08-20**|**Dr.Academy: A Benchmark for Evaluating Questioning Capability in Education for Large Language Models**|Yuyan Chen et.al.|[2408.10947](http://arxiv.org/abs/2408.10947)|null|
+|**2024-08-20**|**Large Language Model Driven Recommendation**|Anton Korikov et.al.|[2408.10946](http://arxiv.org/abs/2408.10946)|null|
+|**2024-08-20**|**HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**|Kazi Hasan Ibn Arif et.al.|[2408.10945](http://arxiv.org/abs/2408.10945)|**[link](https://github.com/hasanar1f/hired)**|
+|**2024-08-20**|**SysBench: Can Large Language Models Follow System Messages?**|Yanzhao Qin et.al.|[2408.10943](http://arxiv.org/abs/2408.10943)|**[link](https://github.com/pku-baichuan-mlsystemlab/sysbench)**|
+|**2024-08-20**|**Proxona: Leveraging LLM-Driven Personas to Enhance Creators' Understanding of Their Audience**|Yoonseo Choi et.al.|[2408.10937](http://arxiv.org/abs/2408.10937)|null|
+|**2024-08-20**|**LBC: Language-Based-Classifier for Out-Of-Variable Generalization**|Kangjun Noh et.al.|[2408.10923](http://arxiv.org/abs/2408.10923)|**[link](https://github.com/asdasdanonymous/language-based-classifier-foroovtasks)**|
+|**2024-08-20**|**BEYOND DIALOGUE: A Profile-Dialogue Alignment Framework Towards General Role-Playing Language Model**|Yeyong Yu et.al.|[2408.10903](http://arxiv.org/abs/2408.10903)|null|
+|**2024-08-20**|**Soda-Eval: Open-Domain Dialogue Evaluation in the age of LLMs**|John Mendonça et.al.|[2408.10902](http://arxiv.org/abs/2408.10902)|null|
 |**2024-08-19**|**SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP**|Yusuke Hirota et.al.|[2408.10202](http://arxiv.org/abs/2408.10202)|null|
 |**2024-08-19**|**Demystifying the Communication Characteristics for Distributed Transformer Models**|Quentin Anthony et.al.|[2408.10197](http://arxiv.org/abs/2408.10197)|null|
 |**2024-08-19**|**Transformers to SSMs: Distilling Quadratic Knowledge to Subquadratic Models**|Aviv Bick et.al.|[2408.10189](http://arxiv.org/abs/2408.10189)|null|
@@ -2919,6 +2940,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**ISLES'24: Improving final infarct prediction in ischemic stroke using multimodal imaging and clinical data**|Ezequiel de la Rosa et.al.|[2408.10966](http://arxiv.org/abs/2408.10966)|null|
+|**2024-08-20**|**Conformalized Interval Arithmetic with Symmetric Calibration**|Rui Luo et.al.|[2408.10939](http://arxiv.org/abs/2408.10939)|null|
+|**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[2408.10908](http://arxiv.org/abs/2408.10908)|null|
+|**2024-08-20**|**Leveraging LLMs for the Quality Assurance of Software Requirements**|Sebastian Lubos et.al.|[2408.10886](http://arxiv.org/abs/2408.10886)|null|
+|**2024-08-20**|**Open 3D World in Autonomous Driving**|Xinlong Cheng et.al.|[2408.10880](http://arxiv.org/abs/2408.10880)|null|
+|**2024-08-20**|**Multi-agent based modeling for investigating excess heat utilization from electrolyzer production to district heating network**|Kristoffer Christensen et.al.|[2408.10783](http://arxiv.org/abs/2408.10783)|null|
+|**2024-08-20**|**Classification of Endoscopy and Video Capsule Images using CNN-Transformer Model**|Aliza Subedi et.al.|[2408.10733](http://arxiv.org/abs/2408.10733)|null|
+|**2024-08-20**|**Towards reliable real-time trajectory optimization**|Fatemeh Rastgar et.al.|[2408.10731](http://arxiv.org/abs/2408.10731)|null|
+|**2024-08-20**|**On NVD Users' Attitudes, Experiences, Hopes and Hurdles**|Julia Wunder et.al.|[2408.10695](http://arxiv.org/abs/2408.10695)|null|
+|**2024-08-20**|**Privacy-preserving Universal Adversarial Defense for Black-box Models**|Qiao Li et.al.|[2408.10647](http://arxiv.org/abs/2408.10647)|null|
+|**2024-08-20**|**Finding the DeepDream for Time Series: Activation Maximization for Univariate Time Series**|Udo Schlegel et.al.|[2408.10628](http://arxiv.org/abs/2408.10628)|null|
+|**2024-08-20**|**Safety Metric Aware Trajectory Repairing for Automated Driving**|Kailin Tong et.al.|[2408.10622](http://arxiv.org/abs/2408.10622)|null|
+|**2024-08-20**|**MV-MOS: Multi-View Feature Fusion for 3D Moving Object Segmentation**|Jintao Cheng et.al.|[2408.10602](http://arxiv.org/abs/2408.10602)|null|
+|**2024-08-20**|**Constrained Behavior Cloning for Robotic Learning**|Wensheng Liang et.al.|[2408.10568](http://arxiv.org/abs/2408.10568)|null|
+|**2024-08-20**|**Leveraging Temporal Contexts to Enhance Vehicle-Infrastructure Cooperative Perception**|Jiaru Zhong et.al.|[2408.10531](http://arxiv.org/abs/2408.10531)|null|
+|**2024-08-20**|**Approximate Estimation of High-dimension Execution Skill for Dynamic Agents in Continuous Domains**|Delma Nieves-Rivera et.al.|[2408.10512](http://arxiv.org/abs/2408.10512)|null|
+|**2024-08-20**|**An End-to-End Reinforcement Learning Based Approach for Micro-View Order-Dispatching in Ride-Hailing**|Xinlang Yue et.al.|[2408.10479](http://arxiv.org/abs/2408.10479)|null|
+|**2024-08-19**|**System-Level Design Space Exploration for High-Level Synthesis under End-to-End Latency Constraints**|Yuchao Liao et.al.|[2408.10431](http://arxiv.org/abs/2408.10431)|null|
+|**2024-08-19**|**Real-Time Digital Twin Platform: A Case Study on Core Network Selection in Aeronautical Ad-Hoc Networks**|Lal Verda Cakir et.al.|[2408.10409](http://arxiv.org/abs/2408.10409)|null|
+|**2024-08-19**|**Tax Credits and Household Behavior: The Roles of Myopic Decision-Making and Liquidity in a Simulated Economy**|Jialin Dong et.al.|[2408.10391](http://arxiv.org/abs/2408.10391)|null|
 |**2024-08-19**|**FFAA: Multimodal Large Language Model based Explainable Open-World Face Forgery Analysis Assistant**|Zhengchao Huang et.al.|[2408.10072](http://arxiv.org/abs/2408.10072)|null|
 |**2024-08-19**|**Edge-Cloud Collaborative Motion Planning for Autonomous Driving with Large Language Models**|Jiao Chen et.al.|[2408.09972](http://arxiv.org/abs/2408.09972)|null|
 |**2024-08-19**|**Control by Adding Players to Change or Maintain the Shapley-Shubik or the Penrose-Banzhaf Power Index in Weighted Voting Games Is Complete for NP^PP**|Joanna Kaczmarek et.al.|[2408.09953](http://arxiv.org/abs/2408.09953)|null|
