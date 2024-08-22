@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-20**|**Optimal Guarantees for Online Selection Over Time**|Sebastian Perez-Salazar et.al.|[2408.11224](http://arxiv.org/abs/2408.11224)|null|
 |**2024-08-20**|**Fault Tolerant Dynamic Task Assignment for UAV-based Search Teams**|Ali Nasir et.al.|[2408.10564](http://arxiv.org/abs/2408.10564)|null|
 |**2024-08-19**|**Efficient Exploration in Deep Reinforcement Learning: A Novel Bayesian Actor-Critic Algorithm**|Nikolai Rozanov et.al.|[2408.10055](http://arxiv.org/abs/2408.10055)|null|
 |**2024-08-19**|**Continuous-Time Dynamic Decision Making with Costly Information**|Christoph Knochenhauer et.al.|[2408.09693](http://arxiv.org/abs/2408.09693)|null|
@@ -291,6 +292,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$ NN-LMs**|Shangyi Geng et.al.|[2408.11815](http://arxiv.org/abs/2408.11815)|**[link](https://github.com/gsyfate/knnlm-limits)**|
+|**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
+|**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
+|**2024-08-21**|**Approaching Deep Learning through the Spectral Dynamics of Weights**|David Yunis et.al.|[2408.11804](http://arxiv.org/abs/2408.11804)|**[link](https://github.com/dyunis/spectral_dynamics)**|
+|**2024-08-21**|**Story3D-Agent: Exploring 3D Storytelling Visualization with Large Language Models**|Yuzhou Huang et.al.|[2408.11801](http://arxiv.org/abs/2408.11801)|null|
+|**2024-08-21**|**PermitQA: A Benchmark for Retrieval Augmented Generation in Wind Siting and Permitting domain**|Rounak Meyur et.al.|[2408.11800](http://arxiv.org/abs/2408.11800)|null|
+|**2024-08-21**|**Practical token pruning for foundation models in few-shot conversational virtual assistant systems**|Haode Qi et.al.|[2408.11799](http://arxiv.org/abs/2408.11799)|null|
+|**2024-08-21**|**EE-MLLM: A Data-Efficient and Compute-Efficient Multimodal Large Language Model**|Feipeng Ma et.al.|[2408.11795](http://arxiv.org/abs/2408.11795)|null|
+|**2024-08-21**|**Leveraging Chemistry Foundation Models to Facilitate Structure Focused Retrieval Augmented Generation in Multi-Agent Workflows for Catalyst and Materials Design**|Nathaniel H. Park et.al.|[2408.11793](http://arxiv.org/abs/2408.11793)|null|
+|**2024-08-21**|**Critique-out-Loud Reward Models**|Zachary Ankner et.al.|[2408.11791](http://arxiv.org/abs/2408.11791)|**[link](https://github.com/zankner/cloud)**|
+|**2024-08-21**|**DreamFactory: Pioneering Multi-Scene Long Video Generation with a Multi-Agent Framework**|Zhifei Xie et.al.|[2408.11788](http://arxiv.org/abs/2408.11788)|null|
+|**2024-08-21**|**Personality Alignment of Large Language Models**|Minjun Zhu et.al.|[2408.11779](http://arxiv.org/abs/2408.11779)|**[link](https://github.com/zhu-minjun/palign)**|
+|**2024-08-21**|**Leveraging Fine-Tuned Retrieval-Augmented Generation with Long-Context Support: For 3GPP Standards**|Omar Erak et.al.|[2408.11775](http://arxiv.org/abs/2408.11775)|**[link](https://github.com/Nouf-Alabbasi/oKUmura_AI_Telecom_challenge)**|
+|**2024-08-21**|**Against All Odds: Overcoming Typology, Script, and Language Confusion in Multilingual Embedding Inversion Attacks**|Yiyi Chen et.al.|[2408.11749](http://arxiv.org/abs/2408.11749)|null|
+|**2024-08-21**|**DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models**|Shehreen Azad et.al.|[2408.11748](http://arxiv.org/abs/2408.11748)|null|
+|**2024-08-21**|**Open-Ended 3D Point Cloud Instance Segmentation**|Phuc D. A. Nguyen et.al.|[2408.11747](http://arxiv.org/abs/2408.11747)|null|
+|**2024-08-21**|**Mixed Sparsity Training: Achieving 4 $\times$ FLOP Reduction for Transformer Pretraining**|Pihe Hu et.al.|[2408.11746](http://arxiv.org/abs/2408.11746)|null|
+|**2024-08-21**|**FocusLLM: Scaling LLM's Context by Parallel Decoding**|Zhenyu Li et.al.|[2408.11745](http://arxiv.org/abs/2408.11745)|null|
+|**2024-08-21**|**MARLIN: Mixed-Precision Auto-Regressive Parallel Inference on Large Language Models**|Elias Frantar et.al.|[2408.11743](http://arxiv.org/abs/2408.11743)|null|
+|**2024-08-21**|**CluMo: Cluster-based Modality Fusion Prompt for Continual Learning in Visual Question Answering**|Yuliang Cai et.al.|[2408.11742](http://arxiv.org/abs/2408.11742)|null|
 |**2024-08-20**|**Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement**|Satoshi Kosugi et.al.|[2408.11055](http://arxiv.org/abs/2408.11055)|**[link](https://github.com/satoshi-kosugi/pg-ia-nilut)**|
 |**2024-08-20**|**Revisiting VerilogEval: Newer LLMs, In-Context Learning, and Specification-to-RTL Tasks**|Nathaniel Pinckney et.al.|[2408.11053](http://arxiv.org/abs/2408.11053)|null|
 |**2024-08-20**|**FLAME: Learning to Navigate with Multimodal LLM in Urban Environments**|Yunzhe Xu et.al.|[2408.11051](http://arxiv.org/abs/2408.11051)|**[link](https://github.com/xyz9911/FLAME)**|
@@ -2940,6 +2961,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Decoding Pedestrian Stress on Urban Streets using Electrodermal Activity Monitoring in Virtual Immersive Reality**|Mohsen Nazemi et.al.|[2408.11769](http://arxiv.org/abs/2408.11769)|null|
+|**2024-08-21**|**Less is more: AI Decision-Making using Dynamic Deep Neural Networks for Short-Term Stock Index Prediction**|CJ Finnegan et.al.|[2408.11740](http://arxiv.org/abs/2408.11740)|null|
+|**2024-08-21**|**Explainable Deep Learning Framework for Human Activity Recognition**|Yiran Huang et.al.|[2408.11552](http://arxiv.org/abs/2408.11552)|null|
+|**2024-08-21**|**MambaOcc: Visual State Space Model for BEV-based Occupancy Prediction with Local Adaptive Reordering**|Yonglin Tian et.al.|[2408.11464](http://arxiv.org/abs/2408.11464)|null|
+|**2024-08-21**|**Probabilistic Medical Predictions of Large Language Models**|Bowen Gu et.al.|[2408.11316](http://arxiv.org/abs/2408.11316)|null|
+|**2024-08-21**|**Counterfactuals As a Means for Evaluating Faithfulness of Attribution Methods in Autoregressive Language Models**|Sepehr Kamahi et.al.|[2408.11252](http://arxiv.org/abs/2408.11252)|null|
+|**2024-08-20**|**Optimal Guarantees for Online Selection Over Time**|Sebastian Perez-Salazar et.al.|[2408.11224](http://arxiv.org/abs/2408.11224)|null|
+|**2024-08-20**|**Statistical Challenges with Dataset Construction: Why You Will Never Have Enough Images**|Josh Goldman et.al.|[2408.11160](http://arxiv.org/abs/2408.11160)|null|
+|**2024-08-20**|**Experimentation, deployment and monitoring Machine Learning models: Approaches for applying MLOps**|Diego Nogare et.al.|[2408.11112](http://arxiv.org/abs/2408.11112)|null|
 |**2024-08-20**|**ISLES'24: Improving final infarct prediction in ischemic stroke using multimodal imaging and clinical data**|Ezequiel de la Rosa et.al.|[2408.10966](http://arxiv.org/abs/2408.10966)|null|
 |**2024-08-20**|**Conformalized Interval Arithmetic with Symmetric Calibration**|Rui Luo et.al.|[2408.10939](http://arxiv.org/abs/2408.10939)|null|
 |**2024-08-20**|**Enhancing End-to-End Autonomous Driving Systems Through Synchronized Human Behavior Data**|Yiqun Duan et.al.|[2408.10908](http://arxiv.org/abs/2408.10908)|null|
