@@ -285,6 +285,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Controllable Text Generation for Large Language Models: A Survey**|Xun Liang et.al.|[2408.12599](http://arxiv.org/abs/2408.12599)|**[link](https://github.com/iaar-shanghai/ctgsurvey)**|
+|**2024-08-22**|**Non-Homophilic Graph Pre-Training and Prompt Learning**|Xingtong Yu et.al.|[2408.12594](http://arxiv.org/abs/2408.12594)|null|
+|**2024-08-22**|**RuleAlign: Making Large Language Models Better Physicians with Diagnostic Rule Alignment**|Xiaohan Wang et.al.|[2408.12579](http://arxiv.org/abs/2408.12579)|null|
+|**2024-08-22**|**MuMA-ToM: Multi-modal Multi-Agent Theory of Mind**|Haojun Shi et.al.|[2408.12574](http://arxiv.org/abs/2408.12574)|null|
+|**2024-08-22**|**Jamba-1.5: Hybrid Transformer-Mamba Models at Scale**|Jamba Team et.al.|[2408.12570](http://arxiv.org/abs/2408.12570)|null|
+|**2024-08-22**|**ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation**|Lujia Zhong et.al.|[2408.12561](http://arxiv.org/abs/2408.12561)|**[link](https://github.com/lujiazho/ssprop)**|
+|**2024-08-22**|**Towards Evaluating and Building Versatile Large Language Models for Medicine**|Chaoyi Wu et.al.|[2408.12547](http://arxiv.org/abs/2408.12547)|**[link](https://github.com/magic-ai4med/meds-ins)**|
+|**2024-08-22**|**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**|Jinheng Xie et.al.|[2408.12528](http://arxiv.org/abs/2408.12528)|**[link](https://github.com/showlab/show-o)**|
+|**2024-08-22**|**MEDCO: Medical Education Copilots Based on A Multi-Agent Framework**|Hao Wei et.al.|[2408.12496](http://arxiv.org/abs/2408.12496)|null|
+|**2024-08-22**|**GenderCARE: A Comprehensive Framework for Assessing and Reducing Gender Bias in Large Language Models**|Kunsheng Tang et.al.|[2408.12494](http://arxiv.org/abs/2408.12494)|**[link](https://github.com/kstanghere/gendercare-ccs24)**|
+|**2024-08-22**|**Vintern-1B: An Efficient Multimodal Large Language Model for Vietnamese**|Khang T. Doan et.al.|[2408.12480](http://arxiv.org/abs/2408.12480)|null|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
+|**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
+|**2024-08-22**|**Envisioning Class Entity Reasoning by Large Language Models for Few-shot Learning**|Mushui Liu et.al.|[2408.12469](http://arxiv.org/abs/2408.12469)|null|
+|**2024-08-22**|**Enhancing Multi-hop Reasoning through Knowledge Erasure in Large Language Model Editing**|Mengqi Zhang et.al.|[2408.12456](http://arxiv.org/abs/2408.12456)|null|
+|**2024-08-22**|**Positional Description for Numerical Normalization**|Deepanshu Gupta et.al.|[2408.12430](http://arxiv.org/abs/2408.12430)|null|
+|**2024-08-22**|**FlexEdit: Marrying Free-Shape Masks to VLLM for Flexible Image Editing**|Jue Wang et.al.|[2408.12429](http://arxiv.org/abs/2408.12429)|**[link](https://github.com/a-new-b/flex_edit)**|
+|**2024-08-22**|**Enhanced Infield Agriculture with Interpretable Machine Learning Approaches for Crop Classification**|Sudi Murindanyi et.al.|[2408.12426](http://arxiv.org/abs/2408.12426)|null|
+|**2024-08-22**|**Unlearning Trojans in Large Language Models: A Comparison Between Natural Language and Source Code**|Mahdi Kazemi et.al.|[2408.12416](http://arxiv.org/abs/2408.12416)|null|
+|**2024-08-22**|**Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes**|Sota Kato et.al.|[2408.12406](http://arxiv.org/abs/2408.12406)|**[link](https://github.com/usagisukisuki/g-sam)**|
 |**2024-08-21**|**Great Memory, Shallow Reasoning: Limits of $k$ NN-LMs**|Shangyi Geng et.al.|[2408.11815](http://arxiv.org/abs/2408.11815)|**[link](https://github.com/gsyfate/knnlm-limits)**|
 |**2024-08-21**|**SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs**|Yuanyang Yin et.al.|[2408.11813](http://arxiv.org/abs/2408.11813)|null|
 |**2024-08-21**|**EmbodiedSAM: Online Segment Any 3D Thing in Real Time**|Xiuwei Xu et.al.|[2408.11811](http://arxiv.org/abs/2408.11811)|null|
@@ -2952,6 +2972,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**The Importance of Cognitive Biases in the Recommendation Ecosystem**|Markus Schedl et.al.|[2408.12492](http://arxiv.org/abs/2408.12492)|null|
+|**2024-08-22**|**Frame Order Matters: A Temporal Sequence-Aware Model for Few-Shot Action Recognition**|Bozheng Li et.al.|[2408.12475](http://arxiv.org/abs/2408.12475)|null|
+|**2024-08-22**|**Multi-Knowledge Fusion Network for Time Series Representation Learning**|Sagar Srinivas Sakhinana et.al.|[2408.12423](http://arxiv.org/abs/2408.12423)|null|
+|**2024-08-22**|**Advancing Strategic Planning and Dynamic Control of Complex Projects**|L. G. Teuber et.al.|[2408.12422](http://arxiv.org/abs/2408.12422)|null|
+|**2024-08-22**|**Multi-Source Knowledge-Based Hybrid Neural Framework for Time Series Representation Learning**|Sagar Srinivas Sakhinana et.al.|[2408.12409](http://arxiv.org/abs/2408.12409)|null|
+|**2024-08-22**|**Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations**|Apoorva Karagappa et.al.|[2408.12365](http://arxiv.org/abs/2408.12365)|null|
+|**2024-08-22**|**Graph Retrieval Augmented Trustworthiness Reasoning**|Ying Zhu et.al.|[2408.12333](http://arxiv.org/abs/2408.12333)|**[link](https://github.com/EvoNexusX/Graph-Retrieval-Augmented-Trustworthiness-Reasoning)**|
+|**2024-08-22**|**Multimodal Foundational Models for Unsupervised 3D General Obstacle Detection**|Tamás Matuszka et.al.|[2408.12322](http://arxiv.org/abs/2408.12322)|null|
+|**2024-08-22**|**A Safety-Oriented Self-Learning Algorithm for Autonomous Driving: Evolution Starting from a Basic Model**|Shuo Yang et.al.|[2408.12190](http://arxiv.org/abs/2408.12190)|null|
+|**2024-08-22**|**A Safe and Efficient Self-evolving Algorithm for Decision-making and Control of Autonomous Driving Systems**|Shuo Yang et.al.|[2408.12187](http://arxiv.org/abs/2408.12187)|null|
+|**2024-08-22**|**DRExplainer: Quantifiable Interpretability in Drug Response Prediction with Directed Graph Convolutional Network**|Haoyuan Shi et.al.|[2408.12139](http://arxiv.org/abs/2408.12139)|**[link](https://github.com/vshy-dream/drexplainer)**|
+|**2024-08-22**|**Pareto Inverse Reinforcement Learning for Diverse Expert Policy Generation**|Woo Kyung Kim et.al.|[2408.12110](http://arxiv.org/abs/2408.12110)|null|
+|**2024-08-22**|**Enhancing Sampling Protocol for Robust Point Cloud Classification**|Chongshou Li et.al.|[2408.12062](http://arxiv.org/abs/2408.12062)|null|
+|**2024-08-21**|**Reasoning and Tools for Human-Level Forecasting**|Elvis Hsieh et.al.|[2408.12036](http://arxiv.org/abs/2408.12036)|null|
+|**2024-08-21**|**Let Community Rules Be Reflected in Online Content Moderation**|Wangjiaxuan Xin et.al.|[2408.12035](http://arxiv.org/abs/2408.12035)|null|
+|**2024-08-21**|**Sentiment and Emotion-aware Multi-criteria Fuzzy Group Decision Making System**|Adilet Yerkin et.al.|[2408.11976](http://arxiv.org/abs/2408.11976)|null|
+|**2024-08-21**|**Valuing an Engagement Surface using a Large Scale Dynamic Causal Model**|Abhimanyu Mukerji et.al.|[2408.11967](http://arxiv.org/abs/2408.11967)|null|
+|**2024-08-21**|**Decoding SEC Actions: Enforcement Trends through Analyzing Blockchain litigation using LLM-based Thematic Factor Mapping**|Junliang Luo et.al.|[2408.11961](http://arxiv.org/abs/2408.11961)|null|
 |**2024-08-21**|**Decoding Pedestrian Stress on Urban Streets using Electrodermal Activity Monitoring in Virtual Immersive Reality**|Mohsen Nazemi et.al.|[2408.11769](http://arxiv.org/abs/2408.11769)|null|
 |**2024-08-21**|**Less is more: AI Decision-Making using Dynamic Deep Neural Networks for Short-Term Stock Index Prediction**|CJ Finnegan et.al.|[2408.11740](http://arxiv.org/abs/2408.11740)|null|
 |**2024-08-21**|**Explainable Deep Learning Framework for Human Activity Recognition**|Yiran Huang et.al.|[2408.11552](http://arxiv.org/abs/2408.11552)|null|
