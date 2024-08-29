@@ -297,6 +297,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders**|Min Shi et.al.|[2408.15998](http://arxiv.org/abs/2408.15998)|**[link](https://github.com/nvlabs/eagle)**|
+|**2024-08-28**|**Spatio-Temporal Context Prompting for Zero-Shot Action Detection**|Wei-Jhe Huang et.al.|[2408.15996](http://arxiv.org/abs/2408.15996)|null|
+|**2024-08-28**|**Perceive-IR: Learning to Perceive Degradation Better for All-in-One Image Restoration**|Xu Zhang et.al.|[2408.15994](http://arxiv.org/abs/2408.15994)|null|
+|**2024-08-28**|**BattleAgentBench: A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems**|Wei Wang et.al.|[2408.15971](http://arxiv.org/abs/2408.15971)|null|
+|**2024-08-28**|**More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding**|Yuan Tang et.al.|[2408.15966](http://arxiv.org/abs/2408.15966)|null|
+|**2024-08-28**|**Atari-GPT: Investigating the Capabilities of Multimodal Large Language Models as Low-Level Policies for Atari Games**|Nicholas R. Waytowich et.al.|[2408.15950](http://arxiv.org/abs/2408.15950)|null|
+|**2024-08-28**|**DeMoBot: Deformable Mobile Manipulation with Vision-based Sub-goal Retrieval**|Yuying Zhang et.al.|[2408.15919](http://arxiv.org/abs/2408.15919)|null|
+|**2024-08-28**|**Leveraging Open Knowledge for Advancing Task Expertise in Large Language Models**|Yuncheng Yang et.al.|[2408.15915](http://arxiv.org/abs/2408.15915)|null|
+|**2024-08-28**|**Decentralized LLM Inference over Edge Networks with Energy Harvesting**|Aria Khoshsirat et.al.|[2408.15907](http://arxiv.org/abs/2408.15907)|null|
+|**2024-08-28**|**LLM-Based Multi-Hop Question Answering with Knowledge Graph Integration in Evolving Environments**|Ruirui Chen et.al.|[2408.15903](http://arxiv.org/abs/2408.15903)|null|
+|**2024-08-28**|**Nexus: Specialization meets Adaptability for Efficiently Training Mixture of Experts**|Nikolas Gritsch et.al.|[2408.15901](http://arxiv.org/abs/2408.15901)|null|
+|**2024-08-28**|**Bias in LLMs as Annotators: The Effect of Party Cues on Labelling Decision by Large Language Models**|Sebastian Vallejo Vera et.al.|[2408.15895](http://arxiv.org/abs/2408.15895)|null|
+|**2024-08-28**|**LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation**|Fangxun Shu et.al.|[2408.15881](http://arxiv.org/abs/2408.15881)|null|
+|**2024-08-28**|**Persuasion Games using Large Language Models**|Ganesh Prasath Ramani et.al.|[2408.15879](http://arxiv.org/abs/2408.15879)|null|
+|**2024-08-28**|**Retrieval-Augmented Instruction Tuning for Automated Process Engineering Calculations : A Tool-Chaining Problem-Solving Framework with Attributable Reflection**|Sagar Srinivas Sakhinana et.al.|[2408.15866](http://arxiv.org/abs/2408.15866)|null|
+|**2024-08-28**|**Benchmarking foundation models as feature extractors for weakly-supervised computational pathology**|Peter Neidlinger et.al.|[2408.15823](http://arxiv.org/abs/2408.15823)|null|
+|**2024-08-28**|**Visual Prompt Engineering for Medical Vision Language Models in Radiology**|Stefan Denner et.al.|[2408.15802](http://arxiv.org/abs/2408.15802)|null|
+|**2024-08-28**|**Scaling Up Summarization: Leveraging Large Language Models for Long Text Extractive Summarization**|Léo Hemamou et.al.|[2408.15801](http://arxiv.org/abs/2408.15801)|null|
+|**2024-08-28**|**Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models**|Hédi Zhegidi et.al.|[2408.15796](http://arxiv.org/abs/2408.15796)|**[link](https://github.com/geode-project/ner-llm)**|
+|**2024-08-28**|**Efficient LLM Scheduling by Learning to Rank**|Yichao Fu et.al.|[2408.15792](http://arxiv.org/abs/2408.15792)|null|
 |**2024-08-27**|**Generative Verifiers: Reward Modeling as Next-Token Prediction**|Lunjun Zhang et.al.|[2408.15240](http://arxiv.org/abs/2408.15240)|null|
 |**2024-08-27**|**The Mamba in the Llama: Distilling and Accelerating Hybrid Models**|Junxiong Wang et.al.|[2408.15237](http://arxiv.org/abs/2408.15237)|**[link](https://github.com/jxiw/mambainllama)**|
 |**2024-08-27**|**Into the Unknown Unknowns: Engaged Human Learning through Participation in Language Model Agent Conversations**|Yucheng Jiang et.al.|[2408.15232](http://arxiv.org/abs/2408.15232)|null|
@@ -3046,6 +3066,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**WebPilot: A Versatile and Autonomous Multi-Agent System for Web Task Execution with Strategic Exploration**|Yao Zhang et.al.|[2408.15978](http://arxiv.org/abs/2408.15978)|null|
+|**2024-08-28**|**SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension**|Miguel Arturo Vega Torres et.al.|[2408.15948](http://arxiv.org/abs/2408.15948)|**[link](https://github.com/MigVega/SLAM2REF)**|
+|**2024-08-28**|**GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model**|Yongjie Fu et.al.|[2408.15868](http://arxiv.org/abs/2408.15868)|null|
+|**2024-08-28**|**FlowAct: A Proactive Multimodal Human-robot Interaction System with Continuous Flow of Perception and Modular Action Sub-systems**|Timothée Dhaussy et.al.|[2408.15864](http://arxiv.org/abs/2408.15864)|null|
+|**2024-08-28**|**Network transferability of adversarial patches in real-time object detection**|Jens Bayer et.al.|[2408.15833](http://arxiv.org/abs/2408.15833)|**[link](https://github.com/JensBayer/transferability)**|
+|**2024-08-28**|**Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing**|Kenneth Stewart et.al.|[2408.15800](http://arxiv.org/abs/2408.15800)|**[link](https://github.com/nmi-lab/snn_maml)**|
+|**2024-08-28**|**LogicGame: Benchmarking Rule-Based Reasoning Abilities of Large Language Models**|Jiayi Gui et.al.|[2408.15778](http://arxiv.org/abs/2408.15778)|null|
+|**2024-08-28**|**Str-L Pose: Integrating Point and Structured Line for Relative Pose Estimation in Dual-Graph**|Zherong Zhang et.al.|[2408.15750](http://arxiv.org/abs/2408.15750)|null|
+|**2024-08-28**|**Comparing diversity, negativity, and stereotypes in Chinese-language AI technologies: a case study on Baidu, Ernie and Qwen**|Geng Liu et.al.|[2408.15696](http://arxiv.org/abs/2408.15696)|null|
+|**2024-08-28**|**TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation**|Junbao Zhou et.al.|[2408.15657](http://arxiv.org/abs/2408.15657)|**[link](https://github.com/junbao-zhou/track-no-forgetting)**|
+|**2024-08-28**|**Correlation-Adjusted Simultaneous Testing for Ultra High-dimensional Grouped Data**|Iris Ivy Gauran et.al.|[2408.15623](http://arxiv.org/abs/2408.15623)|null|
+|**2024-08-28**|**Latent Relationship Mining of Glaucoma Biomarkers: a TRI-LSTM based Deep Learning**|Cheng Huang et.al.|[2408.15555](http://arxiv.org/abs/2408.15555)|null|
+|**2024-08-28**|**Trustworthy and Responsible AI for Human-Centric Autonomous Decision-Making Systems**|Farzaneh Dehghani et.al.|[2408.15550](http://arxiv.org/abs/2408.15550)|null|
+|**2024-08-28**|**RoboSense: Large-scale Dataset and Benchmark for Multi-sensor Low-speed Autonomous Driving**|Haisheng Su et.al.|[2408.15503](http://arxiv.org/abs/2408.15503)|null|
+|**2024-08-28**|**MODULI: Unlocking Preference Generalization via Diffusion Models for Offline Multi-Objective Reinforcement Learning**|Yifu Yuan et.al.|[2408.15501](http://arxiv.org/abs/2408.15501)|null|
+|**2024-08-28**|**PersonalizedUS: Interpretable Breast Cancer Risk Assessment with Local Coverage Uncertainty Quantification**|Alek Fröhlich et.al.|[2408.15458](http://arxiv.org/abs/2408.15458)|null|
+|**2024-08-27**|**Understanding GNNs for Boolean Satisfiability through Approximation Algorithms**|Jan Hůla et.al.|[2408.15418](http://arxiv.org/abs/2408.15418)|null|
+|**2024-08-27**|**Panoptic Perception for Autonomous Driving: A Survey**|Yunge Li et.al.|[2408.15388](http://arxiv.org/abs/2408.15388)|null|
 |**2024-08-27**|**Drone-assisted Road Gaussian Splatting with Cross-view Uncertainty**|Saining Zhang et.al.|[2408.15242](http://arxiv.org/abs/2408.15242)|**[link](https://github.com/sainingzhang/uc-gs)**|
 |**2024-08-27**|**Learning-based Multi-View Stereo: A Survey**|Fangjinhua Wang et.al.|[2408.15235](http://arxiv.org/abs/2408.15235)|null|
 |**2024-08-27**|**Using LLMs for Explaining Sets of Counterfactual Examples to Final Users**|Arturo Fredes et.al.|[2408.15133](http://arxiv.org/abs/2408.15133)|null|
