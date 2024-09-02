@@ -1,4 +1,4 @@
-## Updated on 2024.09.01
+## Updated on 2024.09.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -292,7 +292,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -306,7 +306,7 @@
 |**2024-08-29**|**Theoretical and Methodological Framework for Studying Texts Produced by Large Language Models**|Jiří Milička et.al.|[2408.16740](http://arxiv.org/abs/2408.16740)|null|
 |**2024-08-29**|**Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling**|Hritik Bansal et.al.|[2408.16737](http://arxiv.org/abs/2408.16737)|null|
 |**2024-08-29**|**VideoLLM-MoD: Efficient Video-Language Streaming with Mixture-of-Depths Vision Computation**|Shiwei Wu et.al.|[2408.16730](http://arxiv.org/abs/2408.16730)|null|
-|**2024-08-29**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|null|
+|**2024-08-30**|**Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming**|Zhifei Xie et.al.|[2408.16725](http://arxiv.org/abs/2408.16725)|**[link](https://github.com/gpt-omni/mini-omni)**|
 |**2024-08-29**|**GradBias: Unveiling Word Influence on Bias in Text-to-Image Generative Models**|Moreno D'Incà et.al.|[2408.16700](http://arxiv.org/abs/2408.16700)|**[link](https://github.com/moreno98/gradbias)**|
 |**2024-08-29**|**Entropic Distribution Matching in Supervised Fine-tuning of LLMs: Less Overfitting and Better Diversity**|Ziniu Li et.al.|[2408.16673](http://arxiv.org/abs/2408.16673)|null|
 |**2024-08-29**|**Space3D-Bench: Spatial 3D Question Answering Benchmark**|Emilia Szymanska et.al.|[2408.16662](http://arxiv.org/abs/2408.16662)|null|
@@ -3081,7 +3081,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5479,5 +5479,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240901>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240902>back to top</a>)</p>
 
