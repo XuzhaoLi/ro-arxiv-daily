@@ -7,6 +7,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**Revenue Management with Calendar-Aware and Dependent Demands: Asymptotically Tight Fluid Approximations**|Weiyuan Li et.al.|[2409.02637](http://arxiv.org/abs/2409.02637)|null|
+|**2024-09-03**|**FuzzCoder: Byte-level Fuzzing Test via Large Language Model**|Liqun Yang et.al.|[2409.01944](http://arxiv.org/abs/2409.01944)|null|
+|**2024-09-03**|**Quantum Algorithms for One-Sided Crossing Minimization**|Susanna Caroppo et.al.|[2409.01942](http://arxiv.org/abs/2409.01942)|null|
+|**2024-09-02**|**Solving Integrated Process Planning and Scheduling Problem via Graph Neural Network Based Deep Reinforcement Learning**|Hongpei Li et.al.|[2409.00968](http://arxiv.org/abs/2409.00968)|null|
+|**2024-09-02**|**Multistage Robust Average Randomized Spectral Risk Optimization**|Qiong Wu et.al.|[2409.00892](http://arxiv.org/abs/2409.00892)|null|
+|**2024-09-01**|**An Optimized Binning and Probabilistic Slice Sharing Algorithm for Motion Correction in Abdominal DW-MRI**|Michelle Su et.al.|[2409.00798](http://arxiv.org/abs/2409.00798)|null|
+|**2024-09-01**|**Cooperative Path Planning with Asynchronous Multiagent Reinforcement Learning**|Jiaming Yin et.al.|[2409.00754](http://arxiv.org/abs/2409.00754)|null|
+|**2024-09-01**|**The landscape of deterministic and stochastic optimal control problems: One-shot Optimization versus Dynamic Programming**|Jihun Kim et.al.|[2409.00655](http://arxiv.org/abs/2409.00655)|null|
+|**2024-08-31**|**Foundations of Multivariate Distributional Reinforcement Learning**|Harley Wiltzer et.al.|[2409.00328](http://arxiv.org/abs/2409.00328)|null|
 |**2024-08-30**|**Approximation Algorithms for Anchored Multiwatchman Routes**|Joseph S. B. Mitchell et.al.|[2408.17343](http://arxiv.org/abs/2408.17343)|null|
 |**2024-08-30**|**Stationary Policies are Optimal in Risk-averse Total-reward MDPs with EVaR**|Xihong Su et.al.|[2408.17286](http://arxiv.org/abs/2408.17286)|null|
 |**2024-08-30**|**A Two-Timescale Decision-Hazard-Decision Formulation for Storage Usage Values Calculation**|Camila Martinez Parra et.al.|[2408.17113](http://arxiv.org/abs/2408.17113)|null|
@@ -294,6 +303,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version)**|Yao Mu et.al.|[2409.02920](http://arxiv.org/abs/2409.02920)|null|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling**|Kaiwen Zheng et.al.|[2409.02908](http://arxiv.org/abs/2409.02908)|null|
+|**2024-09-04**|**LongCite: Enabling LLMs to Generate Fine-grained Citations in Long-context QA**|jiajie Zhang et.al.|[2409.02897](http://arxiv.org/abs/2409.02897)|null|
+|**2024-09-04**|**LongLLaVA: Scaling Multi-modal LLMs to 1000 Images Efficiently via Hybrid Architecture**|Xidong Wang et.al.|[2409.02889](http://arxiv.org/abs/2409.02889)|**[link](https://github.com/freedomintelligence/longllava)**|
+|**2024-09-04**|**CanvOI, an Oncology Intelligence Foundation Model: Scaling FLOPS Differently**|Jonathan Zalach et.al.|[2409.02885](http://arxiv.org/abs/2409.02885)|null|
+|**2024-09-04**|**Benchmarking Spurious Bias in Few-Shot Image Classifiers**|Guangtao Zheng et.al.|[2409.02882](http://arxiv.org/abs/2409.02882)|**[link](https://github.com/gtzheng/fewstab)**|
+|**2024-09-04**|**Configurable Foundation Models: Building LLMs from a Modular Perspective**|Chaojun Xiao et.al.|[2409.02877](http://arxiv.org/abs/2409.02877)|null|
+|**2024-09-04**|**Historical German Text Normalization Using Type- and Token-Based Language Modeling**|Anton Ehrmanntraut et.al.|[2409.02841](http://arxiv.org/abs/2409.02841)|null|
+|**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836](http://arxiv.org/abs/2409.02836)|null|
+|**2024-09-04**|**CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models**|Wentao Liu et.al.|[2409.02834](http://arxiv.org/abs/2409.02834)|null|
+|**2024-09-04**|**ExpLLM: Towards Chain of Thought for Facial Expression Recognition**|Xing Lan et.al.|[2409.02828](http://arxiv.org/abs/2409.02828)|null|
+|**2024-09-04**|**Design Contradictions: Help or Hindrance?**|Aron E. Owen et.al.|[2409.02823](http://arxiv.org/abs/2409.02823)|null|
+|**2024-09-04**|**Language Understanding as a Constraint on Consensus Size in LLM Societies**|Giordano De Marzo et.al.|[2409.02822](http://arxiv.org/abs/2409.02822)|null|
+|**2024-09-04**|**Towards a Unified View of Preference Learning for Large Language Models: A Survey**|Bofei Gao et.al.|[2409.02795](http://arxiv.org/abs/2409.02795)|null|
+|**2024-09-04**|**Pooling And Attention: What Are Effective Designs For LLm-Based Embedding Models?**|Yixuan Tang et.al.|[2409.02727](http://arxiv.org/abs/2409.02727)|**[link](https://github.com/yixuantt/poolingandattn)**|
+|**2024-09-04**|**Pre-training data selection for biomedical domain adaptation using journal impact metrics**|Mathieu Laï-king et.al.|[2409.02725](http://arxiv.org/abs/2409.02725)|null|
+|**2024-09-04**|**Alignment-Aware Model Extraction Attacks on Large Language Models**|Zi Liang et.al.|[2409.02718](http://arxiv.org/abs/2409.02718)|null|
+|**2024-09-04**|**Creating a Gen-AI based Track and Trace Assistant MVP (SuperTracy) for PostNL**|Mohammad Reshadati et.al.|[2409.02711](http://arxiv.org/abs/2409.02711)|null|
+|**2024-09-04**|**LLM-Assisted Visual Analytics: Opportunities and Challenges**|Maeve Hutchinson et.al.|[2409.02691](http://arxiv.org/abs/2409.02691)|null|
 |**2024-08-30**|**SYNTHEVAL: Hybrid Behavioral Testing of NLP Models with Synthetic CheckLists**|Raoyuan Zhao et.al.|[2408.17437](http://arxiv.org/abs/2408.17437)|**[link](https://github.com/loreley99/syntheval_checklist)**|
 |**2024-08-30**|**DARES: Depth Anything in Robotic Endoscopic Surgery with Self-supervised Vector-LoRA of the Foundation Model**|Mona Sheikh Zeinoddin et.al.|[2408.17433](http://arxiv.org/abs/2408.17433)|null|
 |**2024-08-30**|**Advancing Multi-talker ASR Performance with Large Language Models**|Mohan Shi et.al.|[2408.17431](http://arxiv.org/abs/2408.17431)|null|
@@ -3101,6 +3130,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-04**|**UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views**|Jiaxin Guo et.al.|[2409.02917](http://arxiv.org/abs/2409.02917)|**[link](https://github.com/wrld/uc-nerf)**|
+|**2024-09-04**|**Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving**|Yuhang Lu et.al.|[2409.02914](http://arxiv.org/abs/2409.02914)|null|
+|**2024-09-04**|**Exploring Sentiment Dynamics and Predictive Behaviors in Cryptocurrency Discussions by Few-Shot Learning with Large Language Models**|Moein Shahiki Tash et.al.|[2409.02836](http://arxiv.org/abs/2409.02836)|null|
+|**2024-09-04**|**Towards Edge-Based Data Lake Architecture for Intelligent Transportation System**|Danilo Fernandes et.al.|[2409.02808](http://arxiv.org/abs/2409.02808)|null|
+|**2024-09-04**|**Beyond Nash Equilibrium: Achieving Bayesian Perfect Equilibrium with Belief Update Fictitious Play**|Qi Ju et.al.|[2409.02706](http://arxiv.org/abs/2409.02706)|null|
+|**2024-09-04**|**Decision Transformer for Enhancing Neural Local Search on the Job Shop Scheduling Problem**|Constantin Waubert de Puiseau et.al.|[2409.02697](http://arxiv.org/abs/2409.02697)|null|
+|**2024-09-04**|**The Role of Artificial Intelligence and Machine Learning in Software Testing**|Ahmed Ramadan et.al.|[2409.02693](http://arxiv.org/abs/2409.02693)|null|
+|**2024-09-04**|**Improved Single Camera BEV Perception Using Multi-Camera Training**|Daniel Busch et.al.|[2409.02676](http://arxiv.org/abs/2409.02676)|null|
+|**2024-09-04**|**PUB: Plot Understanding Benchmark and Dataset for Evaluating Large Language Models on Synthetic Visual Data Interpretation**|Aneta Pawelec et.al.|[2409.02617](http://arxiv.org/abs/2409.02617)|null|
+|**2024-09-04**|**AlignGroup: Learning and Aligning Group Consensus with Member Preferences for Group Recommendation**|Jinfeng Xu et.al.|[2409.02580](http://arxiv.org/abs/2409.02580)|null|
+|**2024-09-04**|**Assembling the Puzzle: Exploring Collaboration and Data Sensemaking in Nursing Practices for Remote Patient Monitoring**|Mihnea Calota et.al.|[2409.02579](http://arxiv.org/abs/2409.02579)|null|
+|**2024-09-04**|**How Do You Perceive My Face? Recognizing Facial Expressions in Multi-Modal Context by Modeling Mental Representations**|Florian Blume et.al.|[2409.02566](http://arxiv.org/abs/2409.02566)|null|
+|**2024-09-04**|**Want a Ride? Attitudes Towards Autonomous Driving and Behavior in Autonomous Vehicles**|Enrico Del Re et.al.|[2409.02556](http://arxiv.org/abs/2409.02556)|null|
+|**2024-09-04**|**A Sequential Decision-Making Model for Perimeter Identification**|Ayal Taitler et.al.|[2409.02549](http://arxiv.org/abs/2409.02549)|null|
+|**2024-09-04**|**A Joint Time and Energy-Efficient Federated Learning-based Computation Offloading Method for Mobile Edge Computing**|Anwesha Mukherjee et.al.|[2409.02548](http://arxiv.org/abs/2409.02548)|null|
+|**2024-09-04**|**Cog-GA: A Large Language Models-based Generative Agent for Vision-Language Navigation in Continuous Environments**|Zhiyuan Li et.al.|[2409.02522](http://arxiv.org/abs/2409.02522)|null|
+|**2024-09-04**|**TLD: A Vehicle Tail Light signal Dataset and Benchmark**|Jinhao Chai et.al.|[2409.02508](http://arxiv.org/abs/2409.02508)|null|
+|**2024-09-04**|**eRSS-RAMP: A Rule-Adherence Motion Planner Based on Extended Responsibility-Sensitive Safety for Autonomous Driving**|Pengfei Lin et.al.|[2409.02503](http://arxiv.org/abs/2409.02503)|null|
+|**2024-09-04**|**A Learnable Color Correction Matrix for RAW Reconstruction**|Anqi Liu et.al.|[2409.02497](http://arxiv.org/abs/2409.02497)|null|
+|**2024-09-04**|**TASAR: Transferable Attack on Skeletal Action Recognition**|Yunfeng Diao et.al.|[2409.02483](http://arxiv.org/abs/2409.02483)|null|
 |**2024-08-30**|**Dual-criterion Dose Finding Designs Based on Dose-Limiting Toxicity and Tolerability**|Yunlong Yang et.al.|[2408.17392](http://arxiv.org/abs/2408.17392)|null|
 |**2024-08-30**|**Structuring a Training Strategy to Robustify Perception Models with Realistic Image Augmentations**|Ahmed Hammam et.al.|[2408.17311](http://arxiv.org/abs/2408.17311)|null|
 |**2024-08-30**|**An Integer Linear Programming Model for Earth Observation Missions**|Vincenzo Basco et.al.|[2408.17288](http://arxiv.org/abs/2408.17288)|null|
