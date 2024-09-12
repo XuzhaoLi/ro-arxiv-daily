@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Design of Threshold-Constrained Indirect Quantizers**|Ariel Doubchak et.al.|[2409.06839](http://arxiv.org/abs/2409.06839)|null|
 |**2024-09-10**|**Cooptimizing Safety and Performance with a Control-Constrained Formulation**|Hao Wang et.al.|[2409.06696](http://arxiv.org/abs/2409.06696)|null|
 |**2024-09-11**|**Valuation Model of Chinese Convertible Bonds Based on Monte Carlo Simulation**|Yu Liu et.al.|[2409.06496](http://arxiv.org/abs/2409.06496)|null|
 |**2024-09-09**|**OTFS-MDMA: An Elastic Multi-Domain Resource Utilization Mechanism for High Mobility Scenarios**|Jie Chen et.al.|[2409.05724](http://arxiv.org/abs/2409.05724)|null|
@@ -320,6 +321,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**"My Grade is Wrong!": A Contestable AI Framework for Interactive Feedback in Evaluating Student Essays**|Shengxin Hong et.al.|[2409.07453](http://arxiv.org/abs/2409.07453)|null|
+|**2024-09-11**|**StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos**|Sijie Zhao et.al.|[2409.07447](http://arxiv.org/abs/2409.07447)|null|
+|**2024-09-11**|**SUPER: Evaluating Agents on Setting Up and Executing Tasks from Research Repositories**|Ben Bogin et.al.|[2409.07440](http://arxiv.org/abs/2409.07440)|**[link](https://github.com/allenai/super-benchmark)**|
+|**2024-09-11**|**A Suite for Acoustic Language Model Evaluation**|Gallil Maimon et.al.|[2409.07437](http://arxiv.org/abs/2409.07437)|null|
+|**2024-09-11**|**Synthetic continued pretraining**|Zitong Yang et.al.|[2409.07431](http://arxiv.org/abs/2409.07431)|**[link](https://github.com/zitongyang/synthetic_continued_pretraining)**|
+|**2024-09-11**|**Agent Workflow Memory**|Zora Zhiruo Wang et.al.|[2409.07429](http://arxiv.org/abs/2409.07429)|**[link](https://github.com/zorazrw/agent-workflow-memory)**|
+|**2024-09-11**|**CLNX: Bridging Code and Natural Language for C/C++ Vulnerability-Contributing Commits Identification**|Zeqing Qin et.al.|[2409.07407](http://arxiv.org/abs/2409.07407)|null|
+|**2024-09-11**|**AdaCAD: Adaptively Decoding to Balance Conflicts between Contextual and Parametric Knowledge**|Han Wang et.al.|[2409.07394](http://arxiv.org/abs/2409.07394)|**[link](https://github.com/hannight/adacad)**|
+|**2024-09-11**|**Awaking the Slides: A Tuning-free and Knowledge-regulated AI Tutoring System via Language Model Coordination**|Daniel Zhang-Li et.al.|[2409.07372](http://arxiv.org/abs/2409.07372)|null|
+|**2024-09-11**|**Demo: SGCode: A Flexible Prompt-Optimizing System for Secure Generation of Code**|Khiem Ton et.al.|[2409.07368](http://arxiv.org/abs/2409.07368)|null|
+|**2024-09-11**|**Think Together and Work Better: Combining Humans' and LLMs' Think-Aloud Outcomes for Effective Text Evaluation**|SeongYeub Chu et.al.|[2409.07355](http://arxiv.org/abs/2409.07355)|**[link](https://github.com/BBeeChu/InteractEval)**|
+|**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
+|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
+|**2024-09-11**|**Learning to Compress Contexts for Efficient Knowledge-based Visual Question Answering**|Weixi Weng et.al.|[2409.07331](http://arxiv.org/abs/2409.07331)|null|
+|**2024-09-11**|**MEDIC: Towards a Comprehensive Framework for Evaluating LLMs in Clinical Applications**|Praveen K Kanithi et.al.|[2409.07314](http://arxiv.org/abs/2409.07314)|null|
+|**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291](http://arxiv.org/abs/2409.07291)|null|
+|**2024-09-11**|**STORE: Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM**|Qijiong Liu et.al.|[2409.07276](http://arxiv.org/abs/2409.07276)|null|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|null|
+|**2024-09-11**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
+|**2024-09-11**|**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**|Yang Liu et.al.|[2409.07239](http://arxiv.org/abs/2409.07239)|**[link](https://github.com/yliu-cs/pite)**|
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
 |**2024-09-10**|**LLaMA-Omni: Seamless Speech Interaction with Large Language Models**|Qingkai Fang et.al.|[2409.06666](http://arxiv.org/abs/2409.06666)|**[link](https://github.com/ictnlp/llama-omni)**|
@@ -3229,6 +3250,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Hierarchical Reinforcement Learning for Temporal Abstraction of Listwise Recommendation**|Luo Ji et.al.|[2409.07416](http://arxiv.org/abs/2409.07416)|null|
+|**2024-09-11**|**Dynamic Bayesian Networks, Elicitation and Data Embedding for Secure Environments**|Kieran Drury et.al.|[2409.07389](http://arxiv.org/abs/2409.07389)|null|
+|**2024-09-11**|**Multi-source Stable Variable Importance Measure via Adversarial Machine Learning**|Zitao Wang et.al.|[2409.07380](http://arxiv.org/abs/2409.07380)|null|
+|**2024-09-11**|**Policy consequences of the new neuroeconomic framework**|A. David Redish et.al.|[2409.07373](http://arxiv.org/abs/2409.07373)|null|
+|**2024-09-11**|**The Role of Explainable AI in Revolutionizing Human Health Monitoring**|Abdullah Alharthi et.al.|[2409.07347](http://arxiv.org/abs/2409.07347)|null|
+|**2024-09-11**|**Explanation, Debate, Align: A Weak-to-Strong Framework for Language Model Generalization**|Mehrdad Zakershahrak et.al.|[2409.07335](http://arxiv.org/abs/2409.07335)|null|
+|**2024-09-11**|**Module-wise Adaptive Adversarial Training for End-to-end Autonomous Driving**|Tianyuan Zhang et.al.|[2409.07321](http://arxiv.org/abs/2409.07321)|null|
+|**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|null|
+|**2024-09-11**|**Behavioral Cloning Models Reality Check for Autonomous Driving**|Mustafa Yildirim et.al.|[2409.07218](http://arxiv.org/abs/2409.07218)|null|
+|**2024-09-11**|**Quantum Monte Carlo methods for Newsvendor problem with Multiple Unreliable Suppliers**|Monit Sharma et.al.|[2409.07183](http://arxiv.org/abs/2409.07183)|null|
+|**2024-09-11**|**Fast Medical Shape Reconstruction via Meta-learned Implicit Neural Representations**|Gaia Romana De Paolis et.al.|[2409.07100](http://arxiv.org/abs/2409.07100)|null|
+|**2024-09-11**|**A Novel Voting System for Medical Catalogues in National Health Insurance**|Xingyuan Liang et.al.|[2409.07057](http://arxiv.org/abs/2409.07057)|null|
+|**2024-09-10**|**Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds**|Mu Cai et.al.|[2409.06827](http://arxiv.org/abs/2409.06827)|**[link](https://github.com/qcraftai/cross-modal-ssl)**|
 |**2024-09-10**|**Hint-AD: Holistically Aligned Interpretability in End-to-End Autonomous Driving**|Kairui Ding et.al.|[2409.06702](http://arxiv.org/abs/2409.06702)|null|
 |**2024-09-10**|**Technical Report of Mobile Manipulator Robot for Industrial Environments**|Erfan Amoozad Khalili et.al.|[2409.06693](http://arxiv.org/abs/2409.06693)|null|
 |**2024-09-10**|**Designing Resource Allocation Tools to Promote Fair Allocation: Do Visualization and Information Framing Matter?**|Arnav Verma et.al.|[2409.06688](http://arxiv.org/abs/2409.06688)|null|
