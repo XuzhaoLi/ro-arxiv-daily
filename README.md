@@ -1,4 +1,4 @@
-## Updated on 2024.09.12
+## Updated on 2024.09.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 |**2024-09-10**|**Design of Threshold-Constrained Indirect Quantizers**|Ariel Doubchak et.al.|[2409.06839](http://arxiv.org/abs/2409.06839)|null|
 |**2024-09-10**|**Cooptimizing Safety and Performance with a Control-Constrained Formulation**|Hao Wang et.al.|[2409.06696](http://arxiv.org/abs/2409.06696)|null|
-|**2024-09-11**|**Valuation Model of Chinese Convertible Bonds Based on Monte Carlo Simulation**|Yu Liu et.al.|[2409.06496](http://arxiv.org/abs/2409.06496)|null|
+|**2024-09-12**|**Valuation Model of Chinese Convertible Bonds Based on Monte Carlo Simulation**|Yu Liu et.al.|[2409.06496](http://arxiv.org/abs/2409.06496)|null|
 |**2024-09-09**|**OTFS-MDMA: An Elastic Multi-Domain Resource Utilization Mechanism for High Mobility Scenarios**|Jie Chen et.al.|[2409.05724](http://arxiv.org/abs/2409.05724)|null|
 |**2024-09-09**|**Enhancing Empathic Accuracy: Penalized Functional Alignment Method to Correct Misalignment in Emotional Perception**|Linh H Nghiem et.al.|[2409.05343](http://arxiv.org/abs/2409.05343)|null|
 |**2024-09-08**|**Cooperative Learning-Based Framework for VNF Caching and Placement Optimization over Low Earth Orbit Satellite Networks**|Khai Doan et.al.|[2409.05025](http://arxiv.org/abs/2409.05025)|null|
@@ -315,7 +315,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -339,7 +339,7 @@
 |**2024-09-11**|**Exploring User-level Gradient Inversion with a Diffusion Prior**|Zhuohang Li et.al.|[2409.07291](http://arxiv.org/abs/2409.07291)|null|
 |**2024-09-11**|**STORE: Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM**|Qijiong Liu et.al.|[2409.07276](http://arxiv.org/abs/2409.07276)|null|
 |**2024-09-11**|**MiniDrive: More Efficient Vision-Language Models with Multi-Level 2D Features as Text Tokens for Autonomous Driving**|Enming Zhang et.al.|[2409.07267](http://arxiv.org/abs/2409.07267)|null|
-|**2024-09-11**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
+|**2024-09-12**|**Alignment of Diffusion Models: Fundamentals, Challenges, and Future**|Buhua Liu et.al.|[2409.07253](http://arxiv.org/abs/2409.07253)|null|
 |**2024-09-11**|**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**|Yang Liu et.al.|[2409.07239](http://arxiv.org/abs/2409.07239)|**[link](https://github.com/yliu-cs/pite)**|
 |**2024-09-10**|**Benchmarking Sub-Genre Classification For Mainstage Dance Music**|Hongzhi Shu et.al.|[2409.06690](http://arxiv.org/abs/2409.06690)|null|
 |**2024-09-10**|**E2LLM: Encoder Elongated Large Language Models for Long-Context Understanding and Reasoning**|Zihan Liao et.al.|[2409.06679](http://arxiv.org/abs/2409.06679)|null|
@@ -3244,7 +3244,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5753,5 +5753,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240912>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240913>back to top</a>)</p>
 
