@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3263,7 +3263,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
+|**2024-09-13**|**The Design of Informative Take-Over Requests for Semi-Autonomous Cyber-Physical Systems: Combining Spoken Language and Visual Icons in a Drone-Controller Setting**|Ashwini Gundappa et.al.|[2409.08253](http://arxiv.org/abs/2409.08253)|null|
 |**2024-09-12**|**How can the tragedy of the commons be prevented?: Introducing Linear Quadratic Mixed Mean Field Games**|Gokce Dayanikli et.al.|[2409.08235](http://arxiv.org/abs/2409.08235)|null|
 |**2024-09-12**|**Model Ensemble for Brain Tumor Segmentation in Magnetic Resonance Imaging**|Daniel Capellán-Martín et.al.|[2409.08232](http://arxiv.org/abs/2409.08232)|null|
 |**2024-09-12**|**Optimal Management of Grid-Interactive Efficient Buildings via Safe Reinforcement Learning**|Xiang Huo et.al.|[2409.08132](http://arxiv.org/abs/2409.08132)|null|
