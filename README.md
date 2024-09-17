@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Estimates for Optimal Multistage Group Partition Testing**|Guojiang Shao et.al.|[2409.10410](http://arxiv.org/abs/2409.10410)|null|
+|**2024-09-16**|**Pareto Sums of Pareto Sets: Lower Bounds and Algorithms**|Daniel Funke et.al.|[2409.10232](http://arxiv.org/abs/2409.10232)|null|
 |**2024-09-12**|**Q-value Regularized Decision ConvFormer for Offline Reinforcement Learning**|Teng Yan et.al.|[2409.08062](http://arxiv.org/abs/2409.08062)|null|
 |**2024-09-12**|**Super Monotonic Alignment Search**|Junhyeok Lee et.al.|[2409.07704](http://arxiv.org/abs/2409.07704)|**[link](https://github.com/supertone-inc/super-monotonic-align)**|
 |**2024-09-10**|**Design of Threshold-Constrained Indirect Quantizers**|Ariel Doubchak et.al.|[2409.06839](http://arxiv.org/abs/2409.06839)|null|
@@ -323,6 +325,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
+|**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
+|**2024-09-16**|**DILA: Dictionary Label Attention for Mechanistic Interpretability in High-dimensional Multi-label Medical Coding Prediction**|John Wu et.al.|[2409.10504](http://arxiv.org/abs/2409.10504)|null|
+|**2024-09-16**|**Causal Language Modeling Can Elicit Search and Reasoning Capabilities on Logic Puzzles**|Kulin Shah et.al.|[2409.10502](http://arxiv.org/abs/2409.10502)|null|
+|**2024-09-16**|**Code Vulnerability Detection: A Comparative Analysis of Emerging Large Language Models**|Shaznin Sultana et.al.|[2409.10490](http://arxiv.org/abs/2409.10490)|null|
+|**2024-09-16**|**Do Pre-trained Vision-Language Models Encode Object States?**|Kaleb Newman et.al.|[2409.10488](http://arxiv.org/abs/2409.10488)|null|
+|**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
+|**2024-09-16**|**Schrodinger's Memory: Large Language Models**|Wei Wang et.al.|[2409.10482](http://arxiv.org/abs/2409.10482)|null|
+|**2024-09-16**|**Towards Semantic Versioning of Open Pre-trained Language Model Releases on Hugging Face**|Adekunle Ajibode et.al.|[2409.10472](http://arxiv.org/abs/2409.10472)|null|
+|**2024-09-16**|**LLM as BT-Planner: Leveraging LLMs for Behavior Tree Generation in Robot Task Planning**|Jicong Ao et.al.|[2409.10444](http://arxiv.org/abs/2409.10444)|null|
+|**2024-09-16**|**CtRNet-X: Camera-to-Robot Pose Estimation in Real-world Conditions Using a Single Camera**|Jingpei Lu et.al.|[2409.10441](http://arxiv.org/abs/2409.10441)|null|
+|**2024-09-16**|**HiFi-CS: Towards Open Vocabulary Visual Grounding For Robotic Grasping Using Vision-Language Models**|Vineet Bhat et.al.|[2409.10419](http://arxiv.org/abs/2409.10419)|null|
+|**2024-09-16**|**A Large-Scale Privacy Assessment of Android Third-Party SDKs**|Mark Huasong Meng et.al.|[2409.10411](http://arxiv.org/abs/2409.10411)|null|
+|**2024-09-16**|**A Knowledge-Enhanced Disease Diagnosis Method Based on Prompt Learning and BERT Integration**|Zhang Zheng et.al.|[2409.10403](http://arxiv.org/abs/2409.10403)|null|
+|**2024-09-16**|**Learnings from a Large-Scale Deployment of an LLM-Powered Expert-in-the-Loop Healthcare Chatbot**|Bhuvan Sachdeva et.al.|[2409.10354](http://arxiv.org/abs/2409.10354)|null|
+|**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
+|**2024-09-16**|**The 20 questions game to distinguish large language models**|Gurvan Richardeau et.al.|[2409.10338](http://arxiv.org/abs/2409.10338)|null|
+|**2024-09-16**|**MGSA: Multi-granularity Graph Structure Attention for Knowledge Graph-to-Text Generation**|Shanshan Wang et.al.|[2409.10294](http://arxiv.org/abs/2409.10294)|null|
+|**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-16**|**ComplexCodeEval: A Benchmark for Evaluating Large Code Models on More Complex Code**|Jia Feng et.al.|[2409.10280](http://arxiv.org/abs/2409.10280)|null|
 |**2024-09-13**|**Agents in Software Engineering: Survey, Landscape, and Vision**|Yanxian Huang et.al.|[2409.09030](http://arxiv.org/abs/2409.09030)|**[link](https://github.com/deepsoftwareanalytics/awesome-agent4se)**|
 |**2024-09-13**|**Contri(e)ve: Context + Retrieve for Scholarly Question Answering**|Kanchan Shivashankar et.al.|[2409.09010](http://arxiv.org/abs/2409.09010)|null|
 |**2024-09-13**|**Safeguarding Decentralized Social Media: LLM Agents for Automating Community Rule Compliance**|Lucio La Cava et.al.|[2409.08963](http://arxiv.org/abs/2409.08963)|null|
@@ -3292,6 +3314,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**MusicLIME: Explainable Multimodal Music Understanding**|Theodoros Sotirou et.al.|[2409.10496](http://arxiv.org/abs/2409.10496)|**[link](https://github.com/iamtheo2000/musiclime)**|
+|**2024-09-16**|**Radar Teach and Repeat: Architecture and Initial Field Testing**|Xinyuan Qiao et.al.|[2409.10491](http://arxiv.org/abs/2409.10491)|null|
+|**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
+|**2024-09-16**|**Quantile Fourier regressions for decision making under uncertainty**|Arash Khojaste et.al.|[2409.10455](http://arxiv.org/abs/2409.10455)|null|
+|**2024-09-16**|**Stretchable Arduinos embedded in soft robots**|Stephanie J. Woodman et.al.|[2409.10333](http://arxiv.org/abs/2409.10333)|null|
+|**2024-09-16**|**DRIVE: Dependable Robust Interpretable Visionary Ensemble Framework in Autonomous Driving**|Songning Lai et.al.|[2409.10330](http://arxiv.org/abs/2409.10330)|null|
+|**2024-09-16**|**InfoDisent: Explainability of Image Classification Models by Information Disentanglement**|Łukasz Struski et.al.|[2409.10329](http://arxiv.org/abs/2409.10329)|null|
+|**2024-09-16**|**Fairness, not Emotion, Drives Socioeconomic Decision Making**|Rudra Mukhopadhyay et.al.|[2409.10322](http://arxiv.org/abs/2409.10322)|null|
+|**2024-09-16**|**SEAL: Towards Safe Autonomous Driving via Skill-Enabled Adversary Learning for Closed-Loop Scenario Generation**|Benjamin Stoler et.al.|[2409.10320](http://arxiv.org/abs/2409.10320)|**[link](https://github.com/cmubig/seal)**|
+|**2024-09-16**|**A Note on Piecewise Affine Decision Rules for Robust, Stochastic, and Data-Driven Optimization**|Simon Thomä et.al.|[2409.10295](http://arxiv.org/abs/2409.10295)|null|
+|**2024-09-16**|**ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework**|Jiahao Yuan et.al.|[2409.10289](http://arxiv.org/abs/2409.10289)|null|
+|**2024-09-16**|**Questioning AI: Promoting Decision-Making Autonomy Through Reflection**|Simon WS Fischer et.al.|[2409.10250](http://arxiv.org/abs/2409.10250)|null|
+|**2024-09-16**|**Robust Bird's Eye View Segmentation by Adapting DINOv2**|Merve Rabia Barın et.al.|[2409.10228](http://arxiv.org/abs/2409.10228)|null|
+|**2024-09-16**|**LLMs for clinical risk prediction**|Mohamed Rezk et.al.|[2409.10191](http://arxiv.org/abs/2409.10191)|null|
+|**2024-09-16**|**ExelMap: Explainable Element-based HD-Map Change Detection and Update**|Lena Wild et.al.|[2409.10178](http://arxiv.org/abs/2409.10178)|null|
+|**2024-09-16**|**Maneuver Decision-Making with Trajectory Streams Prediction for Autonomous Vehicles**|Mais Jamal et.al.|[2409.10165](http://arxiv.org/abs/2409.10165)|null|
+|**2024-09-16**|**AALF: Almost Always Linear Forecasting**|Matthias Jakobs et.al.|[2409.10142](http://arxiv.org/abs/2409.10142)|null|
+|**2024-09-16**|**Advancing Towards a Marine Digital Twin Platform: Modeling the Mar Menor Coastal Lagoon Ecosystem in the South Western Mediterranean**|Yu Ye et.al.|[2409.10134](http://arxiv.org/abs/2409.10134)|null|
+|**2024-09-16**|**Human Insights Driven Latent Space for Different Driving Perspectives: A Unified Encoder for Efficient Multi-Task Inference**|Huy-Dung Nguyen et.al.|[2409.10095](http://arxiv.org/abs/2409.10095)|null|
+|**2024-09-16**|**LeGEND: A Top-Down Approach to Scenario Generation of Autonomous Driving Systems Assisted by Large Language Models**|Shuncheng Tang et.al.|[2409.10066](http://arxiv.org/abs/2409.10066)|null|
 |**2024-09-13**|**Generic and ML Workloads in an HPC Datacenter: Node Energy, Job Failures, and Node-Job Analysis**|Xiaoyu Chu et.al.|[2409.08949](http://arxiv.org/abs/2409.08949)|null|
 |**2024-09-13**|**Visual Language Tracking with Multi-modal Interaction: A Robust Benchmark**|Xuchen Li et.al.|[2409.08887](http://arxiv.org/abs/2409.08887)|null|
 |**2024-09-13**|**Electrocardiogram Report Generation and Question Answering via Retrieval-Augmented Self-Supervised Modeling**|Jialu Tang et.al.|[2409.08788](http://arxiv.org/abs/2409.08788)|null|
