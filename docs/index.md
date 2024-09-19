@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Differential dynamic programming with stagewise equality and inequality constraints using interior point method**|Siddharth Prabhu et.al.|[2409.12048](http://arxiv.org/abs/2409.12048)|null|
+|**2024-09-18**|**Second-Order Constrained Dynamic Optimization**|Yuichiro Aoyama et.al.|[2409.11649](http://arxiv.org/abs/2409.11649)|null|
+|**2024-09-18**|**Multi-stage stochastic linear programming for shared autonomous vehicle system operation and design with on-demand and pre-booked requests**|Riki Kawase et.al.|[2409.11611](http://arxiv.org/abs/2409.11611)|null|
+|**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
+|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
 |**2024-09-17**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290](http://arxiv.org/abs/2409.11290)|null|
 |**2024-09-17**|**Selective algorithm processing of subset sum distributions**|Nick Dawes et.al.|[2409.11076](http://arxiv.org/abs/2409.11076)|null|
 |**2024-09-17**|**Local discontinuous Galerkin method for nonlinear BSPDEs of Neumann boundary conditions with deep backward dynamic programming time-marching**|Yixiang Dai et.al.|[2409.11004](http://arxiv.org/abs/2409.11004)|null|
@@ -324,6 +329,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
+|**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
+|**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
+|**2024-09-18**|**A Controlled Study on Long Context Extension and Generalization in LLMs**|Yi Lu et.al.|[2409.12181](http://arxiv.org/abs/2409.12181)|**[link](https://github.com/leooyii/lceg)**|
+|**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
+|**2024-09-18**|**MAgICoRe: Multi-Agent, Iterative, Coarse-to-Fine Refinement for Reasoning**|Justin Chih-Yao Chen et.al.|[2409.12147](http://arxiv.org/abs/2409.12147)|**[link](https://github.com/dinobby/magicore)**|
+|**2024-09-18**|**MoRAG -- Multi-Fusion Retrieval Augmented Generation for Human Motion**|Kalakonda Sai Shashank et.al.|[2409.12140](http://arxiv.org/abs/2409.12140)|null|
+|**2024-09-18**|**Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models**|EverestAI et.al.|[2409.12139](http://arxiv.org/abs/2409.12139)|null|
+|**2024-09-18**|**GRIN: GRadient-INformed MoE**|Liyuan Liu et.al.|[2409.12136](http://arxiv.org/abs/2409.12136)|null|
+|**2024-09-18**|**Linguini: A benchmark for language-agnostic linguistic reasoning**|Eduardo Sánchez et.al.|[2409.12126](http://arxiv.org/abs/2409.12126)|null|
+|**2024-09-18**|**Qwen2.5-Math Technical Report: Toward Mathematical Expert Model via Self-Improvement**|An Yang et.al.|[2409.12122](http://arxiv.org/abs/2409.12122)|null|
+|**2024-09-18**|**Low Frame-rate Speech Codec: a Codec Designed for Fast High-quality Speech LLM Training and Inference**|Edresson Casanova et.al.|[2409.12117](http://arxiv.org/abs/2409.12117)|null|
+|**2024-09-18**|**Measuring Human and AI Values based on Generative Psychometrics with Large Language Models**|Haoran Ye et.al.|[2409.12106](http://arxiv.org/abs/2409.12106)|**[link](https://github.com/value4ai/gpv)**|
+|**2024-09-18**|**Skill matching at scale: freelancer-project alignment for efficient multilingual candidate retrieval**|Warren Jouanneau et.al.|[2409.12097](http://arxiv.org/abs/2409.12097)|null|
+|**2024-09-18**|**The Impact of Element Ordering on LM Agent Performance**|Wayne Chi et.al.|[2409.12089](http://arxiv.org/abs/2409.12089)|null|
+|**2024-09-18**|**Dual-Layer Training and Decoding of Large Language Model with Simultaneously Thinking and Speaking**|Ningyuan Xi et.al.|[2409.12059](http://arxiv.org/abs/2409.12059)|null|
+|**2024-09-18**|**Using Large Language Models to Generate Clinical Trial Tables and Figures**|Yumeng Yang et.al.|[2409.12046](http://arxiv.org/abs/2409.12046)|null|
+|**2024-09-18**|**All-in-one foundational models learning across quantum chemical levels**|Yuxinxin Chen et.al.|[2409.12015](http://arxiv.org/abs/2409.12015)|**[link](https://github.com/dralgroup/aio-ani)**|
+|**2024-09-18**|**Mixture of Prompt Learning for Vision Language Models**|Yu Du et.al.|[2409.12011](http://arxiv.org/abs/2409.12011)|null|
 |**2024-09-17**|**AraDiCE: Benchmarks for Dialectal and Cultural Capabilities in LLMs**|Basel Mousi et.al.|[2409.11404](http://arxiv.org/abs/2409.11404)|null|
 |**2024-09-17**|**NVLM: Open Frontier-Class Multimodal LLMs**|Wenliang Dai et.al.|[2409.11402](http://arxiv.org/abs/2409.11402)|null|
 |**2024-09-17**|**Says Who? Effective Zero-Shot Annotation of Focalization**|Rebecca M. M. Hicke et.al.|[2409.11390](http://arxiv.org/abs/2409.11390)|null|
@@ -3331,6 +3356,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
+|**2024-09-18**|**Publishing Instincts: An Exploration-Exploitation Framework for Studying Academic Publishing Behavior and "Home Venues"**|Teddy Lazebnik et.al.|[2409.12158](http://arxiv.org/abs/2409.12158)|null|
+|**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
+|**2024-09-18**|**Pareto Data Framework: Steps Towards Resource-Efficient Decision Making Using Minimum Viable Data (MVD)**|Tashfain Ahmed et.al.|[2409.12112](http://arxiv.org/abs/2409.12112)|null|
+|**2024-09-18**|**Unveiling the Black Box: Independent Functional Module Evaluation for Bird's-Eye-View Perception Model**|Ludan Zhang et.al.|[2409.11969](http://arxiv.org/abs/2409.11969)|null|
+|**2024-09-18**|**Optimizing Job Shop Scheduling in the Furniture Industry: A Reinforcement Learning Approach Considering Machine Setup, Batch Variability, and Intralogistics**|Malte Schneevogt et.al.|[2409.11820](http://arxiv.org/abs/2409.11820)|null|
+|**2024-09-18**|**Conformal Prediction for Manifold-based Source Localization with Gaussian Processes**|Vadim Rozenfeld et.al.|[2409.11804](http://arxiv.org/abs/2409.11804)|null|
+|**2024-09-18**|**Explaining Non-monotonic Normative Reasoning using Argumentation Theory with Deontic Logic**|Zhe Yu et.al.|[2409.11780](http://arxiv.org/abs/2409.11780)|null|
+|**2024-09-18**|**RopeBEV: A Multi-Camera Roadside Perception Network in Bird's-Eye-View**|Jinrang Jia et.al.|[2409.11706](http://arxiv.org/abs/2409.11706)|null|
+|**2024-09-18**|**From Words to Wheels: Automated Style-Customized Policy Generation for Autonomous Driving**|Xu Han et.al.|[2409.11694](http://arxiv.org/abs/2409.11694)|null|
+|**2024-09-18**|**Towards Explainable Goal Recognition Using Weight of Evidence (WoE): A Human-Centered Approach**|Abeer Alshehri et.al.|[2409.11675](http://arxiv.org/abs/2409.11675)|null|
+|**2024-09-18**|**Blockchain-Enabled IoV: Secure Communication and Trustworthy Decision-Making**|Jingyi Sun et.al.|[2409.11621](http://arxiv.org/abs/2409.11621)|null|
+|**2024-09-17**|**Exploring Dimensions of Expertise in AR-Guided Psychomotor Tasks**|Steven Yoo et.al.|[2409.11599](http://arxiv.org/abs/2409.11599)|null|
+|**2024-09-17**|**Automating proton PBS treatment planning for head and neck cancers using policy gradient-based deep reinforcement learning**|Qingqing Wang et.al.|[2409.11576](http://arxiv.org/abs/2409.11576)|null|
+|**2024-09-17**|**Balancing Optimality and Diversity: Human-Centered Decision Making through Generative Curation**|Michael Lingzhi Li et.al.|[2409.11535](http://arxiv.org/abs/2409.11535)|null|
+|**2024-09-17**|**Leveraging AI-Generated Emotional Self-Voice to Nudge People towards their Ideal Selves**|Cathy Mengying Fang et.al.|[2409.11531](http://arxiv.org/abs/2409.11531)|null|
+|**2024-09-17**|**Partially Observable Contextual Bandits with Linear Payoffs**|Sihan Zeng et.al.|[2409.11521](http://arxiv.org/abs/2409.11521)|null|
+|**2024-09-17**|**Beyond Algorithmic Fairness: A Guide to Develop and Deploy Ethical AI-Enabled Decision-Support Tools**|Rosemarie Santa Gonzalez et.al.|[2409.11489](http://arxiv.org/abs/2409.11489)|null|
+|**2024-09-17**|**Consensus decision making on a complete graph: complex behaviour from simple assumptions**|P. Sarkanych et.al.|[2409.11475](http://arxiv.org/abs/2409.11475)|null|
 |**2024-09-17**|**UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning**|Kathakoli Sengupta et.al.|[2409.11403](http://arxiv.org/abs/2409.11403)|null|
 |**2024-09-17**|**RenderWorld: World Model with Self-Supervised 3D Label**|Ziyang Yan et.al.|[2409.11356](http://arxiv.org/abs/2409.11356)|null|
 |**2024-09-17**|**TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem**|M. Esat Kalfaoglu et.al.|[2409.11325](http://arxiv.org/abs/2409.11325)|null|
