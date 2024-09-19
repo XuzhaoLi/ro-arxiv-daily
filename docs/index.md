@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.18
+## Updated on 2024.09.19
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -342,7 +342,7 @@ layout: default
 |**2024-09-17**|**P-RAG: Progressive Retrieval Augmented Generation For Planning on Embodied Everyday Task**|Weiye Xu et.al.|[2409.11279](http://arxiv.org/abs/2409.11279)|null|
 |**2024-09-17**|**Hackphyr: A Local Fine-Tuned LLM Agent for Network Security Environments**|Maria Rigaki et.al.|[2409.11276](http://arxiv.org/abs/2409.11276)|null|
 |**2024-09-17**|**Task Arithmetic for Language Expansion in Speech Translation**|Yao-Fei Cheng et.al.|[2409.11274](http://arxiv.org/abs/2409.11274)|null|
-|**2024-09-17**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|null|
+|**2024-09-18**|**LOLA -- An Open-Source Massively Multilingual Large Language Model**|Nikit Srivastava et.al.|[2409.11272](http://arxiv.org/abs/2409.11272)|**[link](https://github.com/dice-group/lola)**|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263](http://arxiv.org/abs/2409.11263)|null|
 |**2024-09-16**|**RetrievalAttention: Accelerating Long-Context LLM Inference via Vector Retrieval**|Di Liu et.al.|[2409.10516](http://arxiv.org/abs/2409.10516)|null|
 |**2024-09-16**|**Context-aware Code Segmentation for C-to-Rust Translation using Large Language Models**|Momoko Shiraishi et.al.|[2409.10506](http://arxiv.org/abs/2409.10506)|null|
@@ -3336,9 +3336,9 @@ layout: default
 |**2024-09-17**|**TopoMaskV2: Enhanced Instance-Mask-Based Formulation for the Road Topology Problem**|M. Esat Kalfaoglu et.al.|[2409.11325](http://arxiv.org/abs/2409.11325)|null|
 |**2024-09-17**|**Navigating Process Mining: A Case study using pm4py**|Ali Jlidi et.al.|[2409.11294](http://arxiv.org/abs/2409.11294)|null|
 |**2024-09-17**|**Cost-informed dimensionality reduction for structural digital twin technologies**|Aidan J. Hughes et.al.|[2409.11236](http://arxiv.org/abs/2409.11236)|null|
-|**2024-09-17**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
+|**2024-09-18**|**High-Order Evolving Graphs for Enhanced Representation of Traffic Dynamics**|Aditya Humnabadkar et.al.|[2409.11206](http://arxiv.org/abs/2409.11206)|null|
 |**2024-09-17**|**Optimization of Rulebooks via Asymptotically Representing Lexicographic Hierarchies for Autonomous Vehicles**|Matteo Penlington et.al.|[2409.11199](http://arxiv.org/abs/2409.11199)|null|
-|**2024-09-17**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|null|
+|**2024-09-18**|**Annealed Winner-Takes-All for Motion Forecasting**|Yihong Xu et.al.|[2409.11172](http://arxiv.org/abs/2409.11172)|**[link](https://github.com/valeoai/mf_awta)**|
 |**2024-09-17**|**UltimateDO: An Efficient Framework to Marry Occupancy Prediction with 3D Object Detection via Channel2height**|Zichen Yu et.al.|[2409.11160](http://arxiv.org/abs/2409.11160)|null|
 |**2024-09-17**|**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**|Rui Yu et.al.|[2409.11018](http://arxiv.org/abs/2409.11018)|null|
 |**2024-09-17**|**PSFHS Challenge Report: Pubic Symphysis and Fetal Head Segmentation from Intrapartum Ultrasound Images**|Jieyun Bai et.al.|[2409.10980](http://arxiv.org/abs/2409.10980)|null|
