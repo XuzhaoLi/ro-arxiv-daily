@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2024-09-20**|**Second-Order Constrained Dynamic Optimization**|Yuichiro Aoyama et.al.|[2409.11649](http://arxiv.org/abs/2409.11649)|null|
 |**2024-09-18**|**Multi-stage stochastic linear programming for shared autonomous vehicle system operation and design with on-demand and pre-booked requests**|Riki Kawase et.al.|[2409.11611](http://arxiv.org/abs/2409.11611)|null|
 |**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
-|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
 |**2024-09-17**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290](http://arxiv.org/abs/2409.11290)|null|
 |**2024-09-17**|**Selective algorithm processing of subset sum distributions**|Nick Dawes et.al.|[2409.11076](http://arxiv.org/abs/2409.11076)|null|
 |**2024-09-17**|**Local discontinuous Galerkin method for nonlinear BSPDEs of Neumann boundary conditions with deep backward dynamic programming time-marching**|Yixiang Dai et.al.|[2409.11004](http://arxiv.org/abs/2409.11004)|null|

@@ -1,4 +1,4 @@
-## Updated on 2024.09.23
+## Updated on 2024.09.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -16,7 +16,7 @@
 |**2024-09-20**|**Second-Order Constrained Dynamic Optimization**|Yuichiro Aoyama et.al.|[2409.11649](http://arxiv.org/abs/2409.11649)|null|
 |**2024-09-18**|**Multi-stage stochastic linear programming for shared autonomous vehicle system operation and design with on-demand and pre-booked requests**|Riki Kawase et.al.|[2409.11611](http://arxiv.org/abs/2409.11611)|null|
 |**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
-|**2024-09-17**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
 |**2024-09-17**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290](http://arxiv.org/abs/2409.11290)|null|
 |**2024-09-17**|**Selective algorithm processing of subset sum distributions**|Nick Dawes et.al.|[2409.11076](http://arxiv.org/abs/2409.11076)|null|
 |**2024-09-17**|**Local discontinuous Galerkin method for nonlinear BSPDEs of Neumann boundary conditions with deep backward dynamic programming time-marching**|Yixiang Dai et.al.|[2409.11004](http://arxiv.org/abs/2409.11004)|null|
@@ -330,7 +330,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3359,7 +3359,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -5957,5 +5957,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240924>back to top</a>)</p>
 
