@@ -12,11 +12,19 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features**|Katharina Anderer et.al.|[2409.16765](http://arxiv.org/abs/2409.16765)|**[link](https://github.com/andererka/mavils)**|
+|**2024-09-25**|**DeformStream: Deformation-based Adaptive Volumetric Video Streaming**|Boyan Li et.al.|[2409.16615](http://arxiv.org/abs/2409.16615)|null|
+|**2024-09-24**|**Partial Elastic Shape Registration of 3D Surfaces using Dynamic Programming**|Javier Bernal et.al.|[2409.16462](http://arxiv.org/abs/2409.16462)|null|
+|**2024-09-25**|**Efficient Nearest Neighbor Search Using Dynamic Programming**|Pengfei Wang et.al.|[2409.15023](http://arxiv.org/abs/2409.15023)|null|
+|**2024-09-22**|**Unsupervised Word Discovery: Boundary Detection with Clustering vs. Dynamic Programming**|Simon Malan et.al.|[2409.14486](http://arxiv.org/abs/2409.14486)|null|
+|**2024-09-24**|**Batch Predictive Inference**|Yonghoon Lee et.al.|[2409.13990](http://arxiv.org/abs/2409.13990)|null|
+|**2024-09-20**|**A Modified Algorithm for Optimal Picker Routing in a Single Block Warehouse**|George Dunn et.al.|[2409.13219](http://arxiv.org/abs/2409.13219)|null|
+|**2024-09-19**|**Program Slicing in the Era of Large Language Models**|Kimya Khakzad Shahandashti et.al.|[2409.12369](http://arxiv.org/abs/2409.12369)|null|
 |**2024-09-18**|**Differential dynamic programming with stagewise equality and inequality constraints using interior point method**|Siddharth Prabhu et.al.|[2409.12048](http://arxiv.org/abs/2409.12048)|null|
 |**2024-09-20**|**Second-Order Constrained Dynamic Optimization**|Yuichiro Aoyama et.al.|[2409.11649](http://arxiv.org/abs/2409.11649)|null|
 |**2024-09-18**|**Multi-stage stochastic linear programming for shared autonomous vehicle system operation and design with on-demand and pre-booked requests**|Riki Kawase et.al.|[2409.11611](http://arxiv.org/abs/2409.11611)|null|
 |**2024-09-17**|**Optimal Investment with Costly Expert Opinions**|Christoph Knochenhauer et.al.|[2409.11569](http://arxiv.org/abs/2409.11569)|null|
-|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|null|
+|**2024-09-20**|**Exact Wavefront Propagation for Globally Optimal One-to-All Path Planning on 2D Cartesian Grids**|Ibrahim Ibrahim et.al.|[2409.11545](http://arxiv.org/abs/2409.11545)|**[link](https://github.com/IbrahimSquared/visibility-based-marching)**|
 |**2024-09-17**|**Neural Networks for Vehicle Routing Problem**|László Kovács et.al.|[2409.11290](http://arxiv.org/abs/2409.11290)|null|
 |**2024-09-17**|**Selective algorithm processing of subset sum distributions**|Nick Dawes et.al.|[2409.11076](http://arxiv.org/abs/2409.11076)|null|
 |**2024-09-17**|**Local discontinuous Galerkin method for nonlinear BSPDEs of Neumann boundary conditions with deep backward dynamic programming time-marching**|Yixiang Dai et.al.|[2409.11004](http://arxiv.org/abs/2409.11004)|null|
@@ -336,6 +344,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Attention Prompting on Image for Large Vision-Language Models**|Runpeng Yu et.al.|[2409.17143](http://arxiv.org/abs/2409.17143)|**[link](https://github.com/yu-rp/apiprompting)**|
+|**2024-09-25**|**FineZip : Pushing the Limits of Large Language Models for Practical Lossless Text Compression**|Fazal Mittu et.al.|[2409.17141](http://arxiv.org/abs/2409.17141)|**[link](https://github.com/fazalmittu/finezip)**|
+|**2024-09-25**|**Turn Every Application into an Agent: Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents**|Junting Lu et.al.|[2409.17140](http://arxiv.org/abs/2409.17140)|null|
+|**2024-09-25**|**Blox-Net: Generative Design-for-Robot-Assembly Using VLM Supervision, Physics Simulation, and a Robot with Reset**|Andrew Goldberg et.al.|[2409.17126](http://arxiv.org/abs/2409.17126)|null|
+|**2024-09-25**|**Programming Every Example: Lifting Pre-training Data Quality like Experts at Scale**|Fan Zhou et.al.|[2409.17115](http://arxiv.org/abs/2409.17115)|**[link](https://github.com/gair-nlp/prox)**|
+|**2024-09-25**|**Unveiling Ontological Commitment in Multi-Modal Foundation Models**|Mert Keser et.al.|[2409.17109](http://arxiv.org/abs/2409.17109)|null|
+|**2024-09-25**|**Accumulator-Aware Post-Training Quantization**|Ian Colbert et.al.|[2409.17092](http://arxiv.org/abs/2409.17092)|null|
+|**2024-09-25**|**Can Vision Language Models Learn from Visual Demonstrations of Ambiguous Spatial Reasoning?**|Bowen Zhao et.al.|[2409.17080](http://arxiv.org/abs/2409.17080)|null|
+|**2024-09-25**|**VPTQ: Extreme Low-bit Vector Post-Training Quantization for Large Language Models**|Yifei Liu et.al.|[2409.17066](http://arxiv.org/abs/2409.17066)|**[link](https://github.com/microsoft/vptq)**|
+|**2024-09-25**|**Benchmarking Domain Generalization Algorithms in Computational Pathology**|Neda Zamanitajeddin et.al.|[2409.17063](http://arxiv.org/abs/2409.17063)|null|
+|**2024-09-25**|**Using LLM for Real-Time Transcription and Summarization of Doctor-Patient Interactions into ePuskesmas in Indonesia**|Azmul Asmar Irfan et.al.|[2409.17054](http://arxiv.org/abs/2409.17054)|null|
+|**2024-09-25**|**GeoBiked: A Dataset with Geometric Features and Automated Labeling Techniques to Enable Deep Generative Models in Engineering Design**|Phillip Mueller et.al.|[2409.17045](http://arxiv.org/abs/2409.17045)|null|
+|**2024-09-25**|**How to Connect Speech Foundation Models and Large Language Models? What Matters and What Does Not**|Francesco Verdini et.al.|[2409.17044](http://arxiv.org/abs/2409.17044)|null|
+|**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
+|**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
+|**2024-09-25**|**Models Can and Should Embrace the Communicative Nature of Human-Generated Math**|Sasha Boguraev et.al.|[2409.17005](http://arxiv.org/abs/2409.17005)|null|
+|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-09-25**|**Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**|Chi Zhang et.al.|[2409.16986](http://arxiv.org/abs/2409.16986)|null|
+|**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984](http://arxiv.org/abs/2409.16984)|null|
+|**2024-09-25**|**Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions**|Zeyneb N. Kaya et.al.|[2409.16974](http://arxiv.org/abs/2409.16974)|null|
 |**2024-09-20**|**Gender Representation and Bias in Indian Civil Service Mock Interviews**|Somonnoy Banerjee et.al.|[2409.12194](http://arxiv.org/abs/2409.12194)|null|
 |**2024-09-18**|**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**|Peng Wang et.al.|[2409.12191](http://arxiv.org/abs/2409.12191)|**[link](https://github.com/qwenlm/qwen2-vl)**|
 |**2024-09-18**|**To CoT or not to CoT? Chain-of-thought helps mainly on math and symbolic reasoning**|Zayne Sprague et.al.|[2409.12183](http://arxiv.org/abs/2409.12183)|null|
@@ -3365,6 +3393,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Learning with Dynamics: Autonomous Regulation of UAV Based Communication Networks with Dynamic UAV Crew**|Ran Zhang et.al.|[2409.17139](http://arxiv.org/abs/2409.17139)|null|
+|**2024-09-25**|**Enhancing robot reliability for health-care facilities by means of Human-Aware Navigation Planning**|Olga E. Sorokoletova et.al.|[2409.17131](http://arxiv.org/abs/2409.17131)|null|
+|**2024-09-25**|**On-orbit Servicing for Spacecraft Collision Avoidance With Autonomous Decision Making**|Susmitha Patnala et.al.|[2409.17125](http://arxiv.org/abs/2409.17125)|null|
+|**2024-09-25**|**Deep Learning and Machine Learning, Advancing Big Data Analytics and Management: Handy Appetizer**|Benji Peng et.al.|[2409.17120](http://arxiv.org/abs/2409.17120)|null|
+|**2024-09-25**|**Dynamic Obstacle Avoidance through Uncertainty-Based Adaptive Planning with Diffusion**|Vineet Punyamoorty et.al.|[2409.16950](http://arxiv.org/abs/2409.16950)|null|
+|**2024-09-25**|**Quantifying Visual Properties of GAM Shape Plots: Impact on Perceived Cognitive Load and Interpretability**|Sven Kruschel et.al.|[2409.16870](http://arxiv.org/abs/2409.16870)|null|
+|**2024-09-25**|**The Role of Language Models in Modern Healthcare: A Comprehensive Review**|Amna Khalid et.al.|[2409.16860](http://arxiv.org/abs/2409.16860)|null|
+|**2024-09-25**|**Dispute resolution in legal mediation with quantitative argumentation**|Xiao Chi et.al.|[2409.16854](http://arxiv.org/abs/2409.16854)|null|
+|**2024-09-25**|**Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability**|Carlos E. Luis et.al.|[2409.16824](http://arxiv.org/abs/2409.16824)|null|
+|**2024-09-25**|**PeerArg: Argumentative Peer Review with LLMs**|Purin Sukpanichnant et.al.|[2409.16813](http://arxiv.org/abs/2409.16813)|null|
+|**2024-09-25**|**Spacewalker: Traversing Representation Spaces for Fast Interactive Exploration and Annotation of Unstructured Data**|Lukas Heine et.al.|[2409.16793](http://arxiv.org/abs/2409.16793)|**[link](https://github.com/code-lukas/spacewalker)**|
+|**2024-09-25**|**MSI-Agent: Incorporating Multi-Scale Insight into Embodied Agents for Superior Planning and Decision-Making**|Dayuan Fu et.al.|[2409.16686](http://arxiv.org/abs/2409.16686)|null|
+|**2024-09-25**|**Skyeyes: Ground Roaming using Aerial View Images**|Zhiyuan Gao et.al.|[2409.16685](http://arxiv.org/abs/2409.16685)|null|
+|**2024-09-25**|**An Integrated Machine Learning and Deep Learning Framework for Credit Card Approval Prediction**|Kejian Tong et.al.|[2409.16676](http://arxiv.org/abs/2409.16676)|null|
+|**2024-09-25**|**Stochastic Shortest Path Problem with Failure Probability**|Ritsusamuel Otsubo et.al.|[2409.16672](http://arxiv.org/abs/2409.16672)|null|
+|**2024-09-25**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
+|**2024-09-25**|**Examining the Rat in the Tunnel: Interpretable Multi-Label Classification of Tor-based Malware**|Ishan Karunanayake et.al.|[2409.16639](http://arxiv.org/abs/2409.16639)|null|
+|**2024-09-25**|**Optimized Monte Carlo Tree Search for Enhanced Decision Making in the FrozenLake Environment**|Esteban Aldana Guerra et.al.|[2409.16620](http://arxiv.org/abs/2409.16620)|null|
+|**2024-09-25**|**CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models**|Xin Jing et.al.|[2409.16619](http://arxiv.org/abs/2409.16619)|null|
+|**2024-09-25**|**EMIT- Event-Based Masked Auto Encoding for Irregular Time Series**|Hrishikesh Patel et.al.|[2409.16554](http://arxiv.org/abs/2409.16554)|**[link](https://github.com/hrishi-ds/EMIT)**|
 |**2024-09-18**|**Finetuning Language Models to Emit Linguistic Expressions of Uncertainty**|Arslan Chaudhry et.al.|[2409.12180](http://arxiv.org/abs/2409.12180)|null|
 |**2024-09-18**|**Publishing Instincts: An Exploration-Exploitation Framework for Studying Academic Publishing Behavior and "Home Venues"**|Teddy Lazebnik et.al.|[2409.12158](http://arxiv.org/abs/2409.12158)|null|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
