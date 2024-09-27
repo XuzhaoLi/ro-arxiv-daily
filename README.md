@@ -1,4 +1,4 @@
-## Updated on 2024.09.26
+## Updated on 2024.09.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -338,7 +338,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -360,7 +360,7 @@
 |**2024-09-25**|**Counterfactual Token Generation in Large Language Models**|Ivi Chatzi et.al.|[2409.17027](http://arxiv.org/abs/2409.17027)|null|
 |**2024-09-25**|**LLM-CARD: Towards a Description and Landscape of Large Language Models**|Shengwei Tian et.al.|[2409.17011](http://arxiv.org/abs/2409.17011)|null|
 |**2024-09-25**|**Models Can and Should Embrace the Communicative Nature of Human-Generated Math**|Sasha Boguraev et.al.|[2409.17005](http://arxiv.org/abs/2409.17005)|null|
-|**2024-09-25**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
+|**2024-09-26**|**INT-FlashAttention: Enabling Flash Attention for INT8 Quantization**|Shimao Chen et.al.|[2409.16997](http://arxiv.org/abs/2409.16997)|**[link](https://github.com/int-flashattention2024/int-flashattention)**|
 |**2024-09-25**|**Harnessing Diversity for Important Data Selection in Pretraining Large Language Models**|Chi Zhang et.al.|[2409.16986](http://arxiv.org/abs/2409.16986)|null|
 |**2024-09-25**|**AXCEL: Automated eXplainable Consistency Evaluation using LLMs**|P Aditya Sreekar et.al.|[2409.16984](http://arxiv.org/abs/2409.16984)|null|
 |**2024-09-25**|**Decoding Large-Language Models: A Systematic Overview of Socio-Technical Impacts, Constraints, and Emerging Questions**|Zeyneb N. Kaya et.al.|[2409.16974](http://arxiv.org/abs/2409.16974)|null|
@@ -3387,7 +3387,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3408,7 +3408,7 @@
 |**2024-09-25**|**Skyeyes: Ground Roaming using Aerial View Images**|Zhiyuan Gao et.al.|[2409.16685](http://arxiv.org/abs/2409.16685)|null|
 |**2024-09-25**|**An Integrated Machine Learning and Deep Learning Framework for Credit Card Approval Prediction**|Kejian Tong et.al.|[2409.16676](http://arxiv.org/abs/2409.16676)|null|
 |**2024-09-25**|**Stochastic Shortest Path Problem with Failure Probability**|Ritsusamuel Otsubo et.al.|[2409.16672](http://arxiv.org/abs/2409.16672)|null|
-|**2024-09-25**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
+|**2024-09-26**|**Mitigating Covariate Shift in Imitation Learning for Autonomous Vehicles Using Latent Space Generative World Models**|Alexander Popov et.al.|[2409.16663](http://arxiv.org/abs/2409.16663)|null|
 |**2024-09-25**|**Examining the Rat in the Tunnel: Interpretable Multi-Label Classification of Tor-based Malware**|Ishan Karunanayake et.al.|[2409.16639](http://arxiv.org/abs/2409.16639)|null|
 |**2024-09-25**|**Optimized Monte Carlo Tree Search for Enhanced Decision Making in the FrozenLake Environment**|Esteban Aldana Guerra et.al.|[2409.16620](http://arxiv.org/abs/2409.16620)|null|
 |**2024-09-25**|**CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models**|Xin Jing et.al.|[2409.16619](http://arxiv.org/abs/2409.16619)|null|
@@ -6005,5 +6005,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
 
