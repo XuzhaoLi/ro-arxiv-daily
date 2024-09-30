@@ -344,6 +344,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Exploring Token Pruning in Vision State Space Models**|Zheng Zhan et.al.|[2409.18962](http://arxiv.org/abs/2409.18962)|null|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**Ruler: A Model-Agnostic Method to Control Generated Length for Large Language Models**|Jiaming Li et.al.|[2409.18943](http://arxiv.org/abs/2409.18943)|**[link](https://github.com/geaming2002/ruler)**|
+|**2024-09-27**|**From Seconds to Hours: Reviewing MultiModal Large Language Models on Comprehensive Long Video Understanding**|Heqing Zou et.al.|[2409.18938](http://arxiv.org/abs/2409.18938)|null|
+|**2024-09-27**|**Social Media Bot Policies: Evaluating Passive and Active Enforcement**|Kristina Radivojevic et.al.|[2409.18931](http://arxiv.org/abs/2409.18931)|null|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-09-27**|**Soft Measures for Extracting Causal Collective Intelligence**|Maryam Berijanian et.al.|[2409.18911](http://arxiv.org/abs/2409.18911)|null|
+|**2024-09-27**|**Improving Visual Object Tracking through Visual Prompting**|Shih-Fang Chen et.al.|[2409.18901](http://arxiv.org/abs/2409.18901)|null|
+|**2024-09-27**|**IDGen: Item Discrimination Induced Prompt Generation for LLM Evaluation**|Fan Lin et.al.|[2409.18892](http://arxiv.org/abs/2409.18892)|null|
+|**2024-09-27**|**Suicide Phenotyping from Clinical Notes in Safety-Net Psychiatric Hospital Using Multi-Label Classification with Pre-Trained Language Models**|Zehan Li et.al.|[2409.18878](http://arxiv.org/abs/2409.18878)|null|
+|**2024-09-27**|**Predicting and analyzing memorization within fine-tuned Large Language Models**|Jérémie Dentan et.al.|[2409.18858](http://arxiv.org/abs/2409.18858)|null|
+|**2024-09-27**|**Mitigating Selection Bias with Node Pruning and Auxiliary Options**|Hyeong Kyu Choi et.al.|[2409.18857](http://arxiv.org/abs/2409.18857)|null|
+|**2024-09-27**|**LLMs4Synthesis: Leveraging Large Language Models for Scientific Synthesis**|Hamed Babaei Giglou et.al.|[2409.18812](http://arxiv.org/abs/2409.18812)|null|
+|**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794](http://arxiv.org/abs/2409.18794)|null|
+|**2024-09-27**|**A Survey on the Honesty of Large Language Models**|Siheng Li et.al.|[2409.18786](http://arxiv.org/abs/2409.18786)|**[link](https://github.com/sihengli99/llm-honesty-survey)**|
+|**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
+|**2024-09-27**|**OpenObject-NAV: Open-Vocabulary Object-Oriented Navigation Based on Dynamic Carrier-Relationship Scene Graph**|Yujie Tang et.al.|[2409.18743](http://arxiv.org/abs/2409.18743)|null|
+|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
+|**2024-09-27**|**Read Over the Lines: Attacking LLMs and Toxicity Detection Systems with ASCII Art to Mask Profanity**|Sergey Berezin et.al.|[2409.18708](http://arxiv.org/abs/2409.18708)|null|
+|**2024-09-27**|**Beyond Single-Audio: Advancing Multi-Audio Processing in Audio Large Language Models**|Yiming Chen et.al.|[2409.18680](http://arxiv.org/abs/2409.18680)|null|
 |**2024-09-26**|**EgoLM: Multi-Modal Language Model of Egocentric Motions**|Fangzhou Hong et.al.|[2409.18127](http://arxiv.org/abs/2409.18127)|null|
 |**2024-09-26**|**Lotus: Diffusion-based Visual Foundation Model for High-quality Dense Prediction**|Jing He et.al.|[2409.18124](http://arxiv.org/abs/2409.18124)|null|
 |**2024-09-26**|**Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography**|Yuexi Du et.al.|[2409.18119](http://arxiv.org/abs/2409.18119)|null|
@@ -3413,6 +3433,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**LML: Language Model Learning a Dataset for Data-Augmented Prediction**|Praneeth Vadlapati et.al.|[2409.18957](http://arxiv.org/abs/2409.18957)|**[link](https://github.com/pro-genai/lml-dap)**|
+|**2024-09-27**|**AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow**|Huizi Yu et.al.|[2409.18924](http://arxiv.org/abs/2409.18924)|null|
+|**2024-09-27**|**Moldable Development Patterns**|Oscar Nierstrasz et.al.|[2409.18811](http://arxiv.org/abs/2409.18811)|null|
+|**2024-09-27**|**Open-Nav: Exploring Zero-Shot Vision-and-Language Navigation in Continuous Environment with Open-Source LLMs**|Yanyuan Qiao et.al.|[2409.18794](http://arxiv.org/abs/2409.18794)|null|
+|**2024-09-27**|**Enhancing Explainability in Multimodal Large Language Models Using Ontological Context**|Jihen Amara et.al.|[2409.18753](http://arxiv.org/abs/2409.18753)|null|
+|**2024-09-27**|**Renewal equations for vector-borne diseases**|Cathal Mills et.al.|[2409.18726](http://arxiv.org/abs/2409.18726)|null|
+|**2024-09-27**|**The Craft of Selective Prediction: Towards Reliable Case Outcome Classification -- An Empirical Study on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18645](http://arxiv.org/abs/2409.18645)|null|
+|**2024-09-27**|**Incorporating Precedents for Legal Judgement Prediction on European Court of Human Rights Cases**|T. Y. S. S. Santosh et.al.|[2409.18644](http://arxiv.org/abs/2409.18644)|null|
+|**2024-09-27**|**DP-SCC-PL:Differentially Private Decentralized Byzantine-Resilient Stochastic Optimization via Self-Centered Clipping Under Polyak-Łojasiewicz Condition**|Jinhui Hu et.al.|[2409.18632](http://arxiv.org/abs/2409.18632)|null|
+|**2024-09-27**|**Unsupervised Cognition**|Alfredo Ibias et.al.|[2409.18624](http://arxiv.org/abs/2409.18624)|null|
+|**2024-09-27**|**Analysis of Truncated Singular Value Decomposition for Koopman Operator-Based Lane Change Model**|Chinnawut Nantabut et.al.|[2409.18586](http://arxiv.org/abs/2409.18586)|null|
+|**2024-09-27**|**Climate Adaptation with Reinforcement Learning: Experiments with Flooding and Transportation in Copenhagen**|Miguel Costa et.al.|[2409.18574](http://arxiv.org/abs/2409.18574)|null|
+|**2024-09-27**|**BoT-Drive: Hierarchical Behavior and Trajectory Planning for Autonomous Driving using POMDPs**|Xuanjin Jin et.al.|[2409.18411](http://arxiv.org/abs/2409.18411)|null|
+|**2024-09-27**|**Multimodal Trajectory Prediction for Autonomous Driving on Unstructured Roads using Deep Convolutional Network**|Lei Li et.al.|[2409.18399](http://arxiv.org/abs/2409.18399)|null|
+|**2024-09-27**|**ChARLES: Change-Aware Recovery of Latent Evolution Semantics in Relational Data**|Shiyi He et.al.|[2409.18386](http://arxiv.org/abs/2409.18386)|null|
+|**2024-09-27**|**Robo-CSK-Organizer: Commonsense Knowledge to Organize Detected Objects for Multipurpose Robots**|Rafael Hidalgo et.al.|[2409.18385](http://arxiv.org/abs/2409.18385)|null|
+|**2024-09-27**|**A model-constrained Discontinuous Galerkin Network (DGNet) for Compressible Euler Equations with Out-of-Distribution Generalization**|Hai Van Nguyen et.al.|[2409.18371](http://arxiv.org/abs/2409.18371)|null|
+|**2024-09-26**|**Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving**|Zhenghao Peng et.al.|[2409.18343](http://arxiv.org/abs/2409.18343)|null|
+|**2024-09-26**|**Does End-to-End Autonomous Driving Really Need Perception Tasks?**|Peidong Li et.al.|[2409.18341](http://arxiv.org/abs/2409.18341)|null|
+|**2024-09-26**|**Spatial Visibility and Temporal Dynamics: Revolutionizing Field of View Prediction in Adaptive Point Cloud Video Streaming**|Chen Li et.al.|[2409.18236](http://arxiv.org/abs/2409.18236)|null|
 |**2024-09-26**|**DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models**|Helin Cao et.al.|[2409.18092](http://arxiv.org/abs/2409.18092)|null|
 |**2024-09-26**|**DualAD: Dual-Layer Planning for Reasoning in Autonomous Driving**|Dingrui Wang et.al.|[2409.18053](http://arxiv.org/abs/2409.18053)|null|
 |**2024-09-26**|**HARMONIC: A Framework for Explanatory Cognitive Robots**|Sanjay Oruganti et.al.|[2409.18037](http://arxiv.org/abs/2409.18037)|null|
