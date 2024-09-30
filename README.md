@@ -1,4 +1,4 @@
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -338,7 +338,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3407,7 +3407,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -3422,12 +3422,12 @@
 |**2024-09-26**|**A Decision-Making Method in Polyhedral Convex Set Optimization**|Andreas Löhne et.al.|[2409.17998](http://arxiv.org/abs/2409.17998)|null|
 |**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[2409.17937](http://arxiv.org/abs/2409.17937)|null|
 |**2024-09-26**|**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**|Zizhi Jin et.al.|[2409.17907](http://arxiv.org/abs/2409.17907)|null|
-|**2024-09-26**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
+|**2024-09-27**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
 |**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790](http://arxiv.org/abs/2409.17790)|null|
 |**2024-09-26**|**AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**|Shiqi Sun et.al.|[2409.17728](http://arxiv.org/abs/2409.17728)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-26**|**Intervention strategies for misinformation sharing on social media: A bibliometric analysis**|Juanita Zainudin et.al.|[2409.17637](http://arxiv.org/abs/2409.17637)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
 |**2024-09-26**|**Good Data Is All Imitation Learning Needs**|Amir Samadi et.al.|[2409.17605](http://arxiv.org/abs/2409.17605)|null|
 |**2024-09-26**|**Planned behavior, perceptual biases, and the dynamics of collective action**|Alice C Schwarze et.al.|[2409.17573](http://arxiv.org/abs/2409.17573)|null|
 |**2024-09-26**|**Joint Source-Channel Coding: Fundamentals and Recent Progress in Practical Designs**|Deniz Gündüz et.al.|[2409.17557](http://arxiv.org/abs/2409.17557)|null|
@@ -6045,5 +6045,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20240929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240930>back to top</a>)</p>
 

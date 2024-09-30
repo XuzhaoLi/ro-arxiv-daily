@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -3413,12 +3413,12 @@ layout: default
 |**2024-09-26**|**A Decision-Making Method in Polyhedral Convex Set Optimization**|Andreas Löhne et.al.|[2409.17998](http://arxiv.org/abs/2409.17998)|null|
 |**2024-09-26**|**Adaptive Stream Processing on Edge Devices through Active Inference**|Boris Sedlak et.al.|[2409.17937](http://arxiv.org/abs/2409.17937)|null|
 |**2024-09-26**|**PhantomLiDAR: Cross-modality Signal Injection Attacks against LiDAR**|Zizhi Jin et.al.|[2409.17907](http://arxiv.org/abs/2409.17907)|null|
-|**2024-09-26**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
+|**2024-09-27**|**A New Dataset for Monocular Depth Estimation Under Viewpoint Shifts**|Aurel Pjetri et.al.|[2409.17851](http://arxiv.org/abs/2409.17851)|null|
 |**2024-09-26**|**CASPFormer: Trajectory Prediction from BEV Images with Deformable Attention**|Harsh Yadav et.al.|[2409.17790](http://arxiv.org/abs/2409.17790)|null|
 |**2024-09-26**|**AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking**|Shiqi Sun et.al.|[2409.17728](http://arxiv.org/abs/2409.17728)|null|
 |**2024-09-26**|**Hierarchical End-to-End Autonomous Driving: Integrating BEV Perception with Deep Reinforcement Learning**|Siyi Lu et.al.|[2409.17659](http://arxiv.org/abs/2409.17659)|null|
 |**2024-09-26**|**Intervention strategies for misinformation sharing on social media: A bibliometric analysis**|Juanita Zainudin et.al.|[2409.17637](http://arxiv.org/abs/2409.17637)|null|
-|**2024-09-26**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
+|**2024-09-27**|**Learning Occlusion-aware Decision-making from Agent Interaction via Active Perception**|Jie Jia et.al.|[2409.17618](http://arxiv.org/abs/2409.17618)|null|
 |**2024-09-26**|**Good Data Is All Imitation Learning Needs**|Amir Samadi et.al.|[2409.17605](http://arxiv.org/abs/2409.17605)|null|
 |**2024-09-26**|**Planned behavior, perceptual biases, and the dynamics of collective action**|Alice C Schwarze et.al.|[2409.17573](http://arxiv.org/abs/2409.17573)|null|
 |**2024-09-26**|**Joint Source-Channel Coding: Fundamentals and Recent Progress in Practical Designs**|Deniz Gündüz et.al.|[2409.17557](http://arxiv.org/abs/2409.17557)|null|
