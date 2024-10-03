@@ -1,4 +1,4 @@
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -340,7 +340,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -3449,27 +3449,27 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
 ## Autonomous Driving
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|null|
-|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|null|
-|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|null|
+|**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
+|**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
+|**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|**[link](https://github.com/chrisyeh96/e2e-conformal)**|
 |**2024-09-30**|**Quantifying Metrics for Wildfire Ignition Risk from Geographic Data in Power Shutoff Decision-Making**|Ryan Piansky et.al.|[2409.20511](http://arxiv.org/abs/2409.20511)|null|
 |**2024-09-30**|**Online Decision Deferral under Budget Constraints**|Mirabel Reid et.al.|[2409.20489](http://arxiv.org/abs/2409.20489)|null|
 |**2024-09-30**|**The Secretary Problem with Predicted Additive Gap**|Alexander Braun et.al.|[2409.20460](http://arxiv.org/abs/2409.20460)|null|
 |**2024-09-30**|**Sufficient and Necessary Explanations (and What Lies in Between)**|Beepul Bharti et.al.|[2409.20427](http://arxiv.org/abs/2409.20427)|null|
-|**2024-09-30**|**Conformal Prediction for Dose-Response Models with Continuous Treatments**|Jarne Verhaeghe et.al.|[2409.20412](http://arxiv.org/abs/2409.20412)|null|
+|**2024-09-30**|**Conformal Prediction for Dose-Response Models with Continuous Treatments**|Jarne Verhaeghe et.al.|[2409.20412](http://arxiv.org/abs/2409.20412)|**[link](https://github.com/predict-idlab/dose-response-conformal-prediction)**|
 |**2024-09-30**|**Efficient Driving Behavior Narration and Reasoning on Edge Device Using Large Language Models**|Yizhou Huang et.al.|[2409.20364](http://arxiv.org/abs/2409.20364)|null|
-|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|null|
+|**2024-09-30**|**Leveraging CAM Algorithms for Explaining Medical Semantic Segmentation**|Tillmann Rheude et.al.|[2409.20287](http://arxiv.org/abs/2409.20287)|**[link](https://github.com/TillmannRheude/SegHiResGrad_CAM)**|
 |**2024-09-30**|**Learning to Ground Existentially Quantified Goals**|Martin Funkquist et.al.|[2409.20259](http://arxiv.org/abs/2409.20259)|null|
-|**2024-09-30**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning**|Junlin Lu et.al.|[2409.20258](http://arxiv.org/abs/2409.20258)|null|
+|**2024-09-30**|**Inferring Preferences from Demonstrations in Multi-objective Reinforcement Learning**|Junlin Lu et.al.|[2409.20258](http://arxiv.org/abs/2409.20258)|**[link](https://github.com/JLu2022/DWPI)**|
 |**2024-09-30**|**Feature Extractor or Decision Maker: Rethinking the Role of Visual Encoders in Visuomotor Policies**|Ruiyu Wang et.al.|[2409.20248](http://arxiv.org/abs/2409.20248)|null|
 |**2024-09-30**|**Customized Information and Domain-centric Knowledge Graph Construction with Large Language Models**|Frank Wawrzik et.al.|[2409.20010](http://arxiv.org/abs/2409.20010)|null|
-|**2024-09-30**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[2409.19987](http://arxiv.org/abs/2409.19987)|null|
+|**2024-10-01**|**OccRWKV: Rethinking Efficient 3D Semantic Occupancy Prediction with Linear Complexity**|Junming Wang et.al.|[2409.19987](http://arxiv.org/abs/2409.19987)|null|
 |**2024-09-30**|**DAOcc: 3D Object Detection Assisted Multi-Sensor Fusion for 3D Occupancy Prediction**|Zhen Yang et.al.|[2409.19972](http://arxiv.org/abs/2409.19972)|**[link](https://github.com/alphaplustt/daocc)**|
 |**2024-09-30**|**Data-driven decision-making under uncertainty with entropic risk measure**|Utsav Sadana et.al.|[2409.19926](http://arxiv.org/abs/2409.19926)|null|
 |**2024-10-01**|**On The Planning Abilities of OpenAI's o1 Models: Feasibility, Optimality, and Generalizability**|Kevin Wang et.al.|[2409.19924](http://arxiv.org/abs/2409.19924)|**[link](https://github.com/vita-group/o1-planning)**|
@@ -6127,5 +6127,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241003>back to top</a>)</p>
 
