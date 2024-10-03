@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Effects of eco-driving on energy consumption and battery degradation for electric vehicles at signalized intersections**|Yongqiang Wang et.al.|[2410.01685](http://arxiv.org/abs/2410.01685)|null|
+|**2024-10-02**|**Krylov-Safonov theory for Pucci-type extremal inequalities on random data clouds**|Ángel Arroyo et.al.|[2410.01642](http://arxiv.org/abs/2410.01642)|null|
+|**2024-10-02**|**Automated Curvy Waveguide Routing for Large-Scale Photonic Integrated Circuits**|Hongjian Zhou et.al.|[2410.01260](http://arxiv.org/abs/2410.01260)|null|
+|**2024-09-30**|**Generalised mixed effects models for changepoint analysis of biomedical time series data**|Mark B. Fiecas et.al.|[2410.00183](http://arxiv.org/abs/2410.00183)|null|
 |**2024-09-30**|**Opt2Skill: Imitating Dynamically-feasible Whole-Body Trajectories for Versatile Humanoid Loco-Manipulation**|Fukang Liu et.al.|[2409.20514](http://arxiv.org/abs/2409.20514)|null|
 |**2024-09-28**|**On Computing Elastic Shape Distances between Curves in d-dimensional Space**|Javier Bernal et.al.|[2409.19380](http://arxiv.org/abs/2409.19380)|null|
 |**2024-09-25**|**MaViLS, a Benchmark Dataset for Video-to-Slide Alignment, Assessing Baseline Accuracy with a Multimodal Alignment Algorithm Leveraging Speech, OCR, and Visual Features**|Katharina Anderer et.al.|[2409.16765](http://arxiv.org/abs/2409.16765)|**[link](https://github.com/andererka/mavils)**|
@@ -339,6 +343,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**|Yuxiang Huang et.al.|[2410.01805](http://arxiv.org/abs/2410.01805)|**[link](https://github.com/huangyuxiang03/Locret)**|
+|**2024-10-02**|**Efficient $1$ -bit tensor approximations**|Alex W. Neal Riasanovsky et.al.|[2410.01799](http://arxiv.org/abs/2410.01799)|null|
+|**2024-10-02**|**Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models**|Joseph Lee et.al.|[2410.01795](http://arxiv.org/abs/2410.01795)|**[link](https://github.com/pennshenlab/freeform)**|
+|**2024-10-02**|**When a language model is optimized for reasoning, does it still show embers of autoregression? An analysis of OpenAI o1**|R. Thomas McCoy et.al.|[2410.01792](http://arxiv.org/abs/2410.01792)|null|
+|**2024-10-02**|**Investigating on RLHF methodology**|Alexey Kutalev et.al.|[2410.01789](http://arxiv.org/abs/2410.01789)|null|
+|**2024-10-02**|**OmniGenBench: Automating Large-scale in-silico Benchmarking for Genomic Foundation Models**|Heng Yang et.al.|[2410.01784](http://arxiv.org/abs/2410.01784)|**[link](https://github.com/yangheng95/OmniGenomeBench)**|
+|**2024-10-02**|**Open-RAG: Enhanced Retrieval-Augmented Reasoning with Open-Source Large Language Models**|Shayekh Bin Islam et.al.|[2410.01782](http://arxiv.org/abs/2410.01782)|null|
+|**2024-10-02**|**Quantifying Generalization Complexity for Large Language Models**|Zhenting Qi et.al.|[2410.01769](http://arxiv.org/abs/2410.01769)|null|
+|**2024-10-02**|**Integrating Protein Sequence and Expression Level to Analysis Molecular Characterization of Breast Cancer Subtypes**|Hossein Sholehrasa et.al.|[2410.01755](http://arxiv.org/abs/2410.01755)|null|
+|**2024-10-02**|**LEOPARD : A Vision Language Model For Text-Rich Multi-Image Tasks**|Mengzhao Jia et.al.|[2410.01744](http://arxiv.org/abs/2410.01744)|null|
+|**2024-10-02**|**VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models**|Kailai Feng et.al.|[2410.01738](http://arxiv.org/abs/2410.01738)|**[link](https://github.com/carlofkl/vitaglyph)**|
+|**2024-10-02**|**Visual Perception in Text Strings**|Qi Jia et.al.|[2410.01733](http://arxiv.org/abs/2410.01733)|null|
+|**2024-10-02**|**Automated Knowledge Concept Annotation and Question Representation Learning for Knowledge Tracing**|Yilmazcan Ozyurt et.al.|[2410.01727](http://arxiv.org/abs/2410.01727)|**[link](https://github.com/oezyurty/kcqrl)**|
+|**2024-10-02**|**Auto-Demo Prompting: Leveraging Generated Outputs as Demonstrations for Enhanced Batch Prompting**|Longyu Feng et.al.|[2410.01724](http://arxiv.org/abs/2410.01724)|null|
+|**2024-10-02**|**Towards a Theoretical Understanding of Synthetic Data in LLM Post-Training: A Reverse-Bottleneck Perspective**|Zeyu Gan et.al.|[2410.01720](http://arxiv.org/abs/2410.01720)|null|
+|**2024-10-02**|**Examining the Role of Relationship Alignment in Large Language Models**|Kristen M. Altenburger et.al.|[2410.01708](http://arxiv.org/abs/2410.01708)|null|
+|**2024-10-02**|**Interpretable Contrastive Monte Carlo Tree Search Reasoning**|Zitian Gao et.al.|[2410.01707](http://arxiv.org/abs/2410.01707)|null|
+|**2024-10-02**|**An Exploration of Self-Supervised Mutual Information Alignment for Multi-Task Settings**|Soham Govande et.al.|[2410.01704](http://arxiv.org/abs/2410.01704)|null|
+|**2024-10-02**|**CreDes: Causal Reasoning Enhancement and Dual-End Searching for Solving Long-Range Reasoning Problems using LLMs**|Kangsheng Wang et.al.|[2410.01696](http://arxiv.org/abs/2410.01696)|null|
+|**2024-10-02**|**U-shaped and Inverted-U Scaling behind Emergent Abilities of Large Language Models**|Tung-Yu Wu et.al.|[2410.01692](http://arxiv.org/abs/2410.01692)|null|
 |**2024-09-30**|**MM1.5: Methods, Analysis & Insights from Multimodal LLM Fine-tuning**|Haotian Zhang et.al.|[2409.20566](http://arxiv.org/abs/2409.20566)|null|
 |**2024-09-30**|**LaMMA-P: Generalizable Multi-Agent Long-Horizon Task Allocation and Planning with LM-Driven PDDL Planner**|Xiaopan Zhang et.al.|[2409.20560](http://arxiv.org/abs/2409.20560)|null|
 |**2024-09-30**|**Propose, Assess, Search: Harnessing LLMs for Goal-Oriented Planning in Instructional Videos**|Md Mohaiminul Islam et.al.|[2409.20557](http://arxiv.org/abs/2409.20557)|null|
@@ -3446,6 +3470,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-02**|**Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space**|Yangming Li et.al.|[2410.01796](http://arxiv.org/abs/2410.01796)|null|
+|**2024-10-02**|**DeFine: Enhancing LLM Decision-Making with Factor Profiles and Analogical Reasoning**|Yebowen Hu et.al.|[2410.01772](http://arxiv.org/abs/2410.01772)|null|
+|**2024-10-02**|**Decision-Focused Uncertainty Quantification**|Santiago Cortes-Gomez et.al.|[2410.01767](http://arxiv.org/abs/2410.01767)|null|
+|**2024-10-02**|**Mimicking Human Intuition: Cognitive Belief-Driven Q-Learning**|Xingrui Gu et.al.|[2410.01739](http://arxiv.org/abs/2410.01739)|null|
+|**2024-10-02**|**Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**|Ayesha Ishaq et.al.|[2410.01678](http://arxiv.org/abs/2410.01678)|**[link](https://github.com/ayesha-ishaq/open3dtrack)**|
+|**2024-10-02**|**Moral Alignment for LLM Agents**|Elizaveta Tennant et.al.|[2410.01639](http://arxiv.org/abs/2410.01639)|null|
+|**2024-10-02**|**Entropy-Based Uncertainty Modeling for Trajectory Prediction in Autonomous Driving**|Aron Distelzweig et.al.|[2410.01628](http://arxiv.org/abs/2410.01628)|null|
+|**2024-10-02**|**AI-Native Network Digital Twin for Intelligent Network Management in 6G**|Wen Wu et.al.|[2410.01584](http://arxiv.org/abs/2410.01584)|null|
+|**2024-10-02**|**Uncertainty quantification in neutron and gamma time correlation measurements**|Paul Lartaud et.al.|[2410.01522](http://arxiv.org/abs/2410.01522)|null|
+|**2024-10-02**|**One Wave to Explain Them All: A Unifying Perspective on Post-hoc Explainability**|Gabriel Kasmi et.al.|[2410.01482](http://arxiv.org/abs/2410.01482)|null|
+|**2024-10-02**|**Adaptive teachers for amortized samplers**|Minsu Kim et.al.|[2410.01432](http://arxiv.org/abs/2410.01432)|null|
+|**2024-10-02**|**Regularized e-processes: anytime valid inference with knowledge-based efficiency gains**|Ryan Martin et.al.|[2410.01427](http://arxiv.org/abs/2410.01427)|null|
+|**2024-10-02**|**CSLens: Towards Better Deploying Charging Stations via Visual Analytics -- A Coupled Networks Perspective**|Yutian Zhang et.al.|[2410.01384](http://arxiv.org/abs/2410.01384)|null|
+|**2024-10-02**|**MARLens: Understanding Multi-agent Reinforcement Learning for Traffic Signal Control via Visual Analytics**|Yutian Zhang et.al.|[2410.01364](http://arxiv.org/abs/2410.01364)|null|
+|**2024-10-02**|**Detecting Viral Social Events through Censored Observation with Deep Survival Analysis**|Maryam Ramezani et.al.|[2410.01320](http://arxiv.org/abs/2410.01320)|null|
+|**2024-10-02**|**FanCric : Multi-Agentic Framework for Crafting Fantasy 11 Cricket Teams**|Mohit Bhatnagar et.al.|[2410.01307](http://arxiv.org/abs/2410.01307)|null|
+|**2024-10-02**|**What Did I Say Again? Relating User Needs to Search Outcomes in Conversational Commerce**|Kevin Schott et.al.|[2410.01291](http://arxiv.org/abs/2410.01291)|null|
+|**2024-10-02**|**Uncertainty-aware Human Mobility Modeling and Anomaly Detection**|Haomin Wen et.al.|[2410.01281](http://arxiv.org/abs/2410.01281)|null|
+|**2024-10-02**|**Perceptual Piercing: Human Visual Cue-based Object Detection in Low Visibility Conditions**|Ashutosh Kumar et.al.|[2410.01225](http://arxiv.org/abs/2410.01225)|**[link](https://github.com/ashu1069/perceptual-piercing)**|
+|**2024-10-02**|**An uncertainty-aware Digital Shadow for underground multimodal CO2 storage monitoring**|Abhinav Prakash Gahlot et.al.|[2410.01218](http://arxiv.org/abs/2410.01218)|null|
 |**2024-09-30**|**Maia-2: A Unified Model for Human-AI Alignment in Chess**|Zhenwei Tang et.al.|[2409.20553](http://arxiv.org/abs/2409.20553)|**[link](https://github.com/lilv98/maia2-submission)**|
 |**2024-09-30**|**Best Practices for Responsible Machine Learning in Credit Scoring**|Giovani Valdrighi et.al.|[2409.20536](http://arxiv.org/abs/2409.20536)|**[link](https://github.com/hiaac-finance/credit_pipeline)**|
 |**2024-09-30**|**End-to-End Conformal Calibration for Optimization Under Uncertainty**|Christopher Yeh et.al.|[2409.20534](http://arxiv.org/abs/2409.20534)|**[link](https://github.com/chrisyeh96/e2e-conformal)**|
