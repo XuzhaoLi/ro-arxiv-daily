@@ -343,6 +343,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
+|**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
+|**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
+|**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
+|**2024-10-04**|**Conditional Enzyme Generation Using Protein Language Models with Adapters**|Jason Yang et.al.|[2410.03634](http://arxiv.org/abs/2410.03634)|null|
+|**2024-10-04**|**Large Language Model Performance Benchmarking on Mobile Platforms: A Thorough Evaluation**|Jie Xiao et.al.|[2410.03613](http://arxiv.org/abs/2410.03613)|null|
+|**2024-10-04**|**TICKing All the Boxes: Generated Checklists Improve LLM Evaluation and Generation**|Jonathan Cook et.al.|[2410.03608](http://arxiv.org/abs/2410.03608)|null|
+|**2024-10-04**|**LeLaN: Learning A Language-Conditioned Navigation Policy from In-the-Wild Videos**|Noriaki Hirose et.al.|[2410.03603](http://arxiv.org/abs/2410.03603)|null|
+|**2024-10-04**|**Efficiently Identifying Watermarked Segments in Mixed-Source Texts**|Xuandong Zhao et.al.|[2410.03600](http://arxiv.org/abs/2410.03600)|null|
+|**2024-10-04**|**Understanding Reasoning in Chain-of-Thought from the Hopfieldian View**|Lijie Hu et.al.|[2410.03595](http://arxiv.org/abs/2410.03595)|null|
+|**2024-10-04**|**Look Twice Before You Answer: Memory-Space Visual Retracing for Hallucination Mitigation in Multimodal Large Language Models**|Xin Zou et.al.|[2410.03577](http://arxiv.org/abs/2410.03577)|null|
+|**2024-10-04**|**Towards Linguistically-Aware and Language-Independent Tokenization for Large Language Models (LLMs)**|Abrar Rahman et.al.|[2410.03568](http://arxiv.org/abs/2410.03568)|null|
+|**2024-10-04**|**Structure-Enhanced Protein Instruction Tuning: Towards General-Purpose Protein Understanding**|Wei Wu et.al.|[2410.03553](http://arxiv.org/abs/2410.03553)|null|
+|**2024-10-04**|**Re-examining Sexism and Misogyny Classification with Annotator Attitudes**|Aiqi Jiang et.al.|[2410.03543](http://arxiv.org/abs/2410.03543)|null|
+|**2024-10-04**|**No Need to Talk: Asynchronous Mixture of Language Models**|Anastasiia Filippova et.al.|[2410.03529](http://arxiv.org/abs/2410.03529)|null|
+|**2024-10-04**|**Steering Large Language Models between Code Execution and Textual Reasoning**|Yongchao Chen et.al.|[2410.03524](http://arxiv.org/abs/2410.03524)|null|
+|**2024-10-04**|**A Probabilistic Perspective on Unlearning and Alignment for Large Language Models**|Yan Scholten et.al.|[2410.03523](http://arxiv.org/abs/2410.03523)|null|
+|**2024-10-04**|**CliMedBench: A Large-Scale Chinese Benchmark for Evaluating Medical Large Language Models in Clinical Scenarios**|Zetian Ouyang et.al.|[2410.03502](http://arxiv.org/abs/2410.03502)|null|
+|**2024-10-04**|**FedStein: Enhancing Multi-Domain Federated Learning Through James-Stein Estimator**|Sunny Gupta et.al.|[2410.03499](http://arxiv.org/abs/2410.03499)|**[link](https://github.com/sunnyinAI/FedStein)**|
+|**2024-10-04**|**Towards Reproducible LLM Evaluation: Quantifying Uncertainty in LLM Benchmark Scores**|Robert E. Blackwell et.al.|[2410.03492](http://arxiv.org/abs/2410.03492)|null|
 |**2024-10-03**|**Interpreting and Editing Vision-Language Representations to Mitigate Hallucinations**|Nick Jiang et.al.|[2410.02762](http://arxiv.org/abs/2410.02762)|**[link](https://github.com/nickjiang2378/vl-interp)**|
 |**2024-10-03**|**FakeShield: Explainable Image Forgery Detection and Localization via Multi-modal Large Language Models**|Zhipei Xu et.al.|[2410.02761](http://arxiv.org/abs/2410.02761)|null|
 |**2024-10-03**|**Erasing Conceptual Knowledge from Language Models**|Rohit Gandikota et.al.|[2410.02760](http://arxiv.org/abs/2410.02760)|**[link](https://github.com/rohitgandikota/erasing-llm)**|
@@ -3490,6 +3510,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Minimax-optimal trust-aware multi-armed bandits**|Changxiao Cai et.al.|[2410.03651](http://arxiv.org/abs/2410.03651)|null|
+|**2024-10-04**|**Open-World Reinforcement Learning over Long Short-Term Imagination**|Jiajian Li et.al.|[2410.03618](http://arxiv.org/abs/2410.03618)|null|
+|**2024-10-04**|**A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development**|Jesper Knapp et.al.|[2410.03580](http://arxiv.org/abs/2410.03580)|null|
+|**2024-10-04**|**MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-object Demand-driven Navigation**|Hongcheng Wang et.al.|[2410.03488](http://arxiv.org/abs/2410.03488)|null|
+|**2024-10-04**|**Predictive Coding for Decision Transformer**|Tung M. Luu et.al.|[2410.03408](http://arxiv.org/abs/2410.03408)|null|
+|**2024-10-04**|**Make Interval Bound Propagation great again**|Patryk Krukowski et.al.|[2410.03373](http://arxiv.org/abs/2410.03373)|**[link](https://github.com/gmum/make-interval-bound-propagation-great-again)**|
+|**2024-10-04**|**SELU: Self-Learning Embodied MLLMs in Unknown Environments**|Boyu Li et.al.|[2410.03303](http://arxiv.org/abs/2410.03303)|null|
+|**2024-10-04**|**Deliberate Reasoning for LLMs as Structure-aware Planning with Accurate World Model**|Siheng Xiong et.al.|[2410.03136](http://arxiv.org/abs/2410.03136)|null|
+|**2024-10-04**|**Spatial-aware decision-making with ring attractors in reinforcement learning systems**|Marcos Negre Saura et.al.|[2410.03119](http://arxiv.org/abs/2410.03119)|null|
+|**2024-10-04**|**Strategic Insights from Simulation Gaming of AI Race Dynamics**|Ross Gruetzemacher et.al.|[2410.03092](http://arxiv.org/abs/2410.03092)|null|
+|**2024-10-04**|**MetaOOD: Automatic Selection of OOD Detection Models**|Yuehan Qin et.al.|[2410.03074](http://arxiv.org/abs/2410.03074)|null|
+|**2024-10-03**|**Learning a Fast Mixing Exogenous Block MDP using a Single Trajectory**|Alexander Levine et.al.|[2410.03016](http://arxiv.org/abs/2410.03016)|**[link](https://github.com/midi-lab/steel)**|
+|**2024-10-03**|**Harm Ratio: A Novel and Versatile Fairness Criterion**|Soroush Ebadian et.al.|[2410.02977](http://arxiv.org/abs/2410.02977)|null|
+|**2024-10-03**|**Acoustic signaling enables collective perception and control in active matter systems**|Alexander Ziepke et.al.|[2410.02940](http://arxiv.org/abs/2410.02940)|null|
 |**2024-10-03**|**ReLIC: A Recipe for 64k Steps of In-Context Reinforcement Learning for Embodied AI**|Ahmad Elawady et.al.|[2410.02751](http://arxiv.org/abs/2410.02751)|**[link](https://github.com/aielawady/relic)**|
 |**2024-10-03**|**DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life**|Yu Ying Chiu et.al.|[2410.02683](http://arxiv.org/abs/2410.02683)|null|
 |**2024-10-03**|**Grounded Answers for Multi-agent Decision-making Problem through Generative World Model**|Zeyang Liu et.al.|[2410.02664](http://arxiv.org/abs/2410.02664)|null|
