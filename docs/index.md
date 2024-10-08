@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-05**|**AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text**|Ximing Lu et.al.|[2410.04265](http://arxiv.org/abs/2410.04265)|null|
+|**2024-10-05**|**A branch-&-price approach to the unrooted maximum agreement forest problem**|Martin Frohn et.al.|[2410.04122](http://arxiv.org/abs/2410.04122)|null|
+|**2024-10-02**|**Electrification of Transportation: A Hybrid Benders/SDDP Algorithm for Optimal Charging Station Trading**|Farnaz Sohrabi et.al.|[2410.03763](http://arxiv.org/abs/2410.03763)|null|
 |**2024-10-02**|**Effects of eco-driving on energy consumption and battery degradation for electric vehicles at signalized intersections**|Yongqiang Wang et.al.|[2410.01685](http://arxiv.org/abs/2410.01685)|null|
 |**2024-10-02**|**Krylov-Safonov theory for Pucci-type extremal inequalities on random data clouds**|Ángel Arroyo et.al.|[2410.01642](http://arxiv.org/abs/2410.01642)|null|
 |**2024-10-02**|**Automated Curvy Waveguide Routing for Large-Scale Photonic Integrated Circuits**|Hongjian Zhou et.al.|[2410.01260](http://arxiv.org/abs/2410.01260)|null|
@@ -343,6 +346,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
+|**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
+|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261](http://arxiv.org/abs/2410.05261)|null|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
+|**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
+|**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
+|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
+|**2024-10-07**|**GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**|Iman Mirzadeh et.al.|[2410.05229](http://arxiv.org/abs/2410.05229)|null|
+|**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224](http://arxiv.org/abs/2410.05224)|null|
+|**2024-10-07**|**Precise Model Benchmarking with Only a Few Observations**|Riccardo Fogliato et.al.|[2410.05222](http://arxiv.org/abs/2410.05222)|null|
+|**2024-10-07**|**Density estimation with LLMs: a geometric investigation of in-context learning trajectories**|Toni J. B. Liu et.al.|[2410.05218](http://arxiv.org/abs/2410.05218)|null|
+|**2024-10-07**|**Organizing Unstructured Image Collections using Natural Language**|Mingxuan Liu et.al.|[2410.05217](http://arxiv.org/abs/2410.05217)|null|
+|**2024-10-07**|**Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality**|Youngtaek Oh et.al.|[2410.05210](http://arxiv.org/abs/2410.05210)|**[link](https://github.com/ytaek-oh/fsc-clip)**|
+|**2024-10-07**|**RevisEval: Improving LLM-as-a-Judge via Response-Adapted References**|Qiyuan Zhang et.al.|[2410.05193](http://arxiv.org/abs/2410.05193)|null|
+|**2024-10-07**|**Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective**|Kaiyue Wen et.al.|[2410.05192](http://arxiv.org/abs/2410.05192)|null|
+|**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**Unraveling Cross-Modality Knowledge Conflict in Large Vision-Language Models**|Tinghui Zhu et.al.|[2410.03659](http://arxiv.org/abs/2410.03659)|null|
 |**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
@@ -3510,6 +3533,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
+|**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168](http://arxiv.org/abs/2410.05168)|null|
+|**2024-10-07**|**Assouad, Fano, and Le Cam with Interaction: A Unifying Lower Bound Framework and Characterization for Bandit Learnability**|Fan Chen et.al.|[2410.05117](http://arxiv.org/abs/2410.05117)|null|
+|**2024-10-07**|**LiDAR-GS:Real-time LiDAR Re-Simulation using Gaussian Splatting**|Qifeng Chen et.al.|[2410.05111](http://arxiv.org/abs/2410.05111)|null|
+|**2024-10-07**|**HE-Drive: Human-Like End-to-End Driving with Vision Language Models**|Junming Wang et.al.|[2410.05051](http://arxiv.org/abs/2410.05051)|null|
+|**2024-10-07**|**Real-time Ship Recognition and Georeferencing for the Improvement of Maritime Situational Awareness**|Borja Carrillo Perez et.al.|[2410.04946](http://arxiv.org/abs/2410.04946)|null|
+|**2024-10-07**|**PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion**|Sijie Wang et.al.|[2410.04939](http://arxiv.org/abs/2410.04939)|**[link](https://github.com/sijieaaa/prfusion)**|
+|**2024-10-07**|**Why am I seeing this: Democratizing End User Auditing for Online Content Recommendations**|Chaoran Chen et.al.|[2410.04917](http://arxiv.org/abs/2410.04917)|null|
+|**2024-10-07**|**Data-driven Diffusion Models for Enhancing Safety in Autonomous Vehicle Traffic Simulations**|Jinxiong Lu et.al.|[2410.04809](http://arxiv.org/abs/2410.04809)|null|
+|**2024-10-07**|**WTCL-Dehaze: Rethinking Real-world Image Dehazing via Wavelet Transform and Contrastive Learning**|Divine Joseph Appiah et.al.|[2410.04762](http://arxiv.org/abs/2410.04762)|null|
+|**2024-10-07**|**Driving with Regulation: Interpretable Decision-Making for Autonomous Vehicles with Retrieval-Augmented Reasoning via LLM**|Tianhui Cai et.al.|[2410.04759](http://arxiv.org/abs/2410.04759)|null|
+|**2024-10-07**|**Diffusion Models in 3D Vision: A Survey**|Zhen Wang et.al.|[2410.04738](http://arxiv.org/abs/2410.04738)|null|
+|**2024-10-07**|**Does the Infamous Pie Chart Really Hurt Decision-Making in the Real World? Assessing the Role of Visualization in High-Level Academic Decisions**|Yixuan Li et.al.|[2410.04686](http://arxiv.org/abs/2410.04686)|null|
+|**2024-10-06**|**VISTA: A Visual and Textual Attention Dataset for Interpreting Multimodal Models**|Harshit et.al.|[2410.04609](http://arxiv.org/abs/2410.04609)|null|
+|**2024-10-06**|**CardioAI: A Multimodal AI-based System to Support Symptom Monitoring and Risk Detection of Cancer Treatment-Induced Cardiotoxicity**|Siyi Wu et.al.|[2410.04592](http://arxiv.org/abs/2410.04592)|null|
+|**2024-10-06**|**Ranking Policy Learning via Marketplace Expected Value Estimation From Observational Data**|Ehsan Ebrahimzadeh et.al.|[2410.04568](http://arxiv.org/abs/2410.04568)|null|
+|**2024-10-06**|**Bisimulation metric for Model Predictive Control**|Yutaka Shimizu et.al.|[2410.04553](http://arxiv.org/abs/2410.04553)|null|
+|**2024-10-06**|**In-Place Panoptic Radiance Field Segmentation with Perceptual Prior for 3D Scene Understanding**|Shenghao Li et.al.|[2410.04529](http://arxiv.org/abs/2410.04529)|null|
+|**2024-10-06**|**A Reinforcement Learning Engine with Reduced Action and State Space for Scalable Cyber-Physical Optimal Response**|Shining Sun et.al.|[2410.04518](http://arxiv.org/abs/2410.04518)|null|
+|**2024-10-06**|**Two-fund separation under hyperbolically distributed returns and concave utility function**|Nuerxiati Abudurexiti et.al.|[2410.04459](http://arxiv.org/abs/2410.04459)|null|
 |**2024-10-04**|**Minimax-optimal trust-aware multi-armed bandits**|Changxiao Cai et.al.|[2410.03651](http://arxiv.org/abs/2410.03651)|null|
 |**2024-10-04**|**Open-World Reinforcement Learning over Long Short-Term Imagination**|Jiajian Li et.al.|[2410.03618](http://arxiv.org/abs/2410.03618)|null|
 |**2024-10-04**|**A Multi-model Approach for Video Data Retrieval in Autonomous Vehicle Development**|Jesper Knapp et.al.|[2410.03580](http://arxiv.org/abs/2410.03580)|null|
