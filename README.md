@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
+|**2024-10-08**|**Solvability of Equilibrium Riccati Equations: A Direct Approach**|Bowen Ma et.al.|[2410.06090](http://arxiv.org/abs/2410.06090)|null|
+|**2024-10-07**|**Dynamic HumTrans: Humming Transcription Using CNNs and Dynamic Programming**|Shubham Gupta et.al.|[2410.05455](http://arxiv.org/abs/2410.05455)|null|
+|**2024-10-07**|**A Predictive and Optimization Approach for Enhanced Urban Mobility Using Spatiotemporal Data**|Shambhavi Mishra et.al.|[2410.05358](http://arxiv.org/abs/2410.05358)|null|
 |**2024-10-05**|**AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text**|Ximing Lu et.al.|[2410.04265](http://arxiv.org/abs/2410.04265)|null|
 |**2024-10-05**|**A branch-&-price approach to the unrooted maximum agreement forest problem**|Martin Frohn et.al.|[2410.04122](http://arxiv.org/abs/2410.04122)|null|
 |**2024-10-02**|**Electrification of Transportation: A Hybrid Benders/SDDP Algorithm for Optimal Charging Station Trading**|Farnaz Sohrabi et.al.|[2410.03763](http://arxiv.org/abs/2410.03763)|null|
@@ -353,6 +357,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
+|**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
+|**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
+|**2024-10-09**|**One Initialization to Rule them All: Fine-tuning via Explained Variance Adaptation**|Fabian Paischer et.al.|[2410.07170](http://arxiv.org/abs/2410.07170)|null|
+|**2024-10-09**|**Sylber: Syllabic Embedding Representation of Speech from Raw Audio**|Cheol Jun Cho et.al.|[2410.07168](http://arxiv.org/abs/2410.07168)|null|
+|**2024-10-09**|**Deciphering Cross-Modal Alignment in Large Vision-Language Models with Modality Integration Rate**|Qidong Huang et.al.|[2410.07167](http://arxiv.org/abs/2410.07167)|**[link](https://github.com/shikiw/modality-integration-rate)**|
+|**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
+|**2024-10-09**|**Simplicity Prevails: Rethinking Negative Preference Optimization for LLM Unlearning**|Chongyu Fan et.al.|[2410.07163](http://arxiv.org/abs/2410.07163)|null|
+|**2024-10-09**|**Trans4D: Realistic Geometry-Aware Transition for Compositional Text-to-4D Synthesis**|Bohan Zeng et.al.|[2410.07155](http://arxiv.org/abs/2410.07155)|**[link](https://github.com/yangling0818/trans4d)**|
+|**2024-10-09**|**Towards Interpreting Visual Information Processing in Vision-Language Models**|Clement Neo et.al.|[2410.07149](http://arxiv.org/abs/2410.07149)|null|
+|**2024-10-09**|**Stuffed Mamba: State Collapse and State Capacity of RNN-Based Long-Context Modeling**|Yingfa Chen et.al.|[2410.07145](http://arxiv.org/abs/2410.07145)|null|
+|**2024-10-09**|**Cheating Automatic LLM Benchmarks: Null Models Achieve High Win Rates**|Xiaosen Zheng et.al.|[2410.07137](http://arxiv.org/abs/2410.07137)|null|
+|**2024-10-09**|**EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models**|Rui Zhao et.al.|[2410.07133](http://arxiv.org/abs/2410.07133)|**[link](https://github.com/showlab/evolvedirector)**|
+|**2024-10-09**|**Mental Disorders Detection in the Era of Large Language Models**|Gleb Kuzmin et.al.|[2410.07129](http://arxiv.org/abs/2410.07129)|null|
+|**2024-10-09**|**Exploring the Readiness of Prominent Small Language Models for the Democratization of Financial Literacy**|Tagore Rao Kosireddy et.al.|[2410.07118](http://arxiv.org/abs/2410.07118)|**[link](https://github.com/Tagore-7/Small-Language-Models-for-the-Democratization-of-Financial-Literacy)**|
+|**2024-10-09**|**Personalized Visual Instruction Tuning**|Renjie Pi et.al.|[2410.07113](http://arxiv.org/abs/2410.07113)|null|
+|**2024-10-09**|**VHELM: A Holistic Evaluation of Vision Language Models**|Tony Lee et.al.|[2410.07112](http://arxiv.org/abs/2410.07112)|null|
+|**2024-10-09**|**I Want to Break Free! Anti-Social Behavior and Persuasion Ability of LLMs in Multi-Agent Settings with Social Hierarchy**|Gian Maria Campedelli et.al.|[2410.07109](http://arxiv.org/abs/2410.07109)|null|
+|**2024-10-09**|**Unleashing Multi-Hop Reasoning Potential in Large Language Models through Repetition of Misordered Context**|Sangwon Yu et.al.|[2410.07103](http://arxiv.org/abs/2410.07103)|null|
+|**2024-10-09**|**MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering**|Jun Shern Chan et.al.|[2410.07095](http://arxiv.org/abs/2410.07095)|**[link](https://github.com/openai/mle-bench)**|
 |**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
 |**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
 |**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
@@ -3542,6 +3566,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
+|**2024-10-09**|**Identifying and Addressing Delusions for Target-Directed Decision-Making**|Mingde Zhao et.al.|[2410.07096](http://arxiv.org/abs/2410.07096)|null|
+|**2024-10-09**|**Optimizing Estimators of Squared Calibration Errors in Classification**|Sebastian G. Gruber et.al.|[2410.07014](http://arxiv.org/abs/2410.07014)|null|
+|**2024-10-09**|**Reproducing and Extending Experiments in Behavioral Strategy with Large Language Models**|Daniel Albert et.al.|[2410.06932](http://arxiv.org/abs/2410.06932)|null|
+|**2024-10-09**|**How hard can it be? Quantifying MITRE attack campaigns with attack trees and cATM logic**|Stefano M. Nicoletti et.al.|[2410.06692](http://arxiv.org/abs/2410.06692)|null|
+|**2024-10-09**|**$β$ -calibration of Language Model Confidence Scores for Generative QA**|Putra Manggala et.al.|[2410.06615](http://arxiv.org/abs/2410.06615)|null|
+|**2024-10-09**|**Decentralized Clinical Trials in the Era of Real-World Evidence: A Statistical Perspective**|Jie Chen et.al.|[2410.06591](http://arxiv.org/abs/2410.06591)|null|
+|**2024-10-09**|**Use of Real-World Data and Real-World Evidence in Rare Disease Drug Development: A Statistical Perspective**|Jie Chen et.al.|[2410.06586](http://arxiv.org/abs/2410.06586)|null|
+|**2024-10-09**|**Challenges and Possible Strategies to Address Them in Rare Disease Drug Development: A Statistical Perspective**|Jie Chen et.al.|[2410.06585](http://arxiv.org/abs/2410.06585)|null|
+|**2024-10-09**|**When Does Interference Matter? Decision-Making in Platform Experiments**|Ramesh Johari et.al.|[2410.06580](http://arxiv.org/abs/2410.06580)|null|
+|**2024-10-09**|**Detecting Bias and Enhancing Diagnostic Accuracy in Large Language Models for Healthcare**|Pardis Sadat Zahraei et.al.|[2410.06566](http://arxiv.org/abs/2410.06566)|null|
+|**2024-10-09**|**QuadBEV: An Efficient Quadruple-Task Perception Framework via Bird's-Eye-View Representation**|Yuxin Li et.al.|[2410.06516](http://arxiv.org/abs/2410.06516)|null|
+|**2024-10-09**|**Overcoming Autoware-Ubuntu Incompatibility in Autonomous Driving Systems-Equipped Vehicles: Lessons Learned**|Dada Zhang et.al.|[2410.06492](http://arxiv.org/abs/2410.06492)|null|
+|**2024-10-09**|**Flipping-based Policy for Chance-Constrained Markov Decision Processes**|Xun Shen et.al.|[2410.06474](http://arxiv.org/abs/2410.06474)|null|
+|**2024-10-09**|**Modeling chaotic Lorenz ODE System using Scientific Machine Learning**|Sameera S Kashyap et.al.|[2410.06452](http://arxiv.org/abs/2410.06452)|null|
+|**2024-10-08**|**Biased AI can Influence Political Decision-Making**|Jillian Fisher et.al.|[2410.06415](http://arxiv.org/abs/2410.06415)|null|
+|**2024-10-08**|**BEVLoc: Cross-View Localization and Matching via Birds-Eye-View Synthesis**|Christopher Klammer et.al.|[2410.06410](http://arxiv.org/abs/2410.06410)|null|
+|**2024-10-08**|**Cooperative and Asynchronous Transformer-based Mission Planning for Heterogeneous Teams of Mobile Robots**|Milad Farjadnasab et.al.|[2410.06372](http://arxiv.org/abs/2410.06372)|null|
+|**2024-10-08**|**HumVI: A Multilingual Dataset for Detecting Violent Incidents Impacting Humanitarian Aid**|Hemank Lamba et.al.|[2410.06370](http://arxiv.org/abs/2410.06370)|null|
+|**2024-10-08**|**Context-Aware Command Understanding for Tabletop Scenarios**|Paul Gajewski et.al.|[2410.06355](http://arxiv.org/abs/2410.06355)|null|
 |**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
 |**2024-10-07**|**ReasoningRank: Teaching Student Models to Rank through Reasoning-Based Knowledge Distillation**|Yuelyu Ji et.al.|[2410.05168](http://arxiv.org/abs/2410.05168)|null|
 |**2024-10-07**|**Assouad, Fano, and Le Cam with Interaction: A Unifying Lower Bound Framework and Characterization for Bandit Learnability**|Fan Chen et.al.|[2410.05117](http://arxiv.org/abs/2410.05117)|null|
