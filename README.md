@@ -12,9 +12,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Dynamic Programming based Local Search approaches for Multi-Agent Path Finding problems on Directed Graphs**|Irene Saccani et.al.|[2410.07954](http://arxiv.org/abs/2410.07954)|null|
+|**2024-10-10**|**Partitioning Trillion Edge Graphs on Edge Devices**|Adil Chhabra et.al.|[2410.07732](http://arxiv.org/abs/2410.07732)|null|
 |**2024-10-10**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
 |**2024-10-08**|**Solvability of Equilibrium Riccati Equations: A Direct Approach**|Bowen Ma et.al.|[2410.06090](http://arxiv.org/abs/2410.06090)|null|
-|**2024-10-07**|**Dynamic HumTrans: Humming Transcription Using CNNs and Dynamic Programming**|Shubham Gupta et.al.|[2410.05455](http://arxiv.org/abs/2410.05455)|null|
+|**2024-10-07**|**Dynamic HumTrans: Humming Transcription Using CNNs and Dynamic Programming**|Shubham Gupta et.al.|[2410.05455](http://arxiv.org/abs/2410.05455)|**[link](https://github.com/shubham-gupta-30/humming_transcription)**|
 |**2024-10-07**|**A Predictive and Optimization Approach for Enhanced Urban Mobility Using Spatiotemporal Data**|Shambhavi Mishra et.al.|[2410.05358](http://arxiv.org/abs/2410.05358)|null|
 |**2024-10-05**|**AI as Humanity's Salieri: Quantifying Linguistic Creativity of Language Models via Systematic Attribution of Machine Text against Web Text**|Ximing Lu et.al.|[2410.04265](http://arxiv.org/abs/2410.04265)|null|
 |**2024-10-05**|**A branch-&-price approach to the unrooted maximum agreement forest problem**|Martin Frohn et.al.|[2410.04122](http://arxiv.org/abs/2410.04122)|null|
@@ -357,6 +359,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models**|Xiaoxiao He et.al.|[2410.08207](http://arxiv.org/abs/2410.08207)|null|
+|**2024-10-10**|**Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training**|Gen Luo et.al.|[2410.08202](http://arxiv.org/abs/2410.08202)|null|
+|**2024-10-10**|**Adam Exploits $\ell_\infty$ -geometry of Loss Landscape via Coordinate-wise Adaptivity**|Shuo Xie et.al.|[2410.08198](http://arxiv.org/abs/2410.08198)|null|
+|**2024-10-10**|**From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions**|Changle Qu et.al.|[2410.08197](http://arxiv.org/abs/2410.08197)|null|
+|**2024-10-10**|**MathCoder2: Better Math Reasoning from Continued Pretraining on Model-translated Mathematical Code**|Zimu Lu et.al.|[2410.08196](http://arxiv.org/abs/2410.08196)|**[link](https://github.com/mathllm/mathcoder2)**|
+|**2024-10-10**|**Features are fate: a theory of transfer learning in high-dimensional regression**|Javan Tahir et.al.|[2410.08194](http://arxiv.org/abs/2410.08194)|null|
+|**2024-10-10**|**GenARM: Reward Guided Generation with Autoregressive Reward Model for Test-time Alignment**|Yuancheng Xu et.al.|[2410.08193](http://arxiv.org/abs/2410.08193)|null|
+|**2024-10-10**|**MRAG-Bench: Vision-Centric Evaluation for Retrieval-Augmented Multimodal Models**|Wenbo Hu et.al.|[2410.08182](http://arxiv.org/abs/2410.08182)|null|
+|**2024-10-10**|**Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models**|Qingni Wang et.al.|[2410.08174](http://arxiv.org/abs/2410.08174)|null|
+|**2024-10-10**|**On the Evaluation of Generative Robotic Simulations**|Feng Chen et.al.|[2410.08172](http://arxiv.org/abs/2410.08172)|null|
+|**2024-10-10**|**Visual Scratchpads: Enabling Global Reasoning in Vision**|Aryo Lotfi et.al.|[2410.08165](http://arxiv.org/abs/2410.08165)|null|
+|**2024-10-10**|**Agent S: An Open Agentic Framework that Uses Computers Like a Human**|Saaket Agashe et.al.|[2410.08164](http://arxiv.org/abs/2410.08164)|**[link](https://github.com/simular-ai/agent-s)**|
+|**2024-10-10**|**The Effect of Surprisal on Reading Times in Information Seeking and Repeated Reading**|Keren Gruteke Klein et.al.|[2410.08162](http://arxiv.org/abs/2410.08162)|null|
+|**2024-10-10**|**DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation**|Jiatao Gu et.al.|[2410.08159](http://arxiv.org/abs/2410.08159)|null|
+|**2024-10-10**|**Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**|Amrith Setlur et.al.|[2410.08146](http://arxiv.org/abs/2410.08146)|null|
+|**2024-10-10**|**Insight Over Sight? Exploring the Vision-Knowledge Conflicts in Multimodal LLMs**|Xiaoyuan Liu et.al.|[2410.08145](http://arxiv.org/abs/2410.08145)|null|
+|**2024-10-10**|**DelTA: An Online Document-Level Translation Agent Based on Multi-Level Memory**|Yutong Wang et.al.|[2410.08143](http://arxiv.org/abs/2410.08143)|**[link](https://github.com/yutongwang1216/docmtagent)**|
+|**2024-10-10**|**Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction**|Jarrid Rector-Brooks et.al.|[2410.08134](http://arxiv.org/abs/2410.08134)|null|
+|**2024-10-10**|**Think Beyond Size: Dynamic Prompting for More Effective Reasoning**|Kamesh R et.al.|[2410.08130](http://arxiv.org/abs/2410.08130)|null|
+|**2024-10-10**|**Mars: Situated Inductive Reasoning in an Open-World Environment**|Xiaojuan Tang et.al.|[2410.08126](http://arxiv.org/abs/2410.08126)|null|
 |**2024-10-09**|**MM-Ego: Towards Building Egocentric Multimodal LLMs**|Hanrong Ye et.al.|[2410.07177](http://arxiv.org/abs/2410.07177)|null|
 |**2024-10-09**|**Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models**|Fei Wang et.al.|[2410.07176](http://arxiv.org/abs/2410.07176)|null|
 |**2024-10-09**|**Do better language models have crisper vision?**|Jona Ruthardt et.al.|[2410.07173](http://arxiv.org/abs/2410.07173)|null|
@@ -3566,6 +3588,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**RGM: Reconstructing High-fidelity 3D Car Assets with Relightable 3D-GS Generative Model from a Single Image**|Xiaoxue Chen et.al.|[2410.08181](http://arxiv.org/abs/2410.08181)|null|
+|**2024-10-10**|**Mars: Situated Inductive Reasoning in an Open-World Environment**|Xiaojuan Tang et.al.|[2410.08126](http://arxiv.org/abs/2410.08126)|null|
+|**2024-10-10**|**A Generative AI Technique for Synthesizing a Digital Twin for U.S. Residential Solar Adoption and Generation**|Aparna Kishore et.al.|[2410.08098](http://arxiv.org/abs/2410.08098)|null|
+|**2024-10-10**|**Gaussian Process Thompson Sampling via Rootfinding**|Taiwo A. Adebiyi et.al.|[2410.08071](http://arxiv.org/abs/2410.08071)|null|
+|**2024-10-10**|**Agent-based modeling for realistic reproduction of human mobility and contact behavior to evaluate test and isolation strategies in epidemic infectious disease spread**|David Kerkmann et.al.|[2410.08050](http://arxiv.org/abs/2410.08050)|null|
+|**2024-10-10**|**Harmonic Oscillator based Particle Swarm Optimization**|Yury Chernyak et.al.|[2410.08043](http://arxiv.org/abs/2410.08043)|null|
+|**2024-10-10**|**APOLLO: A GPT-based tool to detect phishing emails and generate explanations that warn users**|Giuseppe Desolda et.al.|[2410.07997](http://arxiv.org/abs/2410.07997)|null|
+|**2024-10-10**|**Octopus Inspired Optimization Algorithm: Multi-Level Structures and Parallel Computing Strategies**|Xu Wang et.al.|[2410.07968](http://arxiv.org/abs/2410.07968)|null|
+|**2024-10-10**|**Eco-driving Incentive Mechanisms for Mitigating Emissions in Urban Transportation**|M. Umar B. Niazi et.al.|[2410.07952](http://arxiv.org/abs/2410.07952)|null|
+|**2024-10-10**|**AI Surrogate Model for Distributed Computing Workloads**|David K. Park et.al.|[2410.07940](http://arxiv.org/abs/2410.07940)|null|
+|**2024-10-10**|**Offline Hierarchical Reinforcement Learning via Inverse Optimization**|Carolin Schmidt et.al.|[2410.07933](http://arxiv.org/abs/2410.07933)|null|
+|**2024-10-10**|**Decision-Aware Predictive Model Selection for Workforce Allocation**|Eric G. Stratman et.al.|[2410.07932](http://arxiv.org/abs/2410.07932)|null|
+|**2024-10-10**|**Efficient Reinforcement Learning with Large Language Model Priors**|Xue Yan et.al.|[2410.07927](http://arxiv.org/abs/2410.07927)|null|
+|**2024-10-10**|**Understanding Human Activity with Uncertainty Measure for Novelty in Graph Convolutional Networks**|Hao Xing et.al.|[2410.07917](http://arxiv.org/abs/2410.07917)|null|
+|**2024-10-10**|**L-VITeX: Light-weight Visual Intuition for Terrain Exploration**|Antar Mazumder et.al.|[2410.07872](http://arxiv.org/abs/2410.07872)|null|
+|**2024-10-10**|**Autonomous Vehicles Path Planning under Temporal Logic Specifications**|Akshay Dhonthi et.al.|[2410.07845](http://arxiv.org/abs/2410.07845)|null|
+|**2024-10-10**|**Fine-Tuning Language Models for Ethical Ambiguity: A Comparative Study of Alignment with Human Responses**|Pranav Senthilkumar et.al.|[2410.07826](http://arxiv.org/abs/2410.07826)|null|
+|**2024-10-10**|**HeightFormer: A Semantic Alignment Monocular 3D Object Detection Method from Roadside Perspective**|Pei Liu et.al.|[2410.07758](http://arxiv.org/abs/2410.07758)|null|
+|**2024-10-10**|**Give Me a Choice: The Consequences of Restricting Choices Through AI-Support for Perceived Autonomy, Motivational Variables, and Decision Performance**|Cedric Faas et.al.|[2410.07728](http://arxiv.org/abs/2410.07728)|null|
+|**2024-10-10**|**Autonomous Driving in Unstructured Environments: How Far Have We Come?**|Chen Min et.al.|[2410.07701](http://arxiv.org/abs/2410.07701)|null|
 |**2024-10-09**|**Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making**|Manling Li et.al.|[2410.07166](http://arxiv.org/abs/2410.07166)|**[link](https://github.com/embodied-agent-interface/embodied-agent-interface)**|
 |**2024-10-09**|**Identifying and Addressing Delusions for Target-Directed Decision-Making**|Mingde Zhao et.al.|[2410.07096](http://arxiv.org/abs/2410.07096)|null|
 |**2024-10-09**|**Optimizing Estimators of Squared Calibration Errors in Classification**|Sebastian G. Gruber et.al.|[2410.07014](http://arxiv.org/abs/2410.07014)|null|
