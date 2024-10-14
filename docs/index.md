@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.10.13
+## Updated on 2024.10.14
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-10**|**Dynamic Programming based Local Search approaches for Multi-Agent Path Finding problems on Directed Graphs**|Irene Saccani et.al.|[2410.07954](http://arxiv.org/abs/2410.07954)|null|
 |**2024-10-10**|**Partitioning Trillion Edge Graphs on Edge Devices**|Adil Chhabra et.al.|[2410.07732](http://arxiv.org/abs/2410.07732)|null|
-|**2024-10-10**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
+|**2024-10-11**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
 |**2024-10-08**|**Solvability of Equilibrium Riccati Equations: A Direct Approach**|Bowen Ma et.al.|[2410.06090](http://arxiv.org/abs/2410.06090)|null|
 |**2024-10-07**|**Dynamic HumTrans: Humming Transcription Using CNNs and Dynamic Programming**|Shubham Gupta et.al.|[2410.05455](http://arxiv.org/abs/2410.05455)|**[link](https://github.com/shubham-gupta-30/humming_transcription)**|
 |**2024-10-07**|**A Predictive and Optimization Approach for Enhanced Urban Mobility Using Spatiotemporal Data**|Shambhavi Mishra et.al.|[2410.05358](http://arxiv.org/abs/2410.05358)|null|
