@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -363,9 +363,9 @@ layout: default
 |**2024-10-14**|**Local and Global Decoding in Text Generation**|Daniel Gareev et.al.|[2410.10810](http://arxiv.org/abs/2410.10810)|**[link](https://github.com/lowlypalace/global-decoding)**|
 |**2024-10-14**|**Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning**|Aakanksha et.al.|[2410.10801](http://arxiv.org/abs/2410.10801)|null|
 |**2024-10-14**|**Towards Foundation Models for 3D Vision: How Close Are We?**|Yiming Zuo et.al.|[2410.10799](http://arxiv.org/abs/2410.10799)|null|
-|**2024-10-14**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Prababilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
+|**2024-10-15**|**MMAR: Towards Lossless Multi-Modal Auto-Regressive Probabilistic Modeling**|Jian Yang et.al.|[2410.10798](http://arxiv.org/abs/2410.10798)|null|
 |**2024-10-14**|**Context-Parametric Inversion: Why Instruction Finetuning May Not Actually Improve Context Reliance**|Sachin Goyal et.al.|[2410.10796](http://arxiv.org/abs/2410.10796)|**[link](https://github.com/locuslab/context-parametric-inversion)**|
-|**2024-10-14**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783](http://arxiv.org/abs/2410.10783)|**[link](https://github.com/nimrodshabtay/livexiv)**|
+|**2024-10-15**|**LiveXiv -- A Multi-Modal Live Benchmark Based on Arxiv Papers Content**|Nimrod Shabtay et.al.|[2410.10783](http://arxiv.org/abs/2410.10783)|**[link](https://github.com/nimrodshabtay/livexiv)**|
 |**2024-10-14**|**When Attention Sink Emerges in Language Models: An Empirical View**|Xiangming Gu et.al.|[2410.10781](http://arxiv.org/abs/2410.10781)|**[link](https://github.com/sail-sg/attention-sink)**|
 |**2024-10-14**|**Focused ReAct: Improving ReAct through Reiterate and Early Stop**|Shuoqiu Li et.al.|[2410.10779](http://arxiv.org/abs/2410.10779)|null|
 |**2024-10-14**|**AFlow: Automating Agentic Workflow Generation**|Jiayi Zhang et.al.|[2410.10762](http://arxiv.org/abs/2410.10762)|**[link](https://github.com/geekan/metagpt)**|
@@ -3636,11 +3636,11 @@ layout: default
 |**2024-10-14**|**When Precedents Clash**|Cecilia Di Florio et.al.|[2410.10567](http://arxiv.org/abs/2410.10567)|null|
 |**2024-10-14**|**Graph Classification Gaussian Processes via Hodgelet Spectral Features**|Mathieu Alain et.al.|[2410.10546](http://arxiv.org/abs/2410.10546)|null|
 |**2024-10-14**|**Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation**|Daniel Fusaro et.al.|[2410.10510](http://arxiv.org/abs/2410.10510)|**[link](https://github.com/bender97/waffleandrange)**|
-|**2024-10-14**|**Ada-K Routing: Boosting the Efficiency of MoE-based LLMs**|Tongtian Yue et.al.|[2410.10456](http://arxiv.org/abs/2410.10456)|null|
+|**2024-10-15**|**Ada-K Routing: Boosting the Efficiency of MoE-based LLMs**|Tongtian Yue et.al.|[2410.10456](http://arxiv.org/abs/2410.10456)|null|
 |**2024-10-14**|**QUITE: Quantifying Uncertainty in Natural Language Text in Bayesian Reasoning Scenarios**|Timo Pierre Schrader et.al.|[2410.10449](http://arxiv.org/abs/2410.10449)|null|
 |**2024-10-14**|**In-Materia Speech Recognition**|Mohamadreza Zolfagharinejad et.al.|[2410.10434](http://arxiv.org/abs/2410.10434)|null|
 |**2024-10-14**|**DOME: Taming Diffusion Model into High-Fidelity Controllable Occupancy World Model**|Songen Gu et.al.|[2410.10429](http://arxiv.org/abs/2410.10429)|null|
-|**2024-10-14**|**Improved Depth Estimation of Bayesian Neural Networks**|Bart van Erp et.al.|[2410.10395](http://arxiv.org/abs/2410.10395)|**[link](https://github.com/biaslab/depthestimationbnn)**|
+|**2024-10-15**|**Improved Depth Estimation of Bayesian Neural Networks**|Bart van Erp et.al.|[2410.10395](http://arxiv.org/abs/2410.10395)|**[link](https://github.com/biaslab/depthestimationbnn)**|
 |**2024-10-14**|**MentalGLM Series: Explainable Large Language Models for Mental Health Analysis on Chinese Social Media**|Wei Zhai et.al.|[2410.10323](http://arxiv.org/abs/2410.10323)|null|
 |**2024-10-14**|**Preliminary Evaluation of an Ultrasound-Guided Robotic System for Autonomous Percutaneous Intervention**|Pratima Mohan et.al.|[2410.10299](http://arxiv.org/abs/2410.10299)|null|
 |**2024-10-14**|**ROA-BEV: 2D Region-Oriented Attention for BEV-based 3D Object**|Jiwei Chen et.al.|[2410.10298](http://arxiv.org/abs/2410.10298)|null|
