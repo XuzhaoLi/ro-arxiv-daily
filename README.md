@@ -12,6 +12,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Quasi-quantum states and the quasi-quantum PCP theorem**|Itai Arad et.al.|[2410.13549](http://arxiv.org/abs/2410.13549)|null|
+|**2024-10-17**|**Joint Antenna Selection and Covariance Matrix Optimization for ISAC Systems**|Michail Palaiologos et.al.|[2410.13446](http://arxiv.org/abs/2410.13446)|null|
+|**2024-10-17**|**Membership Testing for Semantic Regular Expressions**|Yifei Huang et.al.|[2410.13262](http://arxiv.org/abs/2410.13262)|null|
+|**2024-10-17**|**Research on Travel Route Planing Problems Based on Greedy Algorithm**|Yiquan Wang et.al.|[2410.13226](http://arxiv.org/abs/2410.13226)|null|
+|**2024-10-17**|**Algorithmic Content Selection and the Impact of User Disengagement**|Emilio Calvano et.al.|[2410.13108](http://arxiv.org/abs/2410.13108)|null|
+|**2024-10-16**|**Learning Representations for Reasoning: Generalizing Across Diverse Structures**|Zhaocheng Zhu et.al.|[2410.13018](http://arxiv.org/abs/2410.13018)|null|
 |**2024-10-16**|**Vehicle Localization in GPS-Denied Scenarios Using Arc-Length-Based Map Matching**|Nur Uddin Javed et.al.|[2410.12208](http://arxiv.org/abs/2410.12208)|null|
 |**2024-10-15**|**Incremental computation of the set of period sets**|Eric Rivals et.al.|[2410.12077](http://arxiv.org/abs/2410.12077)|null|
 |**2024-10-15**|**Routing and Scheduling Optimization for Urban Air Mobility Fleet Management using Quantum Annealing**|Renichiro Haba et.al.|[2410.11231](http://arxiv.org/abs/2410.11231)|null|
@@ -367,6 +373,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
+|**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
+|**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
+|**2024-10-17**|**$γ-$ MoD: Exploring Mixture-of-Depth Adaptation for Multimodal Large Language Models**|Yaxin Luo et.al.|[2410.13859](http://arxiv.org/abs/2410.13859)|null|
+|**2024-10-17**|**How Numerical Precision Affects Mathematical Reasoning Capabilities of LLMs**|Guhao Feng et.al.|[2410.13857](http://arxiv.org/abs/2410.13857)|null|
+|**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|null|
+|**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
+|**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models**|Qiaoyu Tang et.al.|[2410.13841](http://arxiv.org/abs/2410.13841)|null|
+|**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
+|**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828](http://arxiv.org/abs/2410.13828)|null|
+|**2024-10-17**|**Unearthing Skill-Level Insights for Understanding Trade-Offs of Foundation Models**|Mazda Moayeri et.al.|[2410.13826](http://arxiv.org/abs/2410.13826)|null|
+|**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
+|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
+|**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
+|**2024-10-17**|**Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance**|Mitsuhiko Nakamoto et.al.|[2410.13816](http://arxiv.org/abs/2410.13816)|null|
+|**2024-10-17**|**De-mark: Watermark Removal in Large Language Models**|Ruibo Chen et.al.|[2410.13808](http://arxiv.org/abs/2410.13808)|null|
+|**2024-10-17**|**A Watermark for Order-Agnostic Language Models**|Ruibo Chen et.al.|[2410.13805](http://arxiv.org/abs/2410.13805)|null|
+|**2024-10-17**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
 |**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788](http://arxiv.org/abs/2410.12788)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
@@ -3676,6 +3702,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864](http://arxiv.org/abs/2410.13864)|**[link](https://github.com/ywyeli/unidrive)**|
+|**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|null|
+|**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[2410.13735](http://arxiv.org/abs/2410.13735)|null|
+|**2024-10-17**|**The Subtlety of Optimal Paternalism in a Population with Bounded Rationality**|Charles F. Manski et.al.|[2410.13658](http://arxiv.org/abs/2410.13658)|null|
+|**2024-10-17**|**A Sequential Game Framework for Target Tracking**|Daniel Leal et.al.|[2410.13587](http://arxiv.org/abs/2410.13587)|null|
+|**2024-10-17**|**Pseudo Dataset Generation for Out-of-Domain Multi-Camera View Recommendation**|Kuan-Ying Lee et.al.|[2410.13585](http://arxiv.org/abs/2410.13585)|null|
+|**2024-10-17**|**DriveDreamer4D: World Models Are Effective Data Machines for 4D Driving Scene Representation**|Guosheng Zhao et.al.|[2410.13571](http://arxiv.org/abs/2410.13571)|null|
+|**2024-10-17**|**RGB to Hyperspectral: Spectral Reconstruction for Enhanced Surgical Imaging**|Tobias Czempiel et.al.|[2410.13570](http://arxiv.org/abs/2410.13570)|null|
+|**2024-10-17**|**Interactive Navigation with Adaptive Non-prehensile Mobile Manipulation**|Cunxi Dai et.al.|[2410.13418](http://arxiv.org/abs/2410.13418)|null|
+|**2024-10-17**|**Accurate Checkerboard Corner Detection under Defoucs**|Zezhun Shi et.al.|[2410.13371](http://arxiv.org/abs/2410.13371)|null|
+|**2024-10-17**|**Probing-RAG: Self-Probing to Guide Language Models in Selective Document Retrieval**|Ingeol Baek et.al.|[2410.13339](http://arxiv.org/abs/2410.13339)|null|
+|**2024-10-17**|**Breaking Chains: Unraveling the Links in Multi-Hop Knowledge Unlearning**|Minseok Choi et.al.|[2410.13274](http://arxiv.org/abs/2410.13274)|null|
+|**2024-10-17**|**FDF: Flexible Decoupled Framework for Time Series Forecasting with Conditional Denoising and Polynomial Modeling**|Jintao Zhang et.al.|[2410.13253](http://arxiv.org/abs/2410.13253)|null|
+|**2024-10-17**|**Annealed Stein Variational Gradient Descent for Improved Uncertainty Estimation in Full-Waveform Inversion**|Miguel Corrales et.al.|[2410.13249](http://arxiv.org/abs/2410.13249)|null|
+|**2024-10-17**|**Web Agents with World Models: Learning and Leveraging Environment Dynamics in Web Navigation**|Hyungjoo Chae et.al.|[2410.13232](http://arxiv.org/abs/2410.13232)|null|
+|**2024-10-17**|**LLMOPT: Learning to Define and Solve General Optimization Problems from Scratch**|Caigao Jiang et.al.|[2410.13213](http://arxiv.org/abs/2410.13213)|**[link](https://github.com/caigaojiang/llmopt)**|
+|**2024-10-17**|**Measuring Free-Form Decision-Making Inconsistency of Language Models in Military Crisis Simulations**|Aryan Shrivastava et.al.|[2410.13204](http://arxiv.org/abs/2410.13204)|**[link](https://github.com/aashrivastava/llmwargaminginconsistency)**|
+|**2024-10-16**|**Future of Algorithmic Organization: Large-Scale Analysis of Decentralized Autonomous Organizations (DAOs)**|Tanusree Sharma et.al.|[2410.13095](http://arxiv.org/abs/2410.13095)|null|
+|**2024-10-16**|**Double-Bayesian Learning**|Stefan Jaeger et.al.|[2410.12984](http://arxiv.org/abs/2410.12984)|null|
+|**2024-10-16**|**Multi-modal graph neural networks for localized off-grid weather forecasting**|Qidong Yang et.al.|[2410.12938](http://arxiv.org/abs/2410.12938)|**[link](https://github.com/earth-intelligence-lab/localizedweathergnn)**|
 |**2024-10-16**|**Machine Learning-Augmented Ontology-Based Data Access for Renewable Energy Data**|Marco Calautti et.al.|[2410.12734](http://arxiv.org/abs/2410.12734)|null|
 |**2024-10-16**|**Best-Worst Disaggregation: An approach to the preference disaggregation problem**|Matteo Brunelli et.al.|[2410.12678](http://arxiv.org/abs/2410.12678)|null|
 |**2024-10-16**|**MambaBEV: An efficient 3D detection model with Mamba2**|Zihan You et.al.|[2410.12673](http://arxiv.org/abs/2410.12673)|null|
