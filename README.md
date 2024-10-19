@@ -15,7 +15,7 @@
 |**2024-10-17**|**Quasi-quantum states and the quasi-quantum PCP theorem**|Itai Arad et.al.|[2410.13549](http://arxiv.org/abs/2410.13549)|null|
 |**2024-10-17**|**Joint Antenna Selection and Covariance Matrix Optimization for ISAC Systems**|Michail Palaiologos et.al.|[2410.13446](http://arxiv.org/abs/2410.13446)|null|
 |**2024-10-17**|**Membership Testing for Semantic Regular Expressions**|Yifei Huang et.al.|[2410.13262](http://arxiv.org/abs/2410.13262)|null|
-|**2024-10-17**|**Research on Travel Route Planing Problems Based on Greedy Algorithm**|Yiquan Wang et.al.|[2410.13226](http://arxiv.org/abs/2410.13226)|null|
+|**2024-10-17**|**Research on Travel Route Planing Problems Based on Greedy Algorithm**|Yiquan Wang et.al.|[2410.13226](http://arxiv.org/abs/2410.13226)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-10-17**|**Algorithmic Content Selection and the Impact of User Disengagement**|Emilio Calvano et.al.|[2410.13108](http://arxiv.org/abs/2410.13108)|null|
 |**2024-10-16**|**Learning Representations for Reasoning: Generalizing Across Diverse Structures**|Zhaocheng Zhu et.al.|[2410.13018](http://arxiv.org/abs/2410.13018)|null|
 |**2024-10-16**|**Vehicle Localization in GPS-Denied Scenarios Using Arc-Length-Based Map Matching**|Nur Uddin Javed et.al.|[2410.12208](http://arxiv.org/abs/2410.12208)|null|
@@ -25,7 +25,7 @@
 |**2024-10-14**|**Learning Sub-Second Routing Optimization in Computer Networks requires Packet-Level Dynamics**|Andreas Boltres et.al.|[2410.10377](http://arxiv.org/abs/2410.10377)|null|
 |**2024-10-09**|**Rapid Computation of the Assembly Index of Molecular Graphs**|Ian Seet et.al.|[2410.09100](http://arxiv.org/abs/2410.09100)|null|
 |**2024-10-11**|**Deep Learning Algorithms for Mean Field Optimal Stopping in Finite Space and Discrete Time**|Lorenzo Magnino et.al.|[2410.08850](http://arxiv.org/abs/2410.08850)|null|
-|**2024-10-11**|**Hybrid Filtering Heuristic for the Sensor-Placement Problem to Discretize 2D Continuous Environments**|Jan Mikula et.al.|[2410.08784](http://arxiv.org/abs/2410.08784)|null|
+|**2024-10-11**|**Hybrid Filtering Heuristic for the Sensor-Placement Problem to Discretize 2D Continuous Environments**|Jan Mikula et.al.|[2410.08784](http://arxiv.org/abs/2410.08784)|**[link](https://github.com/janmikulacz/spp)**|
 |**2024-10-10**|**Dynamic Programming based Local Search approaches for Multi-Agent Path Finding problems on Directed Graphs**|Irene Saccani et.al.|[2410.07954](http://arxiv.org/abs/2410.07954)|null|
 |**2024-10-10**|**Partitioning Trillion Edge Graphs on Edge Devices**|Adil Chhabra et.al.|[2410.07732](http://arxiv.org/abs/2410.07732)|null|
 |**2024-10-11**|**Q-WSL:Leveraging Dynamic Programming for Weighted Supervised Learning in Goal-conditioned RL**|Xing Lei et.al.|[2410.06648](http://arxiv.org/abs/2410.06648)|null|
@@ -381,7 +381,7 @@
 |**2024-10-17**|**Can MLLMs Understand the Deep Implication Behind Chinese Images?**|Chenhao Zhang et.al.|[2410.13854](http://arxiv.org/abs/2410.13854)|**[link](https://github.com/MING-ZCH/CII-Bench)**|
 |**2024-10-17**|**Retrospective Learning from Interactions**|Zizhao Chen et.al.|[2410.13852](http://arxiv.org/abs/2410.13852)|null|
 |**2024-10-17**|**Differentiable Robot Rendering**|Ruoshi Liu et.al.|[2410.13851](http://arxiv.org/abs/2410.13851)|null|
-|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|null|
+|**2024-10-17**|**SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**|Xuan Zhang et.al.|[2410.13846](http://arxiv.org/abs/2410.13846)|**[link](https://github.com/sail-sg/simlayerkv)**|
 |**2024-10-17**|**A Unified View of Delta Parameter Editing in Post-Trained Large-Scale Models**|Qiaoyu Tang et.al.|[2410.13841](http://arxiv.org/abs/2410.13841)|null|
 |**2024-10-17**|**Active-Dormant Attention Heads: Mechanistically Demystifying Extreme-Token Phenomena in LLMs**|Tianyu Guo et.al.|[2410.13835](http://arxiv.org/abs/2410.13835)|null|
 |**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828](http://arxiv.org/abs/2410.13828)|null|
