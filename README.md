@@ -1,4 +1,4 @@
-## Updated on 2024.10.20
+## Updated on 2024.10.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -367,7 +367,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -387,12 +387,12 @@
 |**2024-10-17**|**A Common Pitfall of Margin-based Language Model Alignment: Gradient Entanglement**|Hui Yuan et.al.|[2410.13828](http://arxiv.org/abs/2410.13828)|null|
 |**2024-10-17**|**Unearthing Skill-Level Insights for Understanding Trade-Offs of Foundation Models**|Mazda Moayeri et.al.|[2410.13826](http://arxiv.org/abs/2410.13826)|null|
 |**2024-10-17**|**AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**|Ke Yang et.al.|[2410.13825](http://arxiv.org/abs/2410.13825)|null|
-|**2024-10-17**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
+|**2024-10-18**|**Harnessing Webpage UIs for Text-Rich Visual Understanding**|Junpeng Liu et.al.|[2410.13824](http://arxiv.org/abs/2410.13824)|null|
 |**2024-10-17**|**Deep Generative Models Unveil Patterns in Medical Images Through Vision-Language Conditioning**|Xiaodan Xing et.al.|[2410.13823](http://arxiv.org/abs/2410.13823)|**[link](https://github.com/junzhin/dgm-vlc)**|
 |**2024-10-17**|**Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance**|Mitsuhiko Nakamoto et.al.|[2410.13816](http://arxiv.org/abs/2410.13816)|null|
 |**2024-10-17**|**De-mark: Watermark Removal in Large Language Models**|Ruibo Chen et.al.|[2410.13808](http://arxiv.org/abs/2410.13808)|null|
 |**2024-10-17**|**A Watermark for Order-Agnostic Language Models**|Ruibo Chen et.al.|[2410.13805](http://arxiv.org/abs/2410.13805)|null|
-|**2024-10-17**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
+|**2024-10-18**|**BenTo: Benchmark Task Reduction with In-Context Transferability**|Hongyu Zhao et.al.|[2410.13804](http://arxiv.org/abs/2410.13804)|**[link](https://github.com/tianyi-lab/bento)**|
 |**2024-10-16**|**Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models**|Ce Zhang et.al.|[2410.12790](http://arxiv.org/abs/2410.12790)|null|
 |**2024-10-16**|**Meta-Chunking: Learning Efficient Text Segmentation via Logical Perception**|Jihao Zhao et.al.|[2410.12788](http://arxiv.org/abs/2410.12788)|null|
 |**2024-10-16**|**In-Context Learning Enables Robot Action Prediction in LLMs**|Yida Yin et.al.|[2410.12782](http://arxiv.org/abs/2410.12782)|null|
@@ -3696,7 +3696,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6585,5 +6585,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20241020>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241021>back to top</a>)</p>
 
