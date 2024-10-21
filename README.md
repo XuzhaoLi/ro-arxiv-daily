@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**On picking operations in e-commerce warehouses: Insights from the complete-information counterpart**|Catherine Lorenz et.al.|[2410.14316](http://arxiv.org/abs/2410.14316)|null|
 |**2024-10-17**|**Quasi-quantum states and the quasi-quantum PCP theorem**|Itai Arad et.al.|[2410.13549](http://arxiv.org/abs/2410.13549)|null|
 |**2024-10-17**|**Joint Antenna Selection and Covariance Matrix Optimization for ISAC Systems**|Michail Palaiologos et.al.|[2410.13446](http://arxiv.org/abs/2410.13446)|null|
 |**2024-10-17**|**Membership Testing for Semantic Regular Expressions**|Yifei Huang et.al.|[2410.13262](http://arxiv.org/abs/2410.13262)|null|
@@ -373,6 +374,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Are AI Detectors Good Enough? A Survey on Quality of Datasets With Machine-Generated Texts**|German Gritsai et.al.|[2410.14677](http://arxiv.org/abs/2410.14677)|null|
+|**2024-10-18**|**SudoLM: Learning Access Control of Parametric Knowledge with Authorization Alignment**|Qin Liu et.al.|[2410.14676](http://arxiv.org/abs/2410.14676)|null|
+|**2024-10-18**|**Enhancing Large Language Models' Situated Faithfulness to External Contexts**|Yukun Huang et.al.|[2410.14675](http://arxiv.org/abs/2410.14675)|**[link](https://github.com/kkkevinkkkkk/situated_faithfulness)**|
+|**2024-10-18**|**Decomposing The Dark Matter of Sparse Autoencoders**|Joshua Engels et.al.|[2410.14670](http://arxiv.org/abs/2410.14670)|**[link](https://github.com/joshengels/sae-dark-matter)**|
+|**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
+|**2024-10-18**|**MiCEval: Unveiling Multimodal Chain of Thought's Quality via Image Description and Reasoning Steps**|Xiongtao Zhou et.al.|[2410.14668](http://arxiv.org/abs/2410.14668)|**[link](https://github.com/alenai97/miceval)**|
+|**2024-10-18**|**A Large Language Model-Driven Reward Design Framework via Dynamic Feedback for Reinforcement Learning**|Shengjie Sun et.al.|[2410.14660](http://arxiv.org/abs/2410.14660)|null|
+|**2024-10-18**|**Bridging the Training-Inference Gap in LLMs by Leveraging Self-Generated Tokens**|Zhepeng Cen et.al.|[2410.14655](http://arxiv.org/abs/2410.14655)|null|
+|**2024-10-18**|**EvoPress: Towards Optimal Dynamic Model Compression via Evolutionary Search**|Oliver Sieberling et.al.|[2410.14649](http://arxiv.org/abs/2410.14649)|null|
+|**2024-10-18**|**Distance between Relevant Information Pieces Causes Bias in Long-Context LLMs**|Runchu Tian et.al.|[2410.14641](http://arxiv.org/abs/2410.14641)|**[link](https://github.com/Rachum-thu/LongPiBench)**|
+|**2024-10-18**|**GenEOL: Harnessing the Generative Power of LLMs for Training-Free Sentence Embeddings**|Raghuveer Thirukovalluru et.al.|[2410.14635](http://arxiv.org/abs/2410.14635)|null|
+|**2024-10-18**|**Swiss Army Knife: Synergizing Biases in Knowledge from Vision Foundation Models for Multi-Task Learning**|Yuxiang Lu et.al.|[2410.14633](http://arxiv.org/abs/2410.14633)|null|
+|**2024-10-18**|**On the Regularization of Learnable Embeddings for Time Series Processing**|Luca Butera et.al.|[2410.14630](http://arxiv.org/abs/2410.14630)|null|
+|**2024-10-18**|**CELI: Controller-Embedded Language Model Interactions**|Jan-Samuel Wagner et.al.|[2410.14627](http://arxiv.org/abs/2410.14627)|null|
+|**2024-10-18**|**DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search**|Simon Lupart et.al.|[2410.14609](http://arxiv.org/abs/2410.14609)|null|
+|**2024-10-18**|**Teaching Models to Balance Resisting and Accepting Persuasion**|Elias Stengel-Eskin et.al.|[2410.14596](http://arxiv.org/abs/2410.14596)|**[link](https://github.com/esteng/persuasion_balanced_training)**|
+|**2024-10-18**|**Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets**|Namid R. Stillman et.al.|[2410.14587](http://arxiv.org/abs/2410.14587)|null|
+|**2024-10-18**|**Do LLMs estimate uncertainty well in instruction-following?**|Juyeon Heo et.al.|[2410.14582](http://arxiv.org/abs/2410.14582)|null|
+|**2024-10-18**|**Large Language Models Are Overparameterized Text Encoders**|Thennal D K et.al.|[2410.14578](http://arxiv.org/abs/2410.14578)|null|
+|**2024-10-18**|**MomentumSMoE: Integrating Momentum into Sparse Mixture of Experts**|Rachel S. Y. Teo et.al.|[2410.14574](http://arxiv.org/abs/2410.14574)|**[link](https://github.com/rachtsy/momentumsmoe)**|
 |**2024-10-17**|**Fluid: Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens**|Lijie Fan et.al.|[2410.13863](http://arxiv.org/abs/2410.13863)|null|
 |**2024-10-17**|**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**|Rongyao Fang et.al.|[2410.13861](http://arxiv.org/abs/2410.13861)|**[link](https://github.com/rongyaofang/puma)**|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
@@ -3702,6 +3723,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Enhancing AI Accessibility in Veterinary Medicine: Linking Classifiers and Electronic Health Records**|Chun Yin Kong et.al.|[2410.14625](http://arxiv.org/abs/2410.14625)|null|
+|**2024-10-18**|**MultiOrg: A Multi-rater Organoid-detection Dataset**|Christina Bukas et.al.|[2410.14612](http://arxiv.org/abs/2410.14612)|null|
+|**2024-10-18**|**Towards Unsupervised Validation of Anomaly-Detection Models**|Lihi Idan et.al.|[2410.14579](http://arxiv.org/abs/2410.14579)|null|
+|**2024-10-18**|**Spectral Representations for Accurate Causal Uncertainty Quantification with Gaussian Processes**|Hugh Dance et.al.|[2410.14483](http://arxiv.org/abs/2410.14483)|null|
+|**2024-10-18**|**From Simple to Complex: Knowledge Transfer in Safe and Efficient Reinforcement Learning for Autonomous Driving**|Rongliang Zhou et.al.|[2410.14468](http://arxiv.org/abs/2410.14468)|null|
+|**2024-10-18**|**Personalizing Low-Rank Bayesian Neural Networks Via Federated Learning**|Boning Zhang et.al.|[2410.14390](http://arxiv.org/abs/2410.14390)|null|
+|**2024-10-18**|**A Model Checker for Natural Strategic Ability**|Marco Aruta et.al.|[2410.14374](http://arxiv.org/abs/2410.14374)|null|
+|**2024-10-18**|**Assistive AI for Augmenting Human Decision-making**|Natabara Máté Gyöngyössy et.al.|[2410.14353](http://arxiv.org/abs/2410.14353)|null|
+|**2024-10-18**|**Continuous models combining slacks-based measures of efficiency and super-efficiency**|Vicente J. Bolos et.al.|[2410.14303](http://arxiv.org/abs/2410.14303)|null|
+|**2024-10-18**|**Optimizing Collaborative Robotics since Pre-Deployment via Cyber-Physical Systems' Digital Twins**|Christian Cella et.al.|[2410.14298](http://arxiv.org/abs/2410.14298)|null|
+|**2024-10-18**|**Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning**|Gaurav Arora et.al.|[2410.14235](http://arxiv.org/abs/2410.14235)|null|
+|**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
+|**2024-10-18**|**XForecast: Evaluating Natural Language Explanations for Time Series Forecasting**|Taha Aksu et.al.|[2410.14180](http://arxiv.org/abs/2410.14180)|null|
+|**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177](http://arxiv.org/abs/2410.14177)|null|
+|**2024-10-18**|**Auto Detecting Cognitive Events Using Machine Learning on Pupillary Data**|Quang Dang et.al.|[2410.14174](http://arxiv.org/abs/2410.14174)|null|
+|**2024-10-17**|**Interpreting Inflammation Prediction Model via Tag-based Cohort Explanation**|Fanyu Meng et.al.|[2410.14082](http://arxiv.org/abs/2410.14082)|null|
+|**2024-10-17**|**Sliding Puzzles Gym: A Scalable Benchmark for State Representation in Visual Reinforcement Learning**|Bryan L. M. de Oliveira et.al.|[2410.14038](http://arxiv.org/abs/2410.14038)|**[link](https://github.com/bryanoliveira/sliding-puzzles-gym)**|
+|**2024-10-17**|**Recurrent Neural Goodness-of-Fit Test for Time Series**|Aoran Zhang et.al.|[2410.13986](http://arxiv.org/abs/2410.13986)|null|
+|**2024-10-17**|**FinQAPT: Empowering Financial Decisions with End-to-End LLM-driven Question Answering Pipeline**|Kuldeep Singh et.al.|[2410.13959](http://arxiv.org/abs/2410.13959)|null|
+|**2024-10-17**|**Identifying High Consideration E-Commerce Search Queries**|Zhiyu Chen et.al.|[2410.13951](http://arxiv.org/abs/2410.13951)|null|
 |**2024-10-17**|**UniDrive: Towards Universal Driving Perception Across Camera Configurations**|Ye Li et.al.|[2410.13864](http://arxiv.org/abs/2410.13864)|**[link](https://github.com/ywyeli/unidrive)**|
 |**2024-10-17**|**MobA: A Two-Level Agent System for Efficient Mobile Task Automation**|Zichen Zhu et.al.|[2410.13757](http://arxiv.org/abs/2410.13757)|null|
 |**2024-10-17**|**Optimizing Probabilistic Conformal Prediction with Vectorized Non-Conformity Scores**|Minxing Zheng et.al.|[2410.13735](http://arxiv.org/abs/2410.13735)|null|
