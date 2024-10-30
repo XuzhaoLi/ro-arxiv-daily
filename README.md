@@ -1,4 +1,4 @@
-## Updated on 2024.10.29
+## Updated on 2024.10.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -381,7 +381,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -390,7 +390,7 @@
 |**2024-10-28**|**Arithmetic Without Algorithms: Language Models Solve Math With a Bag of Heuristics**|Yaniv Nikankin et.al.|[2410.21272](http://arxiv.org/abs/2410.21272)|null|
 |**2024-10-28**|**LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior**|Hanyu Wang et.al.|[2410.21264](http://arxiv.org/abs/2410.21264)|null|
 |**2024-10-28**|**BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference**|Changwoo Lee et.al.|[2410.21262](http://arxiv.org/abs/2410.21262)|**[link](https://github.com/changwoolee/blast)**|
-|**2024-10-28**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
+|**2024-10-29**|**AutoBench-V: Can Large Vision-Language Models Benchmark Themselves?**|Han Bao et.al.|[2410.21259](http://arxiv.org/abs/2410.21259)|null|
 |**2024-10-28**|**Multi-modal AI for comprehensive breast cancer prognostication**|Jan Witowski et.al.|[2410.21256](http://arxiv.org/abs/2410.21256)|null|
 |**2024-10-28**|**LongReward: Improving Long-context Large Language Models with AI Feedback**|Jiajie Zhang et.al.|[2410.21252](http://arxiv.org/abs/2410.21252)|null|
 |**2024-10-28**|**Zero-Shot Dense Retrieval with Embeddings from Relevance Feedback**|Nour Jedidi et.al.|[2410.21242](http://arxiv.org/abs/2410.21242)|null|
@@ -401,7 +401,7 @@
 |**2024-10-28**|**Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations**|Kaifeng Huang et.al.|[2410.21218](http://arxiv.org/abs/2410.21218)|null|
 |**2024-10-28**|**BongLLaMA: LLaMA for Bangla Language**|Abdullah Khan Zehady et.al.|[2410.21200](http://arxiv.org/abs/2410.21200)|null|
 |**2024-10-28**|**Belief in the Machine: Investigating Epistemological Blind Spots of Language Models**|Mirac Suzgun et.al.|[2410.21195](http://arxiv.org/abs/2410.21195)|null|
-|**2024-10-28**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
+|**2024-10-29**|**Document Parsing Unveiled: Techniques, Challenges, and Prospects for Structured Information Extraction**|Qintong Zhang et.al.|[2410.21169](http://arxiv.org/abs/2410.21169)|null|
 |**2024-10-28**|**M2rc-Eval: Massively Multilingual Repository-level Code Completion Evaluation**|Jiaheng Liu et.al.|[2410.21157](http://arxiv.org/abs/2410.21157)|null|
 |**2024-10-28**|**Palisade -- Prompt Injection Detection Framework**|Sahasra Kokkula et.al.|[2410.21146](http://arxiv.org/abs/2410.21146)|null|
 |**2024-10-28**|**LLM-initialized Differentiable Causal Discovery**|Shiv Kampani et.al.|[2410.21141](http://arxiv.org/abs/2410.21141)|null|
@@ -3850,7 +3850,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6864,5 +6864,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20241029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241030>back to top</a>)</p>
 
