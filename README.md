@@ -1,4 +1,4 @@
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-10-29**|**Approximately Counting Knapsack Solutions in Subquadratic Time**|Weiming Feng et.al.|[2410.22267](http://arxiv.org/abs/2410.22267)|null|
 |**2024-10-29**|**Beating Bellman's Algorithm for Subset Sum**|Karl Bringmann et.al.|[2410.21942](http://arxiv.org/abs/2410.21942)|null|
 |**2024-10-28**|**Analysis of Different Algorithmic Design Techniques for Seam Carving**|Owais Aijaz et.al.|[2410.21207](http://arxiv.org/abs/2410.21207)|null|
-|**2024-10-27**|**A New Method for Inserting Train Paths into a Timetable**|David Dekker et.al.|[2410.20561](http://arxiv.org/abs/2410.20561)|null|
+|**2024-10-27**|**A New Method for Inserting Train Paths into a Timetable**|David Dekker et.al.|[2410.20561](http://arxiv.org/abs/2410.20561)|**[link](https://github.com/david-dekker-liu/path-insertion)**|
 |**2024-10-27**|**On the I/O Complexity of the CYK Algorithm and of a Family of Related DP Algorithms**|Lorenzo De Stefani et.al.|[2410.20337](http://arxiv.org/abs/2410.20337)|null|
 |**2024-10-25**|**An Enhanced Hierarchical Planning Framework for Multi-Robot Autonomous Exploration**|Gengyuan Cai et.al.|[2410.19373](http://arxiv.org/abs/2410.19373)|null|
 |**2024-10-24**|**Stochastic dynamic programming under recursive Epstein-Zin preferences**|Anna Jaśkiewicz et.al.|[2410.19181](http://arxiv.org/abs/2410.19181)|null|
@@ -386,7 +386,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -397,7 +397,7 @@
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177](http://arxiv.org/abs/2410.24177)|null|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
-|**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159](http://arxiv.org/abs/2410.24159)|null|
+|**2024-10-31**|**GPT or BERT: why not both?**|Lucas Georges Gabriel Charpentier et.al.|[2410.24159](http://arxiv.org/abs/2410.24159)|**[link](https://github.com/ltgoslo/gpt-bert)**|
 |**2024-10-31**|**Thought Space Explorer: Navigating and Expanding Thought Space for Large Language Model Reasoning**|Jinghan Zhang et.al.|[2410.24155](http://arxiv.org/abs/2410.24155)|null|
 |**2024-10-31**|**Language-Driven Policy Distillation for Cooperative Driving in Multi-Agent Reinforcement Learning**|Jiaqi Liu et.al.|[2410.24152](http://arxiv.org/abs/2410.24152)|null|
 |**2024-10-31**|**Exploring Vision Language Models for Facial Attribute Recognition: Emotion, Race, Gender, and Age**|Nouar AlDahoul et.al.|[2410.24148](http://arxiv.org/abs/2410.24148)|null|
@@ -3915,7 +3915,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|null|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6981,5 +6981,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20241101>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241102>back to top</a>)</p>
 
