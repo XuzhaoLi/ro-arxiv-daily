@@ -386,7 +386,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-31**|**P-Masking: Power Law Masking Improves Multi-attribute Controlled Generation**|Mohamed Elgaar et.al.|[2410.24201](http://arxiv.org/abs/2410.24201)|null|
-|**2024-10-31**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
+|**2024-11-01**|**SelfCodeAlign: Self-Alignment for Code Generation**|Yuxiang Wei et.al.|[2410.24198](http://arxiv.org/abs/2410.24198)|**[link](https://github.com/bigcode-project/selfcodealign)**|
 |**2024-10-31**|**DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models**|Heng-Jui Chang et.al.|[2410.24177](http://arxiv.org/abs/2410.24177)|null|
 |**2024-10-31**|**Constraint Back-translation Improves Complex Instruction Following of Large Language Models**|Yunjia Qi et.al.|[2410.24175](http://arxiv.org/abs/2410.24175)|null|
 |**2024-10-31**|**$π_0$ : A Vision-Language-Action Flow Model for General Robot Control**|Kevin Black et.al.|[2410.24164](http://arxiv.org/abs/2410.24164)|null|
@@ -3927,11 +3927,11 @@ layout: default
 |**2024-10-30**|**Estimating Neural Network Robustness via Lipschitz Constant and Architecture Sensitivity**|Abulikemu Abuduweili et.al.|[2410.23382](http://arxiv.org/abs/2410.23382)|null|
 |**2024-10-30**|**OpenSatMap: A Fine-grained High-resolution Satellite Dataset for Large-scale Map Construction**|Hongbo Zhao et.al.|[2410.23278](http://arxiv.org/abs/2410.23278)|null|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
-|**2024-10-30**|**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**|Alireza Abbaspour et.al.|[2410.23207](http://arxiv.org/abs/2410.23207)|null|
+|**2024-10-31**|**Enhancing Autonomous Driving Safety Analysis with Generative AI: A Comparative Study on Automated Hazard and Risk Assessment**|Alireza Abbaspour et.al.|[2410.23207](http://arxiv.org/abs/2410.23207)|null|
 |**2024-10-30**|**S3PT: Scene Semantics and Structure Guided Clustering to Boost Self-Supervised Pre-Training for Autonomous Driving**|Maciej K. Wozniak et.al.|[2410.23085](http://arxiv.org/abs/2410.23085)|null|
 |**2024-10-30**|**Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback**|Qinqing Zheng et.al.|[2410.23022](http://arxiv.org/abs/2410.23022)|null|
 |**2024-10-31**|**DiffLight: A Partial Rewards Conditioned Diffusion Model for Traffic Signal Control with Missing Data**|Hanyang Chen et.al.|[2410.22938](http://arxiv.org/abs/2410.22938)|**[link](https://github.com/lokol5579/DiffLight-release)**|
-|**2024-10-30**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932](http://arxiv.org/abs/2410.22932)|null|
+|**2024-11-01**|**Multi-Agent Large Language Models for Conversational Task-Solving**|Jonas Becker et.al.|[2410.22932](http://arxiv.org/abs/2410.22932)|null|
 |**2024-10-30**|**Self-optimization in distributed manufacturing systems using Modular State-based Stackelberg Games**|Steve Yuwono et.al.|[2410.22912](http://arxiv.org/abs/2410.22912)|null|
 |**2024-10-30**|**YOLOv11 for Vehicle Detection: Advancements, Performance, and Applications in Intelligent Transportation Systems**|Mujadded Al Rabbani Alif et.al.|[2410.22898](http://arxiv.org/abs/2410.22898)|null|
 |**2024-10-30**|**A Graph-Based Model for Vehicle-Centric Data Sharing Ecosystem**|Haiyue Yuan et.al.|[2410.22897](http://arxiv.org/abs/2410.22897)|null|
