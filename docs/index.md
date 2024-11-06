@@ -388,6 +388,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Inference Optimal VLMs Need Only One Visual Token but Larger Models**|Kevin Y. Li et.al.|[2411.03312](http://arxiv.org/abs/2411.03312)|**[link](https://github.com/locuslab/llava-token-compression)**|
+|**2024-11-05**|**LLMs for Domain Generation Algorithm Detection**|Reynier Leyva La O et.al.|[2411.03307](http://arxiv.org/abs/2411.03307)|null|
+|**2024-11-05**|**VERITAS: A Unified Approach to Reliability Evaluation**|Rajkumar Ramamurthy et.al.|[2411.03300](http://arxiv.org/abs/2411.03300)|null|
+|**2024-11-05**|**Examining Human-AI Collaboration for Co-Writing Constructive Comments Online**|Farhana Shahid et.al.|[2411.03295](http://arxiv.org/abs/2411.03295)|null|
+|**2024-11-05**|**Interaction2Code: How Far Are We From Automatic Interactive Webpage Generation?**|Jingyu Xiao et.al.|[2411.03292](http://arxiv.org/abs/2411.03292)|null|
+|**2024-11-05**|**The Future of Intelligent Healthcare: A Systematic Analysis and Discussion on the Integration and Impact of Robots Using Large Language Models for Healthcare**|Souren Pashangpour et.al.|[2411.03287](http://arxiv.org/abs/2411.03287)|null|
+|**2024-11-05**|**SMoA: Improving Multi-agent Large Language Models with Sparse Mixture-of-Agents**|Dawei Li et.al.|[2411.03284](http://arxiv.org/abs/2411.03284)|**[link](https://github.com/david-li0406/smoa)**|
+|**2024-11-05**|**Spontaneous Emergence of Agent Individuality through Social Interactions in LLM-Based Communities**|Ryosuke Takata et.al.|[2411.03252](http://arxiv.org/abs/2411.03252)|null|
+|**2024-11-05**|**DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models**|Ying Zhou et.al.|[2411.03250](http://arxiv.org/abs/2411.03250)|null|
+|**2024-11-05**|**From Pen to Prompt: How Creative Writers Integrate AI into their Writing Practice**|Alicia Guo et.al.|[2411.03137](http://arxiv.org/abs/2411.03137)|null|
+|**2024-11-05**|**"Create a Fear of Missing Out" -- ChatGPT Implements Unsolicited Deceptive Designs in Generated Websites Without Warning**|Veronika Krauß et.al.|[2411.03108](http://arxiv.org/abs/2411.03108)|null|
+|**2024-11-05**|**Utilizing Precise and Complete Code Context to Guide LLM in Automatic False Positive Mitigation**|Jinbao Chen et.al.|[2411.03079](http://arxiv.org/abs/2411.03079)|null|
+|**2024-11-05**|**Predictor-Corrector Enhanced Transformers with Exponential Moving Average Coefficient Learning**|Bei Li et.al.|[2411.03042](http://arxiv.org/abs/2411.03042)|null|
+|**2024-11-05**|**HumanVLM: Foundation for Human-Scene Vision-Language Model**|Dawei Dai et.al.|[2411.03034](http://arxiv.org/abs/2411.03034)|null|
+|**2024-11-05**|**Leveraging Large Language Models in Code Question Answering: Baselines and Issues**|Georgy Andryushchenko et.al.|[2411.03012](http://arxiv.org/abs/2411.03012)|**[link](https://github.com/iu-aes-ai4code/codequestionanswering)**|
+|**2024-11-05**|**Controlling for Unobserved Confounding with Large Language Model Classification of Patient Smoking Status**|Samuel Lee et.al.|[2411.03004](http://arxiv.org/abs/2411.03004)|null|
+|**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
+|**2024-11-05**|**Growing a Tail: Increasing Output Diversity in Large Language Models**|Michal Shur-Ofry et.al.|[2411.02989](http://arxiv.org/abs/2411.02989)|null|
+|**2024-11-05**|**[Vision Paper] PRObot: Enhancing Patient-Reported Outcome Measures for Diabetic Retinopathy using Chatbots and Generative AI**|Maren Pielka et.al.|[2411.02973](http://arxiv.org/abs/2411.02973)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
 |**2024-11-04**|**Training-free Regional Prompting for Diffusion Transformers**|Anthony Chen et.al.|[2411.02395](http://arxiv.org/abs/2411.02395)|**[link](https://github.com/antonioo-c/regional-prompting-flux)**|
 |**2024-11-04**|**Adaptive Length Image Tokenization via Recurrent Allocation**|Shivam Duggal et.al.|[2411.02393](http://arxiv.org/abs/2411.02393)|**[link](https://github.com/shivamduggal4/adaptive-length-tokenizer)**|
 |**2024-11-04**|**Attacking Vision-Language Computer Agents via Pop-ups**|Yanzhe Zhang et.al.|[2411.02391](http://arxiv.org/abs/2411.02391)|null|
@@ -3935,7 +3955,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|null|
+|**2024-11-05**|**Causal Responsibility Attribution for Human-AI Collaboration**|Yahang Qi et.al.|[2411.03275](http://arxiv.org/abs/2411.03275)|**[link](https://github.com/yahang-qi/Causal-Attr-Human-AI)**|
+|**2024-11-05**|**Knowledge Graphs of Driving Scenes to Empower the Emerging Capabilities of Neurosymbolic AI**|Ruwan Wickramarachchi et.al.|[2411.03225](http://arxiv.org/abs/2411.03225)|null|
+|**2024-11-05**|**GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis**|Temitope Akinboyewa et.al.|[2411.03205](http://arxiv.org/abs/2411.03205)|null|
+|**2024-11-05**|**Evaluating Machine Learning Models against Clinical Protocols for Enhanced Interpretability and Continuity of Care**|Christel Sirocchi et.al.|[2411.03105](http://arxiv.org/abs/2411.03105)|**[link](https://github.com/ChristelSirocchi/XAI-similarity)**|
+|**2024-11-05**|**Precise Drive with VLM: First Prize Solution for PRCV 2024 Drive LM challenge**|Bin Huang et.al.|[2411.02999](http://arxiv.org/abs/2411.02999)|null|
+|**2024-11-05**|**Autonomous Decision Making for UAV Cooperative Pursuit-Evasion Game with Reinforcement Learning**|Yang Zhao et.al.|[2411.02983](http://arxiv.org/abs/2411.02983)|null|
+|**2024-11-05**|**Region-Guided Attack on the Segment Anything Model (SAM)**|Xiaoliang Liu et.al.|[2411.02974](http://arxiv.org/abs/2411.02974)|null|
+|**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969](http://arxiv.org/abs/2411.02969)|null|
+|**2024-11-05**|**Mapping Africa Settlements: High Resolution Urban and Rural Map by Deep Learning and Satellite Imagery**|Mohammad Kakooei et.al.|[2411.02935](http://arxiv.org/abs/2411.02935)|null|
+|**2024-11-05**|**Exploring the Interplay Between Video Generation and World Models in Autonomous Driving: A Survey**|Ao Fu et.al.|[2411.02914](http://arxiv.org/abs/2411.02914)|null|
+|**2024-11-05**|**A new family of ladder operators for macroscopic systems, with applications**|Fabio Bagarello et.al.|[2411.02879](http://arxiv.org/abs/2411.02879)|null|
+|**2024-11-05**|**Safety Verification for Evasive Collision Avoidance in Autonomous Vehicles with Enhanced Resolutions**|Aliasghar Arab et.al.|[2411.02706](http://arxiv.org/abs/2411.02706)|null|
+|**2024-11-04**|**Geometry of naturalistic object representations in recurrent neural network models of working memory**|Xiaoxuan Lei et.al.|[2411.02685](http://arxiv.org/abs/2411.02685)|null|
+|**2024-11-04**|**Visually Analyze SHAP Plots to Diagnose Misclassifications in ML-based Intrusion Detection**|Maraz Mia et.al.|[2411.02670](http://arxiv.org/abs/2411.02670)|null|
+|**2024-11-04**|**Designing and Evaluating Sampling Strategies for Multiple-Forecast Visualization (MFV)**|Ruishi Zou et.al.|[2411.02576](http://arxiv.org/abs/2411.02576)|null|
+|**2024-11-04**|**Enhancing Risk Assessment in Transformers with Loss-at-Risk Functions**|Jinghan Zhang et.al.|[2411.02558](http://arxiv.org/abs/2411.02558)|null|
+|**2024-11-04**|**Imagining and building wise machines: The centrality of AI metacognition**|Samuel G. B. Johnson et.al.|[2411.02478](http://arxiv.org/abs/2411.02478)|null|
+|**2024-11-04**|**Energy-Aware Dynamic Neural Inference**|Marcello Bullo et.al.|[2411.02471](http://arxiv.org/abs/2411.02471)|null|
+|**2024-11-04**|**WebRL: Training LLM Web Agents via Self-Evolving Online Curriculum Reinforcement Learning**|Zehan Qi et.al.|[2411.02337](http://arxiv.org/abs/2411.02337)|**[link](https://github.com/THUDM/WebRL)**|
 |**2024-11-04**|**Federated GNNs for EEG-Based Stroke Assessment**|Andrea Protani et.al.|[2411.02286](http://arxiv.org/abs/2411.02286)|null|
 |**2024-11-04**|**Stochastic Optimal Control of an Industrial Power-to-Heat System with High-Temperature Heat Pump and Thermal Energy Storage**|Eric Pilling et.al.|[2411.02211](http://arxiv.org/abs/2411.02211)|null|
 |**2024-11-04**|**Learning Multiple Initial Solutions to Optimization Problems**|Elad Sharony et.al.|[2411.02158](http://arxiv.org/abs/2411.02158)|null|
