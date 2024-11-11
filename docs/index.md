@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.10
+## Updated on 2024.11.11
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,11 +12,11 @@ layout: default
 |**2024-11-07**|**Minimax Linear Regulator Problems for Positive Systems**|Alba Gurpegui et.al.|[2411.04809](http://arxiv.org/abs/2411.04809)|null|
 |**2024-11-07**|**Optimal Execution under Incomplete Information**|Etienne Chevalier et.al.|[2411.04616](http://arxiv.org/abs/2411.04616)|null|
 |**2024-11-07**|**Convergence and Robustness of Value and Policy Iteration for the Linear Quadratic Regulator**|Bowen Song et.al.|[2411.04548](http://arxiv.org/abs/2411.04548)|null|
-|**2024-11-05**|**DP-HLS: A High-Level Synthesis Framework for Accelerating Dynamic Programming Algorithms in Bioinformatics**|Yingqi Cao et.al.|[2411.03398](http://arxiv.org/abs/2411.03398)|null|
+|**2024-11-05**|**DP-HLS: A High-Level Synthesis Framework for Accelerating Dynamic Programming Algorithms in Bioinformatics**|Yingqi Cao et.al.|[2411.03398](http://arxiv.org/abs/2411.03398)|**[link](https://github.com/turakhialab/dp-hls)**|
 |**2024-11-04**|**Stochastic Optimal Control of an Industrial Power-to-Heat System with High-Temperature Heat Pump and Thermal Energy Storage**|Eric Pilling et.al.|[2411.02211](http://arxiv.org/abs/2411.02211)|null|
 |**2024-11-03**|**ParseCaps: An Interpretable Parsing Capsule Network for Medical Image Diagnosis**|Xinyu Geng et.al.|[2411.01564](http://arxiv.org/abs/2411.01564)|null|
 |**2024-10-31**|**EARL-BO: Reinforcement Learning for Multi-Step Lookahead, High-Dimensional Bayesian Optimization**|Mujin Cheon et.al.|[2411.00171](http://arxiv.org/abs/2411.00171)|null|
-|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|null|
+|**2024-10-31**|**Q-learning for Quantile MDPs: A Decomposition, Performance, and Convergence Analysis**|Jia Lin Hau et.al.|[2410.24128](http://arxiv.org/abs/2410.24128)|**[link](https://github.com/MonkieDein/DRA-Q-LA)**|
 |**2024-10-31**|**A dynamic programming principle for multiperiod control problems with bicausal constraints**|Ruslan Mirmominov et.al.|[2410.23927](http://arxiv.org/abs/2410.23927)|null|
 |**2024-10-30**|**Return Augmented Decision Transformer for Off-Dynamics Reinforcement Learning**|Ruhan Wang et.al.|[2410.23450](http://arxiv.org/abs/2410.23450)|null|
 |**2024-10-29**|**Approximately Counting Knapsack Solutions in Subquadratic Time**|Weiming Feng et.al.|[2410.22267](http://arxiv.org/abs/2410.22267)|null|
@@ -401,7 +401,7 @@ layout: default
 |**2024-11-07**|**LLM2CLIP: Powerful Language Model Unlock Richer Visual Representation**|Weiquan Huang et.al.|[2411.04997](http://arxiv.org/abs/2411.04997)|**[link](https://github.com/microsoft/LLM2CLIP)**|
 |**2024-11-07**|**Mixture-of-Transformers: A Sparse and Scalable Architecture for Multi-Modal Foundation Models**|Weixin Liang et.al.|[2411.04996](http://arxiv.org/abs/2411.04996)|null|
 |**2024-11-07**|**Rethinking Bradley-Terry Models in Preference-Based Reward Modeling: Foundations, Theory, and Alternatives**|Hao Sun et.al.|[2411.04991](http://arxiv.org/abs/2411.04991)|**[link](https://github.com/holarissun/rewardmodelingbeyondbradleyterry)**|
-|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986](http://arxiv.org/abs/2411.04986)|**[link](https://github.com/ZhaofengWu/semantic-hub)**|
+|**2024-11-07**|**The Semantic Hub Hypothesis: Language Models Share Semantic Representations Across Languages and Modalities**|Zhaofeng Wu et.al.|[2411.04986](http://arxiv.org/abs/2411.04986)|null|
 |**2024-11-07**|**Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries**|Dylan Manuel et.al.|[2411.04981](http://arxiv.org/abs/2411.04981)|null|
 |**2024-11-07**|**SuffixDecoding: A Model-Free Approach to Speeding Up Large Language Model Inference**|Gabriele Oliaro et.al.|[2411.04975](http://arxiv.org/abs/2411.04975)|null|
 |**2024-11-07**|**BitNet a4.8: 4-bit Activations for 1-bit LLMs**|Hongyu Wang et.al.|[2411.04965](http://arxiv.org/abs/2411.04965)|null|
@@ -4018,7 +4018,7 @@ layout: default
 |**2024-11-07**|**Survival of the Notable: Gender Asymmetry in Wikipedia Collective Deliberations**|Khandaker Tasnim Huq et.al.|[2411.04340](http://arxiv.org/abs/2411.04340)|null|
 |**2024-11-07**|**CodeTree: Agent-guided Tree Search for Code Generation with Large Language Models**|Jierui Li et.al.|[2411.04329](http://arxiv.org/abs/2411.04329)|null|
 |**2024-11-06**|**Multimodal Structure-Aware Quantum Data Processing**|Hala Hawashin et.al.|[2411.04242](http://arxiv.org/abs/2411.04242)|null|
-|**2024-11-06**|**Using Linked Micromaps for Evidence-Based Policy**|Randall Powers et.al.|[2411.04211](http://arxiv.org/abs/2411.04211)|null|
+|**2024-11-06**|**Using Linked Micromaps for Evidence-Based Policy**|Randall Powers et.al.|[2411.04211](http://arxiv.org/abs/2411.04211)|**[link](https://github.com/wlmcensus/joint-statistical-meetings-presentation-2024)**|
 |**2024-11-06**|**A Capacitated Collection-and-Delivery-Point Location Problem with Random Utility Maximizing Customers**|David Pinzon Ulloa et.al.|[2411.04200](http://arxiv.org/abs/2411.04200)|null|
 |**2024-11-06**|**A Comparative Study of Deep Reinforcement Learning for Crop Production Management**|Joseph Balderas et.al.|[2411.04106](http://arxiv.org/abs/2411.04106)|null|
 |**2024-11-06**|**Aligning Characteristic Descriptors with Images for Human-Expert-like Explainability**|Bharat Chandra Yalavarthi et.al.|[2411.04008](http://arxiv.org/abs/2411.04008)|null|
