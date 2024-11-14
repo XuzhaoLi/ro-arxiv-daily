@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**On the numerical integration of the Fokker-Planck equation driven by a mechanical force and the Bismut-Elworthy-Li formula**|Julia Sanders et.al.|[2411.08518](http://arxiv.org/abs/2411.08518)|null|
+|**2024-11-13**|**Tractable Robust Markov Decision Processes**|Julien Grand-Clément et.al.|[2411.08435](http://arxiv.org/abs/2411.08435)|null|
 |**2024-11-12**|**dpvis: A Visual and Interactive Learning Tool for Dynamic Programming**|David H. Lee et.al.|[2411.07705](http://arxiv.org/abs/2411.07705)|null|
 |**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang et.al.|[2411.06751](http://arxiv.org/abs/2411.06751)|null|
 |**2024-11-11**|**Resilient control under denial-of-service and uncertainty: An adaptive dynamic programming approach**|Weinan Gao et.al.|[2411.06689](http://arxiv.org/abs/2411.06689)|null|
@@ -406,6 +408,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**Large Wireless Model (LWM): A Foundation Model for Wireless Channels**|Sadjad Alikhani et.al.|[2411.08872](http://arxiv.org/abs/2411.08872)|null|
+|**2024-11-13**|**The Limited Impact of Medical Adaptation of Large Language and Vision-Language Models**|Daniel P. Jeong et.al.|[2411.08870](http://arxiv.org/abs/2411.08870)|null|
+|**2024-11-13**|**CamemBERT 2.0: A Smarter French Language Model Aged to Perfection**|Wissam Antoun et.al.|[2411.08868](http://arxiv.org/abs/2411.08868)|null|
+|**2024-11-13**|**LLMStinger: Jailbreaking LLMs using RL fine-tuned LLMs**|Piyush Jha et.al.|[2411.08862](http://arxiv.org/abs/2411.08862)|null|
+|**2024-11-13**|**Multimodal Instruction Tuning with Hybrid State Space Models**|Jianing Zhou et.al.|[2411.08840](http://arxiv.org/abs/2411.08840)|null|
+|**2024-11-13**|**FinRobot: AI Agent for Equity Research and Valuation with Large Language Models**|Tianyu Zhou et.al.|[2411.08804](http://arxiv.org/abs/2411.08804)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**Can sparse autoencoders be used to decompose and interpret steering vectors?**|Harry Mayne et.al.|[2411.08790](http://arxiv.org/abs/2411.08790)|**[link](https://github.com/harrymayne/sv_interpretability)**|
+|**2024-11-13**|**Sharingan: Extract User Action Sequence from Desktop Recordings**|Yanting Chen et.al.|[2411.08768](http://arxiv.org/abs/2411.08768)|null|
+|**2024-11-13**|**Separating Tongue from Thought: Activation Patching Reveals Language-Agnostic Concept Representations in Transformers**|Clément Dumas et.al.|[2411.08745](http://arxiv.org/abs/2411.08745)|**[link](https://github.com/butanium/llm-lang-agnostic)**|
+|**2024-11-13**|**A Comparative Study of Discrete Speech Tokens for Semantic-Related Tasks with Large Language Models**|Dingdong Wang et.al.|[2411.08742](http://arxiv.org/abs/2411.08742)|null|
+|**2024-11-13**|**Dynamic Rewarding with Prompt Optimization Enables Tuning-free Self-Alignment of Language Models**|Somanshu Singla et.al.|[2411.08733](http://arxiv.org/abs/2411.08733)|null|
+|**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
+|**2024-11-13**|**Voxeland: Probabilistic Instance-Aware Semantic Mapping with Evidence-based Uncertainty Quantification**|Jose-Luis Matez-Bandera et.al.|[2411.08727](http://arxiv.org/abs/2411.08727)|null|
+|**2024-11-13**|**Theoretical Analysis of Byte-Pair Encoding**|László Kozma et.al.|[2411.08671](http://arxiv.org/abs/2411.08671)|null|
+|**2024-11-13**|**OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Geometric and Semantic Guidances**|Youqi Liao et.al.|[2411.08665](http://arxiv.org/abs/2411.08665)|null|
+|**2024-11-13**|**UniMat: Unifying Materials Embeddings through Multi-modal Learning**|Janghoon Ock et.al.|[2411.08664](http://arxiv.org/abs/2411.08664)|null|
+|**2024-11-13**|**Accelerating Quasi-Static Time Series Simulations with Foundation Models**|Alban Puech et.al.|[2411.08652](http://arxiv.org/abs/2411.08652)|null|
+|**2024-11-13**|**A System Level Performance Evaluation for Superconducting Digital Systems**|Joyjit Kundu et.al.|[2411.08645](http://arxiv.org/abs/2411.08645)|null|
+|**2024-11-13**|**Towards Secure Intelligent O-RAN Architecture: Vulnerabilities, Threats and Promising Technical Solutions using LLMs**|Mojdeh Karbalaee Motalleb et.al.|[2411.08640](http://arxiv.org/abs/2411.08640)|null|
 |**2024-11-12**|**Learning with Less: Knowledge Distillation from Large Language Models via Unlabeled Data**|Juanhui Li et.al.|[2411.08028](http://arxiv.org/abs/2411.08028)|null|
 |**2024-11-12**|**LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models**|Anoop Cherian et.al.|[2411.08027](http://arxiv.org/abs/2411.08027)|null|
 |**2024-11-12**|**Language Models as Causal Effect Generators**|Lucius E. J. Bynum et.al.|[2411.08019](http://arxiv.org/abs/2411.08019)|**[link](https://github.com/lbynum/sequence-driven-scms)**|
@@ -4075,6 +4097,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822](http://arxiv.org/abs/2411.08822)|null|
+|**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
+|**2024-11-13**|**SANDWICH: Towards an Offline, Differentiable, Fully-Trainable Wireless Neural Ray-Tracing Surrogate**|Yifei Jin et.al.|[2411.08767](http://arxiv.org/abs/2411.08767)|null|
+|**2024-11-13**|**Logic-based Knowledge Awareness for Autonomous Agents in Continuous Spaces**|Arabinda Ghosh et.al.|[2411.08754](http://arxiv.org/abs/2411.08754)|null|
+|**2024-11-13**|**Polymetis:Large Language Modeling for Multiple Material Domains**|Chao Huang et.al.|[2411.08728](http://arxiv.org/abs/2411.08728)|null|
+|**2024-11-13**|**High-resolution optical and acoustic remote sensing datasets of the Puck Lagoon, Southern Baltic**|Łukasz Janowski et.al.|[2411.08712](http://arxiv.org/abs/2411.08712)|null|
+|**2024-11-13**|**TRACE: Transformer-based Risk Assessment for Clinical Evaluation**|Dionysis Christopoulos et.al.|[2411.08701](http://arxiv.org/abs/2411.08701)|null|
+|**2024-11-13**|**UniMat: Unifying Materials Embeddings through Multi-modal Learning**|Janghoon Ock et.al.|[2411.08664](http://arxiv.org/abs/2411.08664)|null|
+|**2024-11-13**|**Robot See, Robot Do: Imitation Reward for Noisy Financial Environments**|Sven Goluža et.al.|[2411.08637](http://arxiv.org/abs/2411.08637)|null|
+|**2024-11-13**|**Zero-shot capability of SAM-family models for bone segmentation in CT scans**|Caroline Magg et.al.|[2411.08629](http://arxiv.org/abs/2411.08629)|null|
+|**2024-11-13**|**An Empirical Examination of the Evaluative AI Framework**|Jaroslaw Kornowicz et.al.|[2411.08583](http://arxiv.org/abs/2411.08583)|null|
+|**2024-11-13**|**TimeLess: A Vision for the Next Generation of Software Development**|Zeeshan Rasheed et.al.|[2411.08507](http://arxiv.org/abs/2411.08507)|null|
+|**2024-11-13**|**Towards Objective and Unbiased Decision Assessments with LLM-Enhanced Hierarchical Attention Networks**|Junhua Liu et.al.|[2411.08504](http://arxiv.org/abs/2411.08504)|null|
+|**2024-11-13**|**Methodology for a Statistical Analysis of Influencing Factors on 3D Object Detection Performance**|Anton Kuznietsov et.al.|[2411.08482](http://arxiv.org/abs/2411.08482)|null|
+|**2024-11-13**|**Learning Dynamic Cognitive Map with Autonomous Navigation**|Daria de Tinguy et.al.|[2411.08447](http://arxiv.org/abs/2411.08447)|null|
+|**2024-11-13**|**3D Multi-Object Tracking with Semi-Supervised GRU-Kalman Filter**|Xiaoxiang Wang et.al.|[2411.08433](http://arxiv.org/abs/2411.08433)|null|
+|**2024-11-13**|**Hybrid Vector Auto Regression and Neural Network Model for Order Flow Imbalance Prediction in High Frequency Trading**|Abdul Rahman et.al.|[2411.08382](http://arxiv.org/abs/2411.08382)|null|
+|**2024-11-13**|**A Fuzzy Reinforcement LSTM-based Long-term Prediction Model for Fault Conditions in Nuclear Power Plants**|Siwei Li et.al.|[2411.08370](http://arxiv.org/abs/2411.08370)|null|
+|**2024-11-13**|**How Transit Countries Become Refugee Destinations: Insights from Central and Eastern Europe**|Liliana Harding et.al.|[2411.08350](http://arxiv.org/abs/2411.08350)|null|
+|**2024-11-13**|**TowerDebias: A Novel Debiasing Method based on the Tower Property**|Norman Matloff et.al.|[2411.08297](http://arxiv.org/abs/2411.08297)|null|
 |**2024-11-12**|**Investigating the Effectiveness of Explainability Methods in Parkinson's Detection from Speech**|Eleonora Mancini et.al.|[2411.08013](http://arxiv.org/abs/2411.08013)|null|
 |**2024-11-12**|**Optimal Control of Mechanical Ventilators with Learned Respiratory Dynamics**|Isaac Ronald Ward et.al.|[2411.07971](http://arxiv.org/abs/2411.07971)|**[link](https://github.com/sisl/ventilators)**|
 |**2024-11-12**|**Learning Memory Mechanisms for Decision Making through Demonstrations**|William Yue et.al.|[2411.07954](http://arxiv.org/abs/2411.07954)|**[link](https://github.com/williamyue37/attentiontuner)**|
