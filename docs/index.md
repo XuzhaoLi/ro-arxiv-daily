@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.15
+## Updated on 2024.11.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2024-11-14**|**Latency Optimization in LEO Satellite Communications with Hybrid Beam Pattern and Interference Control**|Qianqian Zhang et.al.|[2411.09600](http://arxiv.org/abs/2411.09600)|null|
 |**2024-11-13**|**On the numerical integration of the Fokker-Planck equation driven by a mechanical force and the Bismut-Elworthy-Li formula**|Julia Sanders et.al.|[2411.08518](http://arxiv.org/abs/2411.08518)|null|
 |**2024-11-13**|**Tractable Robust Markov Decision Processes**|Julien Grand-Clément et.al.|[2411.08435](http://arxiv.org/abs/2411.08435)|null|
-|**2024-11-12**|**dpvis: A Visual and Interactive Learning Tool for Dynamic Programming**|David H. Lee et.al.|[2411.07705](http://arxiv.org/abs/2411.07705)|null|
+|**2024-11-12**|**dpvis: A Visual and Interactive Learning Tool for Dynamic Programming**|David H. Lee et.al.|[2411.07705](http://arxiv.org/abs/2411.07705)|**[link](https://github.com/itsdawei/dpvis)**|
 |**2024-11-11**|**DP and QP Based Decision-making and Planning for Autonomous Vehicle**|Zhicheng Zhang et.al.|[2411.06751](http://arxiv.org/abs/2411.06751)|null|
 |**2024-11-11**|**Resilient control under denial-of-service and uncertainty: An adaptive dynamic programming approach**|Weinan Gao et.al.|[2411.06689](http://arxiv.org/abs/2411.06689)|null|
 |**2024-11-11**|**Two Kinds of Learning Algorithms for Continuous-Time VWAP Targeting Execution**|Xingyu Zhou et.al.|[2411.06645](http://arxiv.org/abs/2411.06645)|null|
@@ -4115,7 +4115,7 @@ layout: default
 |**2024-11-14**|**An Approach to Twinning and Mining Collaborative Network of Construction Projects**|Jia-Rui Lin et.al.|[2411.09486](http://arxiv.org/abs/2411.09486)|null|
 |**2024-11-14**|**Socio-Economic Consequences of Generative AI: A Review of Methodological Approaches**|Carlos J. Costa et.al.|[2411.09313](http://arxiv.org/abs/2411.09313)|null|
 |**2024-11-14**|**LHRS-Bot-Nova: Improved Multimodal Large Language Model for Remote Sensing Vision-Language Interpretation**|Zhenshi Li et.al.|[2411.09301](http://arxiv.org/abs/2411.09301)|**[link](https://github.com/NJU-LHRS/LHRS-Bot)**|
-|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|null|
+|**2024-11-14**|**SAFES: Sequential Privacy and Fairness Enhancing Data Synthesis for Responsible AI**|Spencer Giddens et.al.|[2411.09178](http://arxiv.org/abs/2411.09178)|**[link](https://github.com/sgiddens/SAFES)**|
 |**2024-11-14**|**Gazing at Rewards: Eye Movements as a Lens into Human and AI Decision-Making in Hybrid Visual Foraging**|Bo Wang et.al.|[2411.09176](http://arxiv.org/abs/2411.09176)|null|
 |**2024-11-13**|**A probabilistic reduced-order modeling framework for patient-specific cardio-mechanical analysis**|Robin Willems et.al.|[2411.08822](http://arxiv.org/abs/2411.08822)|null|
 |**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
