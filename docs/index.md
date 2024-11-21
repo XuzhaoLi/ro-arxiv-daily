@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.11.20
+## Updated on 2024.11.21
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -407,6 +407,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**Find Any Part in 3D**|Ziqi Ma et.al.|[2411.13550](http://arxiv.org/abs/2411.13550)|null|
+|**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
+|**2024-11-20**|**Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm**|Rushabh Solanki et.al.|[2411.13546](http://arxiv.org/abs/2411.13546)|null|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
+|**2024-11-20**|**Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse**|S. Chapagain et.al.|[2411.13534](http://arxiv.org/abs/2411.13534)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Neural machine translation of seismic waves for petrophysical inversion**|José Cunha Teixeira et.al.|[2411.13491](http://arxiv.org/abs/2411.13491)|null|
+|**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
+|**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
+|**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
+|**2024-11-20**|**SoK: A Systems Perspective on Compound AI Threats and Countermeasures**|Sarbartha Banerjee et.al.|[2411.13459](http://arxiv.org/abs/2411.13459)|null|
+|**2024-11-20**|**LIMBA: An Open-Source Framework for the Preservation and Valorization of Low-Resource Languages using Generative Models**|Salvatore Mario Carta et.al.|[2411.13453](http://arxiv.org/abs/2411.13453)|null|
+|**2024-11-20**|**AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations**|Gaurav Verma et.al.|[2411.13451](http://arxiv.org/abs/2411.13451)|null|
+|**2024-11-20**|**WaterPark: A Robustness Assessment of Language Model Watermarking**|Jiacheng Liang et.al.|[2411.13425](http://arxiv.org/abs/2411.13425)|null|
+|**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Unification of Balti and trans-border sister dialects in the essence of LLMs and AI Technology**|Muhammad Sharif et.al.|[2411.13409](http://arxiv.org/abs/2411.13409)|null|
+|**2024-11-20**|**Transformer-Based Contextualized Language Models Joint with Neural Networks for Natural Language Inference in Vietnamese**|Dat Van-Thanh Nguyen et.al.|[2411.13407](http://arxiv.org/abs/2411.13407)|null|
 |**2024-11-19**|**ACING: Actor-Critic for Instruction Learning in Black-Box Large Language Models**|Salma Kharrat et.al.|[2411.12736](http://arxiv.org/abs/2411.12736)|null|
 |**2024-11-19**|**Information Theory of Meaningful Communication**|Doron Sivan et.al.|[2411.12728](http://arxiv.org/abs/2411.12728)|null|
 |**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
@@ -4174,6 +4194,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
+|**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
+|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-20**|**Neural machine translation of seismic waves for petrophysical inversion**|José Cunha Teixeira et.al.|[2411.13491](http://arxiv.org/abs/2411.13491)|null|
+|**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
+|**2024-11-20**|**A Survey On Enhancing Reinforcement Learning in Complex Environments: Insights from Human and LLM Feedback**|Alireza Rashidi Laleh et.al.|[2411.13410](http://arxiv.org/abs/2411.13410)|null|
+|**2024-11-20**|**Explainable Finite-Memory Policies for Partially Observable Markov Decision Processes**|Muqsit Azeem et.al.|[2411.13365](http://arxiv.org/abs/2411.13365)|null|
+|**2024-11-20**|**WHALES: A Multi-agent Scheduling Dataset for Enhanced Cooperation in Autonomous Driving**|Siwei Chen et.al.|[2411.13340](http://arxiv.org/abs/2411.13340)|**[link](https://github.com/chensiweithu/whales)**|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)**|Antonino Visalli et.al.|[2411.13203](http://arxiv.org/abs/2411.13203)|null|
+|**2024-11-20**|**Guided Object-Oriented Development**|Harrie Passier et.al.|[2411.13200](http://arxiv.org/abs/2411.13200)|null|
+|**2024-11-20**|**Quantitative Fairness -- A Framework For The Design Of Equitable Cybernetic Societies**|Kevin Riehl et.al.|[2411.13184](http://arxiv.org/abs/2411.13184)|null|
+|**2024-11-20**|**YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization**|Thomas Pöllabauer et.al.|[2411.13149](http://arxiv.org/abs/2411.13149)|null|
+|**2024-11-20**|**Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning**|Zhi Luo et.al.|[2411.13116](http://arxiv.org/abs/2411.13116)|null|
+|**2024-11-20**|**DriveMLLM: A Benchmark for Spatial Understanding with Multimodal Large Language Models in Autonomous Driving**|Xianda Guo et.al.|[2411.13112](http://arxiv.org/abs/2411.13112)|**[link](https://github.com/xiandaguo/drive-mllm)**|
+|**2024-11-20**|**Hints of Prompt: Enhancing Visual Representation for Multimodal LLMs in Autonomous Driving**|Hao Zhou et.al.|[2411.13076](http://arxiv.org/abs/2411.13076)|null|
+|**2024-11-20**|**MEGL: Multimodal Explanation-Guided Learning**|Yifei Zhang et.al.|[2411.13053](http://arxiv.org/abs/2411.13053)|null|
+|**2024-11-20**|**Study of Group III-V Waveguides on Sapphire Platform for Photonic Integrated Circuits**|Manoj Kumar Shah et.al.|[2411.13035](http://arxiv.org/abs/2411.13035)|null|
+|**2024-11-20**|**Hierarchical Diffusion Policy: manipulation trajectory generation via contact guidance**|Dexin Wang et.al.|[2411.12982](http://arxiv.org/abs/2411.12982)|null|
+|**2024-11-20**|**LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement**|Siwen Jiao et.al.|[2411.12980](http://arxiv.org/abs/2411.12980)|null|
 |**2024-11-19**|**Dimensions of Generative AI Evaluation Design**|P. Alex Dow et.al.|[2411.12709](http://arxiv.org/abs/2411.12709)|null|
 |**2024-11-19**|**OrigamiPlot: An R Package and Shiny Web App Enhanced Visualizations for Multivariate Data**|Yiwen Lu et.al.|[2411.12674](http://arxiv.org/abs/2411.12674)|null|
 |**2024-11-19**|**Smart Predict-then-Optimize Method with Dependent Data: Risk Bounds and Calibration of Autoregression**|Jixian Liu et.al.|[2411.12653](http://arxiv.org/abs/2411.12653)|null|
