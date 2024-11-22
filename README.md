@@ -14,7 +14,7 @@
 |---|---|---|---|---|
 |**2024-11-18**|**Controlled Occupied Processes and Viscosity Solutions**|H. Mete Soner et.al.|[2411.12080](http://arxiv.org/abs/2411.12080)|null|
 |**2024-11-18**|**A New Finite-Horizon Dynamic Programming Analysis of Nonanticipative Rate-Distortion Function for Markov Sources**|Zixuan He et.al.|[2411.11698](http://arxiv.org/abs/2411.11698)|null|
-|**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|null|
+|**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|**[link](https://github.com/asbschmidt/gpupairhmm)**|
 |**2024-11-17**|**Dynamic Programming: Optimality at a Point Implies Optimality Everywhere**|John Stachurski et.al.|[2411.11062](http://arxiv.org/abs/2411.11062)|null|
 |**2024-11-15**|**AmoebaLLM: Constructing Any-Shape Large Language Models for Efficient and Instant Deployment**|Yonggan Fu et.al.|[2411.10606](http://arxiv.org/abs/2411.10606)|null|
 |**2024-11-14**|**Latency Optimization in LEO Satellite Communications with Hybrid Beam Pattern and Interference Control**|Qianqian Zhang et.al.|[2411.09600](http://arxiv.org/abs/2411.09600)|null|
@@ -414,6 +414,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
+|**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
+|**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
+|**2024-11-21**|**Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding**|Yiming Zhang et.al.|[2411.14401](http://arxiv.org/abs/2411.14401)|null|
+|**2024-11-21**|**Lightweight Safety Guardrails Using Fine-tuned BERT Embeddings**|Aaron Zheng et.al.|[2411.14398](http://arxiv.org/abs/2411.14398)|null|
+|**2024-11-21**|**UnifiedCrawl: Aggregated Common Crawl for Affordable Adaptation of LLMs on Low-Resource Languages**|Bethel Melesse Tessema et.al.|[2411.14343](http://arxiv.org/abs/2411.14343)|**[link](https://github.com/bethelmelesse/unifiedcrawl)**|
+|**2024-11-21**|**SplatR : Experience Goal Visual Rearrangement with 3D Gaussian Splatting and Dense Feature Matching**|Arjun P S et.al.|[2411.14322](http://arxiv.org/abs/2411.14322)|null|
+|**2024-11-21**|**Velocitune: A Velocity-based Dynamic Domain Reweighting Method for Continual Pre-training**|Zheheng Luo et.al.|[2411.14318](http://arxiv.org/abs/2411.14318)|null|
+|**2024-11-21**|**Automated Generation of Code Debugging Exercises**|Victor-Alexandru Pădurean et.al.|[2411.14303](http://arxiv.org/abs/2411.14303)|null|
+|**2024-11-21**|**Auto-SPICE: Leveraging LLMs for Dataset Creation via Automated SPICE Netlist Extraction from Analog Circuit Diagrams**|Jitendra Bhandari et.al.|[2411.14299](http://arxiv.org/abs/2411.14299)|null|
+|**2024-11-21**|**EasyHOI: Unleashing the Power of Large Models for Reconstructing Hand-Object Interactions in the Wild**|Yumeng Liu et.al.|[2411.14280](http://arxiv.org/abs/2411.14280)|null|
+|**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
+|**2024-11-21**|**Efficient Aspect-Based Summarization of Climate Change Reports with Small Language Models**|Iacopo Ghinassi et.al.|[2411.14272](http://arxiv.org/abs/2411.14272)|**[link](https://github.com/ighina/llmclimate2024)**|
+|**2024-11-21**|**Knowledge Graphs, Large Language Models, and Hallucinations: An NLP Perspective**|Ernests Lavrinovics et.al.|[2411.14258](http://arxiv.org/abs/2411.14258)|null|
+|**2024-11-21**|**Do I Know This Entity? Knowledge Awareness and Hallucinations in Language Models**|Javier Ferrando et.al.|[2411.14257](http://arxiv.org/abs/2411.14257)|null|
+|**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256](http://arxiv.org/abs/2411.14256)|null|
+|**2024-11-21**|**Intent-Aware Dialogue Generation and Multi-Task Contrastive Learning for Multi-Turn Intent Classification**|Junhua Liu et.al.|[2411.14252](http://arxiv.org/abs/2411.14252)|null|
+|**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|null|
+|**2024-11-21**|**FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**|Yuke Zhu et.al.|[2411.14228](http://arxiv.org/abs/2411.14228)|null|
+|**2024-11-21**|**Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data**|Paul Fergus et.al.|[2411.14219](http://arxiv.org/abs/2411.14219)|null|
 |**2024-11-20**|**Find Any Part in 3D**|Ziqi Ma et.al.|[2411.13550](http://arxiv.org/abs/2411.13550)|null|
 |**2024-11-20**|**SpecTool: A Benchmark for Characterizing Errors in Tool-Use LLMs**|Shirley Kokane et.al.|[2411.13547](http://arxiv.org/abs/2411.13547)|null|
 |**2024-11-20**|**Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm**|Rushabh Solanki et.al.|[2411.13546](http://arxiv.org/abs/2411.13546)|null|
@@ -4203,6 +4223,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[2411.14375](http://arxiv.org/abs/2411.14375)|null|
+|**2024-11-21**|**Formal Simulation and Visualisation of Hybrid Programs**|Pedro Mendes et.al.|[2411.14365](http://arxiv.org/abs/2411.14365)|null|
+|**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256](http://arxiv.org/abs/2411.14256)|null|
+|**2024-11-21**|**BERT-Based Approach for Automating Course Articulation Matrix Construction with Explainable AI**|Natenaile Asmamaw Shiferaw et.al.|[2411.14254](http://arxiv.org/abs/2411.14254)|**[link](https://github.com/natenaile/bert-based-approach-for-automating-course-articulation-matrix-construction-with-explainable-ai)**|
+|**2024-11-21**|**Natural Language Reinforcement Learning**|Xidong Feng et.al.|[2411.14251](http://arxiv.org/abs/2411.14251)|null|
+|**2024-11-21**|**Towards Context-Rich Automated Biodiversity Assessments: Deriving AI-Powered Insights from Camera Trap Data**|Paul Fergus et.al.|[2411.14219](http://arxiv.org/abs/2411.14219)|null|
+|**2024-11-21**|**Grand Challenges in the Verification of Autonomous Systems**|Kevin Leahy et.al.|[2411.14155](http://arxiv.org/abs/2411.14155)|null|
+|**2024-11-21**|**Forecasting Future International Events: A Reliable Dataset for Text-Based Event Modeling**|Daehoon Gwak et.al.|[2411.14042](http://arxiv.org/abs/2411.14042)|null|
+|**2024-11-21**|**Dual-Arm Telerobotic Platform for Robotic Hotbox Operations for Nuclear Waste Disposition in EM Sites**|Joong-Ku Lee et.al.|[2411.13994](http://arxiv.org/abs/2411.13994)|null|
+|**2024-11-21**|**Market Making without Regret**|Nicolò Cesa-Bianchi et.al.|[2411.13993](http://arxiv.org/abs/2411.13993)|null|
+|**2024-11-21**|**FedRAV: Hierarchically Federated Region-Learning for Traffic Object Classification of Autonomous Vehicles**|Yijun Zhai et.al.|[2411.13979](http://arxiv.org/abs/2411.13979)|**[link](https://github.com/yjzhai-cs/fedrav)**|
+|**2024-11-21**|**Breadboarding the European Moon Rover System: discussion and results of the analogue field test campaign**|Cristina Luna et.al.|[2411.13978](http://arxiv.org/abs/2411.13978)|null|
+|**2024-11-21**|**ICODE: Modeling Dynamical Systems with Extrinsic Input Information**|Zhaoyi Li et.al.|[2411.13914](http://arxiv.org/abs/2411.13914)|null|
+|**2024-11-21**|**Towards Full Delegation: Designing Ideal Agentic Behaviors for Travel Planning**|Song Jiang et.al.|[2411.13904](http://arxiv.org/abs/2411.13904)|null|
+|**2024-11-21**|**Trajectory Tracking Using Frenet Coordinates with Deep Deterministic Policy Gradient**|Tongzhou Jiang et.al.|[2411.13885](http://arxiv.org/abs/2411.13885)|null|
+|**2024-11-21**|**Interactive and Expressive Code-Augmented Planning with Large Language Models**|Anthony Z. Liu et.al.|[2411.13826](http://arxiv.org/abs/2411.13826)|null|
+|**2024-11-21**|**Dynamic spatial interaction models for a leader's resource allocation and followers' multiple activities**|Hanbat Jeong et.al.|[2411.13810](http://arxiv.org/abs/2411.13810)|null|
+|**2024-11-21**|**MagicDriveDiT: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control**|Ruiyuan Gao et.al.|[2411.13807](http://arxiv.org/abs/2411.13807)|null|
+|**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
+|**2024-11-20**|**Exploring Large Language Models for Climate Forecasting**|Yang Wang et.al.|[2411.13724](http://arxiv.org/abs/2411.13724)|null|
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
 |**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
