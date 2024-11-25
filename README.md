@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Jovis: A Visualization Tool for PostgreSQL Query Optimizer**|Yoojin Choi et.al.|[2411.14788](http://arxiv.org/abs/2411.14788)|null|
+|**2024-11-22**|**Construction and Preliminary Validation of a Dynamic Programming Concept Inventory**|Matthew Ferland et.al.|[2411.14655](http://arxiv.org/abs/2411.14655)|null|
 |**2024-11-18**|**Controlled Occupied Processes and Viscosity Solutions**|H. Mete Soner et.al.|[2411.12080](http://arxiv.org/abs/2411.12080)|null|
 |**2024-11-18**|**A New Finite-Horizon Dynamic Programming Analysis of Nonanticipative Rate-Distortion Function for Markov Sources**|Zixuan He et.al.|[2411.11698](http://arxiv.org/abs/2411.11698)|null|
 |**2024-11-18**|**gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs**|Bertil Schmidt et.al.|[2411.11547](http://arxiv.org/abs/2411.11547)|**[link](https://github.com/asbschmidt/gpupairhmm)**|
@@ -414,6 +416,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
+|**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
+|**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
+|**2024-11-22**|**RE-Bench: Evaluating frontier AI R&D capabilities of language model agents against human experts**|Hjalmar Wijk et.al.|[2411.15114](http://arxiv.org/abs/2411.15114)|null|
+|**2024-11-22**|**Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion**|Samarth N Ramesh et.al.|[2411.15113](http://arxiv.org/abs/2411.15113)|null|
+|**2024-11-22**|**AttriBoT: A Bag of Tricks for Efficiently Approximating Leave-One-Out Context Attribution**|Fengyuan Liu et.al.|[2411.15102](http://arxiv.org/abs/2411.15102)|**[link](https://github.com/r-three/AttriBoT)**|
+|**2024-11-22**|**What You See is Not What You Get: Neural Partial Differential Equations and The Illusion of Learning**|Arvind Mohan et.al.|[2411.15101](http://arxiv.org/abs/2411.15101)|null|
+|**2024-11-22**|**XGrammar: Flexible and Efficient Structured Generation Engine for Large Language Models**|Yixin Dong et.al.|[2411.15100](http://arxiv.org/abs/2411.15100)|null|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**mR $^2$ AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA**|Tao Zhang et.al.|[2411.15041](http://arxiv.org/abs/2411.15041)|null|
+|**2024-11-22**|**One to rule them all: natural language to bind communication, perception and action**|Simone Colombani et.al.|[2411.15033](http://arxiv.org/abs/2411.15033)|null|
+|**2024-11-22**|**Time is on my sight: scene graph filtering for dynamic environment perception in an LLM-driven robot**|Simone Colombani et.al.|[2411.15027](http://arxiv.org/abs/2411.15027)|null|
+|**2024-11-22**|**DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**|Keda Tao et.al.|[2411.15024](http://arxiv.org/abs/2411.15024)|null|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[2411.15007](http://arxiv.org/abs/2411.15007)|null|
+|**2024-11-22**|**ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data**|Junhong Shen et.al.|[2411.15004](http://arxiv.org/abs/2411.15004)|**[link](https://github.com/colonylabs/ScribeAgent)**|
+|**2024-11-22**|**Generative AI may backfire for counterspeech**|Dominik Bär et.al.|[2411.14986](http://arxiv.org/abs/2411.14986)|null|
+|**2024-11-22**|**Exploring Foundation Models Fine-Tuning for Cytology Classification**|Manon Dausort et.al.|[2411.14975](http://arxiv.org/abs/2411.14975)|**[link](https://github.com/mdausort/Cytology-fine-tuning)**|
+|**2024-11-22**|**Open-Amp: Synthetic Data Framework for Audio Effect Foundation Models**|Alec Wright et.al.|[2411.14972](http://arxiv.org/abs/2411.14972)|null|
+|**2024-11-22**|**SwissADT: An Audio Description Translation System for Swiss Languages**|Lukas Fischer et.al.|[2411.14967](http://arxiv.org/abs/2411.14967)|null|
+|**2024-11-22**|**LoRA-FAIR: Federated LoRA Fine-Tuning with Aggregation and Initialization Refinement**|Jieming Bian et.al.|[2411.14961](http://arxiv.org/abs/2411.14961)|null|
 |**2024-11-21**|**Insight-V: Exploring Long-Chain Visual Reasoning with Multimodal Large Language Models**|Yuhao Dong et.al.|[2411.14432](http://arxiv.org/abs/2411.14432)|**[link](https://github.com/dongyh20/insight-v)**|
 |**2024-11-21**|**Unleashing the Potential of Multi-modal Foundation Models and Video Diffusion for 4D Dynamic Physical Scene Simulation**|Zhuoman Liu et.al.|[2411.14423](http://arxiv.org/abs/2411.14423)|null|
 |**2024-11-21**|**From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption**|Shourya Bose et.al.|[2411.14421](http://arxiv.org/abs/2411.14421)|null|
@@ -4223,6 +4245,24 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
+|**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[2411.15042](http://arxiv.org/abs/2411.15042)|null|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
+|**2024-11-22**|**FTA generation using GenAI with an Autonomy sensor Usecase**|Sneha Sudhir Shetiya et.al.|[2411.15007](http://arxiv.org/abs/2411.15007)|null|
+|**2024-11-22**|**Optimization Strategies for Parallel Computation of Skylines**|Paolo Ciaccia et.al.|[2411.14968](http://arxiv.org/abs/2411.14968)|null|
+|**2024-11-22**|**LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation**|Zhenwei Yang et.al.|[2411.14927](http://arxiv.org/abs/2411.14927)|null|
+|**2024-11-22**|**Exploring Kolmogorov-Arnold Networks for Interpretable Time Series Classification**|Irina Barašin et.al.|[2411.14904](http://arxiv.org/abs/2411.14904)|null|
+|**2024-11-22**|**Benchmarking the Robustness of Optical Flow Estimation to Corruptions**|Zhonghua Yi et.al.|[2411.14865](http://arxiv.org/abs/2411.14865)|null|
+|**2024-11-22**|**Jovis: A Visualization Tool for PostgreSQL Query Optimizer**|Yoojin Choi et.al.|[2411.14788](http://arxiv.org/abs/2411.14788)|null|
+|**2024-11-22**|**Resolution-Agnostic Transformer-based Climate Downscaling**|Declan Curran et.al.|[2411.14774](http://arxiv.org/abs/2411.14774)|null|
+|**2024-11-22**|**TopoSD: Topology-Enhanced Lane Segment Perception with SDMap Prior**|Sen Yang et.al.|[2411.14751](http://arxiv.org/abs/2411.14751)|null|
+|**2024-11-22**|**Universal and Context-Independent Triggers for Precise Control of LLM Outputs**|Jiashuo Liang et.al.|[2411.14738](http://arxiv.org/abs/2411.14738)|null|
+|**2024-11-22**|**VisionPAD: A Vision-Centric Pre-training Paradigm for Autonomous Driving**|Haiming Zhang et.al.|[2411.14716](http://arxiv.org/abs/2411.14716)|null|
+|**2024-11-21**|**A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry**|Larry Schester et.al.|[2411.14593](http://arxiv.org/abs/2411.14593)|null|
+|**2024-11-21**|**Enhancing GeoAI and location encoding with spatial point pattern statistics: A Case Study of Terrain Feature Classification**|Sizhe Wang et.al.|[2411.14560](http://arxiv.org/abs/2411.14560)|null|
+|**2024-11-21**|**Combining missing data imputation and internal validation in clinical risk prediction models**|Junhui Mi et.al.|[2411.14542](http://arxiv.org/abs/2411.14542)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
+|**2024-11-21**|**Open Challenges in the Formal Verification of Autonomous Driving**|Paolo Burgio et.al.|[2411.14520](http://arxiv.org/abs/2411.14520)|null|
 |**2024-11-21**|**Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!**|Rong Gu et.al.|[2411.14375](http://arxiv.org/abs/2411.14375)|null|
 |**2024-11-21**|**Formal Simulation and Visualisation of Hybrid Programs**|Pedro Mendes et.al.|[2411.14365](http://arxiv.org/abs/2411.14365)|null|
 |**2024-11-21**|**Generalizing End-To-End Autonomous Driving In Real-World Environments Using Zero-Shot LLMs**|Zeyu Dong et.al.|[2411.14256](http://arxiv.org/abs/2411.14256)|null|
