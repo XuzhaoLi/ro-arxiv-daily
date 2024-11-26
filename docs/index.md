@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking**|Phuc Nguyen et.al.|[2411.16183](http://arxiv.org/abs/2411.16183)|null|
+|**2024-11-25**|**Using Drone Swarm to Stop Wildfire: A Predict-then-optimize Approach**|Shijie Pan et.al.|[2411.16144](http://arxiv.org/abs/2411.16144)|null|
+|**2024-11-24**|**Hiding Communication Cost in Distributed LLM Training via Micro-batch Co-execution**|Haiquan Wang et.al.|[2411.15871](http://arxiv.org/abs/2411.15871)|null|
+|**2024-11-24**|**Revenue Maximization in Choice-Based Matching Markets**|Dan Nissim et.al.|[2411.15727](http://arxiv.org/abs/2411.15727)|null|
 |**2024-11-22**|**Jovis: A Visualization Tool for PostgreSQL Query Optimizer**|Yoojin Choi et.al.|[2411.14788](http://arxiv.org/abs/2411.14788)|null|
 |**2024-11-22**|**Construction and Preliminary Validation of a Dynamic Programming Concept Inventory**|Matthew Ferland et.al.|[2411.14655](http://arxiv.org/abs/2411.14655)|null|
 |**2024-11-18**|**Controlled Occupied Processes and Viscosity Solutions**|H. Mete Soner et.al.|[2411.12080](http://arxiv.org/abs/2411.12080)|null|
@@ -409,6 +413,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Do Large Language Models Perform Latent Multi-Hop Reasoning without Exploiting Shortcuts?**|Sohee Yang et.al.|[2411.16679](http://arxiv.org/abs/2411.16679)|null|
+|**2024-11-25**|**Diffusion Features for Zero-Shot 6DoF Object Pose Estimation**|Bernd Von Gimborn et.al.|[2411.16668](http://arxiv.org/abs/2411.16668)|null|
+|**2024-11-25**|**DreamRunner: Fine-Grained Storytelling Video Generation with Retrieval-Augmented Motion Adaptation**|Zun Wang et.al.|[2411.16657](http://arxiv.org/abs/2411.16657)|null|
+|**2024-11-25**|**Self-Generated Critiques Boost Reward Modeling for Language Models**|Yue Yu et.al.|[2411.16646](http://arxiv.org/abs/2411.16646)|null|
+|**2024-11-25**|**Preventing Jailbreak Prompts as Malicious Tools for Cybercriminals: A Cyber Defense Perspective**|Jean Marie Tshimula et.al.|[2411.16642](http://arxiv.org/abs/2411.16642)|null|
+|**2024-11-25**|**StructFormer: Document Structure-based Masked Attention and its Impact on Language Model Pre-Training**|Kaustubh Ponkshe et.al.|[2411.16618](http://arxiv.org/abs/2411.16618)|null|
+|**2024-11-25**|**Chat2SVG: Vector Graphics Generation with Large Language Models and Image Diffusion Models**|Ronghuan Wu et.al.|[2411.16602](http://arxiv.org/abs/2411.16602)|null|
+|**2024-11-25**|**From Generation to Judgment: Opportunities and Challenges of LLM-as-a-judge**|Dawei Li et.al.|[2411.16594](http://arxiv.org/abs/2411.16594)|**[link](https://github.com/llm-as-a-judge/awesome-llm-as-a-judge)**|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**MarketGPT: Developing a Pre-trained transformer (GPT) for Modeling Financial Time Series**|Aaron Wheeler et.al.|[2411.16585](http://arxiv.org/abs/2411.16585)|null|
+|**2024-11-25**|**Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**|Zhiheng Xi et.al.|[2411.16579](http://arxiv.org/abs/2411.16579)|null|
+|**2024-11-25**|**Predictive Power of LLMs in Financial Markets**|Jerick Shi et.al.|[2411.16569](http://arxiv.org/abs/2411.16569)|null|
+|**2024-11-25**|**EnStack: An Ensemble Stacking Framework of Large Language Models for Enhanced Vulnerability Detection in Source Code**|Shahriyar Zaman Ridoy et.al.|[2411.16561](http://arxiv.org/abs/2411.16561)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**Representation Collapsing Problems in Vector Quantization**|Wenhao Zhao et.al.|[2411.16550](http://arxiv.org/abs/2411.16550)|null|
+|**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
+|**2024-11-25**|**Profiling Bias in LLMs: Stereotype Dimensions in Contextual Word Embeddings**|Carolin M. Schuster et.al.|[2411.16527](http://arxiv.org/abs/2411.16527)|null|
+|**2024-11-25**|**Fundamental Limits of Prompt Tuning Transformers: Universality, Capacity and Efficiency**|Jerry Yao-Chieh Hu et.al.|[2411.16525](http://arxiv.org/abs/2411.16525)|null|
+|**2024-11-25**|**LaB-RAG: Label Boosted Retrieval Augmented Generation for Radiology Report Generation**|Steven Song et.al.|[2411.16523](http://arxiv.org/abs/2411.16523)|null|
+|**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
 |**2024-11-22**|**Measuring Bullshit in the Language Games played by ChatGPT**|Alessandro Trevisan et.al.|[2411.15129](http://arxiv.org/abs/2411.15129)|null|
 |**2024-11-22**|**Health AI Developer Foundations**|Atilla P. Kiraly et.al.|[2411.15128](http://arxiv.org/abs/2411.15128)|null|
 |**2024-11-22**|**TÜLU 3: Pushing Frontiers in Open Language Model Post-Training**|Nathan Lambert et.al.|[2411.15124](http://arxiv.org/abs/2411.15124)|null|
@@ -4236,6 +4260,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-25**|**Winning opinion: Following Your Friends' Advice or That of Their Friends?**|Francisco J. Muñoz et.al.|[2411.16671](http://arxiv.org/abs/2411.16671)|null|
+|**2024-11-25**|**CatNet: Effective FDR Control in LSTM with Gaussian Mirrors and SHAP Feature Importance**|Jiaan Han et.al.|[2411.16666](http://arxiv.org/abs/2411.16666)|null|
+|**2024-11-25**|**Large Language Model-based Decision-making for COLREGs and the Control of Autonomous Surface Vehicles**|Klinsmann Agyei et.al.|[2411.16587](http://arxiv.org/abs/2411.16587)|null|
+|**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
+|**2024-11-25**|**Responsible forecasting: identifying and typifying forecasting harms**|Bahman Rostami-Tabar et.al.|[2411.16531](http://arxiv.org/abs/2411.16531)|null|
+|**2024-11-25**|**Characterized Diffusion Networks for Enhanced Autonomous Driving Trajectory Prediction**|Haoming Li et.al.|[2411.16457](http://arxiv.org/abs/2411.16457)|null|
+|**2024-11-25**|**A Study on Unsupervised Domain Adaptation for Semantic Segmentation in the Era of Vision-Language Models**|Manuel Schwonberg et.al.|[2411.16407](http://arxiv.org/abs/2411.16407)|null|
+|**2024-11-25**|**A Review of Bayesian Uncertainty Quantification in Deep Probabilistic Image Segmentation**|M. M. A. Valiuddin et.al.|[2411.16370](http://arxiv.org/abs/2411.16370)|null|
+|**2024-11-25**|**Monocular Lane Detection Based on Deep Learning: A Survey**|Xin He et.al.|[2411.16316](http://arxiv.org/abs/2411.16316)|null|
+|**2024-11-25**|**A Performance Increment Strategy for Semantic Segmentation of Low-Resolution Images from Damaged Roads**|Rafael S. Toledo et.al.|[2411.16295](http://arxiv.org/abs/2411.16295)|null|
+|**2024-11-25**|**FinML-Chain: A Blockchain-Integrated Dataset for Enhanced Financial Machine Learning**|Jingfeng Chen et.al.|[2411.16277](http://arxiv.org/abs/2411.16277)|null|
+|**2024-11-25**|**Efficient pooling of predictions via kernel embeddings**|Sam Allen et.al.|[2411.16246](http://arxiv.org/abs/2411.16246)|null|
+|**2024-11-25**|**Interpreting Object-level Foundation Models via Visual Precision Search**|Ruoyu Chen et.al.|[2411.16198](http://arxiv.org/abs/2411.16198)|null|
+|**2024-11-25**|**The Critical Canvas--How to regain information autonomy in the AI era**|Dong Chen et.al.|[2411.16193](http://arxiv.org/abs/2411.16193)|null|
+|**2024-11-25**|**Multi-Robot Reliable Navigation in Uncertain Topological Environments with Graph Attention Networks**|Zhuoyuan Yu et.al.|[2411.16134](http://arxiv.org/abs/2411.16134)|null|
+|**2024-11-25**|**End-to-End Steering for Autonomous Vehicles via Conditional Imitation Co-Learning**|Mahmoud M. Kishky et.al.|[2411.16131](http://arxiv.org/abs/2411.16131)|null|
+|**2024-11-25**|**Three Cars Approaching within 100m! Enhancing Distant Geometry by Tri-Axis Voxel Scanning for Camera-based Semantic Scene Completion**|Jongseong Bae et.al.|[2411.16129](http://arxiv.org/abs/2411.16129)|null|
+|**2024-11-25**|**Ensemble Learning via Knowledge Transfer for CTR Prediction**|Honghao Li et.al.|[2411.16122](http://arxiv.org/abs/2411.16122)|**[link](https://github.com/salmon1802/ektf)**|
+|**2024-11-25**|**DP-CDA: An Algorithm for Enhanced Privacy Preservation in Dataset Synthesis Through Randomized Mixing**|Utsab Saha et.al.|[2411.16121](http://arxiv.org/abs/2411.16121)|null|
+|**2024-11-25**|**Why the Agent Made that Decision: Explaining Deep Reinforcement Learning with Vision Masks**|Rui Zuo et.al.|[2411.16120](http://arxiv.org/abs/2411.16120)|null|
 |**2024-11-22**|**DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving**|Bencheng Liao et.al.|[2411.15139](http://arxiv.org/abs/2411.15139)|**[link](https://github.com/hustvl/diffusiondrive)**|
 |**2024-11-22**|**Enhancing Autonomous Driving Safety through World Model-Based Predictive Navigation and Adaptive Learning Algorithms for 5G Wireless Applications**|Hong Ding et.al.|[2411.15042](http://arxiv.org/abs/2411.15042)|null|
 |**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
