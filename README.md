@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought**|Aladin Djuhera et.al.|[2411.18212](http://arxiv.org/abs/2411.18212)|null|
+|**2024-11-26**|**Structural Parameterization of Locating-Dominating Set and Test Cover**|Dipayan Chakraborty et.al.|[2411.17948](http://arxiv.org/abs/2411.17948)|null|
 |**2024-11-26**|**Pushing the Limits of Large Language Model Quantization via the Linearity Theorem**|Vladimir Malinovskii et.al.|[2411.17525](http://arxiv.org/abs/2411.17525)|null|
 |**2024-11-26**|**Weakly acyclic diagrams: A data structure for infinite-state symbolic verification**|Michael Blondin et.al.|[2411.17250](http://arxiv.org/abs/2411.17250)|null|
 |**2024-11-26**|**Dynamic Programming-Based Offline Redundancy Resolution of Redundant Manipulators Along Prescribed Paths with Real-Time Adjustment**|Zhihang Yin et.al.|[2411.17052](http://arxiv.org/abs/2411.17052)|null|
@@ -425,6 +427,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation**|Yueru Jia et.al.|[2411.18623](http://arxiv.org/abs/2411.18623)|null|
+|**2024-11-27**|**Cross-modal Information Flow in Multimodal Large Language Models**|Zhi Zhang et.al.|[2411.18620](http://arxiv.org/abs/2411.18620)|null|
+|**2024-11-27**|**Diffusion Self-Distillation for Zero-Shot Customized Image Generation**|Shengqu Cai et.al.|[2411.18616](http://arxiv.org/abs/2411.18616)|null|
+|**2024-11-27**|**Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation**|Nurshat Fateh Ali et.al.|[2411.18583](http://arxiv.org/abs/2411.18583)|null|
+|**2024-11-27**|**Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning**|Omkar Khade et.al.|[2411.18571](http://arxiv.org/abs/2411.18571)|null|
+|**2024-11-27**|**A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models**|Rong Wang et.al.|[2411.18564](http://arxiv.org/abs/2411.18564)|null|
+|**2024-11-27**|**DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation**|Zhixuan Liang et.al.|[2411.18562](http://arxiv.org/abs/2411.18562)|null|
+|**2024-11-27**|**Retrofitting (Large) Language Models with Dynamic Tokenization**|Darius Feher et.al.|[2411.18553](http://arxiv.org/abs/2411.18553)|null|
+|**2024-11-27**|**AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans**|Dillon Loh et.al.|[2411.18539](http://arxiv.org/abs/2411.18539)|**[link](https://github.com/dillonloh/adavln)**|
+|**2024-11-27**|**Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models**|Minhyeok Lee et.al.|[2411.18530](http://arxiv.org/abs/2411.18530)|null|
+|**2024-11-27**|**LLM-ABBA: Understand time series via symbolic approximation**|Erin Carson et.al.|[2411.18506](http://arxiv.org/abs/2411.18506)|null|
+|**2024-11-27**|**GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation**|Pengfei Zhou et.al.|[2411.18499](http://arxiv.org/abs/2411.18499)|null|
+|**2024-11-27**|**Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS**|Jinyang Wu et.al.|[2411.18478](http://arxiv.org/abs/2411.18478)|null|
+|**2024-11-27**|**Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding**|Ziyin Zhang et.al.|[2411.18462](http://arxiv.org/abs/2411.18462)|**[link](https://github.com/geralt-targaryen/svip)**|
+|**2024-11-27**|**Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator**|Frederic Kirstein et.al.|[2411.18444](http://arxiv.org/abs/2411.18444)|null|
+|**2024-11-27**|**An AI-Assisted Multi-Agent Dual Dialogue System to Support Mental Health Care Providers**|Onno P. Kampman et.al.|[2411.18429](http://arxiv.org/abs/2411.18429)|null|
+|**2024-11-27**|**FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving**|Ao Shen et.al.|[2411.18424](http://arxiv.org/abs/2411.18424)|null|
+|**2024-11-27**|**Politicians vs ChatGPT. A study of presuppositions in French and Italian political communication**|Davide Garassino et.al.|[2411.18403](http://arxiv.org/abs/2411.18403)|null|
+|**2024-11-27**|**Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy**|Yifan Sun et.al.|[2411.18383](http://arxiv.org/abs/2411.18383)|null|
+|**2024-11-27**|**ChatGPT as speechwriter for the French presidents**|Dominique Labbé et.al.|[2411.18382](http://arxiv.org/abs/2411.18382)|null|
 |**2024-11-26**|**Adaptive Deployment of Untrusted LLMs Reduces Distributed Threats**|Jiaxin Wen et.al.|[2411.17693](http://arxiv.org/abs/2411.17693)|null|
 |**2024-11-26**|**Low-Bit Quantization Favors Undertrained LLMs: Scaling Laws for Quantized LLMs with 100T Training Tokens**|Xu Ouyang et.al.|[2411.17691](http://arxiv.org/abs/2411.17691)|null|
 |**2024-11-26**|**Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**|Yuhang Han et.al.|[2411.17686](http://arxiv.org/abs/2411.17686)|null|
@@ -4294,6 +4316,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**Collective decision making by embodied neural agents**|Nicolas Coucke et.al.|[2411.18498](http://arxiv.org/abs/2411.18498)|null|
+|**2024-11-27**|**Bhirkuti's Test of Bias Acceptance: Examining in Psychometric Simulations**|Aneel Bhusal et.al.|[2411.18481](http://arxiv.org/abs/2411.18481)|null|
+|**2024-11-27**|**An End-to-End Smart Predict-then-Optimize Framework for Vehicle Relocation Problems in Large-Scale Vehicle Crowd Sensing**|Xinyu Wang et.al.|[2411.18432](http://arxiv.org/abs/2411.18432)|null|
+|**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
+|**2024-11-27**|**Two-Timescale Digital Twin Assisted Model Interference and Retraining over Wireless Network**|Jiayi Cong et.al.|[2411.18329](http://arxiv.org/abs/2411.18329)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|null|
+|**2024-11-27**|**MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement**|Xiwei Deng et.al.|[2411.18309](http://arxiv.org/abs/2411.18309)|null|
+|**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
+|**2024-11-27**|**Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**|Tianyuan Zhang et.al.|[2411.18275](http://arxiv.org/abs/2411.18275)|null|
+|**2024-11-27**|**Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management**|Mohit Apte et.al.|[2411.18261](http://arxiv.org/abs/2411.18261)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
+|**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
+|**2024-11-27**|**SentiXRL: An advanced large language Model Framework for Multilingual Fine-Grained Emotion Classification in Complex Text Environment**|Jie Wang et.al.|[2411.18162](http://arxiv.org/abs/2411.18162)|null|
+|**2024-11-27**|**Enhancing Visual Reasoning with Autonomous Imagination in Multimodal Large Language Models**|Jingming Liu et.al.|[2411.18142](http://arxiv.org/abs/2411.18142)|null|
+|**2024-11-27**|**Edge-Assisted Accelerated Cooperative Sensing for CAVs: Task Placement and Resource Allocation**|Yuxuan Wang et.al.|[2411.18129](http://arxiv.org/abs/2411.18129)|null|
+|**2024-11-27**|**A Machine Learning-based Framework towards Assessment of Decision-Makers' Biases**|Wanxue Dong et.al.|[2411.18122](http://arxiv.org/abs/2411.18122)|null|
+|**2024-11-27**|**Large Scale Evaluation of Deep Learning-based Explainable Solar Flare Forecasting Models with Attribution-based Proximity Analysis**|Temitope Adeyeha et.al.|[2411.18070](http://arxiv.org/abs/2411.18070)|null|
+|**2024-11-27**|**Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification**|Mingsen Du et.al.|[2411.18043](http://arxiv.org/abs/2411.18043)|null|
+|**2024-11-27**|**FASIONAD : FAst and Slow FusION Thinking Systems for Human-Like Autonomous Driving with Adaptive Feedback**|Kangan Qian et.al.|[2411.18013](http://arxiv.org/abs/2411.18013)|null|
+|**2024-11-26**|**Stealthy Multi-Task Adversarial Attacks**|Jiacheng Guo et.al.|[2411.17936](http://arxiv.org/abs/2411.17936)|null|
 |**2024-11-26**|**Explainable AI for Classifying UTI Risk Groups Using a Real-World Linked EHR and Pathology Lab Dataset**|Yujie Dai et.al.|[2411.17645](http://arxiv.org/abs/2411.17645)|null|
 |**2024-11-26**|**Modality-Incremental Learning with Disjoint Relevance Mapping Networks for Image-based Semantic Segmentation**|Niharika Hegde et.al.|[2411.17610](http://arxiv.org/abs/2411.17610)|null|
 |**2024-11-26**|**Belief patterns with information processing**|Federico Vaccari et.al.|[2411.17597](http://arxiv.org/abs/2411.17597)|null|
