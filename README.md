@@ -4321,7 +4321,7 @@
 |**2024-11-27**|**An End-to-End Smart Predict-then-Optimize Framework for Vehicle Relocation Problems in Large-Scale Vehicle Crowd Sensing**|Xinyu Wang et.al.|[2411.18432](http://arxiv.org/abs/2411.18432)|null|
 |**2024-11-27**|**Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields**|Leonhard Rist et.al.|[2411.18415](http://arxiv.org/abs/2411.18415)|null|
 |**2024-11-27**|**Two-Timescale Digital Twin Assisted Model Interference and Retraining over Wireless Network**|Jiayi Cong et.al.|[2411.18329](http://arxiv.org/abs/2411.18329)|null|
-|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|null|
+|**2024-11-27**|**Learning optimal objective values for MILP**|Lara Scavuzzo et.al.|[2411.18321](http://arxiv.org/abs/2411.18321)|**[link](https://github.com/lascavana/objvalprediction)**|
 |**2024-11-27**|**MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement**|Xiwei Deng et.al.|[2411.18309](http://arxiv.org/abs/2411.18309)|null|
 |**2024-11-27**|**InterHub: A Naturalistic Trajectory Dataset with Dense Interaction for Autonomous Driving**|Xiyan Jiang et.al.|[2411.18302](http://arxiv.org/abs/2411.18302)|**[link](https://github.com/zxc-tju/InterHub)**|
 |**2024-11-27**|**Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**|Tianyuan Zhang et.al.|[2411.18275](http://arxiv.org/abs/2411.18275)|null|
