@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Using machine learning to inform harvest control rule design in complex fishery settings**|Felipe Montealegre-Mora et.al.|[2412.12400](http://arxiv.org/abs/2412.12400)|**[link](https://github.com/boettiger-lab/rl4fisheries)**|
+|**2024-12-12**|**SprayCraft: Graph-Based Route Optimization for Variable Rate Precision Spraying**|Kiran K. Kethineni et.al.|[2412.12176](http://arxiv.org/abs/2412.12176)|null|
 |**2024-12-16**|**Witty: An Efficient Solver for Computing Minimum-Size Decision Trees**|Luca Pascal Staus et.al.|[2412.11954](http://arxiv.org/abs/2412.11954)|null|
 |**2024-12-16**|**LLM-DaaS: LLM-driven Drone-as-a-Service Operations from Text User Requests**|Lillian Wassim et.al.|[2412.11672](http://arxiv.org/abs/2412.11672)|null|
 |**2024-12-14**|**An Active Parameter Learning Approach to The Identification of Safe Regions**|Aneesh Raghavan et.al.|[2412.10627](http://arxiv.org/abs/2412.10627)|null|
@@ -17,7 +19,7 @@ layout: default
 |**2024-12-08**|**DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot SLAM in Multi-session Environments**|Juwon Kim et.al.|[2412.05839](http://arxiv.org/abs/2412.05839)|null|
 |**2024-12-08**|**SizeGS: Size-aware Compression of 3D Gaussians with Hierarchical Mixed Precision Quantization**|Shuzhao Xie et.al.|[2412.05808](http://arxiv.org/abs/2412.05808)|null|
 |**2024-12-07**|**Controlled rough SDEs, pathwise stochastic control and dynamic programming principles**|Peter K. Friz et.al.|[2412.05698](http://arxiv.org/abs/2412.05698)|null|
-|**2024-12-07**|**Quantum Annealing and Tensor Networks: a Powerful Combination to Solve Optimization Problems**|Miquel Albertí Binimelis et.al.|[2412.05595](http://arxiv.org/abs/2412.05595)|null|
+|**2024-12-07**|**Quantum Annealing and Tensor Networks: a Powerful Combination to Solve Optimization Problems**|Miquel Albertí Binimelis et.al.|[2412.05595](http://arxiv.org/abs/2412.05595)|**[link](https://github.com/MiquelAlberti2/Quantum-annealing-and-tensor-networks)**|
 |**2024-12-07**|**Optimizing Returns from Experimentation Programs**|Timothy Sudijono et.al.|[2412.05508](http://arxiv.org/abs/2412.05508)|null|
 |**2024-12-06**|**Nonmyopic Global Optimisation via Approximate Dynamic Programming**|Filippo Airaldi et.al.|[2412.04882](http://arxiv.org/abs/2412.04882)|**[link](https://github.com/FilippoAiraldi/global-optimization)**|
 |**2024-12-05**|**Generating graph states with a single quantum emitter and the minimum number of fusions**|Matthias C. Löbl et.al.|[2412.04587](http://arxiv.org/abs/2412.04587)|null|
@@ -440,6 +442,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents**|Yifei Zhou et.al.|[2412.13194](http://arxiv.org/abs/2412.13194)|null|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
+|**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
+|**2024-12-17**|**SafeAgentBench: A Benchmark for Safe Task Planning of Embodied LLM Agents**|Sheng Yin et.al.|[2412.13178](http://arxiv.org/abs/2412.13178)|**[link](https://github.com/shengyin1224/safeagentbench)**|
+|**2024-12-17**|**DnDScore: Decontextualization and Decomposition for Factuality Verification in Long-Form Text Generation**|Miriam Wanner et.al.|[2412.13175](http://arxiv.org/abs/2412.13175)|null|
+|**2024-12-17**|**Locate n' Rotate: Two-stage Openable Part Detection with Foundation Model Priors**|Siqi Li et.al.|[2412.13173](http://arxiv.org/abs/2412.13173)|**[link](https://github.com/lisiqi-zju/mopd)**|
+|**2024-12-17**|**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations**|Jeffrey Cheng et.al.|[2412.13171](http://arxiv.org/abs/2412.13171)|null|
+|**2024-12-17**|**Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study**|Bolei Ma et.al.|[2412.13169](http://arxiv.org/abs/2412.13169)|**[link](https://github.com/soda-lmu/llm-opinion-german)**|
+|**2024-12-17**|**C-FedRAG: A Confidential Federated Retrieval-Augmented Generation System**|Parker Addison et.al.|[2412.13163](http://arxiv.org/abs/2412.13163)|null|
+|**2024-12-17**|**SWAN: Preprocessing SGD Enables Adam-Level Performance On LLM Training With Significant Memory Reduction**|Chao Ma et.al.|[2412.13148](http://arxiv.org/abs/2412.13148)|null|
+|**2024-12-17**|**Are Your LLMs Capable of Stable Reasoning?**|Junnan Liu et.al.|[2412.13147](http://arxiv.org/abs/2412.13147)|**[link](https://github.com/open-compass/gpassk)**|
+|**2024-12-17**|**A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis**|Xiao Zhou et.al.|[2412.13126](http://arxiv.org/abs/2412.13126)|null|
+|**2024-12-17**|**AI PERSONA: Towards Life-long Personalization of LLMs**|Tiannan Wang et.al.|[2412.13103](http://arxiv.org/abs/2412.13103)|null|
+|**2024-12-17**|**AIR-Bench: Automated Heterogeneous Information Retrieval Benchmark**|Jianlyu Chen et.al.|[2412.13102](http://arxiv.org/abs/2412.13102)|**[link](https://github.com/air-bench/air-bench)**|
+|**2024-12-17**|**Uchaguzi-2022: A Dataset of Citizen Reports on the 2022 Kenyan Election**|Roberto Mondini et.al.|[2412.13098](http://arxiv.org/abs/2412.13098)|null|
+|**2024-12-17**|**LMUnit: Fine-grained Evaluation with Natural Language Unit Tests**|Jon Saad-Falcon et.al.|[2412.13091](http://arxiv.org/abs/2412.13091)|null|
+|**2024-12-17**|**Taming Multi-Domain, -Fidelity Data: Towards Foundation Models for Atomistic Scale Simulations**|Tomoya Shiota et.al.|[2412.13088](http://arxiv.org/abs/2412.13088)|null|
+|**2024-12-17**|**Modality-Inconsistent Continual Learning of Multimodal Large Language Models**|Weiguo Pian et.al.|[2412.13050](http://arxiv.org/abs/2412.13050)|null|
+|**2024-12-17**|**Harnessing Event Sensory Data for Error Pattern Prediction in Vehicles: A Language Model Approach**|Hugo Math et.al.|[2412.13041](http://arxiv.org/abs/2412.13041)|**[link](https://github.com/Mathugo/AAAI2025-CarFormer-EPredictor)**|
 |**2024-12-16**|**SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**|Guoxuan Chen et.al.|[2412.12094](http://arxiv.org/abs/2412.12094)|**[link](https://github.com/HKUDS/SepLLM)**|
 |**2024-12-16**|**Instruction-based Image Manipulation by Watching How Things Move**|Mingdeng Cao et.al.|[2412.12087](http://arxiv.org/abs/2412.12087)|null|
 |**2024-12-16**|**CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology**|Yuxuan Sun et.al.|[2412.12077](http://arxiv.org/abs/2412.12077)|null|
@@ -4547,6 +4569,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**GaussTR: Foundation Model-Aligned Gaussian Transformer for Self-Supervised 3D Spatial Understanding**|Haoyi Jiang et.al.|[2412.13193](http://arxiv.org/abs/2412.13193)|**[link](https://github.com/hustvl/gausstr)**|
+|**2024-12-17**|**StreetCrafter: Street View Synthesis with Controllable Video Diffusion Models**|Yunzhi Yan et.al.|[2412.13188](http://arxiv.org/abs/2412.13188)|null|
+|**2024-12-17**|**A Conformal Approach to Feature-based Newsvendor under Model Misspecification**|Junyu Cao et.al.|[2412.13159](http://arxiv.org/abs/2412.13159)|null|
+|**2024-12-17**|**Unlocking the Potential of Digital Pathology: Novel Baselines for Compression**|Maximilian Fischer et.al.|[2412.13137](http://arxiv.org/abs/2412.13137)|null|
+|**2024-12-17**|**Previous Knowledge Utilization In Online Anytime Belief Space Planning**|Michael Novitsky et.al.|[2412.13128](http://arxiv.org/abs/2412.13128)|null|
+|**2024-12-17**|**Active Reinforcement Learning Strategies for Offline Policy Improvement**|Ambedkar Dukkipati et.al.|[2412.13106](http://arxiv.org/abs/2412.13106)|null|
+|**2024-12-17**|**Incremental Online Learning of Randomized Neural Network with Forward Regularization**|Junda Wang et.al.|[2412.13096](http://arxiv.org/abs/2412.13096)|null|
+|**2024-12-17**|**SMOSE: Sparse Mixture of Shallow Experts for Interpretable Reinforcement Learning in Continuous Control Tasks**|Mátyás Vincze et.al.|[2412.13053](http://arxiv.org/abs/2412.13053)|null|
+|**2024-12-17**|**A New Adversarial Perspective for LiDAR-based 3D Object Detection**|Shijun Zheng et.al.|[2412.13017](http://arxiv.org/abs/2412.13017)|null|
+|**2024-12-17**|**Strengthened and Faster Linear Approximation to Joint Chance Constraints with Wasserstein Ambiguity**|Yihong Zhou et.al.|[2412.12992](http://arxiv.org/abs/2412.12992)|**[link](https://github.com/PSALOxford/SFLA)**|
+|**2024-12-17**|**Efficient Event-based Semantic Segmentation with Spike-driven Lightweight Transformer-based Networks**|Xiaxin Zhu et.al.|[2412.12843](http://arxiv.org/abs/2412.12843)|null|
+|**2024-12-17**|**A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions**|Yuyuan Li et.al.|[2412.12836](http://arxiv.org/abs/2412.12836)|null|
+|**2024-12-17**|**Ask for More Than Bayes Optimal: A Theory of Indecisions for Classification**|Mohamed Ndaoud et.al.|[2412.12807](http://arxiv.org/abs/2412.12807)|null|
+|**2024-12-17**|**Open-World Panoptic Segmentation**|Matteo Sodano et.al.|[2412.12740](http://arxiv.org/abs/2412.12740)|null|
+|**2024-12-17**|**Using LLM-Generated Draft Replies to Support Human Experts in Responding to Stakeholder Inquiries in Maritime Industry: A Real-World Case Study of Industrial AI**|Tita Alissa Bach et.al.|[2412.12732](http://arxiv.org/abs/2412.12732)|null|
+|**2024-12-17**|**Information, entropy and the paradox of choice: A theoretical framework for understanding choice satisfaction**|Mojtaba Madadi Asl et.al.|[2412.12721](http://arxiv.org/abs/2412.12721)|null|
+|**2024-12-17**|**MapExpert: Online HD Map Construction with Simple and Efficient Sparse Map Element Expert**|Dapeng Zhang et.al.|[2412.12704](http://arxiv.org/abs/2412.12704)|null|
+|**2024-12-17**|**Preference Robust Ordinal Priority Approach and its Satisficing Extension for Multi-Attribute Decision-Making with Incomplete Information**|Renlong Wang et.al.|[2412.12690](http://arxiv.org/abs/2412.12690)|null|
+|**2024-12-17**|**DriveTester: A Unified Platform for Simulation-Based Autonomous Driving Testing**|Mingfei Cheng et.al.|[2412.12656](http://arxiv.org/abs/2412.12656)|**[link](https://github.com/mingfeicheng/drivetester)**|
+|**2024-12-17**|**Improving the Transferability of 3D Point Cloud Attack via Spectral-aware Admix and Optimization Designs**|Shiyu Hu et.al.|[2412.12626](http://arxiv.org/abs/2412.12626)|null|
 |**2024-12-16**|**PanSplat: 4K Panorama Synthesis with Feed-Forward Gaussian Splatting**|Cheng Zhang et.al.|[2412.12096](http://arxiv.org/abs/2412.12096)|null|
 |**2024-12-16**|**Revelations: A Decidable Class of POMDPs with Omega-Regular Objectives**|Marius Belly et.al.|[2412.12063](http://arxiv.org/abs/2412.12063)|null|
 |**2024-12-16**|**Learning to Navigate in Mazes with Novel Layouts using Abstract Top-down Maps**|Linfeng Zhao et.al.|[2412.12024](http://arxiv.org/abs/2412.12024)|null|
