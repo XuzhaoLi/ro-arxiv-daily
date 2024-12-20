@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Robustness Evaluation of a Physical Internet-based Intermodal Logistic Network**|Federico Gallo et.al.|[2412.14658](http://arxiv.org/abs/2412.14658)|null|
 |**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|null|
 |**2024-12-16**|**Using machine learning to inform harvest control rule design in complex fishery settings**|Felipe Montealegre-Mora et.al.|[2412.12400](http://arxiv.org/abs/2412.12400)|**[link](https://github.com/boettiger-lab/rl4fisheries)**|
 |**2024-12-12**|**SprayCraft: Graph-Based Route Optimization for Variable Rate Precision Spraying**|Kiran K. Kethineni et.al.|[2412.12176](http://arxiv.org/abs/2412.12176)|null|
@@ -443,6 +444,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**MMLU-CF: A Contamination-free Multi-task Language Understanding Benchmark**|Qihao Zhao et.al.|[2412.15194](http://arxiv.org/abs/2412.15194)|null|
+|**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
+|**2024-12-19**|**LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation**|Weijia Shi et.al.|[2412.15188](http://arxiv.org/abs/2412.15188)|null|
+|**2024-12-19**|**Data for Mathematical Copilots: Better Ways of Presenting Proofs for Machine Learning**|Simon Frieder et.al.|[2412.15184](http://arxiv.org/abs/2412.15184)|null|
+|**2024-12-19**|**STRAP: Robot Sub-Trajectory Retrieval for Augmented Policy Learning**|Marius Memmel et.al.|[2412.15182](http://arxiv.org/abs/2412.15182)|null|
+|**2024-12-19**|**HPC-Coder-V2: Studying Code LLMs Across Low-Resource Parallel Languages**|Aman Chaturvedi et.al.|[2412.15178](http://arxiv.org/abs/2412.15178)|null|
+|**2024-12-19**|**Critical-Questions-of-Thought: Steering LLM reasoning with Argumentative Querying**|Federico Castagna et.al.|[2412.15177](http://arxiv.org/abs/2412.15177)|null|
+|**2024-12-19**|**Rethinking Uncertainty Estimation in Natural Language Generation**|Lukas Aichberger et.al.|[2412.15176](http://arxiv.org/abs/2412.15176)|null|
+|**2024-12-19**|**Language Models as Continuous Self-Evolving Data Engineers**|Peidong Wang et.al.|[2412.15151](http://arxiv.org/abs/2412.15151)|null|
+|**2024-12-19**|**Adaptive Pruning for Large Language Models with Structural Importance Awareness**|Haotian Zheng et.al.|[2412.15127](http://arxiv.org/abs/2412.15127)|null|
+|**2024-12-19**|**Outcome-Refining Process Supervision for Code Generation**|Zhuohao Yu et.al.|[2412.15118](http://arxiv.org/abs/2412.15118)|null|
+|**2024-12-19**|**Qwen2.5 Technical Report**|Qwen et.al.|[2412.15115](http://arxiv.org/abs/2412.15115)|null|
+|**2024-12-19**|**Associative memory inspires improvements for in-context learning using a novel attention residual stream architecture**|Thomas F Burns et.al.|[2412.15113](http://arxiv.org/abs/2412.15113)|**[link](https://github.com/tfburns/amicl-and-residual-attention-streams)**|
+|**2024-12-19**|**Knowing Where to Focus: Attention-Guided Alignment for Text-based Person Search**|Lei Tan et.al.|[2412.15106](http://arxiv.org/abs/2412.15106)|null|
+|**2024-12-19**|**Review-Then-Refine: A Dynamic Framework for Multi-Hop Question Answering with Temporal Adaptability**|Xiangsen Chen et.al.|[2412.15101](http://arxiv.org/abs/2412.15101)|null|
+|**2024-12-19**|**Nano-ESG: Extracting Corporate Sustainability Information from News Articles**|Fabian Billert et.al.|[2412.15093](http://arxiv.org/abs/2412.15093)|null|
+|**2024-12-19**|**ScamChatBot: An End-to-End Analysis of Fake Account Recovery on Social Media via Chatbots**|Bhupendra Acharya et.al.|[2412.15072](http://arxiv.org/abs/2412.15072)|null|
 |**2024-12-18**|**Thinking in Space: How Multimodal Large Language Models See, Remember, and Recall Spaces**|Jihan Yang et.al.|[2412.14171](http://arxiv.org/abs/2412.14171)|**[link](https://github.com/vision-x-nyu/thinking-in-space)**|
 |**2024-12-18**|**TheAgentCompany: Benchmarking LLM Agents on Consequential Real World Tasks**|Frank F. Xu et.al.|[2412.14161](http://arxiv.org/abs/2412.14161)|**[link](https://github.com/theagentcompany/experiments)**|
 |**2024-12-18**|**Advanced Reasoning and Transformation Engine for Multi-Step Insight Synthesis in Data Analytics with Large Language Models**|Atin Sakkeer Hussain et.al.|[2412.14146](http://arxiv.org/abs/2412.14146)|null|
@@ -4590,6 +4611,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|null|
+|**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|null|
+|**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
+|**2024-12-19**|**Probabilistic Strategy Logic with Degrees of Observability**|Chunyan Mu et.al.|[2412.15135](http://arxiv.org/abs/2412.15135)|null|
+|**2024-12-19**|**Measuring, Modeling, and Helping People Account for Privacy Risks in Online Self-Disclosures with AI**|Isadora Krsek et.al.|[2412.15047](http://arxiv.org/abs/2412.15047)|null|
+|**2024-12-19**|**Autonomous Navigation in Dynamic Human Environments with an Embedded 2D LiDAR-based Person Tracker**|Davide Plozza et.al.|[2412.15000](http://arxiv.org/abs/2412.15000)|null|
+|**2024-12-19**|**From Nonequilibrium to Equilibrium: Insights from a Two-Population Occupation Model**|Jerome Garnier-Brun et.al.|[2412.14996](http://arxiv.org/abs/2412.14996)|null|
+|**2024-12-19**|**Co-optimization of Vehicle Dynamics and Powertrain Management for Connected and Automated Electric Vehicles**|Zongtan Li et.al.|[2412.14984](http://arxiv.org/abs/2412.14984)|null|
+|**2024-12-19**|**Unveiling Uncertainty: A Deep Dive into Calibration and Performance of Multimodal Large Language Models**|Zijun Chen et.al.|[2412.14660](http://arxiv.org/abs/2412.14660)|**[link](https://github.com/hfutml/calibration-mllm)**|
+|**2024-12-19**|**Optimization of Collective Bayesian Decision-Making in a Swarm of Miniaturized Vibration-Sensing Robots**|Thiemen Siemensma et.al.|[2412.14646](http://arxiv.org/abs/2412.14646)|null|
+|**2024-12-19**|**A Shapley Value Estimation Speedup for Efficient Explainable Quantum AI**|Iain Burge et.al.|[2412.14639](http://arxiv.org/abs/2412.14639)|null|
+|**2024-12-19**|**A Model-free Biomimetics Algorithm for Deterministic Partially Observable Markov Decision Process**|Yide Yu et.al.|[2412.14614](http://arxiv.org/abs/2412.14614)|null|
+|**2024-12-19**|**Leveraging Time Series Categorization and Temporal Fusion Transformers to Improve Cryptocurrency Price Forecasting**|Arash Peik et.al.|[2412.14529](http://arxiv.org/abs/2412.14529)|null|
+|**2024-12-19**|**Drive-1-to-3: Enriching Diffusion Priors for Novel View Synthesis of Real Vehicles**|Chuang Lin et.al.|[2412.14494](http://arxiv.org/abs/2412.14494)|null|
+|**2024-12-19**|**Mediation Analysis for Probabilities of Causation**|Yuta Kawakami et.al.|[2412.14491](http://arxiv.org/abs/2412.14491)|null|
+|**2024-12-19**|**VLM-AD: End-to-End Autonomous Driving through Vision-Language Model Supervision**|Yi Xu et.al.|[2412.14446](http://arxiv.org/abs/2412.14446)|null|
+|**2024-12-19**|**DriveGPT: Scaling Autoregressive Behavior Models for Driving**|Xin Huang et.al.|[2412.14415](http://arxiv.org/abs/2412.14415)|null|
+|**2024-12-18**|**In-Group Love, Out-Group Hate: A Framework to Measure Affective Polarization via Contentious Online Discussions**|Buddhika Nettasinghe et.al.|[2412.14414](http://arxiv.org/abs/2412.14414)|null|
+|**2024-12-18**|**Uncertainty Awareness in Wireless Communications, Sensing, and Learning**|Shixiong Wang et.al.|[2412.14369](http://arxiv.org/abs/2412.14369)|null|
 |**2024-12-18**|**On Calibration in Multi-Distribution Learning**|Rajeev Verma et.al.|[2412.14142](http://arxiv.org/abs/2412.14142)|null|
 |**2024-12-18**|**Adaptive Concept Bottleneck for Foundation Models Under Distribution Shifts**|Jihye Choi et.al.|[2412.14097](http://arxiv.org/abs/2412.14097)|null|
 |**2024-12-18**|**Joint Perception and Prediction for Autonomous Driving: A Survey**|Lucas Dal'Col et.al.|[2412.14088](http://arxiv.org/abs/2412.14088)|**[link](https://github.com/pxiangwu/MotionNet)**|
