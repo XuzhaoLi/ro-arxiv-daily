@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Battery valuation on electricity intraday markets with liquidity costs**|Enzo Cognéville et.al.|[2412.15959](http://arxiv.org/abs/2412.15959)|null|
 |**2024-12-19**|**Robustness Evaluation of a Physical Internet-based Intermodal Logistic Network**|Federico Gallo et.al.|[2412.14658](http://arxiv.org/abs/2412.14658)|null|
 |**2024-12-17**|**A Scalable Method for Optimal Path Planning on Manifolds via a Hopf-Lax Type Formula**|Edward Huynh et.al.|[2412.13346](http://arxiv.org/abs/2412.13346)|**[link](https://github.com/chparkinson/path_plan_manifold_hopf_lax)**|
 |**2024-12-16**|**Using machine learning to inform harvest control rule design in complex fishery settings**|Felipe Montealegre-Mora et.al.|[2412.12400](http://arxiv.org/abs/2412.12400)|**[link](https://github.com/boettiger-lab/rl4fisheries)**|
@@ -15,7 +16,7 @@ layout: default
 |**2024-12-16**|**LLM-DaaS: LLM-driven Drone-as-a-Service Operations from Text User Requests**|Lillian Wassim et.al.|[2412.11672](http://arxiv.org/abs/2412.11672)|null|
 |**2024-12-14**|**An Active Parameter Learning Approach to The Identification of Safe Regions**|Aneesh Raghavan et.al.|[2412.10627](http://arxiv.org/abs/2412.10627)|null|
 |**2024-12-12**|**On Round-Off Errors and Gaussian Blur in Superresolution and in Image Registration**|Serap A. Savari et.al.|[2412.09741](http://arxiv.org/abs/2412.09741)|null|
-|**2024-12-10**|**MAPLE: A Framework for Active Preference Learning Guided by Large Language Models**|Saaduddin Mahmud et.al.|[2412.07207](http://arxiv.org/abs/2412.07207)|null|
+|**2024-12-20**|**MAPLE: A Framework for Active Preference Learning Guided by Large Language Models**|Saaduddin Mahmud et.al.|[2412.07207](http://arxiv.org/abs/2412.07207)|null|
 |**2024-12-09**|**Phaedrus: Exploring Dynamic Application Behavior with Lightweight Generative Models and Large-Language Models**|Bodhisatwa Chatterjee et.al.|[2412.06994](http://arxiv.org/abs/2412.06994)|null|
 |**2024-12-07**|**Timely reliable Bayesian decision-making enabled using memristors**|Lekai Song et.al.|[2412.06838](http://arxiv.org/abs/2412.06838)|null|
 |**2024-12-08**|**DiTer++: Diverse Terrain and Multi-modal Dataset for Multi-Robot SLAM in Multi-session Environments**|Juwon Kim et.al.|[2412.05839](http://arxiv.org/abs/2412.05839)|null|
@@ -444,6 +445,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
+|**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
+|**2024-12-20**|**Offline Reinforcement Learning for LLM Multi-Step Reasoning**|Huaijie Wang et.al.|[2412.16145](http://arxiv.org/abs/2412.16145)|null|
+|**2024-12-20**|**Can LLMs Obfuscate Code? A Systematic Analysis of Large Language Models into Assembly Code Obfuscation**|Seyedreza Mohseni et.al.|[2412.16135](http://arxiv.org/abs/2412.16135)|null|
+|**2024-12-20**|**Data-Driven Mechanism Design: Jointly Eliciting Preferences and Information**|Dirk Bergemann et.al.|[2412.16132](http://arxiv.org/abs/2412.16132)|null|
+|**2024-12-20**|**PromptOptMe: Error-Aware Prompt Compression for LLM-based MT Evaluation Metrics**|Daniil Larionov et.al.|[2412.16120](http://arxiv.org/abs/2412.16120)|null|
+|**2024-12-20**|**Deciphering the Underserved: Benchmarking LLM OCR for Low-Resource Scripts**|Muhammad Abdullah Sohail et.al.|[2412.16119](http://arxiv.org/abs/2412.16119)|**[link](https://github.com/abdullahsohaill/cs6303-researchproject)**|
+|**2024-12-20**|**PruneVid: Visual Token Pruning for Efficient Video Large Language Models**|Xiaohu Huang et.al.|[2412.16117](http://arxiv.org/abs/2412.16117)|**[link](https://github.com/visual-ai/prunevid)**|
+|**2024-12-20**|**The Content Moderator's Dilemma: Removal of Toxic Content and Distortions to Online Discourse**|Mahyar Habibi et.al.|[2412.16114](http://arxiv.org/abs/2412.16114)|null|
+|**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
+|**2024-12-20**|**Interleaved Speech-Text Language Models are Simple Streaming Text to Speech Synthesizers**|Yifan Yang et.al.|[2412.16102](http://arxiv.org/abs/2412.16102)|null|
+|**2024-12-20**|**Logical Consistency of Large Language Models in Fact-checking**|Bishwamittra Ghosh et.al.|[2412.16100](http://arxiv.org/abs/2412.16100)|null|
+|**2024-12-20**|**The Evolution of LLM Adoption in Industry Data Curation Practices**|Crystal Qian et.al.|[2412.16089](http://arxiv.org/abs/2412.16089)|null|
+|**2024-12-20**|**Efficient MedSAMs: Segment Anything in Medical Images on Laptop**|Jun Ma et.al.|[2412.16085](http://arxiv.org/abs/2412.16085)|**[link](https://github.com/bowang-lab/medsam)**|
+|**2024-12-20**|**Formal Mathematical Reasoning: A New Frontier in AI**|Kaiyu Yang et.al.|[2412.16075](http://arxiv.org/abs/2412.16075)|null|
+|**2024-12-20**|**A Framework for Streaming Event-Log Prediction in Business Processes**|Benedikt Bollig et.al.|[2412.16032](http://arxiv.org/abs/2412.16032)|null|
+|**2024-12-20**|**The Only Way is Ethics: A Guide to Ethical Research with Large Language Models**|Eddie L. Ungless et.al.|[2412.16022](http://arxiv.org/abs/2412.16022)|**[link](https://github.com/mxeddie/ethics-whitepaper)**|
+|**2024-12-20**|**Fearful Falcons and Angry Llamas: Emotion Category Annotations of Arguments by Humans and LLMs**|Lynn Greschner et.al.|[2412.15993](http://arxiv.org/abs/2412.15993)|null|
+|**2024-12-20**|**BabyHGRN: Exploring RNNs for Sample-Efficient Training of Language Models**|Patrick Haller et.al.|[2412.15978](http://arxiv.org/abs/2412.15978)|null|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
 |**2024-12-19**|**PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation**|Muntasir Wahed et.al.|[2412.15209](http://arxiv.org/abs/2412.15209)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
@@ -4611,6 +4632,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Camera-Based Localization and Enhanced Normalized Mutual Information**|Vishnu Teja Kunde et.al.|[2412.16137](http://arxiv.org/abs/2412.16137)|null|
+|**2024-12-20**|**Predicting human cooperation: sensitizing drift-diffusion model to interaction and external stimuli**|Lucila G. Alvarez-Zuzek et.al.|[2412.16121](http://arxiv.org/abs/2412.16121)|null|
+|**2024-12-20**|**Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultrasound Wave Propagation in Heterogeneous Spinal Cord Anatomy**|Avisha Kumar et.al.|[2412.16118](http://arxiv.org/abs/2412.16118)|**[link](https://github.com/avishakumar21/nonlinear-fus-with-neural-operators)**|
+|**2024-12-20**|**Quantifying the benefit of load uncertainty reduction for the design of district energy systems under grid constraints using the Value of Information**|Max Langtry et.al.|[2412.16105](http://arxiv.org/abs/2412.16105)|null|
+|**2024-12-20**|**Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis**|Haowen Xu et.al.|[2412.16098](http://arxiv.org/abs/2412.16098)|null|
+|**2024-12-20**|**On the Impact of 3D Visualization of Repository Metrics in Software Engineering Education**|Dario Di Dario et.al.|[2412.16061](http://arxiv.org/abs/2412.16061)|null|
+|**2024-12-20**|**Segmentation of arbitrary features in very high resolution remote sensing imagery**|Henry Cording et.al.|[2412.16046](http://arxiv.org/abs/2412.16046)|null|
+|**2024-12-20**|**Applying Predictive Analytics to Occupational Health and Safety in India**|Ritwik Raj Saxena et.al.|[2412.16038](http://arxiv.org/abs/2412.16038)|null|
+|**2024-12-20**|**Designing Visual Explanations and Learner Controls to Engage Adolescents in AI-Supported Exercise Selection**|Jeroen Ooge et.al.|[2412.16034](http://arxiv.org/abs/2412.16034)|null|
+|**2024-12-20**|**Simulation-based Bayesian predictive probability of success for interim monitoring of clinical trials with competing event data: two case studies**|Chiara Micoli et.al.|[2412.15899](http://arxiv.org/abs/2412.15899)|null|
+|**2024-12-20**|**Sparse Point Clouds Assisted Learned Image Compression**|Yiheng Jiang et.al.|[2412.15752](http://arxiv.org/abs/2412.15752)|null|
+|**2024-12-20**|**Prompt-based Unifying Inference Attack on Graph Neural Networks**|Yuecen Wei et.al.|[2412.15735](http://arxiv.org/abs/2412.15735)|**[link](https://github.com/ringbdstack/proia)**|
+|**2024-12-20**|**Climate Impact Assessment Requires Weighting: Introducing the Weighted Climate Dataset**|Marco Gortan et.al.|[2412.15699](http://arxiv.org/abs/2412.15699)|null|
+|**2024-12-20**|**Parameterized Complexity of (d,r)-Domination via Modular Decomposition**|Gennaro Cordasco et.al.|[2412.15671](http://arxiv.org/abs/2412.15671)|null|
+|**2024-12-20**|**Tacit Learning with Adaptive Information Selection for Cooperative Multi-Agent Reinforcement Learning**|Lunjun Liu et.al.|[2412.15639](http://arxiv.org/abs/2412.15639)|null|
+|**2024-12-20**|**Microservices-Based Framework for Predictive Analytics and Real-time Performance Enhancement in Travel Reservation Systems**|Biman Barua et.al.|[2412.15616](http://arxiv.org/abs/2412.15616)|null|
+|**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
+|**2024-12-20**|**To Rely or Not to Rely? Evaluating Interventions for Appropriate Reliance on Large Language Models**|Jessica Y. Bo et.al.|[2412.15584](http://arxiv.org/abs/2412.15584)|null|
+|**2024-12-20**|**VLM-RL: A Unified Vision Language Models and Reinforcement Learning Framework for Safe Autonomous Driving**|Zilin Huang et.al.|[2412.15544](http://arxiv.org/abs/2412.15544)|null|
+|**2024-12-20**|**Humanlike Cognitive Patterns as Emergent Phenomena in Large Language Models**|Zhisheng Tang et.al.|[2412.15501](http://arxiv.org/abs/2412.15501)|null|
 |**2024-12-19**|**OpenEMMA: Open-Source Multimodal Model for End-to-End Autonomous Driving**|Shuo Xing et.al.|[2412.15208](http://arxiv.org/abs/2412.15208)|**[link](https://github.com/taco-group/openemma)**|
 |**2024-12-19**|**AutoTrust: Benchmarking Trustworthiness in Large Vision Language Models for Autonomous Driving**|Shuo Xing et.al.|[2412.15206](http://arxiv.org/abs/2412.15206)|**[link](https://github.com/taco-group/autotrust)**|
 |**2024-12-19**|**Operationalising Rawlsian Ethics for Fairness in Norm-Learning Agents**|Jessica Woodgate et.al.|[2412.15163](http://arxiv.org/abs/2412.15163)|null|
