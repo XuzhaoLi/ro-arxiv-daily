@@ -1,4 +1,4 @@
-## Updated on 2024.12.27
+## Updated on 2024.12.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-12-24**|**Hybrid Many-Objective Optimization in Probabilistic Mission Design for Compliant and Effective UAV Routing**|Simon Kohaut et.al.|[2412.18514](http://arxiv.org/abs/2412.18514)|null|
-|**2024-12-23**|**AI-Driven Control of Chaos: A Transformer-Based Approach for Dynamical Systems**|David Valle et.al.|[2412.17357](http://arxiv.org/abs/2412.17357)|null|
+|**2024-12-23**|**AI-Driven Control of Chaos: A Transformer-Based Approach for Dynamical Systems**|David Valle et.al.|[2412.17357](http://arxiv.org/abs/2412.17357)|**[link](https://github.com/RedLynx96/Estimation_of_safety_functions)**|
 |**2024-12-21**|**A Bayesian Composite Risk Approach for Stochastic Optimal Control and Markov Decision Processes**|Wentao Ma et.al.|[2412.16488](http://arxiv.org/abs/2412.16488)|null|
 |**2024-12-20**|**Battery valuation on electricity intraday markets with liquidity costs**|Enzo Cognéville et.al.|[2412.15959](http://arxiv.org/abs/2412.15959)|null|
 |**2024-12-19**|**Robustness Evaluation of a Physical Internet-based Intermodal Logistic Network**|Federico Gallo et.al.|[2412.14658](http://arxiv.org/abs/2412.14658)|null|
@@ -449,7 +449,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -4678,7 +4678,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -8403,5 +8403,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20241227>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241228>back to top</a>)</p>
 
