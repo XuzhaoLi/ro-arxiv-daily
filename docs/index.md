@@ -4684,7 +4684,7 @@ layout: default
 |**2024-12-24**|**Bayesian Optimization of Bilevel Problems**|Omer Ekmekcioglu et.al.|[2412.18518](http://arxiv.org/abs/2412.18518)|null|
 |**2024-12-24**|**Large Language Model guided Deep Reinforcement Learning for Decision Making in Autonomous Driving**|Hao Pang et.al.|[2412.18511](http://arxiv.org/abs/2412.18511)|null|
 |**2024-12-24**|**An Overview and Discussion of the Suitability of Existing Speech Datasets to Train Machine Learning Models for Collective Problem Solving**|Gnaneswar Villuri et.al.|[2412.18489](http://arxiv.org/abs/2412.18489)|null|
-|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|null|
+|**2024-12-24**|**Defining and Detecting the Defects of the Large Language Model-based Autonomous Agents**|Kaiwen Ning et.al.|[2412.18371](http://arxiv.org/abs/2412.18371)|**[link](https://github.com/KevinHeiwa/Agentable)**|
 |**2024-12-24**|**Point-DeepONet: A Deep Operator Network Integrating PointNet for Nonlinear Analysis of Non-Parametric 3D Geometries and Load Conditions**|Jangseop Park et.al.|[2412.18362](http://arxiv.org/abs/2412.18362)|**[link](https://github.com/jangseop-park/point-deeponet)**|
 |**2024-12-24**|**Navigating Data Corruption in Machine Learning: Balancing Quality, Quantity, and Imputation Strategies**|Qi Liu et.al.|[2412.18296](http://arxiv.org/abs/2412.18296)|null|
 |**2024-12-24**|**MinsStudio: A Streamlined Package for Minecraft AI Agent Development**|Shaofei Cai et.al.|[2412.18293](http://arxiv.org/abs/2412.18293)|**[link](https://github.com/craftjarvis/minestudio)**|
