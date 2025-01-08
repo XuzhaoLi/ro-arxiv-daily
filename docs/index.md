@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904](http://arxiv.org/abs/2501.03904)|null|
+|**2025-01-07**|**Young domination on Hamming rectangles**|Janko Gravner et.al.|[2501.03788](http://arxiv.org/abs/2501.03788)|null|
 |**2025-01-06**|**Distributionally Robust Control Synthesis for Stochastic Systems with Safety and Reach-Avoid Specifications**|Yu Chen et.al.|[2501.03137](http://arxiv.org/abs/2501.03137)|null|
 |**2025-01-06**|**MDP3: A Training-free Approach for List-wise Frame Selection in Video-LLMs**|Hui Sun et.al.|[2501.02885](http://arxiv.org/abs/2501.02885)|null|
 |**2025-01-06**|**Local Reactive Control for Mobile Manipulators with Whole-Body Safety in Complex Environments**|Chunxin Zheng et.al.|[2501.02815](http://arxiv.org/abs/2501.02815)|null|
@@ -458,6 +460,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
+|**2025-01-07**|**Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles**|Yuxi Xia et.al.|[2501.03991](http://arxiv.org/abs/2501.03991)|null|
+|**2025-01-07**|**(De)-Indexing and the Right to be Forgotten**|Salvatore Vilella et.al.|[2501.03989](http://arxiv.org/abs/2501.03989)|null|
+|**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
+|**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
+|**2025-01-07**|**Localizing AI: Evaluating Open-Weight Language Models for Languages of Baltic States**|Jurgita Kapočiūtė-Dzikienė et.al.|[2501.03952](http://arxiv.org/abs/2501.03952)|null|
+|**2025-01-07**|**Not all tokens are created equal: Perplexity Attention Weighted Networks for AI generated text detection**|Pablo Miralles-González et.al.|[2501.03940](http://arxiv.org/abs/2501.03940)|null|
+|**2025-01-07**|**Visual question answering: from early developments to recent advances -- a survey**|Ngoc Dung Huynh et.al.|[2501.03939](http://arxiv.org/abs/2501.03939)|null|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904](http://arxiv.org/abs/2501.03904)|null|
+|**2025-01-07**|**LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**|Shaolei Zhang et.al.|[2501.03895](http://arxiv.org/abs/2501.03895)|**[link](https://github.com/ictnlp/llava-mini)**|
+|**2025-01-07**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
+|**2025-01-07**|**CL3DOR: Contrastive Learning for 3D Large Multimodal Models via Odds Ratio on High-Resolution Point Clouds**|Keonwoo Kim et.al.|[2501.03879](http://arxiv.org/abs/2501.03879)|null|
+|**2025-01-07**|**Improving Dialectal Slot and Intent Detection with Auxiliary Tasks: A Multi-Dialectal Bavarian Case Study**|Xaver Maria Krückl et.al.|[2501.03863](http://arxiv.org/abs/2501.03863)|**[link](https://github.com/mainlp/auxtasks-bavarian-sid)**|
+|**2025-01-07**|**Progressive Document-level Text Simplification via Large Language Models**|Dengzhao Fang et.al.|[2501.03857](http://arxiv.org/abs/2501.03857)|null|
+|**2025-01-07**|**BabyLMs for isiXhosa: Data-Efficient Language Modelling in a Low-Resource Context**|Alexis Matzopoulos et.al.|[2501.03855](http://arxiv.org/abs/2501.03855)|null|
+|**2025-01-07**|**OmniManip: Towards General Robotic Manipulation via Object-Centric Interaction Primitives as Spatial Constraints**|Mingjie Pan et.al.|[2501.03841](http://arxiv.org/abs/2501.03841)|null|
+|**2025-01-07**|**MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention**|Aadya Arora et.al.|[2501.03839](http://arxiv.org/abs/2501.03839)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
 |**2025-01-06**|**Leveraging Explainable AI for LLM Text Attribution: Differentiating Human-Written and Multiple LLMs-Generated Text**|Ayat Najjar et.al.|[2501.03212](http://arxiv.org/abs/2501.03212)|null|
@@ -4785,6 +4807,25 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-07**|**LargeAD: Large-Scale Cross-Sensor Data Pretraining for Autonomous Driving**|Lingdong Kong et.al.|[2501.04005](http://arxiv.org/abs/2501.04005)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
+|**2025-01-07**|**Multi-Hypothesis Prediction for Portfolio Optimization: A Structured Ensemble Learning Approach to Risk Diversification**|Alejandro Rodriguez Dominguez et.al.|[2501.03919](http://arxiv.org/abs/2501.03919)|null|
+|**2025-01-07**|**Exploring the Potential of Large Language Models in Public Transportation: San Antonio Case Study**|Ramya Jonnala et.al.|[2501.03904](http://arxiv.org/abs/2501.03904)|null|
+|**2025-01-07**|**Explainable Reinforcement Learning via Temporal Policy Decomposition**|Franco Ruggeri et.al.|[2501.03902](http://arxiv.org/abs/2501.03902)|null|
+|**2025-01-07**|**Three-dimensional attention Transformer for state evaluation in real-time strategy games**|Yanqing Ye et.al.|[2501.03832](http://arxiv.org/abs/2501.03832)|null|
+|**2025-01-07**|**Image Segmentation: Inducing graph-based learning**|Aryan Singh et.al.|[2501.03765](http://arxiv.org/abs/2501.03765)|**[link](https://github.com/aryan-at-ul/electronic-imaging-2025-paper-4492)**|
+|**2025-01-07**|**Controlling the low-temperature Ising model using spatiotemporal Markov decision theory**|M. C. de Jongh et.al.|[2501.03668](http://arxiv.org/abs/2501.03668)|null|
+|**2025-01-07**|**Hybrid Machine Learning Model with a Constrained Action Space for Trajectory Prediction**|Alexander Fertig et.al.|[2501.03666](http://arxiv.org/abs/2501.03666)|null|
+|**2025-01-07**|**Collision Risk Quantification and Conflict Resolution in Trajectory Tracking for Acceleration-Actuated Multi-Robot Systems**|Xiaoxiao Li et.al.|[2501.03585](http://arxiv.org/abs/2501.03585)|null|
+|**2025-01-07**|**SenseRAG: Constructing Environmental Knowledge Bases with Proactive Querying for LLM-Based Autonomous Driving**|Xuewen Luo et.al.|[2501.03535](http://arxiv.org/abs/2501.03535)|null|
+|**2025-01-07**|**Align-Pro: A Principled Approach to Prompt Optimization for LLM Alignment**|Prashant Trivedi et.al.|[2501.03486](http://arxiv.org/abs/2501.03486)|null|
+|**2025-01-07**|**Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation**|Zi Huang et.al.|[2501.03461](http://arxiv.org/abs/2501.03461)|**[link](https://github.com/abcxyzi/radcharssl)**|
+|**2025-01-06**|**Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection**|Donatella Genovese et.al.|[2501.03432](http://arxiv.org/abs/2501.03432)|null|
+|**2025-01-06**|**On factors influencing consumer preference in pipeline stages: an experiment**|Paramahansa Pramanik et.al.|[2501.03418](http://arxiv.org/abs/2501.03418)|null|
+|**2025-01-06**|**High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions**|Ignacio Garrón et.al.|[2501.03380](http://arxiv.org/abs/2501.03380)|null|
+|**2025-01-06**|**Quantum Feature-Empowered Deep Classification for Fast Mangrove Mapping**|Chia-Hsiang Lin et.al.|[2501.03360](http://arxiv.org/abs/2501.03360)|null|
+|**2025-01-06**|**Data integrity vs. inference accuracy in large AIS datasets**|Adam Kiersztyn et.al.|[2501.03358](http://arxiv.org/abs/2501.03358)|null|
+|**2025-01-06**|**Analyzing Bias in Swiss Federal Supreme Court Judgments Using Facebook's Holistic Bias Dataset: Implications for Language Model Training**|Sabine Wehnert et.al.|[2501.03324](http://arxiv.org/abs/2501.03324)|null|
 |**2025-01-06**|**BoostStep: Boosting mathematical capability of Large Language Models via improved single-step reasoning**|Beichen Zhang et.al.|[2501.03226](http://arxiv.org/abs/2501.03226)|**[link](https://github.com/beichenzbc/booststep)**|
 |**2025-01-06**|**RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network**|Haosheng Zhang et.al.|[2501.03221](http://arxiv.org/abs/2501.03221)|null|
 |**2025-01-06**|**MObI: Multimodal Object Inpainting Using Diffusion Models**|Alexandru Buburuzan et.al.|[2501.03173](http://arxiv.org/abs/2501.03173)|null|
