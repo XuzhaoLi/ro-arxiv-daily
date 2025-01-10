@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**ThriftLLM: On Cost-Effective Selection of Large Language Models for Classification Queries**|Keke Huang et.al.|[2501.04901](http://arxiv.org/abs/2501.04901)|null|
 |**2025-01-08**|**Semilinear Dynamic Programming: Analysis, Algorithms, and Certainty Equivalence Properties**|Yuchao Li et.al.|[2501.04668](http://arxiv.org/abs/2501.04668)|null|
 |**2025-01-08**|**HypeRL: Parameter-Informed Reinforcement Learning for Parametric PDEs**|Nicolò Botteghi et.al.|[2501.04538](http://arxiv.org/abs/2501.04538)|null|
 |**2025-01-08**|**Probabilistic Greedy Algorithm Solver Using Magnetic Tunneling Junctions for Traveling Salesman Problem**|Ran Zhang et.al.|[2501.04447](http://arxiv.org/abs/2501.04447)|null|
@@ -470,6 +471,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**An Empirical Study of Autoregressive Pre-training from Videos**|Jathushan Rajasegaran et.al.|[2501.05453](http://arxiv.org/abs/2501.05453)|null|
+|**2025-01-09**|**ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding**|Xingyu Fu et.al.|[2501.05452](http://arxiv.org/abs/2501.05452)|null|
+|**2025-01-09**|**Relative Pose Estimation through Affine Corrections of Monocular Depth Priors**|Yifan Yu et.al.|[2501.05446](http://arxiv.org/abs/2501.05446)|null|
+|**2025-01-09**|**Can MLLMs Reason in Multimodality? EMMA: An Enhanced MultiModal ReAsoning Benchmark**|Yunzhuo Hao et.al.|[2501.05444](http://arxiv.org/abs/2501.05444)|null|
+|**2025-01-09**|**A survey of textual cyber abuse detection using cutting-edge language models and large language models**|Jose A. Diaz-Garcia et.al.|[2501.05443](http://arxiv.org/abs/2501.05443)|null|
+|**2025-01-09**|**Using LLMs to Infer Non-Binary COVID-19 Sentiments of Chinese Micro-bloggers**|Jerry Chongyi Hu et.al.|[2501.05423](http://arxiv.org/abs/2501.05423)|null|
+|**2025-01-09**|**LongProc: Benchmarking Long-Context Language Models on Long Procedural Generation**|Xi Ye et.al.|[2501.05414](http://arxiv.org/abs/2501.05414)|null|
+|**2025-01-09**|**Seeing Sound: Assembling Sounds from Visuals for Audio-to-Image Generation**|Darius Petermann et.al.|[2501.05413](http://arxiv.org/abs/2501.05413)|null|
+|**2025-01-09**|**A Novel Pathology Foundation Model by Mayo Clinic, Charité, and Aignostics**|Maximilian Alber et.al.|[2501.05409](http://arxiv.org/abs/2501.05409)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398](http://arxiv.org/abs/2501.05398)|null|
+|**2025-01-09**|**FairCode: Evaluating Social Bias of LLMs in Code Generation**|Yongkang Du et.al.|[2501.05396](http://arxiv.org/abs/2501.05396)|null|
+|**2025-01-09**|**Large Physics Models: Towards a collaborative approach with Large Language Models and Foundation Models**|Kristian G. Barman et.al.|[2501.05382](http://arxiv.org/abs/2501.05382)|null|
+|**2025-01-09**|**Arc2Avatar: Generating Expressive 3D Avatars from a Single Image via ID Guidance**|Dimitrios Gerogiannis et.al.|[2501.05379](http://arxiv.org/abs/2501.05379)|null|
+|**2025-01-09**|**Accelerated Diffusion Models via Speculative Sampling**|Valentin De Bortoli et.al.|[2501.05370](http://arxiv.org/abs/2501.05370)|null|
+|**2025-01-09**|**Stream Aligner: Efficient Sentence-Level Alignment via Distribution Induction**|Hantao Lou et.al.|[2501.05336](http://arxiv.org/abs/2501.05336)|null|
+|**2025-01-09**|**"What's Happening"- A Human-centered Multimodal Interpreter Explaining the Actions of Autonomous Vehicles**|Xuewen Luo et.al.|[2501.05322](http://arxiv.org/abs/2501.05322)|null|
+|**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|null|
+|**2025-01-09**|**CellViT++: Energy-Efficient and Adaptive Cell Segmentation and Classification Using Foundation Models**|Fabian Hörst et.al.|[2501.05269](http://arxiv.org/abs/2501.05269)|null|
+|**2025-01-09**|**Enhancing Plagiarism Detection in Marathi with a Weighted Ensemble of TF-IDF and BERT Embeddings for Low-Resource Language Processing**|Atharva Mutsaddi et.al.|[2501.05260](http://arxiv.org/abs/2501.05260)|**[link](https://github.com/aditya-choudhary599/Marathi-Plagiarism-Detection)**|
+|**2025-01-09**|**CallNavi: A Study and Challenge on Function Calling Routing and Invocation in Large Language Models**|Yewei Song et.al.|[2501.05255](http://arxiv.org/abs/2501.05255)|null|
 |**2025-01-08**|**EditAR: Unified Conditional Generation with Autoregressive Models**|Jiteng Mu et.al.|[2501.04699](http://arxiv.org/abs/2501.04699)|null|
 |**2025-01-08**|**Re-ranking the Context for Multimodal Retrieval Augmented Generation**|Matin Mortaheb et.al.|[2501.04695](http://arxiv.org/abs/2501.04695)|null|
 |**2025-01-08**|**URSA: Understanding and Verifying Chain-of-thought Reasoning in Multimodal Mathematics**|Ruilin Luo et.al.|[2501.04686](http://arxiv.org/abs/2501.04686)|null|
@@ -4839,6 +4860,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-09**|**Explainable AI-Enhanced Deep Learning for Pumpkin Leaf Disease Detection: A Comparative Analysis of CNN Architectures**|Md. Arafat Alam Khandaker et.al.|[2501.05449](http://arxiv.org/abs/2501.05449)|null|
+|**2025-01-09**|**From Images to Insights: Transforming Brain Cancer Diagnosis with Explainable AI**|Md. Arafat Alam Khandaker et.al.|[2501.05426](http://arxiv.org/abs/2501.05426)|null|
+|**2025-01-09**|**Mechanistic understanding and validation of large AI models with SemanticLens**|Maximilian Dreyer et.al.|[2501.05398](http://arxiv.org/abs/2501.05398)|null|
+|**2025-01-09**|**The global consensus on the risk management of autonomous driving**|Sebastian Krügel et.al.|[2501.05391](http://arxiv.org/abs/2501.05391)|null|
+|**2025-01-09**|**Integrating Explainable AI for Effective Malware Detection in Encrypted Network Traffic**|Sileshi Nibret Zeleke et.al.|[2501.05387](http://arxiv.org/abs/2501.05387)|null|
+|**2025-01-09**|**Optimizing Distributed Deployment of Mixture-of-Experts Model Inference in Serverless Computing**|Mengfan Liu et.al.|[2501.05313](http://arxiv.org/abs/2501.05313)|null|
+|**2025-01-09**|**Off-Policy Evaluation and Counterfactual Methods in Dynamic Auction Environments**|Ritam Guha et.al.|[2501.05278](http://arxiv.org/abs/2501.05278)|null|
+|**2025-01-09**|**Domain-Incremental Semantic Segmentation for Autonomous Driving under Adverse Driving Conditions**|Shishir Muralidhara et.al.|[2501.05246](http://arxiv.org/abs/2501.05246)|null|
+|**2025-01-09**|**CorrDiff: Adaptive Delay-aware Detector with Temporal Cue Inputs for Real-time Object Detection**|Xiang Zhang et.al.|[2501.05132](http://arxiv.org/abs/2501.05132)|null|
+|**2025-01-09**|**Variable Goal Approach (VGA) Enhancing Pedestrian Dynamics Modeling**|Kanika Jain et.al.|[2501.05100](http://arxiv.org/abs/2501.05100)|null|
+|**2025-01-09**|**DriVLM: Domain Adaptation of Vision-Language Models in Autonomous Driving**|Xuran Zheng et.al.|[2501.05081](http://arxiv.org/abs/2501.05081)|null|
+|**2025-01-09**|**LearningFlow: Automated Policy Learning Workflow for Urban Driving with Large Language Models**|Zengqi Peng et.al.|[2501.05057](http://arxiv.org/abs/2501.05057)|null|
+|**2025-01-09**|**UAV-VLA: Vision-Language-Action System for Large Scale Aerial Mission Generation**|Oleg Sautenkov et.al.|[2501.05014](http://arxiv.org/abs/2501.05014)|null|
+|**2025-01-09**|**CuRLA: Curriculum Learning Based Deep Reinforcement Learning for Autonomous Driving**|Bhargava Uppuluri et.al.|[2501.04982](http://arxiv.org/abs/2501.04982)|null|
+|**2025-01-09**|**AD-L-JEPA: Self-Supervised Spatial World Models with Joint Embedding Predictive Architecture for Autonomous Driving with LiDAR Data**|Haoran Zhu et.al.|[2501.04969](http://arxiv.org/abs/2501.04969)|null|
+|**2025-01-09**|**Balancing Exploration and Cybersickness: Investigating Curiosity-Driven Behavior in Virtual Environments**|Tangyao Li et.al.|[2501.04905](http://arxiv.org/abs/2501.04905)|null|
+|**2025-01-08**|**Leveraging Log Probabilities in Language Models to Forecast Future Events**|Tommaso Soru et.al.|[2501.04880](http://arxiv.org/abs/2501.04880)|null|
+|**2025-01-08**|**Deep Transfer $Q$ -Learning for Offline Non-Stationary Reinforcement Learning**|Jinhang Chai et.al.|[2501.04870](http://arxiv.org/abs/2501.04870)|null|
+|**2025-01-08**|**Universal quasi-particle kinetics control the cell death decision**|Felix Meige et.al.|[2501.04862](http://arxiv.org/abs/2501.04862)|null|
 |**2025-01-08**|**A mixture transition distribution approach to portfolio optimization**|Riccardo De Blasis et.al.|[2501.04646](http://arxiv.org/abs/2501.04646)|null|
 |**2025-01-08**|**Analysis of Climatic Trends and Variability in Indian Topography**|Ayush Prusty et.al.|[2501.04578](http://arxiv.org/abs/2501.04578)|null|
 |**2025-01-08**|**Effective Two-Stage Double Auction for Dynamic Resource Trading in Edge Networks via Overbooking**|Sicheng Wu et.al.|[2501.04507](http://arxiv.org/abs/2501.04507)|null|
