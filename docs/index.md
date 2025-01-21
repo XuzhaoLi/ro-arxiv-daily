@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.20
+## Updated on 2025.01.21
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2025-01-15**|**Stochastic Optimal Control of Prosumers in a District Heating System**|Maalvladédon Ganet Somé et.al.|[2501.09088](http://arxiv.org/abs/2501.09088)|null|
 |**2025-01-15**|**Family-wise Error Rate Control with E-values**|Will Hartog et.al.|[2501.09015](http://arxiv.org/abs/2501.09015)|null|
 |**2025-01-14**|**Cooperative Patrol Routing: Optimizing Urban Crime Surveillance through Multi-Agent Reinforcement Learning**|Juan Palma-Borda et.al.|[2501.08020](http://arxiv.org/abs/2501.08020)|**[link](https://github.com/iacomlab/marl-patrol-routing)**|
-|**2025-01-14**|**Optimal Classification Trees for Continuous Feature Data Using Dynamic Programming with Branch-and-Bound**|Catalin E. Brita et.al.|[2501.07903](http://arxiv.org/abs/2501.07903)|**[link](https://github.com/consol-lab/contree)**|
+|**2025-01-14**|**Optimal Classification Trees for Continuous Feature Data Using Dynamic Programming with Branch-and-Bound**|Catalin E. Brita et.al.|[2501.07903](http://arxiv.org/abs/2501.07903)|**[link](https://github.com/algtudelft/pystreed)**|
 |**2025-01-09**|**A Multi-Layer CNN-GRUSKIP model based on transformer for spatial TEMPORAL traffic flow prediction**|Karimeh Ibrahim Mohammad Ata et.al.|[2501.07593](http://arxiv.org/abs/2501.07593)|null|
 |**2025-01-13**|**An Alternating Approach to Approximate Dynamic Programming**|Di Zhang et.al.|[2501.06983](http://arxiv.org/abs/2501.06983)|null|
 |**2025-01-11**|**A Linear Complexity Algorithm for Optimal Transport Problem with Log-type Cost**|Ziyuan Lyu et.al.|[2501.06578](http://arxiv.org/abs/2501.06578)|null|
