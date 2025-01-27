@@ -492,6 +492,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
+|**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
+|**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717](http://arxiv.org/abs/2501.14717)|null|
+|**2025-01-24**|**FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing**|James Seale Smith et.al.|[2501.14713](http://arxiv.org/abs/2501.14713)|null|
+|**2025-01-24**|**The Karp Dataset**|Mason DiCicco et.al.|[2501.14705](http://arxiv.org/abs/2501.14705)|null|
+|**2025-01-24**|**Rethinking Table Instruction Tuning**|Naihao Deng et.al.|[2501.14693](http://arxiv.org/abs/2501.14693)|null|
+|**2025-01-24**|**Rethinking Foundation Models for Medical Image Classification through a Benchmark Study on MedMNIST**|Fuping Wu et.al.|[2501.14685](http://arxiv.org/abs/2501.14685)|null|
+|**2025-01-24**|**An Empirical Study on LLM-based Classification of Requirements-related Provisions in Food-safety Regulations**|Shabnam Hassani et.al.|[2501.14683](http://arxiv.org/abs/2501.14683)|null|
+|**2025-01-24**|**Diffusion based Text-to-Music Generationwith Global and Local Text based Conditioning**|Jisi Zhang et.al.|[2501.14680](http://arxiv.org/abs/2501.14680)|null|
+|**2025-01-24**|**MedAgentBench: Dataset for Benchmarking LLMs as Agents in Medical Applications**|Yixing Jiang et.al.|[2501.14654](http://arxiv.org/abs/2501.14654)|**[link](https://github.com/stanfordmlgroup/medagentbench)**|
+|**2025-01-24**|**Investigating the (De)Composition Capabilities of Large Language Models in Natural-to-Formal Language Conversion**|Ziyao Xu et.al.|[2501.14649](http://arxiv.org/abs/2501.14649)|**[link](https://github.com/xzy-xzy/dedc)**|
+|**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
+|**2025-01-24**|**Extracting Problem Structure with LLMs for Optimized SAT Local Search**|André Schilder et.al.|[2501.14630](http://arxiv.org/abs/2501.14630)|null|
+|**2025-01-24**|**ReferDINO: Referring Video Object Segmentation with Visual Grounding Foundations**|Tianming Liang et.al.|[2501.14607](http://arxiv.org/abs/2501.14607)|null|
+|**2025-01-24**|**Knowledge Graphs Construction from Criminal Court Appeals: Insights from the French Cassation Court**|Alexander V. Belikov et.al.|[2501.14579](http://arxiv.org/abs/2501.14579)|null|
+|**2025-01-24**|**ZETA: Leveraging Z-order Curves for Efficient Top-k Attention**|Qiuhao Zeng et.al.|[2501.14577](http://arxiv.org/abs/2501.14577)|null|
+|**2025-01-24**|**Large-scale and Fine-grained Vision-language Pre-training for Enhanced CT Image Understanding**|Zhongyi Shui et.al.|[2501.14548](http://arxiv.org/abs/2501.14548)|**[link](https://github.com/alibaba-damo-academy/fvlm)**|
+|**2025-01-24**|**Leveraging ChatGPT's Multimodal Vision Capabilities to Rank Satellite Images by Poverty Level: Advancing Tools for Social Science Research**|Hamid Sarmadi et.al.|[2501.14546](http://arxiv.org/abs/2501.14546)|null|
+|**2025-01-24**|**VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic Reasoning**|Benjamin Callewaert et.al.|[2501.14540](http://arxiv.org/abs/2501.14540)|null|
+|**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530](http://arxiv.org/abs/2501.14530)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
 |**2025-01-23**|**CRPO: Confidence-Reward Driven Preference Optimization for Machine Translation**|Guofeng Cui et.al.|[2501.13927](http://arxiv.org/abs/2501.13927)|null|
 |**2025-01-23**|**The Breeze 2 Herd of Models: Traditional Chinese LLMs Based on Llama with Vision-Aware and Function-Calling Capabilities**|Chan-Jan Hsu et.al.|[2501.13921](http://arxiv.org/abs/2501.13921)|null|
 |**2025-01-23**|**Analysis of Indic Language Capabilities in LLMs**|Aatman Vaidya et.al.|[2501.13912](http://arxiv.org/abs/2501.13912)|null|
@@ -5061,6 +5081,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
+|**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
+|**2025-01-24**|**Approach to Designing CV Systems for Medical Applications: Data, Architecture and AI**|Dmitry Ryabtsev et.al.|[2501.14689](http://arxiv.org/abs/2501.14689)|null|
+|**2025-01-24**|**ACT-JEPA: Joint-Embedding Predictive Architecture Improves Policy Representation Learning**|Aleksandar Vujinovic et.al.|[2501.14622](http://arxiv.org/abs/2501.14622)|null|
+|**2025-01-24**|**QuIP: Experimental design for expensive simulators with many Qualitative factors via Integer Programming**|Yen-Chun Liu et.al.|[2501.14616](http://arxiv.org/abs/2501.14616)|null|
+|**2025-01-24**|**3DLabelProp: Geometric-Driven Domain Generalization for LiDAR Semantic Segmentation in Autonomous Driving**|Jules Sanchez et.al.|[2501.14605](http://arxiv.org/abs/2501.14605)|null|
+|**2025-01-24**|**Reducing Action Space for Deep Reinforcement Learning via Causal Effect Estimation**|Wenzhang Liu et.al.|[2501.14543](http://arxiv.org/abs/2501.14543)|**[link](https://github.com/agi-brain/cee)**|
+|**2025-01-24**|**Design and Implementation of a Psychiatry Resident Training System Based on Large Language Models**|Zhenguang Zhong et.al.|[2501.14530](http://arxiv.org/abs/2501.14530)|**[link](https://github.com/hakepai/LLM-based-Psychiatry-Resident-Training-System)**|
+|**2025-01-24**|**Deep-BrownConrady: Prediction of Camera Calibration and Distortion Parameters Using Deep Learning and Synthetic Data**|Faiz Muhammad Chaudhry et.al.|[2501.14510](http://arxiv.org/abs/2501.14510)|null|
+|**2025-01-24**|**A decomposition of Fisher's information to inform sample size for developing fair and precise clinical prediction models -- Part 2: time-to-event outcomes**|Richard D Riley et.al.|[2501.14482](http://arxiv.org/abs/2501.14482)|null|
+|**2025-01-24**|**MARL-OT: Multi-Agent Reinforcement Learning Guided Online Fuzzing to Detect Safety Violation in Autonomous Driving Systems**|Linfeng Liang et.al.|[2501.14451](http://arxiv.org/abs/2501.14451)|null|
+|**2025-01-24**|**Additive Manufacturing Processes Protocol Prediction by Artificial Intelligence using X-ray Computed Tomography data**|Sunita Khod et.al.|[2501.14306](http://arxiv.org/abs/2501.14306)|null|
+|**2025-01-24**|**Deep Learning-Powered Classification of Thoracic Diseases in Chest X-Rays**|Yiming Lei et.al.|[2501.14279](http://arxiv.org/abs/2501.14279)|null|
+|**2025-01-24**|**Multi-agent KTO: Reinforcing Strategic Interactions of Large Language Model in Language Game**|Rong Ye et.al.|[2501.14225](http://arxiv.org/abs/2501.14225)|null|
+|**2025-01-23**|**Development of a Validation and Inspection Tool for Armband-based Lifelog Data (VITAL) to Facilitate the Clinical Use of Wearable Data: A Prototype and Usability Evaluation**|Im Eunyoung et.al.|[2501.14133](http://arxiv.org/abs/2501.14133)|null|
+|**2025-01-23**|**Autonomous Structural Memory Manipulation for Large Language Models Using Hierarchical Embedding Augmentation**|Derek Yotheringhay et.al.|[2501.14119](http://arxiv.org/abs/2501.14119)|null|
+|**2025-01-23**|**Collaborating in a competitive world: Heterogeneous Multi-Agent Decision Making in Symbiotic Supply Chain Environments**|Wan Wang et.al.|[2501.14111](http://arxiv.org/abs/2501.14111)|null|
+|**2025-01-23**|**Making Reliable and Flexible Decisions in Long-tailed Classification**|Bolian Li et.al.|[2501.14090](http://arxiv.org/abs/2501.14090)|**[link](https://github.com/lblaoke/rf-dlc)**|
+|**2025-01-23**|**Human-Alignment Influences the Utility of AI-assisted Decision Making**|Nina L. Corvelo Benz et.al.|[2501.14035](http://arxiv.org/abs/2501.14035)|**[link](https://github.com/networks-learning/human-alignment-study)**|
 |**2025-01-23**|**What Does an Audio Deepfake Detector Focus on? A Study in the Time Domain**|Petr Grinberg et.al.|[2501.13887](http://arxiv.org/abs/2501.13887)|null|
 |**2025-01-23**|**On the Reasoning Capacity of AI Models and How to Quantify It**|Santosh Kumar Radha et.al.|[2501.13833](http://arxiv.org/abs/2501.13833)|null|
 |**2025-01-23**|**Black-Box Adversarial Attack on Vision Language Models for Autonomous Driving**|Lu Wang et.al.|[2501.13563](http://arxiv.org/abs/2501.13563)|null|
