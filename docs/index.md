@@ -15,7 +15,7 @@ layout: default
 |**2025-01-21**|**Dissecting the NVIDIA Hopper Architecture through Microbenchmarking and Multiple Level Analysis**|Weile Luo et.al.|[2501.12084](http://arxiv.org/abs/2501.12084)|null|
 |**2025-01-20**|**Routing Optimization Based on Distributed Intelligent Network Softwarization for the Internet of Things**|Mohamed Ali Zormati et.al.|[2501.11484](http://arxiv.org/abs/2501.11484)|null|
 |**2025-01-19**|**OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors**|Dominik Kulmer et.al.|[2501.11111](http://arxiv.org/abs/2501.11111)|null|
-|**2025-01-23**|**BOOST: Microgrid Sizing using Ordinal Optimization**|Mohamad Fares El Hajj Chehade et.al.|[2501.10842](http://arxiv.org/abs/2501.10842)|null|
+|**2025-01-25**|**BOOST: Microgrid Sizing using Ordinal Optimization**|Mohamad Fares El Hajj Chehade et.al.|[2501.10842](http://arxiv.org/abs/2501.10842)|null|
 |**2025-01-17**|**Multiclass Queue Scheduling Under Slowdown: An Approximate Dynamic Programming Approach**|Jing Dong et.al.|[2501.10523](http://arxiv.org/abs/2501.10523)|null|
 |**2025-01-17**|**Complexity of the Virtual Network Embedding with uniform demands**|Amal Benhamiche et.al.|[2501.10154](http://arxiv.org/abs/2501.10154)|null|
 |**2025-01-16**|**A Dynamic Unmanned Aerial Vehicle Routing Framework for Urban Traffic Monitoring**|Yumeng Bai et.al.|[2501.09249](http://arxiv.org/abs/2501.09249)|null|
@@ -485,6 +485,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**LUCY: Linguistic Understanding and Control Yielding Early Stage of Her**|Heting Gao et.al.|[2501.16327](http://arxiv.org/abs/2501.16327)|**[link](https://github.com/vita-mllm/lucy)**|
+|**2025-01-27**|**Evaluating The Performance of Using Large Language Models to Automate Summarization of CT Simulation Orders in Radiation Oncology**|Meiyun Cao et.al.|[2501.16309](http://arxiv.org/abs/2501.16309)|null|
+|**2025-01-27**|**RAPID: Retrieval-Augmented Parallel Inference Drafting for Text-Based Video Event Retrieval**|Long Nguyen et.al.|[2501.16303](http://arxiv.org/abs/2501.16303)|null|
+|**2025-01-27**|**Matryoshka Re-Ranker: A Flexible Re-Ranking Architecture With Configurable Depth and Width**|Zheng Liu et.al.|[2501.16302](http://arxiv.org/abs/2501.16302)|null|
+|**2025-01-27**|**Large Models in Dialogue for Active Perception and Anomaly Detection**|Tzoulio Chamiti et.al.|[2501.16300](http://arxiv.org/abs/2501.16300)|null|
+|**2025-01-27**|**FALCON: Resolving Visual Redundancy and Fragmentation in High-resolution Multimodal Large Language Models via Visual Registers**|Renshan Zhang et.al.|[2501.16297](http://arxiv.org/abs/2501.16297)|null|
+|**2025-01-27**|**Brain-Adapter: Enhancing Neurological Disorder Analysis with Adapter-Tuning Multimodal Large Language Models**|Jing Zhang et.al.|[2501.16282](http://arxiv.org/abs/2501.16282)|null|
+|**2025-01-27**|**Do LLMs Have Visualization Literacy? An Evaluation on Modified Visualizations to Test Generalization in Data Interpretation**|Jiayi Hong et.al.|[2501.16277](http://arxiv.org/abs/2501.16277)|null|
+|**2025-01-27**|**URAG: Implementing a Unified Hybrid RAG for Precise Answers in University Admission Chatbots -- A Case Study at HCMUT**|Long Nguyen et.al.|[2501.16276](http://arxiv.org/abs/2501.16276)|null|
+|**2025-01-27**|**Return of the Encoder: Maximizing Parameter Efficiency for SLMs**|Mohamed Elfeki et.al.|[2501.16273](http://arxiv.org/abs/2501.16273)|null|
+|**2025-01-27**|**A foundation model for human-AI collaboration in medical literature mining**|Zifeng Wang et.al.|[2501.16255](http://arxiv.org/abs/2501.16255)|null|
+|**2025-01-27**|**Multi-Agent Geospatial Copilots for Remote Sensing Workflows**|Chaehong Lee et.al.|[2501.16254](http://arxiv.org/abs/2501.16254)|null|
+|**2025-01-27**|**Zero-Shot Decision Tree Construction via Large Language Models**|Lucas Carrasco et.al.|[2501.16247](http://arxiv.org/abs/2501.16247)|null|
+|**2025-01-27**|**CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation**|Xiaochuan Ma et.al.|[2501.16246](http://arxiv.org/abs/2501.16246)|null|
+|**2025-01-27**|**Phase Transitions in Large Language Models and the $O(N)$ Model**|Youran Sun et.al.|[2501.16241](http://arxiv.org/abs/2501.16241)|null|
+|**2025-01-27**|**AiGet: Transforming Everyday Moments into Hidden Knowledge Discovery with AI Assistance on Smart Glasses**|Runze Cai et.al.|[2501.16240](http://arxiv.org/abs/2501.16240)|null|
+|**2025-01-27**|**Distilling foundation models for robust and efficient models in digital pathology**|Alexandre Filiot et.al.|[2501.16239](http://arxiv.org/abs/2501.16239)|null|
+|**2025-01-27**|**Language-Based Bayesian Optimization Research Assistant (BORA)**|Abdoulatif Cissé et.al.|[2501.16224](http://arxiv.org/abs/2501.16224)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Provence: efficient and robust context pruning for retrieval-augmented generation**|Nadezhda Chirkova et.al.|[2501.16214](http://arxiv.org/abs/2501.16214)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Do LLMs Provide Consistent Answers to Health-Related Questions across Languages?**|Ipek Baris Schlicht et.al.|[2501.14719](http://arxiv.org/abs/2501.14719)|null|
 |**2025-01-24**|**Towards Better Understanding Table Instruction Tuning: Decoupling the Effects from Data versus Models**|Naihao Deng et.al.|[2501.14717](http://arxiv.org/abs/2501.14717)|null|
@@ -5072,6 +5092,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-27**|**Sequential Decision Making in Stochastic Games with Incomplete Preferences over Temporal Objectives**|Abhishek Ninad Kulkarni et.al.|[2501.16291](http://arxiv.org/abs/2501.16291)|null|
+|**2025-01-27**|**Enhancing Visual Inspection Capability of Multi-Modal Large Language Models on Medical Time Series with Supportive Conformalized and Interpretable Small Specialized Models**|Huayu Li et.al.|[2501.16215](http://arxiv.org/abs/2501.16215)|null|
+|**2025-01-27**|**Towards Explainable Multimodal Depression Recognition for Clinical Interviews**|Wenjie Zheng et.al.|[2501.16106](http://arxiv.org/abs/2501.16106)|null|
+|**2025-01-27**|**Multi-Agent Meta-Offline Reinforcement Learning for Timely UAV Path Planning and Data Collection**|Eslam Eldeeb et.al.|[2501.16098](http://arxiv.org/abs/2501.16098)|null|
+|**2025-01-27**|**Value-oriented forecast reconciliation for renewables in electricity markets**|Honglin Wen et.al.|[2501.16086](http://arxiv.org/abs/2501.16086)|null|
+|**2025-01-27**|**Addressing Out-of-Label Hazard Detection in Dashcam Videos: Insights from the COOOL Challenge**|Anh-Kiet Duong et.al.|[2501.16037](http://arxiv.org/abs/2501.16037)|**[link](https://github.com/ffyyytt/coool_2025)**|
+|**2025-01-27**|**Demographic Benchmarking: Bridging Socio-Technical Gaps in Bias Detection**|Gemma Galdon Clavell et.al.|[2501.15985](http://arxiv.org/abs/2501.15985)|null|
+|**2025-01-27**|**Integrating Probabilistic Trees and Causal Networks for Clinical and Epidemiological Data**|Sheresh Zahoor et.al.|[2501.15973](http://arxiv.org/abs/2501.15973)|null|
+|**2025-01-27**|**LLM-attacker: Enhancing Closed-loop Adversarial Scenario Generation for Autonomous Driving with Large Language Models**|Yuewen Mei et.al.|[2501.15850](http://arxiv.org/abs/2501.15850)|null|
+|**2025-01-27**|**Adaptive AI-based Decentralized Resource Management in the Cloud-Edge Continuum**|Lanpei Li et.al.|[2501.15802](http://arxiv.org/abs/2501.15802)|null|
+|**2025-01-27**|**Harnessing Diverse Perspectives: A Multi-Agent Framework for Enhanced Error Detection in Knowledge Graphs**|Yu Li et.al.|[2501.15791](http://arxiv.org/abs/2501.15791)|**[link](https://github.com/kse-eleven/makged)**|
+|**2025-01-27**|**Prioritized Value-Decomposition Network for Explainable AI-Enabled Network Slicing**|Shavbo Salehi et.al.|[2501.15734](http://arxiv.org/abs/2501.15734)|null|
+|**2025-01-26**|**An Empirical Study on Decision-Making Aspects in Responsible Software Engineering for AI**|Lekshmi Murali Rani et.al.|[2501.15691](http://arxiv.org/abs/2501.15691)|null|
+|**2025-01-26**|**A Comprehensive Survey on Self-Interpretable Neural Networks**|Yang Ji et.al.|[2501.15638](http://arxiv.org/abs/2501.15638)|**[link](https://github.com/yangji721/awesome-self-interpretable-neural-network)**|
+|**2025-01-26**|**Be Intentional About Fairness!: Fairness, Size, and Multiplicity in the Rashomon Set**|Gordon Dai et.al.|[2501.15634](http://arxiv.org/abs/2501.15634)|null|
+|**2025-01-26**|**Engage and Mobilize! Understanding Evolving Patterns of Social Media Usage in Emergency Management**|Hemant Purohit et.al.|[2501.15608](http://arxiv.org/abs/2501.15608)|null|
+|**2025-01-26**|**Diffusion-Based Planning for Autonomous Driving with Flexible Guidance**|Yinan Zheng et.al.|[2501.15564](http://arxiv.org/abs/2501.15564)|null|
+|**2025-01-26**|**Preventing Household Bankruptcy: The One-Third Rule in Financial Planning with Mathematical Validation and Game-Theoretic Insights**|Aditi Godbole et.al.|[2501.15557](http://arxiv.org/abs/2501.15557)|null|
+|**2025-01-26**|**UNIDOOR: A Universal Framework for Action-Level Backdoor Attacks in Deep Reinforcement Learning**|Oubo Ma et.al.|[2501.15529](http://arxiv.org/abs/2501.15529)|**[link](https://github.com/maoubo/unidoor)**|
+|**2025-01-26**|**A general, flexible and harmonious framework to construct interpretable functions in regression analysis**|Tianyu Zhan et.al.|[2501.15526](http://arxiv.org/abs/2501.15526)|null|
 |**2025-01-24**|**HERMES: A Unified Self-Driving World Model for Simultaneous 3D Scene Understanding and Generation**|Xin Zhou et.al.|[2501.14729](http://arxiv.org/abs/2501.14729)|**[link](https://github.com/lmd0311/hermes)**|
 |**2025-01-24**|**Decision-Focused Learning for Complex System Identification: HVAC Management System Application**|Pietro Favaro et.al.|[2501.14708](http://arxiv.org/abs/2501.14708)|null|
 |**2025-01-24**|**Approach to Designing CV Systems for Medical Applications: Data, Architecture and AI**|Dmitry Ryabtsev et.al.|[2501.14689](http://arxiv.org/abs/2501.14689)|null|
