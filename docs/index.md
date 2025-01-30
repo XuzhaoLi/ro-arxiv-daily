@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -491,7 +491,7 @@ layout: default
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
-|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|null|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|**[link](https://github.com/upunaprosk/histoires-morales)**|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
 |**2025-01-28**|**COS(M+O)S: Curiosity and RL-Enhanced MCTS for Exploring Story Space via Language Models**|Tobias Materzok et.al.|[2501.17104](http://arxiv.org/abs/2501.17104)|null|

@@ -1,4 +1,4 @@
-## Updated on 2025.01.29
+## Updated on 2025.01.30
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -487,7 +487,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -498,7 +498,7 @@
 |**2025-01-28**|**FactCG: Enhancing Fact Checkers with Graph-Based Multi-Hop Data**|Deren Lei et.al.|[2501.17144](http://arxiv.org/abs/2501.17144)|**[link](https://github.com/derenlei/factcg)**|
 |**2025-01-28**|**ASTRAL: Automated Safety Testing of Large Language Models**|Miriam Ugarte et.al.|[2501.17132](http://arxiv.org/abs/2501.17132)|null|
 |**2025-01-28**|**Scenario Understanding of Traffic Scenes Through Large Visual Language Models**|Rivera Esteban et.al.|[2501.17131](http://arxiv.org/abs/2501.17131)|null|
-|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|null|
+|**2025-01-28**|**Histoires Morales: A French Dataset for Assessing Moral Alignment**|Thibaud Leteno et.al.|[2501.17117](http://arxiv.org/abs/2501.17117)|**[link](https://github.com/upunaprosk/histoires-morales)**|
 |**2025-01-28**|**Optimizing Large Language Model Training Using FP4 Quantization**|Ruizhe Wang et.al.|[2501.17116](http://arxiv.org/abs/2501.17116)|null|
 |**2025-01-28**|**Unlocking Transparent Alignment Through Enhanced Inverse Constitutional AI for Principle Extraction**|Carl-Leander Henneking et.al.|[2501.17112](http://arxiv.org/abs/2501.17112)|null|
 |**2025-01-28**|**COS(M+O)S: Curiosity and RL-Enhanced MCTS for Exploring Story Space via Language Models**|Tobias Materzok et.al.|[2501.17104](http://arxiv.org/abs/2501.17104)|null|
@@ -5116,7 +5116,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -9202,5 +9202,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250129>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250130>back to top</a>)</p>
 
