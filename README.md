@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680](http://arxiv.org/abs/2502.02680)|null|
 |**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|null|
 |**2025-02-03**|**Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements**|Zheng Xing et.al.|[2502.01280](http://arxiv.org/abs/2502.01280)|null|
 |**2025-02-04**|**Minimum Riesz s-Energy Subset Selection in Ordered Point Sets via Dynamic Programming**|Michael Emmerich et.al.|[2502.01163](http://arxiv.org/abs/2502.01163)|null|
@@ -20,7 +21,7 @@
 |**2025-02-01**|**Left-Deep Join Order Selection with Higher-Order Unconstrained Binary Optimization on Quantum Computers**|Valter Uotila et.al.|[2502.00362](http://arxiv.org/abs/2502.00362)|null|
 |**2025-01-31**|**Epi-Consistent Approximation of Stochastic Dynamic Programs**|Dominic S. T. Keehan et.al.|[2501.19028](http://arxiv.org/abs/2501.19028)|null|
 |**2025-01-30**|**Model-Adaptive Approach to Dynamic Discrete Choice Models with Large State Spaces**|Ertian Chen et.al.|[2501.18746](http://arxiv.org/abs/2501.18746)|null|
-|**2025-01-30**|**Solving Drone Routing Problems with Quantum Computing: A Hybrid Approach Combining Quantum Annealing and Gate-Based Paradigms**|Eneko Osaba et.al.|[2501.18432](http://arxiv.org/abs/2501.18432)|null|
+|**2025-02-05**|**Solving Drone Routing Problems with Quantum Computing: A Hybrid Approach Combining Quantum Annealing and Gate-Based Paradigms**|Eneko Osaba et.al.|[2501.18432](http://arxiv.org/abs/2501.18432)|null|
 |**2025-01-29**|**Stochastic scattering control of spider diffusion governed by an optimal diffraction probability measure selected from its own local-time**|Isaac Ohavi et.al.|[2501.18057](http://arxiv.org/abs/2501.18057)|null|
 |**2025-01-15**|**Low-Thrust Many-Revolution Trajectory Design Under Operational Uncertainties for DESTINY+ Mission**|Naoya Ozaki et.al.|[2501.17867](http://arxiv.org/abs/2501.17867)|null|
 |**2025-01-27**|**On characterizing optimal learning trajectories in a class of learning problems**|Getachew K Befekadu et.al.|[2501.16521](http://arxiv.org/abs/2501.16521)|null|
@@ -505,6 +506,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
+|**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
+|**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
+|**2025-02-05**|**A Schema-Guided Reason-while-Retrieve framework for Reasoning on Scene Graphs with Large-Language-Models (LLMs)**|Yiye Chen et.al.|[2502.03450](http://arxiv.org/abs/2502.03450)|null|
+|**2025-02-05**|**BFS-Prover: Scalable Best-First Tree Search for LLM-based Automatic Theorem Proving**|Ran Xin et.al.|[2502.03438](http://arxiv.org/abs/2502.03438)|null|
+|**2025-02-05**|**On Fairness of Unified Multimodal Large Language Model for Image Generation**|Ming Liu et.al.|[2502.03429](http://arxiv.org/abs/2502.03429)|null|
+|**2025-02-05**|**Harnessing Large Language Models for Curated Code Reviews**|Oussama Ben Sghaier et.al.|[2502.03425](http://arxiv.org/abs/2502.03425)|null|
+|**2025-02-05**|**Think or Step-by-Step? UnZIPping the Black Box in Zero-Shot Prompts**|Nikta Gohari Sadr et.al.|[2502.03418](http://arxiv.org/abs/2502.03418)|null|
+|**2025-02-05**|**SPRI: Aligning Large Language Models with Context-Situated Principles**|Hongli Zhan et.al.|[2502.03397](http://arxiv.org/abs/2502.03397)|null|
+|**2025-02-05**|**Benchmarking Time Series Forecasting Models: From Statistical Techniques to Foundation Models in Real-World Applications**|Issar Arab et.al.|[2502.03395](http://arxiv.org/abs/2502.03395)|null|
+|**2025-02-05**|**LIMO: Less is More for Reasoning**|Yixin Ye et.al.|[2502.03387](http://arxiv.org/abs/2502.03387)|null|
+|**2025-02-05**|**Transformers and Their Roles as Time Series Foundation Models**|Dennis Wu et.al.|[2502.03383](http://arxiv.org/abs/2502.03383)|null|
+|**2025-02-05**|**High-Fidelity Simultaneous Speech-To-Speech Translation**|Tom Labiausse et.al.|[2502.03382](http://arxiv.org/abs/2502.03382)|null|
+|**2025-02-05**|**Demystifying Long Chain-of-Thought Reasoning in LLMs**|Edward Yeo et.al.|[2502.03373](http://arxiv.org/abs/2502.03373)|null|
+|**2025-02-05**|**PalimpChat: Declarative and Interactive AI analytics**|Chunwei Liu et.al.|[2502.03368](http://arxiv.org/abs/2502.03368)|null|
+|**2025-02-05**|**Minerva: A Programmable Memory Test Benchmark for Language Models**|Menglin Xia et.al.|[2502.03358](http://arxiv.org/abs/2502.03358)|null|
+|**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333](http://arxiv.org/abs/2502.03333)|null|
+|**2025-02-05**|**ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model**|Qiguang Chen et.al.|[2502.03325](http://arxiv.org/abs/2502.03325)|null|
+|**2025-02-05**|**Out-of-Distribution Detection using Synthetic Data Generation**|Momin Abbas et.al.|[2502.03323](http://arxiv.org/abs/2502.03323)|null|
+|**2025-02-05**|**Simplifying Formal Proof-Generating Models with ChatGPT and Basic Searching Techniques**|Sangjun Han et.al.|[2502.03321](http://arxiv.org/abs/2502.03321)|null|
 |**2025-02-04**|**Articulate AnyMesh: Open-Vocabulary 3D Articulated Objects Modeling**|Xiaowen Qiu et.al.|[2502.02590](http://arxiv.org/abs/2502.02590)|null|
 |**2025-02-04**|**COCONut-PanCap: Joint Panoptic Segmentation and Grounded Captions for Fine-Grained Understanding and Generation**|Xueqing Deng et.al.|[2502.02589](http://arxiv.org/abs/2502.02589)|null|
 |**2025-02-04**|**A comparison of translation performance between DeepL and Supertext**|Alex Flückiger et.al.|[2502.02577](http://arxiv.org/abs/2502.02577)|null|
@@ -5214,6 +5235,22 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Investigating Corporate Social Responsibility Initiatives: Examining the case of corporate Covid-19 response**|Meheli Basu et.al.|[2502.03421](http://arxiv.org/abs/2502.03421)|null|
+|**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393](http://arxiv.org/abs/2502.03393)|null|
+|**2025-02-05**|**A Structured Reasoning Framework for Unbalanced Data Classification Using Probabilistic Models**|Junliang Du et.al.|[2502.03386](http://arxiv.org/abs/2502.03386)|null|
+|**2025-02-05**|**Robust Autonomy Emerges from Self-Play**|Marco Cusumano-Towner et.al.|[2502.03349](http://arxiv.org/abs/2502.03349)|null|
+|**2025-02-05**|**Actions Speak Louder Than Words: Rate-Reward Trade-off in Markov Decision Processes**|Haotian Wu et.al.|[2502.03335](http://arxiv.org/abs/2502.03335)|null|
+|**2025-02-05**|**A Scalable Approach to Probabilistic Neuro-Symbolic Verification**|Vasileios Manginas et.al.|[2502.03274](http://arxiv.org/abs/2502.03274)|null|
+|**2025-02-05**|**Cooperation, satisfaction, and rationality in social games on complex networks with aspiration-driven players**|M. Aguilar-Janita et.al.|[2502.03109](http://arxiv.org/abs/2502.03109)|null|
+|**2025-02-05**|**Driver Assistance System Based on Multimodal Data Hazard Detection**|Long Zhouxiang et.al.|[2502.03005](http://arxiv.org/abs/2502.03005)|null|
+|**2025-02-05**|**Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator**|Wei-Bin Kou et.al.|[2502.02972](http://arxiv.org/abs/2502.02972)|null|
+|**2025-02-05**|**ScholaWrite: A Dataset of End-to-End Scholarly Writing Process**|Linghe Wang et.al.|[2502.02904](http://arxiv.org/abs/2502.02904)|null|
+|**2025-02-05**|**Data-driven Causal Discovery for Pedestrians-Autonomous Personal Mobility Vehicle Interactions with eHMIs: From Psychological States to Walking Behaviors**|Hailong Liu et.al.|[2502.02805](http://arxiv.org/abs/2502.02805)|null|
+|**2025-02-05**|**Early Stopping in Contextual Bandits and Inferences**|Zihan Cui et.al.|[2502.02793](http://arxiv.org/abs/2502.02793)|null|
+|**2025-02-04**|**Runway capacity expansion planning for public airports under demand uncertainty**|Ziyue Li et.al.|[2502.02783](http://arxiv.org/abs/2502.02783)|null|
+|**2025-02-04**|**SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs**|Hitvarth Diwanji et.al.|[2502.02773](http://arxiv.org/abs/2502.02773)|null|
+|**2025-02-04**|**How Inclusively do LMs Perceive Social and Moral Norms?**|Michael Galarnyk et.al.|[2502.02696](http://arxiv.org/abs/2502.02696)|null|
+|**2025-02-04**|**Intelligent Sensing-to-Action for Robust Autonomy at the Edge: Opportunities and Challenges**|Amit Ranjan Trivedi et.al.|[2502.02692](http://arxiv.org/abs/2502.02692)|null|
 |**2025-02-04**|**QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search**|Zongyu Lin et.al.|[2502.02584](http://arxiv.org/abs/2502.02584)|null|
 |**2025-02-04**|**Fairness in Survival Analysis: A Novel Conditional Mutual Information Augmentation Approach**|Tianyang Xie et.al.|[2502.02567](http://arxiv.org/abs/2502.02567)|null|
 |**2025-02-04**|**Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents**|Shayan Kiyani et.al.|[2502.02561](http://arxiv.org/abs/2502.02561)|null|
