@@ -7,7 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680](http://arxiv.org/abs/2502.02680)|null|
+|**2025-02-06**|**On the Number of Control Nodes in Boolean Networks with Degree Constraints**|Liangjie Sun et.al.|[2502.03839](http://arxiv.org/abs/2502.03839)|null|
+|**2025-02-06**|**Iterate to Accelerate: A Unified Framework for Iterative Reasoning and Feedback Convergence**|Jacob Fein-Ashley et.al.|[2502.03787](http://arxiv.org/abs/2502.03787)|null|
+|**2025-02-06**|**Cascaded Learned Bloom Filter for Optimal Model-Filter Size Balance and Fast Rejection**|Atsuki Sato et.al.|[2502.03696](http://arxiv.org/abs/2502.03696)|null|
+|**2025-02-06**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680](http://arxiv.org/abs/2502.02680)|null|
 |**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|null|
 |**2025-02-03**|**Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements**|Zheng Xing et.al.|[2502.01280](http://arxiv.org/abs/2502.01280)|null|
 |**2025-02-04**|**Minimum Riesz s-Energy Subset Selection in Ordered Point Sets via Dynamic Programming**|Michael Emmerich et.al.|[2502.01163](http://arxiv.org/abs/2502.01163)|null|
@@ -19,7 +22,7 @@ layout: default
 |**2025-02-05**|**Solving Drone Routing Problems with Quantum Computing: A Hybrid Approach Combining Quantum Annealing and Gate-Based Paradigms**|Eneko Osaba et.al.|[2501.18432](http://arxiv.org/abs/2501.18432)|null|
 |**2025-01-29**|**Stochastic scattering control of spider diffusion governed by an optimal diffraction probability measure selected from its own local-time**|Isaac Ohavi et.al.|[2501.18057](http://arxiv.org/abs/2501.18057)|null|
 |**2025-01-15**|**Low-Thrust Many-Revolution Trajectory Design Under Operational Uncertainties for DESTINY+ Mission**|Naoya Ozaki et.al.|[2501.17867](http://arxiv.org/abs/2501.17867)|null|
-|**2025-01-27**|**On characterizing optimal learning trajectories in a class of learning problems**|Getachew K Befekadu et.al.|[2501.16521](http://arxiv.org/abs/2501.16521)|null|
+|**2025-02-06**|**On characterizing optimal learning trajectories in a class of learning problems**|Getachew K Befekadu et.al.|[2501.16521](http://arxiv.org/abs/2501.16521)|null|
 |**2025-01-22**|**Modified Patankar Semi-Lagrangian Scheme for the Optimal Control of Production-Destruction systems**|Simone Cacace et.al.|[2501.13085](http://arxiv.org/abs/2501.13085)|null|
 |**2025-01-22**|**Optimizing Return Distributions with Distributional Dynamic Programming**|Bernardo Ávila Pires et.al.|[2501.13028](http://arxiv.org/abs/2501.13028)|null|
 |**2025-01-30**|**Pontryagin-Guided Deep Learning for Large-Scale Constrained Dynamic Portfolio Choice**|Jeonggyu Huh et.al.|[2501.12600](http://arxiv.org/abs/2501.12600)|null|
@@ -499,6 +502,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
+|**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
+|**2025-02-06**|**sshELF: Single-Shot Hierarchical Extrapolation of Latent Features for 3D Reconstruction from Sparse-Views**|Eyvaz Najafli et.al.|[2502.04318](http://arxiv.org/abs/2502.04318)|null|
+|**2025-02-06**|**ChamaleonLLM: Batch-Aware Dynamic Low-Rank Adaptation via Inference-Time Clusters**|Kamer Ali Yuksel et.al.|[2502.04315](http://arxiv.org/abs/2502.04315)|null|
+|**2025-02-06**|**Great Models Think Alike and this Undermines AI Oversight**|Shashwat Goel et.al.|[2502.04313](http://arxiv.org/abs/2502.04313)|**[link](https://github.com/model-similarity/lm-similarity/tree/main/applications)**|
+|**2025-02-06**|**ScoreFlow: Mastering LLM Agent Workflows via Score-based Preference Optimization**|Yinjie Wang et.al.|[2502.04306](http://arxiv.org/abs/2502.04306)|null|
+|**2025-02-06**|**Beyond Prompt Content: Enhancing LLM Performance via Content-Format Integrated Prompt Optimization**|Yuanye Liu et.al.|[2502.04295](http://arxiv.org/abs/2502.04295)|null|
+|**2025-02-06**|**PILAF: Optimal Human Preference Sampling for Reward Modeling**|Yunzhen Feng et.al.|[2502.04270](http://arxiv.org/abs/2502.04270)|null|
+|**2025-02-06**|**How does a Multilingual LM Handle Multiple Languages?**|Santhosh Kakarla et.al.|[2502.04269](http://arxiv.org/abs/2502.04269)|null|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
+|**2025-02-06**|**Efficient Randomized Experiments Using Foundation Models**|Piersilvio De Bartolomeis et.al.|[2502.04262](http://arxiv.org/abs/2502.04262)|**[link](https://github.com/jaabmar/HAIPW)**|
+|**2025-02-06**|**MAGA: MAssive Genre-Audience Reformulation to Pretraining Corpus Expansion**|Xintong Hao et.al.|[2502.04235](http://arxiv.org/abs/2502.04235)|null|
+|**2025-02-06**|**Can LLMs Hack Enterprise Networks? Autonomous Assumed Breach Penetration-Testing Active Directory Networks**|Andreas Happe et.al.|[2502.04227](http://arxiv.org/abs/2502.04227)|null|
+|**2025-02-06**|**Keep It Light! Simplifying Image Clustering Via Text-Free Adapters**|Yicen Li et.al.|[2502.04226](http://arxiv.org/abs/2502.04226)|null|
+|**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
+|**2025-02-06**|**Sports and Women's Sports: Gender Bias in Text Generation with Olympic Data**|Laura Biester et.al.|[2502.04218](http://arxiv.org/abs/2502.04218)|null|
+|**2025-02-06**|**Algorithmic causal structure emerging through compression**|Liang Wendong et.al.|[2502.04210](http://arxiv.org/abs/2502.04210)|null|
+|**2025-02-06**|**"Short-length" Adversarial Training Helps LLMs Defend "Long-length" Jailbreak Attacks: Theoretical and Empirical Evidence**|Shaopeng Fu et.al.|[2502.04204](http://arxiv.org/abs/2502.04204)|null|
+|**2025-02-06**|**The Best Instruction-Tuning Data are Those That Fit**|Dylan Zhang et.al.|[2502.04194](http://arxiv.org/abs/2502.04194)|null|
 |**2025-02-05**|**Do Large Language Model Benchmarks Test Reliability?**|Joshua Vendrow et.al.|[2502.03461](http://arxiv.org/abs/2502.03461)|null|
 |**2025-02-05**|**Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training**|Boyao Wang et.al.|[2502.03460](http://arxiv.org/abs/2502.03460)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
@@ -5226,6 +5249,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
+|**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
+|**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[2502.04201](http://arxiv.org/abs/2502.04201)|null|
+|**2025-02-06**|**Strategic Learning with Local Explanations as Feedback**|Kiet Q. H. Vo et.al.|[2502.04058](http://arxiv.org/abs/2502.04058)|null|
+|**2025-02-06**|**Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components**|Jagabandhu Mishraa et.al.|[2502.04049](http://arxiv.org/abs/2502.04049)|null|
+|**2025-02-06**|**Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners**|Klara Borowa et.al.|[2502.04011](http://arxiv.org/abs/2502.04011)|null|
+|**2025-02-06**|**A Self-supervised Multimodal Deep Learning Approach to Differentiate Post-radiotherapy Progression from Pseudoprogression in Glioblastoma**|Ahmed Gomaa et.al.|[2502.03999](http://arxiv.org/abs/2502.03999)|null|
+|**2025-02-06**|**Bilevel Multi-Armed Bandit-Based Hierarchical Reinforcement Learning for Interaction-Aware Self-Driving at Unsignalized Intersections**|Zengqi Peng et.al.|[2502.03960](http://arxiv.org/abs/2502.03960)|null|
+|**2025-02-06**|**Fairness Aware Reinforcement Learning via Proximal Policy Optimization**|Gabriele La Malfa et.al.|[2502.03953](http://arxiv.org/abs/2502.03953)|null|
+|**2025-02-06**|**Rule-Based Modeling of Low-Dimensional Data with PCA and Binary Particle Swarm Optimization (BPSO) in ANFIS**|Afnan Al-Ali et.al.|[2502.03895](http://arxiv.org/abs/2502.03895)|null|
+|**2025-02-06**|**Advanced Object Detection and Pose Estimation with Hybrid Task Cascade and High-Resolution Networks**|Yuhui Jin et.al.|[2502.03877](http://arxiv.org/abs/2502.03877)|null|
+|**2025-02-06**|**PAGNet: Pluggable Adaptive Generative Networks for Information Completion in Multi-Agent Communication**|Zhuohui Zhang et.al.|[2502.03845](http://arxiv.org/abs/2502.03845)|null|
+|**2025-02-06**|**Optimized Unet with Attention Mechanism for Multi-Scale Semantic Segmentation**|Xuan Li et.al.|[2502.03813](http://arxiv.org/abs/2502.03813)|null|
+|**2025-02-06**|**PRISM: A Robust Framework for Skill-based Meta-Reinforcement Learning with Noisy Demonstrations**|Sanghyeon Lee et.al.|[2502.03752](http://arxiv.org/abs/2502.03752)|null|
+|**2025-02-06**|**More Modality, More AI: Exploring Design Opportunities of AI-Based Multi-modal Remote Monitoring Technologies for Early Detection of Mental Health Sequelae in Youth Concussion Patients**|Bingsheng Yao et.al.|[2502.03732](http://arxiv.org/abs/2502.03732)|null|
+|**2025-02-06**|**Reduce Lap Time for Autonomous Racing with Curvature-Integrated MPCC Local Trajectory Planning Method**|Zhouheng Li et.al.|[2502.03695](http://arxiv.org/abs/2502.03695)|null|
+|**2025-02-05**|**Vehicle Routing Problems in the Age of Semi-Autonomous Driving**|Hins Hu et.al.|[2502.03655](http://arxiv.org/abs/2502.03655)|null|
 |**2025-02-05**|**Investigating Corporate Social Responsibility Initiatives: Examining the case of corporate Covid-19 response**|Meheli Basu et.al.|[2502.03421](http://arxiv.org/abs/2502.03421)|null|
 |**2025-02-05**|**CAPE: Covariate-Adjusted Pre-Training for Epidemic Time Series Forecasting**|Zewen Liu et.al.|[2502.03393](http://arxiv.org/abs/2502.03393)|null|
 |**2025-02-05**|**A Structured Reasoning Framework for Unbalanced Data Classification Using Probabilistic Models**|Junliang Du et.al.|[2502.03386](http://arxiv.org/abs/2502.03386)|null|
