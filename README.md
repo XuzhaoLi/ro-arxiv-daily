@@ -16,7 +16,7 @@
 |**2025-02-06**|**Iterate to Accelerate: A Unified Framework for Iterative Reasoning and Feedback Convergence**|Jacob Fein-Ashley et.al.|[2502.03787](http://arxiv.org/abs/2502.03787)|null|
 |**2025-02-06**|**Cascaded Learned Bloom Filter for Optimal Model-Filter Size Balance and Fast Rejection**|Atsuki Sato et.al.|[2502.03696](http://arxiv.org/abs/2502.03696)|null|
 |**2025-02-06**|**Improving polynomial bounds for the Graphical Traveling Salesman Problem with release dates on paths**|Thailsson Clementino et.al.|[2502.02680](http://arxiv.org/abs/2502.02680)|null|
-|**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|null|
+|**2025-02-04**|**Optimal Routing in the Presence of Hooks: Three Case Studies**|Tarun Chitra et.al.|[2502.02059](http://arxiv.org/abs/2502.02059)|**[link](https://github.com/kkulk/hooks)**|
 |**2025-02-03**|**Trajectory Map-Matching in Urban Road Networks Based on RSS Measurements**|Zheng Xing et.al.|[2502.01280](http://arxiv.org/abs/2502.01280)|null|
 |**2025-02-04**|**Minimum Riesz s-Energy Subset Selection in Ordered Point Sets via Dynamic Programming**|Michael Emmerich et.al.|[2502.01163](http://arxiv.org/abs/2502.01163)|null|
 |**2025-02-01**|**Model-Free Predictive Control: Introductory Algebraic Calculations, and a Comparison with HEOL and ANNs**|Cédric Join et.al.|[2502.00443](http://arxiv.org/abs/2502.00443)|null|
