@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Stochastic internal habit formation and optimality**|Michele Aleandri et.al.|[2502.05081](http://arxiv.org/abs/2502.05081)|null|
+|**2025-02-07**|**Preference-aware compensation policies for crowdsourced on-demand services**|Georgina Nouli et.al.|[2502.05060](http://arxiv.org/abs/2502.05060)|null|
+|**2025-02-07**|**A non-zero-sum game with reinforcement learning under mean-variance framework**|Junyi Guo et.al.|[2502.04788](http://arxiv.org/abs/2502.04788)|null|
+|**2025-02-06**|**Unifying and Optimizing Data Values for Selection via Sequential-Decision-Making**|Hongliang Chi et.al.|[2502.04554](http://arxiv.org/abs/2502.04554)|null|
+|**2025-02-06**|**Solvability of Approximate Reach-Avoid Games**|Mario Gleirscher et.al.|[2502.04544](http://arxiv.org/abs/2502.04544)|null|
 |**2025-02-06**|**On the Number of Control Nodes in Boolean Networks with Degree Constraints**|Liangjie Sun et.al.|[2502.03839](http://arxiv.org/abs/2502.03839)|null|
 |**2025-02-06**|**Iterate to Accelerate: A Unified Framework for Iterative Reasoning and Feedback Convergence**|Jacob Fein-Ashley et.al.|[2502.03787](http://arxiv.org/abs/2502.03787)|null|
 |**2025-02-06**|**Cascaded Learned Bloom Filter for Optimal Model-Filter Size Balance and Fast Rejection**|Atsuki Sato et.al.|[2502.03696](http://arxiv.org/abs/2502.03696)|null|
@@ -502,6 +507,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
+|**2025-02-07**|**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach**|Jonas Geiping et.al.|[2502.05171](http://arxiv.org/abs/2502.05171)|null|
+|**2025-02-07**|**NoLiMa: Long-Context Evaluation Beyond Literal Matching**|Ali Modarressi et.al.|[2502.05167](http://arxiv.org/abs/2502.05167)|null|
+|**2025-02-07**|**Multitwine: Multi-Object Compositing with Text and Layout Control**|Gemma Canet Tarrés et.al.|[2502.05165](http://arxiv.org/abs/2502.05165)|null|
+|**2025-02-07**|**DuoGuard: A Two-Player RL-Driven Framework for Multilingual LLM Guardrails**|Yihe Deng et.al.|[2502.05163](http://arxiv.org/abs/2502.05163)|null|
+|**2025-02-07**|**A Lightweight Method to Disrupt Memorized Sequences in LLM**|Parjanya Prajakta Prashant et.al.|[2502.05159](http://arxiv.org/abs/2502.05159)|null|
+|**2025-02-07**|**Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation**|Steffen Eger et.al.|[2502.05151](http://arxiv.org/abs/2502.05151)|null|
+|**2025-02-07**|**CodeSCM: Causal Analysis for Multi-Modal Code Generation**|Mukur Gupta et.al.|[2502.05150](http://arxiv.org/abs/2502.05150)|null|
+|**2025-02-07**|**An Annotated Reading of 'The Singer of Tales' in the LLM Era**|Kush R. Varshney et.al.|[2502.05148](http://arxiv.org/abs/2502.05148)|null|
+|**2025-02-07**|**Chest X-ray Foundation Model with Global and Local Representations Integration**|Zefan Yang et.al.|[2502.05142](http://arxiv.org/abs/2502.05142)|null|
+|**2025-02-07**|**Refining Integration-by-Parts Reduction of Feynman Integrals with Machine Learning**|Matt von Hippel et.al.|[2502.05121](http://arxiv.org/abs/2502.05121)|null|
+|**2025-02-07**|**Flexible and Efficient Grammar-Constrained Decoding**|Kanghee Park et.al.|[2502.05111](http://arxiv.org/abs/2502.05111)|null|
+|**2025-02-07**|**Lost in Time: Clock and Calendar Understanding Challenges in Multimodal LLMs**|Rohit Saxena et.al.|[2502.05092](http://arxiv.org/abs/2502.05092)|null|
+|**2025-02-07**|**DCFormer: Efficient 3D Vision-Language Modeling with Decomposed Convolutions**|Gorkem Can Ates et.al.|[2502.05091](http://arxiv.org/abs/2502.05091)|null|
+|**2025-02-07**|**Mitigating Unintended Memorization with LoRA in Federated Learning for LLMs**|Thierry Bossy et.al.|[2502.05087](http://arxiv.org/abs/2502.05087)|null|
+|**2025-02-07**|**Causality can systematically address the monsters under the bench(marks)**|Felix Leeb et.al.|[2502.05085](http://arxiv.org/abs/2502.05085)|null|
+|**2025-02-07**|**ChallengeMe: An Adversarial Learning-enabled Text Summarization Framework**|Xiaoyu Deng et.al.|[2502.05084](http://arxiv.org/abs/2502.05084)|null|
+|**2025-02-07**|**Adaptive Graph of Thoughts: Test-Time Adaptive Reasoning Unifying Chain, Tree, and Graph Structures**|Tushar Pandey et.al.|[2502.05078](http://arxiv.org/abs/2502.05078)|null|
+|**2025-02-07**|**nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow**|Geliang Ouyang et.al.|[2502.05036](http://arxiv.org/abs/2502.05036)|null|
+|**2025-02-07**|**EnseSmells: Deep ensemble and programming language models for automated code smells detection**|Anh Ho et.al.|[2502.05012](http://arxiv.org/abs/2502.05012)|null|
 |**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
 |**2025-02-06**|**Speak Easy: Eliciting Harmful Jailbreaks from LLMs with Simple Interactions**|Yik Siu Chan et.al.|[2502.04322](http://arxiv.org/abs/2502.04322)|null|
 |**2025-02-06**|**ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features**|Alec Helbling et.al.|[2502.04320](http://arxiv.org/abs/2502.04320)|null|
@@ -5249,11 +5274,23 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Bridging Voting and Deliberation with Algorithms: Field Insights from vTaiwan and Kultur Komitee**|Joshua C. Yang et.al.|[2502.05017](http://arxiv.org/abs/2502.05017)|null|
+|**2025-02-07**|**Conformal Prediction for Electricity Price Forecasting in the Day-Ahead and Real-Time Balancing Market**|Ciaran O'Connor et.al.|[2502.04935](http://arxiv.org/abs/2502.04935)|null|
+|**2025-02-07**|**Mobile Network-specialized Large Language Models for 6G: Architectures, Innovations, Challenges, and Future Trends**|Abdelaali Chaoub et.al.|[2502.04933](http://arxiv.org/abs/2502.04933)|null|
+|**2025-02-07**|**Unified Approaches in Self-Supervised Event Stream Modeling: Progress and Prospects**|Levente Zólyomi et.al.|[2502.04899](http://arxiv.org/abs/2502.04899)|null|
+|**2025-02-07**|**Adaptive Learning-based Model Predictive Control Strategy for Drift Vehicles**|Bei Zhou et.al.|[2502.04696](http://arxiv.org/abs/2502.04696)|null|
+|**2025-02-07**|**Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization**|Zelai Xu et.al.|[2502.04686](http://arxiv.org/abs/2502.04686)|null|
+|**2025-02-07**|**Shifting Attention to You: Personalized Brain-Inspired AI Models**|Stephen Chong Zhao et.al.|[2502.04658](http://arxiv.org/abs/2502.04658)|null|
+|**2025-02-07**|**Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research**|Junde Wu et.al.|[2502.04644](http://arxiv.org/abs/2502.04644)|null|
+|**2025-02-06**|**Unifying and Optimizing Data Values for Selection via Sequential-Decision-Making**|Hongliang Chi et.al.|[2502.04554](http://arxiv.org/abs/2502.04554)|null|
+|**2025-02-06**|**Regulating Reality: Exploring Synthetic Media Through Multistakeholder AI Governance**|Claire R. Leibowicz et.al.|[2502.04526](http://arxiv.org/abs/2502.04526)|null|
+|**2025-02-06**|**KVTuner: Sensitivity-Aware Layer-wise Mixed Precision KV Cache Quantization for Efficient and Nearly Lossless LLM Inference**|Xing Li et.al.|[2502.04420](http://arxiv.org/abs/2502.04420)|null|
+|**2025-02-06**|**MedRAG: Enhancing Retrieval-augmented Generation with Knowledge Graph-Elicited Reasoning for Healthcare Copilot**|Xuejiao Zhao et.al.|[2502.04413](http://arxiv.org/abs/2502.04413)|null|
 |**2025-02-06**|**SMART: Advancing Scalable Map Priors for Driving Topology Reasoning**|Junjie Ye et.al.|[2502.04329](http://arxiv.org/abs/2502.04329)|null|
 |**2025-02-06**|**Free Energy Risk Metrics for Systemically Safe AI: Gatekeeping Multi-Agent Study**|Michael Walters et.al.|[2502.04249](http://arxiv.org/abs/2502.04249)|null|
 |**2025-02-06**|**Safeguarding connected autonomous vehicle communication: Protocols, intra- and inter-vehicular attacks and defenses**|Mohammed Aledhari et.al.|[2502.04201](http://arxiv.org/abs/2502.04201)|null|
 |**2025-02-06**|**Strategic Learning with Local Explanations as Feedback**|Kiet Q. H. Vo et.al.|[2502.04058](http://arxiv.org/abs/2502.04058)|null|
-|**2025-02-06**|**Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components**|Jagabandhu Mishraa et.al.|[2502.04049](http://arxiv.org/abs/2502.04049)|null|
+|**2025-02-07**|**Towards Explainable Spoofed Speech Attribution and Detection:a Probabilistic Approach for Characterizing Speech Synthesizer Components**|Jagabandhu Mishra et.al.|[2502.04049](http://arxiv.org/abs/2502.04049)|null|
 |**2025-02-06**|**Debiasing Architectural Decision-Making: An Experiment With Students and Practitioners**|Klara Borowa et.al.|[2502.04011](http://arxiv.org/abs/2502.04011)|null|
 |**2025-02-06**|**A Self-supervised Multimodal Deep Learning Approach to Differentiate Post-radiotherapy Progression from Pseudoprogression in Glioblastoma**|Ahmed Gomaa et.al.|[2502.03999](http://arxiv.org/abs/2502.03999)|null|
 |**2025-02-06**|**Bilevel Multi-Armed Bandit-Based Hierarchical Reinforcement Learning for Interaction-Aware Self-Driving at Unsignalized Intersections**|Zengqi Peng et.al.|[2502.03960](http://arxiv.org/abs/2502.03960)|null|
