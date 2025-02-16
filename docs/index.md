@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -5369,7 +5369,7 @@ layout: default
 |**2025-02-13**|**FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation**|Bin Yang et.al.|[2502.09274](http://arxiv.org/abs/2502.09274)|null|
 |**2025-02-13**|**GEVRM: Goal-Expressive Video Generation Model For Robust Visual Manipulation**|Hongyin Zhang et.al.|[2502.09268](http://arxiv.org/abs/2502.09268)|null|
 |**2025-02-13**|**Properties of Path-Independent Choice Correspondences and Their Applications to Efficient and Stable Matchings**|Keisuke Bando et.al.|[2502.09265](http://arxiv.org/abs/2502.09265)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|**[link](https://github.com/PJLab-ADG/LimSim)**|
 |**2025-02-13**|**Show Me the Work: Fact-Checkers' Requirements for Explainable Automated Fact-Checking**|Greta Warren et.al.|[2502.09083](http://arxiv.org/abs/2502.09083)|null|
 |**2025-02-13**|**The Datafication of Care in Public Homelessness Services**|Erina Seh-Young Moon et.al.|[2502.09043](http://arxiv.org/abs/2502.09043)|null|
 |**2025-02-13**|**Topo2Seq: Enhanced Topology Reasoning via Topology Sequence Learning**|Yiming Yang et.al.|[2502.08974](http://arxiv.org/abs/2502.08974)|null|
