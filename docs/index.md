@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**GPU Memory Usage Optimization for Backward Propagation in Deep Network Training**|Ding-Yong Hong et.al.|[2502.12499](http://arxiv.org/abs/2502.12499)|null|
 |**2025-02-17**|**Logarithmic Approximation for Road Pricing on Grids**|Andrei Constantinescu et.al.|[2502.11979](http://arxiv.org/abs/2502.11979)|null|
 |**2025-02-17**|**Proactive Depot Discovery: A Generative Framework for Flexible Location-Routing**|Site Qu et.al.|[2502.11715](http://arxiv.org/abs/2502.11715)|null|
 |**2025-02-16**|**The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing**|Avimita Chatterjee et.al.|[2502.11253](http://arxiv.org/abs/2502.11253)|null|
@@ -519,6 +520,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
+|**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
+|**2025-02-18**|**Pre-training Auto-regressive Robotic Models with 4D Representations**|Dantong Niu et.al.|[2502.13142](http://arxiv.org/abs/2502.13142)|null|
+|**2025-02-18**|**UniGuardian: A Unified Defense for Detecting Prompt Injection, Backdoor Attacks and Adversarial Attacks in Large Language Models**|Huawei Lin et.al.|[2502.13141](http://arxiv.org/abs/2502.13141)|null|
+|**2025-02-18**|**AIDE: AI-Driven Exploration in the Space of Code**|Zhengyao Jiang et.al.|[2502.13138](http://arxiv.org/abs/2502.13138)|null|
+|**2025-02-18**|**Theorem Prover as a Judge for Synthetic Data Generation**|Joshua Ong Jun Leang et.al.|[2502.13137](http://arxiv.org/abs/2502.13137)|null|
+|**2025-02-18**|**Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions**|Taedong Yun et.al.|[2502.13135](http://arxiv.org/abs/2502.13135)|null|
+|**2025-02-18**|**Learning to Defer for Causal Discovery with Imperfect Experts**|Oscar Clivio et.al.|[2502.13132](http://arxiv.org/abs/2502.13132)|null|
+|**2025-02-18**|**Rethinking Diverse Human Preference Learning through Principal Component Analysis**|Feng Luo et.al.|[2502.13131](http://arxiv.org/abs/2502.13131)|null|
+|**2025-02-18**|**Magma: A Foundation Model for Multimodal AI Agents**|Jianwei Yang et.al.|[2502.13130](http://arxiv.org/abs/2502.13130)|null|
+|**2025-02-18**|**Facilitating Long Context Understanding via Supervised Chain-of-Thought Reasoning**|Jingyang Lin et.al.|[2502.13127](http://arxiv.org/abs/2502.13127)|null|
+|**2025-02-18**|**RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises**|Zenan Zhai et.al.|[2502.13125](http://arxiv.org/abs/2502.13125)|null|
+|**2025-02-18**|**Adapting Psycholinguistic Research for LLMs: Gender-inclusive Language in a Coreference Context**|Marion Bartl et.al.|[2502.13120](http://arxiv.org/abs/2502.13120)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119](http://arxiv.org/abs/2502.13119)|null|
+|**2025-02-18**|**Performance Evaluation of Large Language Models in Statistical Programming**|Xinyi Song et.al.|[2502.13117](http://arxiv.org/abs/2502.13117)|null|
+|**2025-02-18**|**MatterChat: A Multi-Modal LLM for Material Science**|Yingheng Tang et.al.|[2502.13107](http://arxiv.org/abs/2502.13107)|null|
+|**2025-02-18**|**Understanding and Rectifying Safety Perception Distortion in VLMs**|Xiaohan Zou et.al.|[2502.13095](http://arxiv.org/abs/2502.13095)|null|
+|**2025-02-18**|**Text2World: Benchmarking Large Language Models for Symbolic World Model Generation**|Mengkang Hu et.al.|[2502.13092](http://arxiv.org/abs/2502.13092)|null|
+|**2025-02-18**|**KAPPA: A Generic Patent Analysis Framework with Keyphrase-Based Portraits**|Xin Xia et.al.|[2502.13076](http://arxiv.org/abs/2502.13076)|null|
+|**2025-02-18**|**Cramming 1568 Tokens into a Single Vector and Back Again: Exploring the Limits of Embedding Space Capacity**|Yuri Kuratov et.al.|[2502.13063](http://arxiv.org/abs/2502.13063)|null|
 |**2025-02-17**|**Idiosyncrasies in Large Language Models**|Mingjie Sun et.al.|[2502.12150](http://arxiv.org/abs/2502.12150)|null|
 |**2025-02-17**|**HermesFlow: Seamlessly Closing the Gap in Multimodal Understanding and Generation**|Ling Yang et.al.|[2502.12148](http://arxiv.org/abs/2502.12148)|null|
 |**2025-02-17**|**Fast or Better? Balancing Accuracy and Cost in Retrieval-Augmented Generation with Flexible User Control**|Jinyan Su et.al.|[2502.12145](http://arxiv.org/abs/2502.12145)|null|
@@ -5406,6 +5427,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**RAD: Training an End-to-End Driving Policy via Large-Scale 3DGS-based Reinforcement Learning**|Hao Gao et.al.|[2502.13144](http://arxiv.org/abs/2502.13144)|null|
+|**2025-02-18**|**STEER-ME: Assessing the Microeconomic Reasoning of Large Language Models**|Narun Raman et.al.|[2502.13119](http://arxiv.org/abs/2502.13119)|null|
+|**2025-02-18**|**Improving Clinical Question Answering with Multi-Task Learning: A Joint Approach for Answer Extraction and Medical Categorization**|Priyaranjan Pattnayak et.al.|[2502.13108](http://arxiv.org/abs/2502.13108)|null|
+|**2025-02-18**|**AI and the Transformation of Accountability and Discretion in Urban Governance**|Stephen Goldsmith et.al.|[2502.13101](http://arxiv.org/abs/2502.13101)|null|
+|**2025-02-18**|**AI-Assisted Decision Making with Human Learning**|Gali Noti et.al.|[2502.13062](http://arxiv.org/abs/2502.13062)|null|
+|**2025-02-18**|**AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks**|Yurun Chen et.al.|[2502.13053](http://arxiv.org/abs/2502.13053)|null|
+|**2025-02-18**|**Fragility-aware Classification for Understanding Risk and Improving Generalization**|Chen Yang et.al.|[2502.13024](http://arxiv.org/abs/2502.13024)|null|
+|**2025-02-18**|**Efficient and Sharp Off-Policy Learning under Unobserved Confounding**|Konstantin Hess et.al.|[2502.13022](http://arxiv.org/abs/2502.13022)|null|
+|**2025-02-18**|**Adaptive Tool Use in Large Language Models with Meta-Cognition Trigger**|Wenjun Li et.al.|[2502.12961](http://arxiv.org/abs/2502.12961)|null|
+|**2025-02-18**|**Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements**|Shu Yang et.al.|[2502.12904](http://arxiv.org/abs/2502.12904)|null|
+|**2025-02-18**|**MediaMind: Revolutionizing Media Monitoring using Agentification**|Ahmet Gunduz et.al.|[2502.12745](http://arxiv.org/abs/2502.12745)|null|
+|**2025-02-18**|**IPSR Model: Misinformation Intervention through Prebunking in Social Networks**|Robert Rai et.al.|[2502.12740](http://arxiv.org/abs/2502.12740)|null|
+|**2025-02-18**|**myEye2Wheeler: A Two-Wheeler Indian Driver Real-World Eye-Tracking Dataset**|Bhaiya Vaibhaw Kumar et.al.|[2502.12723](http://arxiv.org/abs/2502.12723)|null|
+|**2025-02-18**|**RadSplatter: Extending 3D Gaussian Splatting to Radio Frequencies for Wireless Radiomap Extrapolation**|Yiheng Wang et.al.|[2502.12686](http://arxiv.org/abs/2502.12686)|null|
+|**2025-02-18**|**Label Drop for Multi-Aspect Relation Modeling in Universal Information Extraction**|Lu Yang et.al.|[2502.12614](http://arxiv.org/abs/2502.12614)|**[link](https://github.com/Lu-Yang666/LDNet)**|
+|**2025-02-18**|**Hypernetwork-based approach for optimal composition design in partially controlled multi-agent systems**|Kyeonghyeon Park et.al.|[2502.12605](http://arxiv.org/abs/2502.12605)|null|
+|**2025-02-18**|**Seamless Graph Task Scheduling over Dynamic Vehicular Clouds: A Hybrid Methodology for Integrating Pilot and Instantaneous Decisions**|Bingshuo Guo et.al.|[2502.12557](http://arxiv.org/abs/2502.12557)|null|
+|**2025-02-18**|**Cohesive Subgraph Discovery in Hypergraphs: A Locality-Driven Indexing Framework**|Song Kim et.al.|[2502.12523](http://arxiv.org/abs/2502.12523)|null|
+|**2025-02-18**|**Should I Trust You? Detecting Deception in Negotiations using Counterfactual RL**|Wichayaporn Wongkamjan et.al.|[2502.12436](http://arxiv.org/abs/2502.12436)|null|
+|**2025-02-17**|**Detecting Systematic Weaknesses in Vision Models along Predefined Human-Understandable Dimensions**|Sujan Sai Gannamaneni et.al.|[2502.12360](http://arxiv.org/abs/2502.12360)|null|
 |**2025-02-17**|**Scaling Autonomous Agents via Automatic Reward Modeling And Planning**|Zhenfang Chen et.al.|[2502.12130](http://arxiv.org/abs/2502.12130)|null|
 |**2025-02-17**|**A-MEM: Agentic Memory for LLM Agents**|Wujiang Xu et.al.|[2502.12110](http://arxiv.org/abs/2502.12110)|null|
 |**2025-02-17**|**Bandwidth-Adaptive Spatiotemporal Correspondence Identification for Collaborative Perception**|Peng Gao et.al.|[2502.12098](http://arxiv.org/abs/2502.12098)|null|
