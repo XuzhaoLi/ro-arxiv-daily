@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**A Deterministic and Linear Model of Dynamic Optimization**|Somdeb Lahiri et.al.|[2502.17012](http://arxiv.org/abs/2502.17012)|null|
+|**2025-02-24**|**Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators**|Shixin Zhao et.al.|[2502.17006](http://arxiv.org/abs/2502.17006)|null|
+|**2025-02-23**|**Volume Optimality in Conformal Prediction with Structured Prediction Sets**|Chao Gao et.al.|[2502.16658](http://arxiv.org/abs/2502.16658)|null|
+|**2025-02-21**|**Near Optimal Decision Trees in a SPLIT Second**|Varun Babbar et.al.|[2502.15988](http://arxiv.org/abs/2502.15988)|null|
 |**2025-02-21**|**Zweistein: A Dynamic Programming Evaluation Function for Einstein Würfelt Nicht!**|Wei Lin. Hsueh et.al.|[2502.15547](http://arxiv.org/abs/2502.15547)|null|
 |**2025-02-21**|**Learning Maritime Inventory Routing Optimization**|Rui Chen et.al.|[2502.15244](http://arxiv.org/abs/2502.15244)|null|
 |**2025-02-19**|**Optimistically Optimistic Exploration for Provably Efficient Infinite-Horizon Reinforcement and Imitation Learning**|Antoine Moulin et.al.|[2502.13900](http://arxiv.org/abs/2502.13900)|null|
@@ -533,6 +537,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|null|
+|**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|null|
+|**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|null|
+|**2025-02-24**|**The Geometry of Refusal in Large Language Models: Concept Cones and Representational Independence**|Tom Wollschläger et.al.|[2502.17420](http://arxiv.org/abs/2502.17420)|null|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**Reasoning with Latent Thoughts: On the Power of Looped Transformers**|Nikunj Saunshi et.al.|[2502.17416](http://arxiv.org/abs/2502.17416)|null|
+|**2025-02-24**|**COSMOS: A Hybrid Adaptive Optimizer for Memory-Efficient Training of LLMs**|Liming Liu et.al.|[2502.17410](http://arxiv.org/abs/2502.17410)|null|
+|**2025-02-24**|**Large Language Models are Powerful EHR Encoders**|Stefan Hegselmann et.al.|[2502.17403](http://arxiv.org/abs/2502.17403)|null|
+|**2025-02-24**|**Big-Math: A Large-Scale, High-Quality Math Dataset for Reinforcement Learning in Language Models**|Alon Albalak et.al.|[2502.17387](http://arxiv.org/abs/2502.17387)|null|
+|**2025-02-24**|**Bridging Gaps in Natural Language Processing for Yorùbá: A Systematic Review of a Decade of Progress and Prospects**|Toheeb A. Jimoh et.al.|[2502.17364](http://arxiv.org/abs/2502.17364)|null|
+|**2025-02-24**|**A Closer Look at TabPFN v2: Strength, Limitation, and Extension**|Han-Jia Ye et.al.|[2502.17361](http://arxiv.org/abs/2502.17361)|null|
+|**2025-02-24**|**RELICT: A Replica Detection Framework for Medical Image Generation**|Orhun Utku Aydin et.al.|[2502.17360](http://arxiv.org/abs/2502.17360)|null|
+|**2025-02-24**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|null|
+|**2025-02-24**|**Distributional Scaling Laws for Emergent Capabilities**|Rosie Zhao et.al.|[2502.17356](http://arxiv.org/abs/2502.17356)|null|
+|**2025-02-24**|**On Relation-Specific Neurons in Large Language Models**|Yihong Liu et.al.|[2502.17355](http://arxiv.org/abs/2502.17355)|null|
+|**2025-02-24**|**How Scientists Use Large Language Models to Program**|Gabrielle O'Brien et.al.|[2502.17348](http://arxiv.org/abs/2502.17348)|null|
+|**2025-02-24**|**Time series forecasting based on optimized LLM for fault prediction in distribution power grid insulators**|João Pedro Matos-Carvalho et.al.|[2502.17341](http://arxiv.org/abs/2502.17341)|null|
+|**2025-02-24**|**Tokenized SAEs: Disentangling SAE Reconstructions**|Thomas Dooms et.al.|[2502.17332](http://arxiv.org/abs/2502.17332)|null|
+|**2025-02-24**|**HIPPO: Enhancing the Table Understanding Capability of Large Language Models through Hybrid-Modal Preference Optimization**|Zhenghao Liu et.al.|[2502.17315](http://arxiv.org/abs/2502.17315)|null|
+|**2025-02-24**|**`Generalization is hallucination' through the lens of tensor completions**|Liang Ze Wong et.al.|[2502.17305](http://arxiv.org/abs/2502.17305)|null|
 |**2025-02-21**|**ELIP: Enhanced Visual-Language Foundation Models for Image Retrieval**|Guanqi Zhan et.al.|[2502.15682](http://arxiv.org/abs/2502.15682)|null|
 |**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
 |**2025-02-21**|**BOSS: Benchmark for Observation Space Shift in Long-Horizon Task**|Yue Yang et.al.|[2502.15679](http://arxiv.org/abs/2502.15679)|null|
@@ -5502,6 +5526,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|null|
+|**2025-02-24**|**Bayesian Hierarchical Emulators for Multi-Level Models: BayHEm**|Louise Kimpton et.al.|[2502.17367](http://arxiv.org/abs/2502.17367)|null|
+|**2025-02-24**|**User-Centric Evaluation Methods for Digital Twin Applications in Extended Reality**|Francesco Vona et.al.|[2502.17346](http://arxiv.org/abs/2502.17346)|null|
+|**2025-02-24**|**GaussianFlowOcc: Sparse and Weakly Supervised Occupancy Estimation using Gaussian Splatting and Temporal Flow**|Simon Boeder et.al.|[2502.17288](http://arxiv.org/abs/2502.17288)|null|
+|**2025-02-24**|**CoT-UQ: Improving Response-wise Uncertainty Quantification in LLMs with Chain-of-Thought**|Boxuan Zhang et.al.|[2502.17214](http://arxiv.org/abs/2502.17214)|null|
+|**2025-02-24**|**AIRIS2 : a Smart Gateway Diversity Algorithm for Very High-Throughput Satellite Systems**|Justin Cano et.al.|[2502.17181](http://arxiv.org/abs/2502.17181)|null|
+|**2025-02-24**|**Generative Models in Decision Making: A Survey**|Yinchuan Li et.al.|[2502.17100](http://arxiv.org/abs/2502.17100)|null|
+|**2025-02-24**|**StochasticDominance.jl: A Julia Package for Higher Order Stochastic Dominance**|Rajmadan Lakshmanan et.al.|[2502.17043](http://arxiv.org/abs/2502.17043)|null|
+|**2025-02-24**|**Predicting Liquidity-Aware Bond Yields using Causal GANs and Deep Reinforcement Learning with LLM Evaluation**|Jaskaran Singh Walia et.al.|[2502.17011](http://arxiv.org/abs/2502.17011)|null|
+|**2025-02-24**|**MambaFlow: A Novel and Flow-guided State Space Model for Scene Flow Estimation**|Jiehao Luo et.al.|[2502.16907](http://arxiv.org/abs/2502.16907)|null|
+|**2025-02-24**|**A Multi-LLM-Agent-Based Framework for Economic and Public Policy Analysis**|Yuzhi Hao et.al.|[2502.16879](http://arxiv.org/abs/2502.16879)|null|
+|**2025-02-24**|**Toward Agentic AI: Generative Information Retrieval Inspired Intelligent Communications and Networking**|Ruichen Zhang et.al.|[2502.16866](http://arxiv.org/abs/2502.16866)|null|
+|**2025-02-24**|**A Novel Multi-Task Teacher-Student Architecture with Self-Supervised Pretraining for 48-Hour Vasoactive-Inotropic Trend Analysis in Sepsis Mortality Prediction**|Houji Jin et.al.|[2502.16834](http://arxiv.org/abs/2502.16834)|null|
+|**2025-02-24**|**Uncertainty Quantification of Large Language Models through Multi-Dimensional Responses**|Tiejin Chen et.al.|[2502.16820](http://arxiv.org/abs/2502.16820)|null|
+|**2025-02-24**|**Multi-Agent Autonomous Driving Systems with Large Language Models: A Survey of Recent Advances**|Yaozu Wu et.al.|[2502.16804](http://arxiv.org/abs/2502.16804)|null|
+|**2025-02-23**|**AUKT: Adaptive Uncertainty-Guided Knowledge Transfer with Conformal Prediction**|Rui Liu et.al.|[2502.16736](http://arxiv.org/abs/2502.16736)|null|
+|**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
+|**2025-02-23**|**DeepSeek reshaping healthcare in China's tertiary hospitals**|Jishizhan Chen et.al.|[2502.16732](http://arxiv.org/abs/2502.16732)|null|
+|**2025-02-23**|**From Text to Space: Mapping Abstract Spatial Models in LLMs during a Grid-World Navigation Task**|Nicolas Martorell et.al.|[2502.16690](http://arxiv.org/abs/2502.16690)|null|
+|**2025-02-23**|**Reasoning within and between collective action problems**|Ofer Tchernichovski et.al.|[2502.16677](http://arxiv.org/abs/2502.16677)|null|
 |**2025-02-21**|**VaViM and VaVAM: Autonomous Driving through Video Generative Modeling**|Florent Bartoccioni et.al.|[2502.15672](http://arxiv.org/abs/2502.15672)|**[link](https://github.com/valeoai/VideoActionModel)**|
 |**2025-02-21**|**Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis**|Ziqian Ni et.al.|[2502.15635](http://arxiv.org/abs/2502.15635)|null|
 |**2025-02-21**|**Chats-Grid: An Iterative Retrieval Q&A Optimization Scheme Leveraging Large Model and Retrieval Enhancement Generation in smart grid**|Yunfeng Li et.al.|[2502.15583](http://arxiv.org/abs/2502.15583)|null|
