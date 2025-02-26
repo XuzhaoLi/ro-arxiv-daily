@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Off-Policy Temporal Difference Learning for Perturbed Markov Decision Processes: Theoretical Insights and Extensive Simulations**|Ali Forootani et.al.|[2502.18415](http://arxiv.org/abs/2502.18415)|null|
+|**2025-02-25**|**Dynamic Factor Model-Based Multiperiod Mean-Variance Portfolio Selection with Portfolio Constraints**|Jianjun Gao et.al.|[2502.17915](http://arxiv.org/abs/2502.17915)|null|
 |**2025-02-24**|**A Deterministic and Linear Model of Dynamic Optimization**|Somdeb Lahiri et.al.|[2502.17012](http://arxiv.org/abs/2502.17012)|null|
 |**2025-02-24**|**Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators**|Shixin Zhao et.al.|[2502.17006](http://arxiv.org/abs/2502.17006)|null|
 |**2025-02-23**|**Volume Optimality in Conformal Prediction with Structured Prediction Sets**|Chao Gao et.al.|[2502.16658](http://arxiv.org/abs/2502.16658)|null|
@@ -537,6 +539,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**DRAMA: Diverse Augmentation from Large Language Models to Smaller Dense Retrievers**|Xueguang Ma et.al.|[2502.18460](http://arxiv.org/abs/2502.18460)|null|
+|**2025-02-25**|**LLM-Based Design Pattern Detection**|Christian Schindler et.al.|[2502.18458](http://arxiv.org/abs/2502.18458)|null|
+|**2025-02-25**|**Evaluating the Effectiveness of Small Language Models in Detecting Refactoring Bugs**|Rohit Gheyi et.al.|[2502.18454](http://arxiv.org/abs/2502.18454)|null|
+|**2025-02-25**|**FRIDA to the Rescue! Analyzing Synthetic Data Effectiveness in Object-Based Common Sense Reasoning for Disaster Response**|Mollie Shichman et.al.|[2502.18452](http://arxiv.org/abs/2502.18452)|null|
+|**2025-02-25**|**SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution**|Yuxiang Wei et.al.|[2502.18449](http://arxiv.org/abs/2502.18449)|null|
+|**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
+|**2025-02-25**|**MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning**|Chanwoo Park et.al.|[2502.18439](http://arxiv.org/abs/2502.18439)|null|
+|**2025-02-25**|**Reversal Blessing: Thinking Backward May Outpace Thinking Forward in Multi-choice Questions**|Yizhe Zhang et.al.|[2502.18435](http://arxiv.org/abs/2502.18435)|null|
+|**2025-02-25**|**Exploring Gender Disparities in Automatic Speech Recognition Technology**|Hend ElGhazaly et.al.|[2502.18434](http://arxiv.org/abs/2502.18434)|null|
+|**2025-02-25**|**TextGames: Learning to Self-Play Text-Based Puzzle Games via Language Model Reasoning**|Frederikus Hudi et.al.|[2502.18431](http://arxiv.org/abs/2502.18431)|null|
+|**2025-02-25**|**PyEvalAI: AI-assisted evaluation of Jupyter Notebooks for immediate personalized feedback**|Nils Wandel et.al.|[2502.18425](http://arxiv.org/abs/2502.18425)|null|
+|**2025-02-25**|**Compressing Language Models for Specialized Domains**|Miles Williams et.al.|[2502.18424](http://arxiv.org/abs/2502.18424)|null|
+|**2025-02-25**|**Rank1: Test-Time Compute for Reranking in Information Retrieval**|Orion Weller et.al.|[2502.18418](http://arxiv.org/abs/2502.18418)|null|
+|**2025-02-25**|**OmniAlign-V: Towards Enhanced Alignment of MLLMs with Human Preference**|Xiangyu Zhao et.al.|[2502.18411](http://arxiv.org/abs/2502.18411)|null|
+|**2025-02-25**|**Enhancing DNA Foundation Models to Address Masking Inefficiencies**|Monireh Safari et.al.|[2502.18405](http://arxiv.org/abs/2502.18405)|null|
+|**2025-02-25**|**Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods**|Nicola Cecere et.al.|[2502.18389](http://arxiv.org/abs/2502.18389)|null|
+|**2025-02-25**|**How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities**|Minhua Lin et.al.|[2502.18387](http://arxiv.org/abs/2502.18387)|null|
+|**2025-02-25**|**MindMem: Multimodal for Predicting Advertisement Memorability Using LLMs and Deep Learning**|Sepehr Asgarian et.al.|[2502.18371](http://arxiv.org/abs/2502.18371)|null|
+|**2025-02-25**|**Responsible AI Agents**|Deven R. Desai et.al.|[2502.18359](http://arxiv.org/abs/2502.18359)|null|
+|**2025-02-25**|**Which Contributions Deserve Credit? Perceptions of Attribution in Human-AI Co-Creation**|Jessica He et.al.|[2502.18357](http://arxiv.org/abs/2502.18357)|null|
 |**2025-02-24**|**Introducing Visual Perception Token into Multimodal Large Language Model**|Runpeng Yu et.al.|[2502.17425](http://arxiv.org/abs/2502.17425)|**[link](https://github.com/yu-rp/visualperceptiontoken)**|
 |**2025-02-24**|**MLLMs Know Where to Look: Training-free Perception of Small Visual Details with Multimodal LLMs**|Jiarui Zhang et.al.|[2502.17422](http://arxiv.org/abs/2502.17422)|**[link](https://github.com/saccharomycetes/mllms_know)**|
 |**2025-02-24**|**LongSpec: Long-Context Speculative Decoding with Efficient Drafting and Verification**|Penghui Yang et.al.|[2502.17421](http://arxiv.org/abs/2502.17421)|**[link](https://github.com/sail-sg/longspec)**|
@@ -5526,6 +5548,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**How Far are LLMs from Real Search? A Comprehensive Study on Efficiency, Completeness, and Inherent Capabilities**|Minhua Lin et.al.|[2502.18387](http://arxiv.org/abs/2502.18387)|null|
+|**2025-02-25**|**Semantic and Goal-oriented Wireless Network Coverage: The Area of Effectiveness**|Mattia Merluzzi et.al.|[2502.18381](http://arxiv.org/abs/2502.18381)|null|
+|**2025-02-25**|**Global-Decision-Focused Neural ODEs for Proactive Grid Resilience Management**|Shuyi Chen et.al.|[2502.18321](http://arxiv.org/abs/2502.18321)|null|
+|**2025-02-25**|**Uncertainty Modeling in Multimodal Speech Analysis Across the Psychosis Spectrum**|Morteza Rohanian et.al.|[2502.18285](http://arxiv.org/abs/2502.18285)|null|
+|**2025-02-25**|**Citrus: Leveraging Expert Cognitive Pathways in a Medical Language Model for Advanced Medical Decision Support**|Guoxin Wang et.al.|[2502.18274](http://arxiv.org/abs/2502.18274)|null|
+|**2025-02-25**|**The Electric Location-Routing Problem: Improved Formulations and Effects of Nonlinear Charging**|Luiz Eduardo Cotta Monteiro et.al.|[2502.18234](http://arxiv.org/abs/2502.18234)|null|
+|**2025-02-25**|**Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent**|Xiaofeng Wang et.al.|[2502.18228](http://arxiv.org/abs/2502.18228)|null|
+|**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
+|**2025-02-25**|**Exploring the Effects of Traditional Chinese Medicine Scents on Mitigating Driving Fatigue**|Nengyue Su et.al.|[2502.18013](http://arxiv.org/abs/2502.18013)|null|
+|**2025-02-25**|**Generalized Decision Focused Learning under Imprecise Uncertainty--Theoretical Study**|Keivan Shariatmadar et.al.|[2502.17984](http://arxiv.org/abs/2502.17984)|null|
+|**2025-02-25**|**XGBoost-Based Prediction of ICU Mortality in Sepsis-Associated Acute Kidney Injury Patients Using MIMIC-IV Database with Validation from eICU Database**|Shuheng Chen et.al.|[2502.17978](http://arxiv.org/abs/2502.17978)|null|
+|**2025-02-25**|**InVDriver: Intra-Instance Aware Vectorized Query-Based Autonomous Driving Transformer**|Bo Zhang et.al.|[2502.17949](http://arxiv.org/abs/2502.17949)|null|
+|**2025-02-25**|**DeepSeek-R1 Outperforms Gemini 2.0 Pro, OpenAI o1, and o3-mini in Bilingual Complex Ophthalmology Reasoning**|Pusheng Xu et.al.|[2502.17947](http://arxiv.org/abs/2502.17947)|null|
+|**2025-02-25**|**Assessing Large Language Models in Agentic Multilingual National Bias**|Qianying Liu et.al.|[2502.17945](http://arxiv.org/abs/2502.17945)|null|
+|**2025-02-25**|**Integrating Boosted learning with Differential Evolution (DE) Optimizer: A Prediction of Groundwater Quality Risk Assessment in Odisha**|Sonalika Subudhi et.al.|[2502.17929](http://arxiv.org/abs/2502.17929)|null|
+|**2025-02-25**|**VVRec: Reconstruction Attacks on DL-based Volumetric Video Upstreaming via Latent Diffusion Model with Gamma Distribution**|Rui Lu et.al.|[2502.17880](http://arxiv.org/abs/2502.17880)|null|
+|**2025-02-25**|**Certified Decisions**|Isaiah Andrews et.al.|[2502.17830](http://arxiv.org/abs/2502.17830)|null|
+|**2025-02-25**|**Easy-Poly: A Easy Polyhedral Framework For 3D Multi-Object Tracking**|Peng Zhang et.al.|[2502.17822](http://arxiv.org/abs/2502.17822)|null|
+|**2025-02-25**|**CAML: Collaborative Auxiliary Modality Learning for Multi-Agent Systems**|Rui Liu et.al.|[2502.17821](http://arxiv.org/abs/2502.17821)|null|
+|**2025-02-25**|**An Overview of Large Language Models for Statisticians**|Wenlong Ji et.al.|[2502.17814](http://arxiv.org/abs/2502.17814)|null|
 |**2025-02-24**|**From System 1 to System 2: A Survey of Reasoning Large Language Models**|Zhong-Zhi Li et.al.|[2502.17419](http://arxiv.org/abs/2502.17419)|**[link](https://github.com/zzli2022/awesome-slow-reason-system)**|
 |**2025-02-24**|**Bayesian Hierarchical Emulators for Multi-Level Models: BayHEm**|Louise Kimpton et.al.|[2502.17367](http://arxiv.org/abs/2502.17367)|null|
 |**2025-02-24**|**User-Centric Evaluation Methods for Digital Twin Applications in Extended Reality**|Francesco Vona et.al.|[2502.17346](http://arxiv.org/abs/2502.17346)|null|
