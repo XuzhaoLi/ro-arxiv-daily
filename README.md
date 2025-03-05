@@ -12,13 +12,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**On the optimal stopping problem for diffusions and an approximation result for stopping times**|Andrea Cosso et.al.|[2503.02514](http://arxiv.org/abs/2503.02514)|null|
+|**2025-03-04**|**JPDS-NN: Reinforcement Learning-Based Dynamic Task Allocation for Agricultural Vehicle Routing Optimization**|Yixuan Fan et.al.|[2503.02369](http://arxiv.org/abs/2503.02369)|null|
+|**2025-03-04**|**Optimal Control for Remote Patient Monitoring with Multidimensional Health States**|Siddharth Chandak et.al.|[2503.02292](http://arxiv.org/abs/2503.02292)|null|
+|**2025-03-03**|**CorrA: Leveraging Large Language Models for Dynamic Obstacle Avoidance of Autonomous Vehicles**|Shanting Wang et.al.|[2503.02076](http://arxiv.org/abs/2503.02076)|null|
+|**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033](http://arxiv.org/abs/2503.02033)|null|
+|**2025-02-25**|**Tracking Control of Euler-Lagrangian Systems with Prescribed State, Input, and Temporal Constraints**|Chidre Shravista Kashyap et.al.|[2503.01866](http://arxiv.org/abs/2503.01866)|null|
+|**2025-03-03**|**CacheQuant: Comprehensively Accelerated Diffusion Models**|Xuewen Liu et.al.|[2503.01323](http://arxiv.org/abs/2503.01323)|null|
+|**2025-03-03**|**Parameter-free Video Segmentation for Vision and Language Understanding**|Louis Mahon et.al.|[2503.01201](http://arxiv.org/abs/2503.01201)|null|
+|**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
+|**2025-03-04**|**Llamarine: Open-source Maritime Industry-specific Large Language Model**|William Nguyen et.al.|[2503.00203](http://arxiv.org/abs/2503.00203)|null|
 |**2025-02-28**|**Time-optimal problem in the space of probabilities measures**|Yurii Averboukh et.al.|[2502.20871](http://arxiv.org/abs/2502.20871)|null|
 |**2025-02-27**|**Dynamic Program Slices Change How Developers Diagnose Gradual Run-Time Type Errors**|Felipe Bañados Schwerter et.al.|[2502.20533](http://arxiv.org/abs/2502.20533)|null|
 |**2025-02-27**|**Efficient Risk-sensitive Planning via Entropic Risk Measures**|Alexandre Marthe et.al.|[2502.20423](http://arxiv.org/abs/2502.20423)|null|
 |**2025-02-27**|**Pontryagin-Bellman Differential Dynamic Programming for Low-Thrust Trajectory Optimization with Path Constraints**|Yanis Sidhoum et.al.|[2502.20291](http://arxiv.org/abs/2502.20291)|null|
 |**2025-02-27**|**SSD: A State-based Stealthy Backdoor Attack For Navigation System in UAV Route Planning**|Zhaoxuan Wang et.al.|[2502.20178](http://arxiv.org/abs/2502.20178)|null|
 |**2025-02-27**|**GraphSparseNet: a Novel Method for Large Scale Trafffic Flow Prediction**|Weiyang Kong et.al.|[2502.19823](http://arxiv.org/abs/2502.19823)|null|
-|**2025-02-25**|**Off-Policy Temporal Difference Learning for Perturbed Markov Decision Processes: Theoretical Insights and Extensive Simulations**|Ali Forootani et.al.|[2502.18415](http://arxiv.org/abs/2502.18415)|null|
+|**2025-03-04**|**Off-Policy Temporal Difference Learning for Perturbed Markov Decision Processes: Theoretical Insights and Extensive Simulations**|Ali Forootani et.al.|[2502.18415](http://arxiv.org/abs/2502.18415)|null|
 |**2025-02-25**|**Dynamic Factor Model-Based Multiperiod Mean-Variance Portfolio Selection with Portfolio Constraints**|Jianjun Gao et.al.|[2502.17915](http://arxiv.org/abs/2502.17915)|**[link](https://github.com/JinChengneng/Dynamic-Factor-MV)**|
 |**2025-02-24**|**A Deterministic and Linear Model of Dynamic Optimization**|Somdeb Lahiri et.al.|[2502.17012](http://arxiv.org/abs/2502.17012)|null|
 |**2025-02-24**|**Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators**|Shixin Zhao et.al.|[2502.17006](http://arxiv.org/abs/2502.17006)|null|
@@ -545,6 +555,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Wikipedia in the Era of LLMs: Evolution and Risks**|Siming Huang et.al.|[2503.02879](http://arxiv.org/abs/2503.02879)|null|
+|**2025-03-04**|**Language Models can Self-Improve at State-Value Estimation for Better Search**|Ethan Mendes et.al.|[2503.02878](http://arxiv.org/abs/2503.02878)|null|
+|**2025-03-04**|**SPIDER: A Comprehensive Multi-Organ Supervised Pathology Dataset and Baseline Models**|Dmitry Nechaev et.al.|[2503.02876](http://arxiv.org/abs/2503.02876)|null|
+|**2025-03-04**|**The First Few Tokens Are All You Need: An Efficient and Effective Unsupervised Prefix Fine-Tuning Method for Reasoning Models**|Ke Ji et.al.|[2503.02875](http://arxiv.org/abs/2503.02875)|null|
+|**2025-03-04**|**Prompting Generative AI with Interaction-Augmented Instructions**|Leixian Shen et.al.|[2503.02874](http://arxiv.org/abs/2503.02874)|null|
+|**2025-03-04**|**FairSense-AI: Responsible AI Meets Sustainability**|Shaina Raza et.al.|[2503.02865](http://arxiv.org/abs/2503.02865)|null|
+|**2025-03-04**|**Calibrating LLM Confidence with Semantic Steering: A Multi-Prompt Aggregation Framework**|Ziang Zhou et.al.|[2503.02863](http://arxiv.org/abs/2503.02863)|null|
+|**2025-03-04**|**Privacy and Accuracy-Aware AI/ML Model Deduplication**|Hong Guan et.al.|[2503.02862](http://arxiv.org/abs/2503.02862)|null|
+|**2025-03-04**|**(How) Do Language Models Track State?**|Belinda Z. Li et.al.|[2503.02854](http://arxiv.org/abs/2503.02854)|null|
+|**2025-03-04**|**Shakespearean Sparks: The Dance of Hallucination and Creativity in LLMs' Decoding Layers**|Zicong He et.al.|[2503.02851](http://arxiv.org/abs/2503.02851)|null|
+|**2025-03-04**|**Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs**|Yuzhe Gu et.al.|[2503.02846](http://arxiv.org/abs/2503.02846)|null|
+|**2025-03-04**|**Beyond Cosine Decay: On the effectiveness of Infinite Learning Rate Schedule for Continual Pre-training**|Paul Janson et.al.|[2503.02844](http://arxiv.org/abs/2503.02844)|null|
+|**2025-03-04**|**AlignDistil: Token-Level Language Model Alignment as Adaptive Policy Distillation**|Songming Zhang et.al.|[2503.02832](http://arxiv.org/abs/2503.02832)|null|
+|**2025-03-04**|**Developing a PET/CT Foundation Model for Cross-Modal Anatomical and Functional Imaging**|Yujin Oh et.al.|[2503.02824](http://arxiv.org/abs/2503.02824)|null|
+|**2025-03-04**|**"What If Smart Homes Could See Our Homes?": Exploring DIY Smart Home Building Experiences with VLM-Based Camera Sensors**|Sojeong Yun et.al.|[2503.02816](http://arxiv.org/abs/2503.02816)|null|
+|**2025-03-04**|**Q-Filters: Leveraging QK Geometry for Efficient KV Cache Compression**|Nathan Godey et.al.|[2503.02812](http://arxiv.org/abs/2503.02812)|null|
+|**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800](http://arxiv.org/abs/2503.02800)|null|
+|**2025-03-04**|**Multimodal AI predicts clinical outcomes of drug combinations from preclinical data**|Yepeng Huang et.al.|[2503.02781](http://arxiv.org/abs/2503.02781)|null|
+|**2025-03-04**|**Implicit Bias in LLMs: A Survey**|Xinru Lin et.al.|[2503.02776](http://arxiv.org/abs/2503.02776)|null|
+|**2025-03-04**|**InSerter: Speech Instruction Following with Unsupervised Interleaved Pre-training**|Dingdong Wang et.al.|[2503.02769](http://arxiv.org/abs/2503.02769)|null|
 |**2025-02-28**|**LLM Post-Training: A Deep Dive into Reasoning Large Language Models**|Komal Kumar et.al.|[2502.21321](http://arxiv.org/abs/2502.21321)|null|
 |**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
 |**2025-02-28**|**FANformer: Improving Large Language Models Through Effective Periodicity Modeling**|Yihong Dong et.al.|[2502.21309](http://arxiv.org/abs/2502.21309)|null|
@@ -5614,6 +5644,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Multiaccuracy and Multicalibration via Proxy Groups**|Beepul Bharti et.al.|[2503.02870](http://arxiv.org/abs/2503.02870)|null|
+|**2025-03-04**|**Multimodal Deep Learning for Subtype Classification in Breast Cancer Using Histopathological Images and Gene Expression Data**|Amin Honarmandi Shandiz et.al.|[2503.02849](http://arxiv.org/abs/2503.02849)|null|
+|**2025-03-04**|**RAAD-LLM: Adaptive Anomaly Detection Using LLMs and RAG Integration**|Alicia Russell-Gilbert et.al.|[2503.02800](http://arxiv.org/abs/2503.02800)|null|
+|**2025-03-04**|**Implicit Bias in LLMs: A Survey**|Xinru Lin et.al.|[2503.02776](http://arxiv.org/abs/2503.02776)|null|
+|**2025-03-04**|**From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance**|Jiacheng Tang et.al.|[2503.02760](http://arxiv.org/abs/2503.02760)|null|
+|**2025-03-04**|**Bridging VLM and KMP: Enabling Fine-grained robotic manipulation via Semantic Keypoints Representation**|Junjie Zhu et.al.|[2503.02748](http://arxiv.org/abs/2503.02748)|null|
+|**2025-03-04**|**Federated Learning for Privacy-Preserving Feedforward Control in Multi-Agent Systems**|Jakob Weber et.al.|[2503.02693](http://arxiv.org/abs/2503.02693)|**[link](https://github.com/j-cap/FL-based-neural-FF-control)**|
+|**2025-03-04**|**State of play and future directions in industrial computer vision AI standards**|Artemis Stefanidou et.al.|[2503.02675](http://arxiv.org/abs/2503.02675)|null|
+|**2025-03-04**|**Human-aligned Safe Reinforcement Learning for Highway On-Ramp Merging in Dense Traffic**|Yang Li et.al.|[2503.02624](http://arxiv.org/abs/2503.02624)|null|
+|**2025-03-04**|**Playing games with Large language models: Randomness and strategy**|Alicia Vidler et.al.|[2503.02582](http://arxiv.org/abs/2503.02582)|null|
+|**2025-03-04**|**TS-CGNet: Temporal-Spatial Fusion Meets Centerline-Guided Diffusion for BEV Mapping**|Xinying Hong et.al.|[2503.02578](http://arxiv.org/abs/2503.02578)|null|
+|**2025-03-04**|**RaceVLA: VLA-based Racing Drone Navigation with Human-like Behaviour**|Valerii Serpiva et.al.|[2503.02572](http://arxiv.org/abs/2503.02572)|null|
+|**2025-03-04**|**Generator-Assistant Stepwise Rollback Framework for Large Language Model Agent**|Xingzuo Li et.al.|[2503.02519](http://arxiv.org/abs/2503.02519)|null|
+|**2025-03-04**|**UAV-VLPA*: A Vision-Language-Path-Action System for Optimal Route Generation on a Large Scales**|Oleg Sautenkov et.al.|[2503.02454](http://arxiv.org/abs/2503.02454)|null|
+|**2025-03-04**|**PIDLoc: Cross-View Pose Optimization Network Inspired by PID Controllers**|Wooju Lee et.al.|[2503.02388](http://arxiv.org/abs/2503.02388)|null|
+|**2025-03-04**|**A Multi-Objective Portfolio of Portfolios Problem with Qualitative Performance Assessments**|Maria Barbati et.al.|[2503.02373](http://arxiv.org/abs/2503.02373)|null|
+|**2025-03-04**|**Iterative Value Function Optimization for Guided Decoding**|Zhenhua Liu et.al.|[2503.02368](http://arxiv.org/abs/2503.02368)|null|
+|**2025-03-04**|**Are Large Vision Language Models Good Game Players?**|Xinyu Wang et.al.|[2503.02358](http://arxiv.org/abs/2503.02358)|null|
+|**2025-03-04**|**Unlocking a New Rust Programming Experience: Fast and Slow Thinking with LLMs to Conquer Undefined Behaviors**|Renshuang Jiang et.al.|[2503.02335](http://arxiv.org/abs/2503.02335)|null|
+|**2025-03-04**|**A Game-Theoretic Approach for High-Resolution Automotive FMCW Radar Interference Avoidance**|Yunian Pan et.al.|[2503.02327](http://arxiv.org/abs/2503.02327)|null|
 |**2025-02-28**|**Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis**|Li Yang et.al.|[2502.21286](http://arxiv.org/abs/2502.21286)|null|
 |**2025-02-28**|**Towards Developing Ethical Reasoners: Integrating Probabilistic Reasoning and Decision-Making for Complex AI Systems**|Nijesh Upreti et.al.|[2502.21250](http://arxiv.org/abs/2502.21250)|null|
 |**2025-03-03**|**Scalable Decision-Making in Stochastic Environments through Learned Temporal Abstraction**|Baiting Luo et.al.|[2502.21186](http://arxiv.org/abs/2502.21186)|null|
