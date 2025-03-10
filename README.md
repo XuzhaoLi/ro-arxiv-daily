@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
+|**2025-03-06**|**Efficient Algorithms for Verifying Kruskal Rank in Sparse Linear Regression and Related Applications**|Fengqin Zhou et.al.|[2503.04986](http://arxiv.org/abs/2503.04986)|null|
 |**2025-03-06**|**Mean field optimal stopping with uncontrolled state**|Andrea Cosso et.al.|[2503.04269](http://arxiv.org/abs/2503.04269)|null|
 |**2025-03-05**|**Endpoint-Explicit Differential Dynamic Programming via Exact Resolution**|Maria Parilli et.al.|[2503.03897](http://arxiv.org/abs/2503.03897)|null|
 |**2025-03-05**|**Composite Nonlinear Trajectory Tracking Control of Co-Driving Vehicles Using Self-Triggered Adaptive Dynamic Programming**|Chuan Hu et.al.|[2503.03348](http://arxiv.org/abs/2503.03348)|null|
@@ -559,6 +561,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
+|**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
+|**2025-03-07**|**A Survey on Sparse Autoencoders: Interpreting the Internal Mechanisms of Large Language Models**|Dong Shu et.al.|[2503.05613](http://arxiv.org/abs/2503.05613)|null|
+|**2025-03-07**|**From Theory to Application: A Practical Introduction to Neural Operators in Scientific Computing**|Prashant K. Jha et.al.|[2503.05598](http://arxiv.org/abs/2503.05598)|null|
+|**2025-03-07**|**R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning**|Huatong Song et.al.|[2503.05592](http://arxiv.org/abs/2503.05592)|null|
+|**2025-03-07**|**Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data**|Shiping Yang et.al.|[2503.05587](http://arxiv.org/abs/2503.05587)|null|
+|**2025-03-07**|**Evaluating open-source Large Language Models for automated fact-checking**|Nicolo' Fontana et.al.|[2503.05565](http://arxiv.org/abs/2503.05565)|null|
+|**2025-03-07**|**Revitalizing Saturated Benchmarks: A Weighted Metric Approach for Differentiating Large Language Model Performance**|Bryan Etzine et.al.|[2503.05551](http://arxiv.org/abs/2503.05551)|null|
+|**2025-03-07**|**Leveraging Approximate Caching for Faster Retrieval-Augmented Generation**|Shai Bergman et.al.|[2503.05530](http://arxiv.org/abs/2503.05530)|null|
+|**2025-03-07**|**PoSSUM: A Protocol for Surveying Social-media Users with Multimodal LLMs**|Roberto Cerina et.al.|[2503.05529](http://arxiv.org/abs/2503.05529)|null|
+|**2025-03-07**|**Cognitive Bias Detection Using Advanced Prompt Engineering**|Frederic Lemieux et.al.|[2503.05516](http://arxiv.org/abs/2503.05516)|null|
+|**2025-03-07**|**Grammar-Based Code Representation: Is It a Worthy Pursuit for LLMs?**|Qingyuan Liang et.al.|[2503.05507](http://arxiv.org/abs/2503.05507)|null|
+|**2025-03-07**|**Statistical Guarantees of Correctness Coverage for Medical Multiple-Choice Question Answering**|Yusong Ke et.al.|[2503.05505](http://arxiv.org/abs/2503.05505)|null|
+|**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493](http://arxiv.org/abs/2503.05493)|null|
+|**2025-03-07**|**Maximum Hallucination Standards for Domain-Specific Large Language Models**|Tingmingke Lu et.al.|[2503.05481](http://arxiv.org/abs/2503.05481)|null|
+|**2025-03-07**|**The Society of HiveMind: Multi-Agent Optimization of Foundation Model Swarms to Unlock the Potential of Collective Intelligence**|Noah Mamie et.al.|[2503.05473](http://arxiv.org/abs/2503.05473)|null|
+|**2025-03-07**|**Soft Policy Optimization: Online Off-Policy RL for Sequence Models**|Taco Cohen et.al.|[2503.05453](http://arxiv.org/abs/2503.05453)|null|
+|**2025-03-07**|**LLM-based Iterative Approach to Metamodeling in Automotive**|Nenad Petrovic et.al.|[2503.05449](http://arxiv.org/abs/2503.05449)|null|
 |**2025-03-06**|**L $^2$ M: Mutual Information Scaling Law for Long-Context Language Modeling**|Zhuo Chen et.al.|[2503.04725](http://arxiv.org/abs/2503.04725)|null|
 |**2025-03-06**|**LLMVoX: Autoregressive Streaming Text-to-Speech Model for Any LLM**|Sambal Shikhar et.al.|[2503.04724](http://arxiv.org/abs/2503.04724)|null|
 |**2025-03-07**|**Shifting Long-Context LLMs Research from Input to Output**|Yuhao Wu et.al.|[2503.04723](http://arxiv.org/abs/2503.04723)|null|
@@ -5688,6 +5710,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|
+|**2025-03-07**|**Algorithmic Data Minimization for Machine Learning over Internet-of-Things Data Streams**|Ted Shaowang et.al.|[2503.05675](http://arxiv.org/abs/2503.05675)|null|
+|**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
+|**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573](http://arxiv.org/abs/2503.05573)|null|
+|**2025-03-07**|**Tractable Representations for Convergent Approximation of Distributional HJB Equations**|Julie Alhosh et.al.|[2503.05563](http://arxiv.org/abs/2503.05563)|null|
+|**2025-03-07**|**Cognitive Bias Detection Using Advanced Prompt Engineering**|Frederic Lemieux et.al.|[2503.05516](http://arxiv.org/abs/2503.05516)|null|
+|**2025-03-07**|**FastMap: Fast Queries Initialization Based Vectorized HD Map Reconstruction Framework**|Haotian Hu et.al.|[2503.05492](http://arxiv.org/abs/2503.05492)|null|
+|**2025-03-07**|**DecoupledGaussian: Object-Scene Decoupling for Physics-Based Interaction**|Miaowei Wang et.al.|[2503.05484](http://arxiv.org/abs/2503.05484)|null|
+|**2025-03-07**|**A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**|Aviran Gal et.al.|[2503.05413](http://arxiv.org/abs/2503.05413)|null|
+|**2025-03-07**|**Data-Driven Decision Making for Enhancing Small-Signal Stability in Hybrid AC/DC Grids Through Converter Control Role Assignment**|Francesca Rossi et.al.|[2503.05386](http://arxiv.org/abs/2503.05386)|null|
+|**2025-03-07**|**Constrained Reinforcement Learning for the Dynamic Inventory Routing Problem under Stochastic Supply and Demand**|Umur Hasturk et.al.|[2503.05276](http://arxiv.org/abs/2503.05276)|null|
+|**2025-03-07**|**Evidential Uncertainty Estimation for Multi-Modal Trajectory Prediction**|Sajad Marvi et.al.|[2503.05274](http://arxiv.org/abs/2503.05274)|null|
+|**2025-03-07**|**L-FUSION: Laplacian Fetal Ultrasound Segmentation & Uncertainty Estimation**|Johanna P. Müller et.al.|[2503.05245](http://arxiv.org/abs/2503.05245)|null|
+|**2025-03-07**|**Discrete Contrastive Learning for Diffusion Policies in Autonomous Driving**|Kalle Kujanpää et.al.|[2503.05229](http://arxiv.org/abs/2503.05229)|null|
+|**2025-03-07**|**Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments**|Xibai Wang et.al.|[2503.05226](http://arxiv.org/abs/2503.05226)|null|
+|**2025-03-07**|**Operationalizing Cybersecurity Knowledge: Design, Implementation & Evaluation of a Knowledge Management System for CACAO Playbooks**|Orestis Tsirakis et.al.|[2503.05206](http://arxiv.org/abs/2503.05206)|null|
+|**2025-03-07**|**Uncertainty-Aware Explainable Federated Learning**|Yanci Zhang et.al.|[2503.05194](http://arxiv.org/abs/2503.05194)|null|
+|**2025-03-07**|**FinTMMBench: Benchmarking Temporal-Aware Multi-Modal RAG in Finance**|Fengbin Zhu et.al.|[2503.05185](http://arxiv.org/abs/2503.05185)|null|
+|**2025-03-07**|**A Comprehensive LLM-powered Framework for Driving Intelligence Evaluation**|Shanhe You et.al.|[2503.05164](http://arxiv.org/abs/2503.05164)|null|
+|**2025-03-07**|**Generative Trajectory Stitching through Diffusion Composition**|Yunhao Luo et.al.|[2503.05153](http://arxiv.org/abs/2503.05153)|null|
 |**2025-03-06**|**The Influence of Prior Discourse on Conversational Agent-Driven Decision-Making**|Stephen Pilli et.al.|[2503.04692](http://arxiv.org/abs/2503.04692)|null|
 |**2025-03-06**|**Quantifying the Reasoning Abilities of LLMs on Real-world Clinical Cases**|Pengcheng Qiu et.al.|[2503.04691](http://arxiv.org/abs/2503.04691)|null|
 |**2025-03-06**|**Coarse graining and reduced order models for plume ejection dynamics**|Ike Griss Salas et.al.|[2503.04690](http://arxiv.org/abs/2503.04690)|null|
