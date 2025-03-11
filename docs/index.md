@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-09**|**Pull-Based Query Scheduling for Goal-Oriented Semantic Communication**|Pouya Agheli et.al.|[2503.06725](http://arxiv.org/abs/2503.06725)|null|
+|**2025-03-08**|**A Neural Score Follower for Computer Accompaniment of Polyphonic Musical Instruments**|Ashwin Pillay et.al.|[2503.06348](http://arxiv.org/abs/2503.06348)|null|
+|**2025-03-08**|**Optimal Output Feedback Learning Control for Discrete-Time Linear Quadratic Regulation**|Kedi Xiea et.al.|[2503.06226](http://arxiv.org/abs/2503.06226)|null|
+|**2025-03-08**|**Dynamic Programming in Ordered Vector Space**|Nisha Peng et.al.|[2503.06055](http://arxiv.org/abs/2503.06055)|null|
+|**2025-03-04**|**Establishment and Solution of a Multi-Stage Decision Model Based on Hypothesis Testing and Dynamic Programming Algorithm**|Ziyang Liu et.al.|[2503.05807](http://arxiv.org/abs/2503.05807)|null|
 |**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
 |**2025-03-06**|**Efficient Algorithms for Verifying Kruskal Rank in Sparse Linear Regression and Related Applications**|Fengqin Zhou et.al.|[2503.04986](http://arxiv.org/abs/2503.04986)|null|
 |**2025-03-06**|**Mean field optimal stopping with uncontrolled state**|Andrea Cosso et.al.|[2503.04269](http://arxiv.org/abs/2503.04269)|null|
@@ -554,6 +559,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
+|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
+|**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575](http://arxiv.org/abs/2503.07575)|null|
+|**2025-03-10**|**AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning**|Yangzhe Kong et.al.|[2503.07557](http://arxiv.org/abs/2503.07557)|null|
+|**2025-03-10**|**Junior Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review**|Samuel Ferino et.al.|[2503.07556](http://arxiv.org/abs/2503.07556)|null|
+|**2025-03-10**|**KSOD: Knowledge Supplement for LLMs On Demand**|Haoran Li et.al.|[2503.07550](http://arxiv.org/abs/2503.07550)|null|
+|**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547](http://arxiv.org/abs/2503.07547)|null|
+|**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545](http://arxiv.org/abs/2503.07545)|null|
+|**2025-03-10**|**XIFBench: Evaluating Large Language Models on Multilingual Instruction Following**|Zhenyu Li et.al.|[2503.07539](http://arxiv.org/abs/2503.07539)|null|
+|**2025-03-10**|**Building English ASR model with regional language support**|Purvi Agrawal et.al.|[2503.07522](http://arxiv.org/abs/2503.07522)|null|
+|**2025-03-10**|**GRITHopper: Decomposition-Free Multi-Hop Dense Retrieval**|Justus-Jonas Erker et.al.|[2503.07519](http://arxiv.org/abs/2503.07519)|null|
+|**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
+|**2025-03-10**|**Language Models Fail to Introspect About Their Knowledge of Language**|Siyuan Song et.al.|[2503.07513](http://arxiv.org/abs/2503.07513)|null|
+|**2025-03-10**|**Plume: Scaffolding Text Composition in Dashboards**|Maxim Lisnic et.al.|[2503.07512](http://arxiv.org/abs/2503.07512)|null|
+|**2025-03-10**|**Sometimes the Model doth Preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations**|Hari Shankar et.al.|[2503.07510](http://arxiv.org/abs/2503.07510)|null|
+|**2025-03-10**|**Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts**|Shiu-hong Kao et.al.|[2503.07503](http://arxiv.org/abs/2503.07503)|null|
+|**2025-03-10**|**V2Flow: Unifying Visual Tokenization and Large Language Model Vocabularies for Autoregressive Image Generation**|Guiwei Zhang et.al.|[2503.07493](http://arxiv.org/abs/2503.07493)|null|
+|**2025-03-10**|**LLaVA-RadZ: Can Multimodal Large Language Models Effectively Tackle Zero-shot Radiology Recognition?**|Bangyan Li et.al.|[2503.07487](http://arxiv.org/abs/2503.07487)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
+|**2025-03-10**|**VLRMBench: A Comprehensive and Challenging Benchmark for Vision-Language Reward Models**|Jiacheng Ruan et.al.|[2503.07478](http://arxiv.org/abs/2503.07478)|null|
 |**2025-03-07**|**Fairness-Aware Low-Rank Adaptation Under Demographic Privacy Constraints**|Parameswaran Kamalaruban et.al.|[2503.05684](http://arxiv.org/abs/2503.05684)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
@@ -5701,6 +5726,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
+|**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
+|**2025-03-10**|**AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol**|Maurice Ongala et.al.|[2503.07540](http://arxiv.org/abs/2503.07540)|null|
+|**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
+|**2025-03-10**|**CATPlan: Loss-based Collision Prediction in End-to-End Autonomous Driving**|Ziliang Xiong et.al.|[2503.07425](http://arxiv.org/abs/2503.07425)|null|
+|**2025-03-10**|**GM-MoE: Low-Light Enhancement with Gated-Mechanism Mixture-of-Experts**|Minwen Liao et.al.|[2503.07417](http://arxiv.org/abs/2503.07417)|null|
+|**2025-03-10**|**LEGO-Motion: Learning-Enhanced Grids with Occupancy Instance Modeling for Class-Agnostic Motion Prediction**|Kangan Qian et.al.|[2503.07367](http://arxiv.org/abs/2503.07367)|null|
+|**2025-03-10**|**Artificial Utopia: Simulation and Intelligent Agents for a Democratised Future**|Yannick Oswald et.al.|[2503.07364](http://arxiv.org/abs/2503.07364)|null|
+|**2025-03-10**|**Now you see me! A framework for obtaining class-relevant saliency maps**|Nils Philipp Walter et.al.|[2503.07346](http://arxiv.org/abs/2503.07346)|null|
+|**2025-03-10**|**Temporal Triplane Transformers as Occupancy World Models**|Haoran Xu et.al.|[2503.07338](http://arxiv.org/abs/2503.07338)|null|
+|**2025-03-10**|**Mitigating Hallucinations in YOLO-based Object Detection Models: A Revisit to Out-of-Distribution Detection**|Weicheng He et.al.|[2503.07330](http://arxiv.org/abs/2503.07330)|null|
+|**2025-03-10**|**Decision-Dependent Stochastic Optimization: The Role of Distribution Dynamics**|Zhiyu He et.al.|[2503.07324](http://arxiv.org/abs/2503.07324)|null|
+|**2025-03-10**|**The Influence Operation Ontology (IOO)**|Alejandro David Cayuela Tudela et.al.|[2503.07304](http://arxiv.org/abs/2503.07304)|null|
+|**2025-03-10**|**CoT-Drive: Efficient Motion Forecasting for Autonomous Driving with LLMs and Chain-of-Thought Prompting**|Haicheng Liao et.al.|[2503.07234](http://arxiv.org/abs/2503.07234)|null|
+|**2025-03-10**|**HisTrackMap: Global Vectorized High-Definition Map Construction via History Map Tracking**|Jing Yang et.al.|[2503.07168](http://arxiv.org/abs/2503.07168)|null|
+|**2025-03-10**|**Controllable 3D Outdoor Scene Generation via Scene Graphs**|Yuheng Liu et.al.|[2503.07152](http://arxiv.org/abs/2503.07152)|null|
+|**2025-03-10**|**Hierarchical Neuro-Symbolic Decision Transformer**|Ali Baheri et.al.|[2503.07148](http://arxiv.org/abs/2503.07148)|null|
+|**2025-03-10**|**Photometric Decision-Making During the Dawn Choruses of Cicadas**|Rakesh Khanna A. et.al.|[2503.07121](http://arxiv.org/abs/2503.07121)|null|
+|**2025-03-10**|**Correctness Learning: Deductive Verification Guided Learning for Human-AI Collaboration**|Zhao Jin et.al.|[2503.07096](http://arxiv.org/abs/2503.07096)|null|
+|**2025-03-10**|**RS2V-L: Vehicle-Mounted LiDAR Data Generation from Roadside Sensor Observations**|Ruidan Xing et.al.|[2503.07085](http://arxiv.org/abs/2503.07085)|null|
 |**2025-03-07**|**GoalFlow: Goal-Driven Flow Matching for Multimodal Trajectories Generation in End-to-End Autonomous Driving**|Zebin Xing et.al.|[2503.05689](http://arxiv.org/abs/2503.05689)|null|
 |**2025-03-07**|**Algorithmic Data Minimization for Machine Learning over Internet-of-Things Data Streams**|Ted Shaowang et.al.|[2503.05675](http://arxiv.org/abs/2503.05675)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
