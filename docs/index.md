@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.10
+## Updated on 2025.03.11
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -22,7 +22,7 @@ layout: default
 |**2025-03-03**|**CacheQuant: Comprehensively Accelerated Diffusion Models**|Xuewen Liu et.al.|[2503.01323](http://arxiv.org/abs/2503.01323)|null|
 |**2025-03-03**|**Parameter-free Video Segmentation for Vision and Language Understanding**|Louis Mahon et.al.|[2503.01201](http://arxiv.org/abs/2503.01201)|null|
 |**2025-03-02**|**Efficient End-to-end Visual Localization for Autonomous Driving with Decoupled BEV Neural Matching**|Jinyu Miao et.al.|[2503.00862](http://arxiv.org/abs/2503.00862)|null|
-|**2025-03-04**|**Llamarine: Open-source Maritime Industry-specific Large Language Model**|William Nguyen et.al.|[2503.00203](http://arxiv.org/abs/2503.00203)|null|
+|**2025-03-07**|**Llamarine: Open-source Maritime Industry-specific Large Language Model**|William Nguyen et.al.|[2503.00203](http://arxiv.org/abs/2503.00203)|null|
 |**2025-02-28**|**Time-optimal problem in the space of probabilities measures**|Yurii Averboukh et.al.|[2502.20871](http://arxiv.org/abs/2502.20871)|null|
 |**2025-02-27**|**Dynamic Program Slices Change How Developers Diagnose Gradual Run-Time Type Errors**|Felipe Bañados Schwerter et.al.|[2502.20533](http://arxiv.org/abs/2502.20533)|null|
 |**2025-02-27**|**Efficient Risk-sensitive Planning via Entropic Risk Measures**|Alexandre Marthe et.al.|[2502.20423](http://arxiv.org/abs/2502.20423)|null|
