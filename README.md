@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
+|**2025-03-10**|**Multi-Objective Routing Optimization Using Coherent Ising Machine in Wireless Multihop Networks**|Yu-Xuan Lin et.al.|[2503.07924](http://arxiv.org/abs/2503.07924)|null|
+|**2025-03-10**|**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**|Ruixiao Yang et.al.|[2503.07907](http://arxiv.org/abs/2503.07907)|null|
+|**2025-03-10**|**Operational route planning under uncertainty for Demand Adaptive Systems**|Benedikt Lienkamp et.al.|[2503.07812](http://arxiv.org/abs/2503.07812)|null|
 |**2025-03-09**|**Pull-Based Query Scheduling for Goal-Oriented Semantic Communication**|Pouya Agheli et.al.|[2503.06725](http://arxiv.org/abs/2503.06725)|null|
 |**2025-03-08**|**A Neural Score Follower for Computer Accompaniment of Polyphonic Musical Instruments**|Ashwin Pillay et.al.|[2503.06348](http://arxiv.org/abs/2503.06348)|null|
 |**2025-03-08**|**Optimal Output Feedback Learning Control for Discrete-Time Linear Quadratic Regulation**|Kedi Xiea et.al.|[2503.06226](http://arxiv.org/abs/2503.06226)|null|
@@ -566,6 +570,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/abs/2503.08689)|null|
+|**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
+|**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684](http://arxiv.org/abs/2503.08684)|null|
+|**2025-03-11**|**Self-Taught Self-Correction for Small Language Models**|Viktor Moskvoretskii et.al.|[2503.08681](http://arxiv.org/abs/2503.08681)|null|
+|**2025-03-11**|**Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields**|Tobias Kreiman et.al.|[2503.08674](http://arxiv.org/abs/2503.08674)|null|
+|**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
+|**2025-03-11**|**Exploring the Word Sense Disambiguation Capabilities of Large Language Models**|Pierpaolo Basile et.al.|[2503.08662](http://arxiv.org/abs/2503.08662)|null|
+|**2025-03-11**|**YuE: Scaling Open Foundation Models for Long-Form Music Generation**|Ruibin Yuan et.al.|[2503.08638](http://arxiv.org/abs/2503.08638)|null|
+|**2025-03-11**|**LightGen: Efficient Image Generation through Knowledge Distillation and Direct Preference Optimization**|Xianfeng Wu et.al.|[2503.08619](http://arxiv.org/abs/2503.08619)|null|
+|**2025-03-11**|**EMMOE: A Comprehensive Benchmark for Embodied Mobile Manipulation in Open Environments**|Dongping Li et.al.|[2503.08604](http://arxiv.org/abs/2503.08604)|null|
+|**2025-03-11**|**NSF-SciFy: Mining the NSF Awards Database for Scientific Claims**|Delip Rao et.al.|[2503.08600](http://arxiv.org/abs/2503.08600)|null|
+|**2025-03-11**|**Proc4Gem: Foundation models for physical agency through procedural generation**|Yixin Lin et.al.|[2503.08593](http://arxiv.org/abs/2503.08593)|null|
+|**2025-03-11**|**BiasEdit: Debiasing Stereotyped Language Models via Model Editing**|Xin Xu et.al.|[2503.08588](http://arxiv.org/abs/2503.08588)|null|
+|**2025-03-11**|**HierarQ: Task-Aware Hierarchical Q-Former for Enhanced Video Understanding**|Shehreen Azad et.al.|[2503.08585](http://arxiv.org/abs/2503.08585)|null|
+|**2025-03-11**|**RAG-Adapter: A Plug-and-Play RAG-enhanced Framework for Long Video Understanding**|Xichen Tan et.al.|[2503.08576](http://arxiv.org/abs/2503.08576)|null|
+|**2025-03-11**|**DeepReview: Improving LLM-based Paper Review with Human-like Deep Thinking Process**|Minjun Zhu et.al.|[2503.08569](http://arxiv.org/abs/2503.08569)|null|
+|**2025-03-11**|**Reasoning and Sampling-Augmented MCQ Difficulty Prediction via LLMs**|Wanyong Feng et.al.|[2503.08551](http://arxiv.org/abs/2503.08551)|null|
+|**2025-03-11**|**Transferring Extreme Subword Style Using Ngram Model-Based Logit Scaling**|Craig Messner et.al.|[2503.08550](http://arxiv.org/abs/2503.08550)|null|
+|**2025-03-11**|**Graph of AI Ideas: Leveraging Knowledge Graphs and LLMs for AI Research Idea Generation**|Xian Gao et.al.|[2503.08549](http://arxiv.org/abs/2503.08549)|null|
+|**2025-03-11**|**TLA: Tactile-Language-Action Model for Contact-Rich Manipulation**|Peng Hao et.al.|[2503.08548](http://arxiv.org/abs/2503.08548)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
 |**2025-03-10**|**VisBias: Measuring Explicit and Implicit Social Biases in Vision Language Models**|Jen-tse Huang et.al.|[2503.07575](http://arxiv.org/abs/2503.07575)|null|
@@ -5735,6 +5759,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
+|**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
+|**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
+|**2025-03-11**|**SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories**|Muzhi Zhu et.al.|[2503.08625](http://arxiv.org/abs/2503.08625)|null|
+|**2025-03-11**|**HiP-AD: Hierarchical and Multi-Granularity Planning with Deformable Attention for Autonomous Driving in a Single Decoder**|Yingqi Tang et.al.|[2503.08612](http://arxiv.org/abs/2503.08612)|null|
+|**2025-03-11**|**Vision Transformer for Intracranial Hemorrhage Classification in CT Scans Using an Entropy-Aware Fuzzy Integral Strategy for Adaptive Scan-Level Decision Fusion**|Mehdi Hosseini Chagahi et.al.|[2503.08609](http://arxiv.org/abs/2503.08609)|null|
+|**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
+|**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
+|**2025-03-11**|**Data Driven Decision Making with Time Series and Spatio-temporal Data**|Bin Yang et.al.|[2503.08473](http://arxiv.org/abs/2503.08473)|null|
+|**2025-03-11**|**An autonomous rl agent methodology for dynamic Web ui testing in a bdd framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
+|**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422](http://arxiv.org/abs/2503.08422)|null|
+|**2025-03-11**|**A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles**|Weiyi Yang et.al.|[2503.08416](http://arxiv.org/abs/2503.08416)|null|
+|**2025-03-11**|**Clustered Flexible Calibration Plots For Binary Outcomes Using Random Effects Modeling**|Lasai Barreñada et.al.|[2503.08389](http://arxiv.org/abs/2503.08389)|null|
+|**2025-03-11**|**V-Max: Making RL practical for Autonomous Driving**|Valentin Charraut et.al.|[2503.08388](http://arxiv.org/abs/2503.08388)|null|
+|**2025-03-11**|**Distributed Satellites Dynamic Allocation for Grids with Time Windows: A Potential Game Approach**|Weiyi Yang et.al.|[2503.08385](http://arxiv.org/abs/2503.08385)|null|
+|**2025-03-11**|**InfluenceNet: AI Models for Banzhaf and Shapley Value Prediction**|Benjamin Kempinski et.al.|[2503.08381](http://arxiv.org/abs/2503.08381)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
+|**2025-03-11**|**Towards Scalable and Cross-Lingual Specialist Language Models for Oncology**|Morteza Rohanian et.al.|[2503.08323](http://arxiv.org/abs/2503.08323)|null|
+|**2025-03-11**|**Uni-Gaussians: Unifying Camera and Lidar Simulation with Gaussians for Dynamic Driving Scenarios**|Zikang Yuan et.al.|[2503.08317](http://arxiv.org/abs/2503.08317)|null|
+|**2025-03-11**|**Reasoning in visual navigation of end-to-end trained agents: a dynamical systems approach**|Steeven Janny et.al.|[2503.08306](http://arxiv.org/abs/2503.08306)|null|
 |**2025-03-10**|**Robusto-1 Dataset: Comparing Humans and VLMs on real out-of-distribution Autonomous Driving VQA from Peru**|Dunant Cusipuma et.al.|[2503.07587](http://arxiv.org/abs/2503.07587)|null|
 |**2025-03-10**|**Graph-Dependent Regret Bounds in Multi-Armed Bandits with Interference**|Fateme Jamshidi et.al.|[2503.07555](http://arxiv.org/abs/2503.07555)|null|
 |**2025-03-10**|**AI-Enabled Knowledge Sharing for Enhanced Collaboration and Decision-Making in Non-Profit Healthcare Organizations: A Scoping Review Protocol**|Maurice Ongala et.al.|[2503.07540](http://arxiv.org/abs/2503.07540)|null|
