@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2025-03-10**|**Operational route planning under uncertainty for Demand Adaptive Systems**|Benedikt Lienkamp et.al.|[2503.07812](http://arxiv.org/abs/2503.07812)|null|
 |**2025-03-09**|**Pull-Based Query Scheduling for Goal-Oriented Semantic Communication**|Pouya Agheli et.al.|[2503.06725](http://arxiv.org/abs/2503.06725)|null|
 |**2025-03-08**|**A Neural Score Follower for Computer Accompaniment of Polyphonic Musical Instruments**|Ashwin Pillay et.al.|[2503.06348](http://arxiv.org/abs/2503.06348)|null|
-|**2025-03-08**|**Optimal Output Feedback Learning Control for Discrete-Time Linear Quadratic Regulation**|Kedi Xiea et.al.|[2503.06226](http://arxiv.org/abs/2503.06226)|null|
+|**2025-03-11**|**Optimal Output Feedback Learning Control for Discrete-Time Linear Quadratic Regulation**|Kedi Xie et.al.|[2503.06226](http://arxiv.org/abs/2503.06226)|null|
 |**2025-03-08**|**Dynamic Programming in Ordered Vector Space**|Nisha Peng et.al.|[2503.06055](http://arxiv.org/abs/2503.06055)|null|
 |**2025-03-04**|**Establishment and Solution of a Multi-Stage Decision Model Based on Hypothesis Testing and Dynamic Programming Algorithm**|Ziyang Liu et.al.|[2503.05807](http://arxiv.org/abs/2503.05807)|null|
 |**2025-03-07**|**On Almost Fair and Equitable Allocations of Indivisible Items for Non-monotone Valuations**|Vittorio Bilò et.al.|[2503.05695](http://arxiv.org/abs/2503.05695)|null|
@@ -5759,7 +5759,7 @@ layout: default
 |**2025-03-11**|**LiSu: A Dataset and Method for LiDAR Surface Normal Estimation**|Dušan Malić et.al.|[2503.08601](http://arxiv.org/abs/2503.08601)|null|
 |**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
 |**2025-03-11**|**Data Driven Decision Making with Time Series and Spatio-temporal Data**|Bin Yang et.al.|[2503.08473](http://arxiv.org/abs/2503.08473)|null|
-|**2025-03-11**|**An autonomous rl agent methodology for dynamic Web ui testing in a bdd framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
+|**2025-03-12**|**An Autonomous RL Agent Methodology for Dynamic Web UI Testing in a BDD Framework**|Ali Hassaan Mughal et.al.|[2503.08464](http://arxiv.org/abs/2503.08464)|null|
 |**2025-03-11**|**JiSAM: Alleviate Labeling Burden and Corner Case Problems in Autonomous Driving via Minimal Real-World Data**|Runjian Chen et.al.|[2503.08422](http://arxiv.org/abs/2503.08422)|null|
 |**2025-03-11**|**A Distributed Clustering Algorithm based on Coalition Game for Intelligent Vehicles**|Weiyi Yang et.al.|[2503.08416](http://arxiv.org/abs/2503.08416)|null|
 |**2025-03-11**|**Clustered Flexible Calibration Plots For Binary Outcomes Using Random Effects Modeling**|Lasai Barreñada et.al.|[2503.08389](http://arxiv.org/abs/2503.08389)|null|
