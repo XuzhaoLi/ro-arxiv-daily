@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
+|**2025-03-11**|**Large Neighborhood Search and Bitmask Dynamic Programming for Wireless Mobile Charging Electric Vehicle Routing Problems in Medical Transportation**|Jingyi Zhao et.al.|[2503.08752](http://arxiv.org/abs/2503.08752)|null|
 |**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
 |**2025-03-10**|**Multi-Objective Routing Optimization Using Coherent Ising Machine in Wireless Multihop Networks**|Yu-Xuan Lin et.al.|[2503.07924](http://arxiv.org/abs/2503.07924)|null|
 |**2025-03-10**|**Co-Optimizing Distributed Energy Resources under Demand Charges and Bi-Directional Power Flow**|Ruixiao Yang et.al.|[2503.07907](http://arxiv.org/abs/2503.07907)|null|
@@ -570,6 +572,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**MoC: Mixtures of Text Chunking Learners for Retrieval-Augmented Generation System**|Jihao Zhao et.al.|[2503.09600](http://arxiv.org/abs/2503.09600)|null|
+|**2025-03-12**|**How to Protect Yourself from 5G Radiation? Investigating LLM Responses to Implicit Misinformation**|Ruohao Guo et.al.|[2503.09598](http://arxiv.org/abs/2503.09598)|null|
+|**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[2503.09594](http://arxiv.org/abs/2503.09594)|null|
+|**2025-03-12**|**BIMBA: Selective-Scan Compression for Long-Range Video Question Answering**|Md Mohaiminul Islam et.al.|[2503.09590](http://arxiv.org/abs/2503.09590)|null|
+|**2025-03-12**|**Cost-Optimal Grouped-Query Attention for Long-Context LLMs**|Yingfa Chen et.al.|[2503.09579](http://arxiv.org/abs/2503.09579)|**[link](https://github.com/thunlp/cost-optimal-gqa)**|
+|**2025-03-12**|**Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models**|Marianne Arriola et.al.|[2503.09573](http://arxiv.org/abs/2503.09573)|null|
+|**2025-03-12**|**Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks**|Lutfi Eren Erdogan et.al.|[2503.09572](http://arxiv.org/abs/2503.09572)|null|
+|**2025-03-12**|**Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models**|Qiguang Chen et.al.|[2503.09567](http://arxiv.org/abs/2503.09567)|null|
+|**2025-03-12**|**PolyPythias: Stability and Outliers across Fifty Language Model Pre-Training Runs**|Oskar van der Wal et.al.|[2503.09543](http://arxiv.org/abs/2503.09543)|null|
+|**2025-03-12**|**Large Language Models for Multi-Facility Location Mechanism Design**|Nguyen Thach et.al.|[2503.09533](http://arxiv.org/abs/2503.09533)|null|
+|**2025-03-12**|**SAEBench: A Comprehensive Benchmark for Sparse Autoencoders in Language Model Interpretability**|Adam Karvonen et.al.|[2503.09532](http://arxiv.org/abs/2503.09532)|null|
+|**2025-03-12**|**Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning**|Bowen Jin et.al.|[2503.09516](http://arxiv.org/abs/2503.09516)|null|
+|**2025-03-12**|**Reinforcement Learning is all You Need**|Yongsheng Lian et.al.|[2503.09512](http://arxiv.org/abs/2503.09512)|null|
+|**2025-03-12**|**ReMA: Learning to Meta-think for LLMs with Multi-Agent Reinforcement Learning**|Ziyu Wan et.al.|[2503.09501](http://arxiv.org/abs/2503.09501)|null|
+|**2025-03-12**|**MindGYM: Enhancing Vision-Language Models via Synthetic Self-Challenging Questions**|Zhe Xu et.al.|[2503.09499](http://arxiv.org/abs/2503.09499)|null|
+|**2025-03-12**|**Parameter-Efficient Adaptation of Geospatial Foundation Models through Embedding Deflection**|Romain Thoreau et.al.|[2503.09493](http://arxiv.org/abs/2503.09493)|null|
+|**2025-03-12**|**Project-Probe-Aggregate: Efficient Fine-Tuning for Group Robustness**|Beier Zhu et.al.|[2503.09487](http://arxiv.org/abs/2503.09487)|null|
+|**2025-03-12**|**BAMBI: Developing Baby Language Models for Italian**|Alice Suozzi et.al.|[2503.09481](http://arxiv.org/abs/2503.09481)|null|
+|**2025-03-12**|**SurgicalVLM-Agent: Towards an Interactive AI Co-Pilot for Pituitary Surgery**|Jiayuan Huang et.al.|[2503.09474](http://arxiv.org/abs/2503.09474)|null|
+|**2025-03-12**|**Explicit Learning and the LLM in Machine Translation**|Malik Marmonier et.al.|[2503.09454](http://arxiv.org/abs/2503.09454)|null|
 |**2025-03-11**|**QuoTA: Query-oriented Token Assignment via CoT Query Decouple for Long Video Comprehension**|Yongdong Luo et.al.|[2503.08689](http://arxiv.org/abs/2503.08689)|null|
 |**2025-03-11**|**Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs**|Ariba Khan et.al.|[2503.08688](http://arxiv.org/abs/2503.08688)|null|
 |**2025-03-11**|**Perplexity Trap: PLM-Based Retrievers Overrate Low Perplexity Documents**|Haoyu Wang et.al.|[2503.08684](http://arxiv.org/abs/2503.08684)|null|
@@ -5759,6 +5781,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-12**|**SimLingo: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment**|Katrin Renz et.al.|[2503.09594](http://arxiv.org/abs/2503.09594)|null|
+|**2025-03-12**|**Evaluating Visual Explanations of Attention Maps for Transformer-based Medical Imaging**|Minjae Chung et.al.|[2503.09535](http://arxiv.org/abs/2503.09535)|null|
+|**2025-03-12**|**CombatVLA: An Efficient Vision-Language-Action Model for Combat Tasks in 3D Action Role-Playing Games**|Peng Chen et.al.|[2503.09527](http://arxiv.org/abs/2503.09527)|null|
+|**2025-03-12**|**Towards Robust Multimodal Representation: A Unified Approach with Adaptive Experts and Alignment**|Nazanin Moradinasab et.al.|[2503.09498](http://arxiv.org/abs/2503.09498)|null|
+|**2025-03-12**|**Hybrid Rendering for Multimodal Autonomous Driving: Merging Neural and Physics-Based Simulation**|Máté Tóth et.al.|[2503.09464](http://arxiv.org/abs/2503.09464)|null|
+|**2025-03-12**|**PCLA: A Framework for Testing Autonomous Agents in the CARLA Simulator**|Masoud Jamshidiyan Tehrani et.al.|[2503.09385](http://arxiv.org/abs/2503.09385)|null|
+|**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370](http://arxiv.org/abs/2503.09370)|null|
+|**2025-03-12**|**Post-interactive Multimodal Trajectory Prediction for Autonomous Driving**|Ziyi Huang et.al.|[2503.09366](http://arxiv.org/abs/2503.09366)|null|
+|**2025-03-12**|**Unmask It! AI-Generated Product Review Detection in Dravidian Languages**|Somsubhra De et.al.|[2503.09289](http://arxiv.org/abs/2503.09289)|null|
+|**2025-03-12**|**A Case Study on Model Checking and Runtime Verification for Awkernel**|Akira Hasegawa et.al.|[2503.09282](http://arxiv.org/abs/2503.09282)|null|
+|**2025-03-12**|**COLA: A Scalable Multi-Agent Framework For Windows UI Task Automation**|Di Zhao et.al.|[2503.09263](http://arxiv.org/abs/2503.09263)|null|
+|**2025-03-12**|**Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latant Space**|Jian Zhu et.al.|[2503.09215](http://arxiv.org/abs/2503.09215)|null|
+|**2025-03-12**|**AI-Driven Decision Support in Oncology: Evaluating Data Readiness for Skin Cancer Treatment**|Joscha Grüger et.al.|[2503.09164](http://arxiv.org/abs/2503.09164)|null|
+|**2025-03-12**|**Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection**|Chaowei Zhang et.al.|[2503.09153](http://arxiv.org/abs/2503.09153)|null|
+|**2025-03-12**|**Specification languages for computational laws versus basic legal principles**|Petia Guintchev et.al.|[2503.09129](http://arxiv.org/abs/2503.09129)|null|
+|**2025-03-12**|**Sometimes Painful but Certainly Promising: Feasibility and Trade-offs of Language Model Inference at the Edge**|Maximilian Abstreiter et.al.|[2503.09114](http://arxiv.org/abs/2503.09114)|null|
+|**2025-03-12**|**Impact of Short-Duration Aerobic Exercise Intensity on Executive Function and Sleep**|Yu Peng et.al.|[2503.09077](http://arxiv.org/abs/2503.09077)|null|
+|**2025-03-12**|**StratIncon Detector: Analyzing Strategy Inconsistencies Between Real-Time Strategy and Preferred Professional Strategy in MOBA Esports**|Ruofei Ma et.al.|[2503.09060](http://arxiv.org/abs/2503.09060)|null|
+|**2025-03-12**|**Incentive Analysis for Agent Participation in Federated Learning**|Lihui Yi et.al.|[2503.09039](http://arxiv.org/abs/2503.09039)|null|
+|**2025-03-12**|**Traffic Regulation-aware Path Planning with Regulation Databases and Vision-Language Models**|Xu Han et.al.|[2503.09024](http://arxiv.org/abs/2503.09024)|null|
 |**2025-03-11**|**CoLMDriver: LLM-based Negotiation Benefits Cooperative Autonomous Driving**|Changxing Liu et.al.|[2503.08683](http://arxiv.org/abs/2503.08683)|null|
 |**2025-03-11**|**Language-Depth Navigated Thermal and Visible Image Fusion**|Jinchang Zhang et.al.|[2503.08676](http://arxiv.org/abs/2503.08676)|null|
 |**2025-03-11**|**Task-Oriented Co-Design of Communication, Computing, and Control for Edge-Enabled Industrial Cyber-Physical Systems**|Yufeng Diao et.al.|[2503.08661](http://arxiv.org/abs/2503.08661)|null|
