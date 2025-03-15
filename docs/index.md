@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.03.14
+## Updated on 2025.03.15
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-13**|**Enhanced Route Planning with Calibrated Uncertainty Set**|Lingxuan Tang et.al.|[2503.10088](http://arxiv.org/abs/2503.10088)|null|
-|**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|null|
+|**2025-03-12**|**PairVDN - Pair-wise Decomposed Value Functions**|Zak Buzzard et.al.|[2503.09521](http://arxiv.org/abs/2503.09521)|**[link](https://github.com/zzbuzzard/pairvdn)**|
 |**2025-03-11**|**Large Neighborhood Search and Bitmask Dynamic Programming for Wireless Mobile Charging Electric Vehicle Routing Problems in Medical Transportation**|Jingyi Zhao et.al.|[2503.08752](http://arxiv.org/abs/2503.08752)|null|
 |**2025-03-11**|**DISTINGUISH Workflow: A New Paradigm of Dynamic Well Placement Using Generative Machine Learning**|Sergey Alyaev et.al.|[2503.08509](http://arxiv.org/abs/2503.08509)|null|
 |**2025-03-10**|**Multi-Objective Routing Optimization Using Coherent Ising Machine in Wireless Multihop Networks**|Yu-Xuan Lin et.al.|[2503.07924](http://arxiv.org/abs/2503.07924)|null|
