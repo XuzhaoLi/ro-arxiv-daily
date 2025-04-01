@@ -2,19 +2,19 @@
 layout: default
 ---
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-28**|**Scheduling problem of aircrafts on a same runway and dual runways**|Peng Lin et.al.|[2503.22124](http://arxiv.org/abs/2503.22124)|null|
 |**2025-03-27**|**Optimal Stepsize for Diffusion Sampling**|Jianning Pei et.al.|[2503.21774](http://arxiv.org/abs/2503.21774)|**[link](https://github.com/bebebe666/optimalsteps)**|
-|**2025-03-26**|**A Hopf-Lax Type Formula for Multi-Agent Path Planning with Pattern Coordination**|Christian Parkinson et.al.|[2503.20974](http://arxiv.org/abs/2503.20974)|null|
+|**2025-03-26**|**A Hopf-Lax Type Formula for Multi-Agent Path Planning with Pattern Coordination**|Christian Parkinson et.al.|[2503.20974](http://arxiv.org/abs/2503.20974)|**[link](https://github.com/chparkinson/HL_multi_agent_pattern)**|
 |**2025-03-26**|**Infinite Time Horizon Optimal Control of McKean-Vlasov SDEs**|Silvia Rudà et.al.|[2503.20572](http://arxiv.org/abs/2503.20572)|null|
 |**2025-03-26**|**Optimal reinsurance in a competitive market**|Lea Enzi et.al.|[2503.20555](http://arxiv.org/abs/2503.20555)|null|
 |**2025-03-26**|**Beyond Worst-Case Subset Sum: An Adaptive, Structure-Aware Solver with Sub- $2^{n/2}$ Enumeration**|Jesus Salas et.al.|[2503.20162](http://arxiv.org/abs/2503.20162)|null|
-|**2025-03-24**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
-|**2025-03-22**|**An Efficient Frequency-Based Approach for Maximal Square Detection in Binary Matrices**|Swastik Bhandari et.al.|[2503.18974](http://arxiv.org/abs/2503.18974)|null|
+|**2025-03-31**|**Graph neural networks extrapolate out-of-distribution for shortest paths**|Robert R. Nerem et.al.|[2503.19173](http://arxiv.org/abs/2503.19173)|null|
+|**2025-03-29**|**An Efficient Frequency-Based Approach for Maximal Square Detection in Binary Matrices**|Swastik Bhandari et.al.|[2503.18974](http://arxiv.org/abs/2503.18974)|null|
 |**2025-03-23**|**Agent-Based Models for Two Stocks with Superhedging**|Dario Crisci et.al.|[2503.18165](http://arxiv.org/abs/2503.18165)|null|
 |**2025-03-21**|**A New Segment Routing method with Swap Node Selection Strategy Based on Deep Reinforcement Learning for Software Defined Network**|Miao Ye et.al.|[2503.16914](http://arxiv.org/abs/2503.16914)|null|
 |**2025-03-20**|**Reinforcement Learning-based Heuristics to Guide Domain-Independent Dynamic Programming**|Minori Narita et.al.|[2503.16371](http://arxiv.org/abs/2503.16371)|**[link](https://github.com/minori5214/rl-guided-didp)**|
