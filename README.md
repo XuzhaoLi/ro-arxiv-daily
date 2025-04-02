@@ -1,4 +1,4 @@
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -595,7 +595,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -6064,7 +6064,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6082,11 +6082,11 @@
 |**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[2503.24091](http://arxiv.org/abs/2503.24091)|null|
 |**2025-03-31**|**Frequency-Aware Attention-LSTM for PM $_{2.5}$ Time Series Forecasting**|Jiahui LU et.al.|[2503.24043](http://arxiv.org/abs/2503.24043)|null|
 |**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[2503.23993](http://arxiv.org/abs/2503.23993)|null|
-|**2025-03-31**|**The more the merrier: logical and multistage processors in credit scoring**|Arturo Pérez-Peralta et.al.|[2503.23979](http://arxiv.org/abs/2503.23979)|null|
+|**2025-03-31**|**The more the merrier: logical and multistage processors in credit scoring**|Arturo Pérez-Peralta et.al.|[2503.23979](http://arxiv.org/abs/2503.23979)|**[link](https://github.com/arturo-perez-peralta/FairMLIntegration)**|
 |**2025-03-31**|**Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving**|Miao Fan et.al.|[2503.23965](http://arxiv.org/abs/2503.23965)|null|
 |**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
 |**2025-03-31**|**GLane3D : Detecting Lanes with Graph of 3D Keypoints**|Halil İbrahim Öztürk et.al.|[2503.23882](http://arxiv.org/abs/2503.23882)|null|
-|**2025-03-31**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
+|**2025-04-01**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
 |**2025-03-31**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|Fengxiang Wang et.al.|[2503.23771](http://arxiv.org/abs/2503.23771)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
 |**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[2503.23708](http://arxiv.org/abs/2503.23708)|null|
@@ -10949,5 +10949,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.01
+## Updated on 2025.04.02
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6073,11 +6073,11 @@ layout: default
 |**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[2503.24091](http://arxiv.org/abs/2503.24091)|null|
 |**2025-03-31**|**Frequency-Aware Attention-LSTM for PM $_{2.5}$ Time Series Forecasting**|Jiahui LU et.al.|[2503.24043](http://arxiv.org/abs/2503.24043)|null|
 |**2025-03-31**|**DenseFormer: Learning Dense Depth Map from Sparse Depth and Image via Conditional Diffusion Model**|Ming Yuan et.al.|[2503.23993](http://arxiv.org/abs/2503.23993)|null|
-|**2025-03-31**|**The more the merrier: logical and multistage processors in credit scoring**|Arturo Pérez-Peralta et.al.|[2503.23979](http://arxiv.org/abs/2503.23979)|null|
+|**2025-03-31**|**The more the merrier: logical and multistage processors in credit scoring**|Arturo Pérez-Peralta et.al.|[2503.23979](http://arxiv.org/abs/2503.23979)|**[link](https://github.com/arturo-perez-peralta/FairMLIntegration)**|
 |**2025-03-31**|**Video-based Traffic Light Recognition by Rockchip RV1126 for Autonomous Driving**|Miao Fan et.al.|[2503.23965](http://arxiv.org/abs/2503.23965)|null|
 |**2025-03-31**|**A Benchmark for Vision-Centric HD Mapping by V2I Systems**|Miao Fan et.al.|[2503.23963](http://arxiv.org/abs/2503.23963)|null|
 |**2025-03-31**|**GLane3D : Detecting Lanes with Graph of 3D Keypoints**|Halil İbrahim Öztürk et.al.|[2503.23882](http://arxiv.org/abs/2503.23882)|null|
-|**2025-03-31**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
+|**2025-04-01**|**When Counterfactual Reasoning Fails: Chaos and Real-World Complexity**|Yahya Aalaila et.al.|[2503.23820](http://arxiv.org/abs/2503.23820)|null|
 |**2025-03-31**|**XLRS-Bench: Could Your Multimodal LLMs Understand Extremely Large Ultra-High-Resolution Remote Sensing Imagery?**|Fengxiang Wang et.al.|[2503.23771](http://arxiv.org/abs/2503.23771)|null|
 |**2025-03-31**|**STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?**|Yun Li et.al.|[2503.23765](http://arxiv.org/abs/2503.23765)|null|
 |**2025-03-31**|**Towards Benchmarking and Assessing the Safety and Robustness of Autonomous Driving on Safety-critical Scenarios**|Jingzheng Li et.al.|[2503.23708](http://arxiv.org/abs/2503.23708)|null|
