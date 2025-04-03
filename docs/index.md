@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**AI-Driven Framework for Multi-Service Multi-Modal Devices in NextG ORAN Systems**|Mrityunjoy Gain et.al.|[2504.01730](http://arxiv.org/abs/2504.01730)|null|
+|**2025-04-01**|**A Parametric Model for Near-Optimal Online Synthesis with Robust Reach-Avoid Guarantees**|Mario Gleirscher et.al.|[2504.01006](http://arxiv.org/abs/2504.01006)|null|
+|**2025-04-01**|**Linear models of dynamic optimization with linear constraints**|Somdeb Lahiri et.al.|[2504.00630](http://arxiv.org/abs/2504.00630)|null|
 |**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
 |**2025-04-02**|**Unraveling tensor structures in correct-by-design controller synthesis**|Ruohan Wang et.al.|[2503.24085](http://arxiv.org/abs/2503.24085)|null|
 |**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044](http://arxiv.org/abs/2503.24044)|null|
@@ -594,6 +597,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**Slot-Level Robotic Placement via Visual Imitation from Single Human Video**|Dandan Shan et.al.|[2504.01959](http://arxiv.org/abs/2504.01959)|null|
+|**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
+|**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
+|**2025-04-02**|**Efficient Federated Learning Tiny Language Models for Mobile Network Feature Prediction**|Daniel Becking et.al.|[2504.01947](http://arxiv.org/abs/2504.01947)|null|
+|**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
+|**2025-04-02**|**Critical Thinking: Which Kinds of Complexity Govern Optimal Reasoning Length?**|Celine Lee et.al.|[2504.01935](http://arxiv.org/abs/2504.01935)|null|
+|**2025-04-02**|**A thorough benchmark of automatic text classification: From traditional approaches to large language models**|Washington Cunha et.al.|[2504.01930](http://arxiv.org/abs/2504.01930)|null|
+|**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
+|**2025-04-02**|**Is Less Really More? Fake News Detection with Limited Information**|Zhaoyang Cao et.al.|[2504.01922](http://arxiv.org/abs/2504.01922)|**[link](https://github.com/kappakant/SLIM)**|
+|**2025-04-02**|**Bridging the Linguistic Divide: A Survey on Leveraging Large Language Models for Machine Translation**|Baban Gain et.al.|[2504.01919](http://arxiv.org/abs/2504.01919)|null|
+|**2025-04-02**|**FineLIP: Extending CLIP's Reach via Fine-Grained Alignment with Longer Text Inputs**|Mothilal Asokan et.al.|[2504.01916](http://arxiv.org/abs/2504.01916)|null|
+|**2025-04-02**|**Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning**|Yinggan Xu et.al.|[2504.01911](http://arxiv.org/abs/2504.01911)|null|
+|**2025-04-02**|**Is Temporal Prompting All We Need For Limited Labeled Action Recognition?**|Shreyank N Gowda et.al.|[2504.01890](http://arxiv.org/abs/2504.01890)|null|
+|**2025-04-02**|**TransientTables: Evaluating LLMs' Reasoning on Temporally Evolving Semi-structured Tables**|Abhilash Shankarampeta et.al.|[2504.01879](http://arxiv.org/abs/2504.01879)|null|
+|**2025-04-02**|**From Code Generation to Software Testing: AI Copilot with Context-Based RAG**|Yuchen Wang et.al.|[2504.01866](http://arxiv.org/abs/2504.01866)|null|
+|**2025-04-02**|**Cross-Lingual Consistency: A Novel Inference Framework for Advancing Reasoning in Large Language Models**|Zhiwei Yu et.al.|[2504.01857](http://arxiv.org/abs/2504.01857)|null|
+|**2025-04-02**|**Code Red! On the Harmfulness of Applying Off-the-shelf Large Language Models to Programming Tasks**|Ali Al-Kaswan et.al.|[2504.01850](http://arxiv.org/abs/2504.01850)|null|
+|**2025-04-02**|**LARGE: Legal Retrieval Augmented Generation Evaluation Tool**|Minhu Park et.al.|[2504.01840](http://arxiv.org/abs/2504.01840)|null|
+|**2025-04-02**|**Prompting Medical Vision-Language Models to Mitigate Diagnosis Bias by Generating Realistic Dermoscopic Images**|Nusrat Munia et.al.|[2504.01838](http://arxiv.org/abs/2504.01838)|null|
+|**2025-04-02**|**YourBench: Easy Custom Evaluation Sets for Everyone**|Sumuk Shashidhar et.al.|[2504.01833](http://arxiv.org/abs/2504.01833)|null|
 |**2025-03-31**|**Any2Caption:Interpreting Any Condition to Caption for Controllable Video Generation**|Shengqiong Wu et.al.|[2503.24379](http://arxiv.org/abs/2503.24379)|null|
 |**2025-03-31**|**ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning**|Harsha Kokel et.al.|[2503.24378](http://arxiv.org/abs/2503.24378)|null|
 |**2025-03-31**|**Harnessing the Reasoning Economy: A Survey of Efficient Reasoning for Large Language Models**|Rui Wang et.al.|[2503.24377](http://arxiv.org/abs/2503.24377)|**[link](https://github.com/devoallen/awesome-reasoning-economy-papers)**|
@@ -6061,6 +6084,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-02**|**GaussianLSS -- Toward Real-world BEV Perception: Depth Uncertainty Estimation via Gaussian Splatting**|Shu-Wei Lu et.al.|[2504.01957](http://arxiv.org/abs/2504.01957)|null|
+|**2025-04-02**|**End-to-End Driving with Online Trajectory Evaluation via BEV World Model**|Yingyan Li et.al.|[2504.01941](http://arxiv.org/abs/2504.01941)|null|
+|**2025-04-02**|**Gen-C: Populating Virtual Worlds with Generative Crowds**|Andreas Panayiotou et.al.|[2504.01924](http://arxiv.org/abs/2504.01924)|null|
+|**2025-04-02**|**GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**|Yanzhou Su et.al.|[2504.01886](http://arxiv.org/abs/2504.01886)|null|
+|**2025-04-02**|**Tunable Thresholds and Frequency Encoding in a Spiking NOD Controller**|Ian Xul Belaustegui et.al.|[2504.01878](http://arxiv.org/abs/2504.01878)|null|
+|**2025-04-02**|**Rethinking industrial artificial intelligence: a unified foundation framework**|Jay Lee et.al.|[2504.01797](http://arxiv.org/abs/2504.01797)|null|
+|**2025-04-02**|**A Novel Dynamic Epidemic Model for Successive Opinion Diffusion in Social Networks**|Bin Han et.al.|[2504.01718](http://arxiv.org/abs/2504.01718)|null|
+|**2025-04-02**|**Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation**|Junjie Chen et.al.|[2504.01668](http://arxiv.org/abs/2504.01668)|null|
+|**2025-04-02**|**The Mini-SiTian Array: Design and application of Master Control System**|Zheng Wang et.al.|[2504.01613](http://arxiv.org/abs/2504.01613)|null|
+|**2025-04-02**|**Vers une modélisation de la confiance dans le renseignement sur les menaces cyber**|Laurent Bobelin et.al.|[2504.01606](http://arxiv.org/abs/2504.01606)|null|
+|**2025-04-02**|**Building Knowledge from Interactions: An LLM-Based Architecture for Adaptive Tutoring and Social Reasoning**|Luca Garello et.al.|[2504.01588](http://arxiv.org/abs/2504.01588)|null|
+|**2025-04-02**|**A microscopic traffic flow model on network with destination-aware V2V communications and rational decision-making**|Emiliano Cristiani et.al.|[2504.01480](http://arxiv.org/abs/2504.01480)|null|
+|**2025-04-02**|**Deep LG-Track: An Enhanced Localization-Confidence-Guided Multi-Object Tracker**|Ting Meng et.al.|[2504.01457](http://arxiv.org/abs/2504.01457)|null|
+|**2025-04-02**|**Dynamic Incentive Strategies for Smart EV Charging Stations: An LLM-Driven User Digital Twin Approach**|Yichen Sun et.al.|[2504.01423](http://arxiv.org/abs/2504.01423)|null|
+|**2025-04-02**|**DF-Calib: Targetless LiDAR-Camera Calibration via Depth Flow**|Shu Han et.al.|[2504.01416](http://arxiv.org/abs/2504.01416)|null|
+|**2025-04-02**|**Balancing Subjectivity and Objectivity in Network Selection: A Decision-Making Framework Towards Digital Twins**|Brahim Mefgouda et.al.|[2504.01414](http://arxiv.org/abs/2504.01414)|null|
+|**2025-04-02**|**Pedestrian-Aware Motion Planning for Autonomous Driving in Complex Urban Scenarios**|Korbinian Moller et.al.|[2504.01409](http://arxiv.org/abs/2504.01409)|null|
+|**2025-04-02**|**From Shadows to Safety: Occlusion Tracking and Risk Mitigation for Urban Autonomous Driving**|Korbinian Moller et.al.|[2504.01408](http://arxiv.org/abs/2504.01408)|null|
+|**2025-04-02**|**An Explainable Reconfiguration-Based Optimization Algorithm for Industrial and Reliability-Redundancy Allocation Problems**|Dikshit Chauhan et.al.|[2504.01331](http://arxiv.org/abs/2504.01331)|null|
+|**2025-04-02**|**A Retina-Inspired Pathway to Real-Time Motion Prediction inside Image Sensors for Extreme-Edge Intelligence**|Subhradip Chakraborty et.al.|[2504.01275](http://arxiv.org/abs/2504.01275)|null|
 |**2025-03-31**|**UniOcc: A Unified Benchmark for Occupancy Forecasting and Prediction in Autonomous Driving**|Yuping Wang et.al.|[2503.24381](http://arxiv.org/abs/2503.24381)|**[link](https://github.com/tasl-lab/uniocc)**|
 |**2025-04-01**|**Self-Supervised Pretraining for Aerial Road Extraction**|Rupert Polley et.al.|[2503.24326](http://arxiv.org/abs/2503.24326)|null|
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320](http://arxiv.org/abs/2503.24320)|null|
