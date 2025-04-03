@@ -1,4 +1,4 @@
-## Updated on 2025.04.02
+## Updated on 2025.04.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,9 +13,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
-|**2025-03-31**|**Unraveling tensor structures in correct-by-design controller synthesis**|Ruohan Wang et.al.|[2503.24085](http://arxiv.org/abs/2503.24085)|null|
+|**2025-04-02**|**Unraveling tensor structures in correct-by-design controller synthesis**|Ruohan Wang et.al.|[2503.24085](http://arxiv.org/abs/2503.24085)|null|
 |**2025-03-31**|**Bi-Level Route Optimization and Path Planning with Hazard Exploration**|Jimin Choi et.al.|[2503.24044](http://arxiv.org/abs/2503.24044)|null|
-|**2025-03-31**|**Tree-Guided $L_1$ -Convex Clustering**|Bingyuan Zhang et.al.|[2503.24012](http://arxiv.org/abs/2503.24012)|null|
+|**2025-03-31**|**Tree-Guided $L_1$ -Convex Clustering**|Bingyuan Zhang et.al.|[2503.24012](http://arxiv.org/abs/2503.24012)|**[link](https://github.com/bingyuan-zhang/tgcc)**|
 |**2025-03-30**|**A Systematic Decade Review of Trip Route Planning with Travel Time Estimation based on User Preferences and Behavior**|Nikil Jayasuriya et.al.|[2503.23486](http://arxiv.org/abs/2503.23486)|null|
 |**2025-03-29**|**A convergence technique for the game i-Mark**|Gabriel Nivasch et.al.|[2503.23196](http://arxiv.org/abs/2503.23196)|null|
 |**2025-03-29**|**PartialLoading: User Scheduling and Bandwidth Allocation for Parameter-sharing Edge Inference**|Guanqiao Qu et.al.|[2503.22982](http://arxiv.org/abs/2503.22982)|null|
@@ -595,7 +595,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -612,14 +612,14 @@
 |**2025-03-31**|**Can Test-Time Scaling Improve World Foundation Model?**|Wenyan Cong et.al.|[2503.24320](http://arxiv.org/abs/2503.24320)|null|
 |**2025-03-31**|**BEATS: Bias Evaluation and Assessment Test Suite for Large Language Models**|Alok Abhishek et.al.|[2503.24310](http://arxiv.org/abs/2503.24310)|null|
 |**2025-03-31**|**A Systematic Evaluation of LLM Strategies for Mental Health Text Analysis: Fine-tuning vs. Prompt Engineering vs. RAG**|Arshia Kermani et.al.|[2503.24307](http://arxiv.org/abs/2503.24307)|null|
-|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|null|
+|**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
 |**2025-03-31**|**Style Quantization for Data-Efficient GAN Training**|Jian Wang et.al.|[2503.24282](http://arxiv.org/abs/2503.24282)|null|
 |**2025-03-31**|**Evaluating and Designing Sparse Autoencoders by Approximating Quasi-Orthogonality**|Sewoong Lee et.al.|[2503.24277](http://arxiv.org/abs/2503.24277)|**[link](https://github.com/sewoonglee/top-afa-sae)**|
 |**2025-03-31**|**Enhancing Large Language Models (LLMs) for Telecommunications using Knowledge Graphs and Retrieval-Augmented Generation**|Dun Yuan et.al.|[2503.24245](http://arxiv.org/abs/2503.24245)|null|
 |**2025-03-31**|**What, How, Where, and How Well? A Survey on Test-Time Scaling in Large Language Models**|Qiyuan Zhang et.al.|[2503.24235](http://arxiv.org/abs/2503.24235)|null|
 |**2025-03-31**|**Synthetic News Generation for Fake News Classification**|Abdul Sittar et.al.|[2503.24206](http://arxiv.org/abs/2503.24206)|null|
 |**2025-03-31**|**TwT: Thinking without Tokens by Habitual Reasoning Distillation with Multi-Teachers' Guidance**|Jingxian Xu et.al.|[2503.24198](http://arxiv.org/abs/2503.24198)|null|
-|**2025-03-31**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
+|**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
 |**2025-03-31**|**Output Constraints as Attack Surface: Exploiting Structured Generation to Bypass LLM Safety Mechanisms**|Shuoming Zhang et.al.|[2503.24191](http://arxiv.org/abs/2503.24191)|null|
 |**2025-03-28**|**Q-Insight: Understanding Image Quality via Visual Reinforcement Learning**|Weiqi Li et.al.|[2503.22679](http://arxiv.org/abs/2503.22679)|**[link](https://github.com/lwq20020127/q-insight)**|
 |**2025-03-28**|**QuestBench: Can LLMs ask the right question to acquire information in reasoning tasks?**|Belinda Z. Li et.al.|[2503.22674](http://arxiv.org/abs/2503.22674)|null|
@@ -6064,7 +6064,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -10950,5 +10950,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250402>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250403>back to top</a>)</p>
 
