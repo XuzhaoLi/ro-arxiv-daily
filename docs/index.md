@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -6150,7 +6150,7 @@ layout: default
 |**2025-04-03**|**On Composable and Parametric Uncertainty in Systems Co-Design**|Yujun Huang et.al.|[2504.02766](http://arxiv.org/abs/2504.02766)|null|
 |**2025-04-03**|**Echoes of the hidden: Uncovering coordination beyond network structure**|Shahar Somin et.al.|[2504.02757](http://arxiv.org/abs/2504.02757)|null|
 |**2025-04-03**|**TeleMoM: Consensus-Driven Telecom Intelligence via Mixture of Models**|Xinquan Wang et.al.|[2504.02712](http://arxiv.org/abs/2504.02712)|null|
-|**2025-04-03**|**Semiparametric Counterfactual Regression**|Kwangho Kim et.al.|[2504.02694](http://arxiv.org/abs/2504.02694)|null|
+|**2025-04-06**|**Semiparametric Counterfactual Regression**|Kwangho Kim et.al.|[2504.02694](http://arxiv.org/abs/2504.02694)|null|
 |**2025-04-03**|**A Set-Theoretic Robust Control Approach for Linear Quadratic Games with Unknown Counterparts**|Francesco Bianchin et.al.|[2504.02679](http://arxiv.org/abs/2504.02679)|null|
 |**2025-04-03**|**Digital Twins for Internet of Battlespace Things (IoBT) Coalitions**|Athanasios Gkelias et.al.|[2504.02561](http://arxiv.org/abs/2504.02561)|null|
 |**2025-04-03**|**Exploring Individual Factors in the Adoption of LLMs for Specific Software Engineering Tasks**|Stefano Lambiase et.al.|[2504.02553](http://arxiv.org/abs/2504.02553)|null|
