@@ -624,14 +624,14 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-10**|**Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments**|Lorenz Linhardt et.al.|[2504.07965](http://arxiv.org/abs/2504.07965)|null|
-|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|null|
+|**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
-|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|null|
+|**2025-04-10**|**MM-IFEngine: Towards Multimodal Instruction Following**|Shengyuan Ding et.al.|[2504.07957](http://arxiv.org/abs/2504.07957)|**[link](https://github.com/syuan03/mm-ifengine)**|
 |**2025-04-10**|**VCR-Bench: A Comprehensive Evaluation Framework for Video Chain-of-Thought Reasoning**|Yukun Qi et.al.|[2504.07956](http://arxiv.org/abs/2504.07956)|null|
-|**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952](http://arxiv.org/abs/2504.07952)|null|
+|**2025-04-10**|**Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory**|Mirac Suzgun et.al.|[2504.07952](http://arxiv.org/abs/2504.07952)|**[link](https://github.com/suzgunmirac/dynamic-cheatsheet)**|
 |**2025-04-10**|**We Are All Creators: Generative AI, Collective Knowledge, and the Path Towards Human-AI Synergy**|Jordi Linares-Pellicer et.al.|[2504.07936](http://arxiv.org/abs/2504.07936)|null|
-|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|null|
+|**2025-04-10**|**Echo Chamber: RL Post-training Amplifies Behaviors Learned in Pretraining**|Rosie Zhao et.al.|[2504.07912](http://arxiv.org/abs/2504.07912)|**[link](https://github.com/rosieyzh/openrlhf-pretrain)**|
 |**2025-04-10**|**Porting an LLM based Application from ChatGPT to an On-Premise Environment**|Teemu Paloniemi et.al.|[2504.07907](http://arxiv.org/abs/2504.07907)|null|
 |**2025-04-10**|**Redefining Machine Translation on Social Network Services with Large Language Models**|Hongcheng Guo et.al.|[2504.07901](http://arxiv.org/abs/2504.07901)|null|
 |**2025-04-10**|**How do Large Language Models Understand Relevance? A Mechanistic Interpretability Perspective**|Qi Liu et.al.|[2504.07898](http://arxiv.org/abs/2504.07898)|null|
@@ -6233,13 +6233,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
-|**2025-04-10**|**Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case**|Ben Cheng et.al.|[2504.07870](http://arxiv.org/abs/2504.07870)|null|
+|**2025-04-10**|**Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case**|Ben Cheng et.al.|[2504.07870](http://arxiv.org/abs/2504.07870)|**[link](https://github.com/bencheng2/carbondistributionmap)**|
 |**2025-04-10**|**Probabilistic Multi-Criteria Decision-Making for Circularity Performance of Modern Methods of Construction Products**|Yiping Meng et.al.|[2504.07850](http://arxiv.org/abs/2504.07850)|null|
 |**2025-04-10**|**RASMD: RGB And SWIR Multispectral Driving Dataset for Robust Perception in Adverse Conditions**|Youngwan Jin et.al.|[2504.07603](http://arxiv.org/abs/2504.07603)|null|
 |**2025-04-10**|**Enhancements for Developing a Comprehensive AI Fairness Assessment Standard**|Avinash Agarwal et.al.|[2504.07516](http://arxiv.org/abs/2504.07516)|null|
 |**2025-04-10**|**Drive in Corridors: Enhancing the Safety of End-to-end Autonomous Driving via Corridor Learning and Planning**|Zhiwei Zhang et.al.|[2504.07507](http://arxiv.org/abs/2504.07507)|null|
 |**2025-04-10**|**Bottleneck Identification in Resource-Constrained Project Scheduling via Constraint Relaxation**|Lukáš Nedbálek et.al.|[2504.07495](http://arxiv.org/abs/2504.07495)|null|
-|**2025-04-10**|**Probability Estimation and Scheduling Optimization for Battery Swap Stations via LRU-Enhanced Genetic Algorithm and Dual-Factor Decision System**|Anzhen Li et.al.|[2504.07453](http://arxiv.org/abs/2504.07453)|null|
+|**2025-04-10**|**Probability Estimation and Scheduling Optimization for Battery Swap Stations via LRU-Enhanced Genetic Algorithm and Dual-Factor Decision System**|Anzhen Li et.al.|[2504.07453](http://arxiv.org/abs/2504.07453)|**[link](https://github.com/qingshufan/ga-evlru)**|
 |**2025-04-10**|**Estimand framework development for eGFR slope estimation and comparative analyses across various estimation methods**|Tuo Wang et.al.|[2504.07411](http://arxiv.org/abs/2504.07411)|null|
 |**2025-04-09**|**RAISE: Reinforenced Adaptive Instruction Selection For Large Language Models**|Lv Qingsong et.al.|[2504.07282](http://arxiv.org/abs/2504.07282)|null|
 |**2025-04-09**|**Language Modeling for the Future of Finance: A Quantitative Survey into Metrics, Tasks, and Data Opportunities**|Nikita Tatarinov et.al.|[2504.07274](http://arxiv.org/abs/2504.07274)|null|
