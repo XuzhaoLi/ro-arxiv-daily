@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Interior Point Differential Dynamic Programming, Redux**|Ming Xu et.al.|[2504.08278](http://arxiv.org/abs/2504.08278)|null|
+|**2025-04-10**|**Quantum-assured magnetic navigation achieves positioning accuracy better than a strategic-grade INS in airborne and ground-based field trials**|Murat Muradoglu et.al.|[2504.08167](http://arxiv.org/abs/2504.08167)|null|
 |**2025-04-10**|**Low-Thrust Many-Revolution Transfer between Near Rectilinear Halo Orbit and Low Lunar Orbit Using Hybrid Differential Dynamic Programming**|Kohei Oue et.al.|[2504.07723](http://arxiv.org/abs/2504.07723)|null|
 |**2025-04-10**|**Joint Travel Route Optimization Framework for Platooning**|Akif Adas et.al.|[2504.07623](http://arxiv.org/abs/2504.07623)|null|
 |**2025-04-09**|**Rounding the Lovász Theta Function with a Value Function Approximation**|Rui Gong et.al.|[2504.07204](http://arxiv.org/abs/2504.07204)|null|
@@ -616,6 +618,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Quantum Large Language Model Fine-Tuning**|Sang Hyub Kim et.al.|[2504.08732](http://arxiv.org/abs/2504.08732)|null|
+|**2025-04-11**|**DocAgent: A Multi-Agent System for Automated Code Documentation Generation**|Dayu Yang et.al.|[2504.08725](http://arxiv.org/abs/2504.08725)|null|
+|**2025-04-11**|**SWAN-GPT: An Efficient and Scalable Approach for Long-Context Language Modeling**|Krishna C. Puvvada et.al.|[2504.08719](http://arxiv.org/abs/2504.08719)|null|
+|**2025-04-11**|**SWE-PolyBench: A multi-language benchmark for repository level evaluation of coding agents**|Muhammad Shihab Rashid et.al.|[2504.08703](http://arxiv.org/abs/2504.08703)|null|
+|**2025-04-11**|**Large Language Models as Span Annotators**|Zdeněk Kasner et.al.|[2504.08697](http://arxiv.org/abs/2504.08697)|null|
+|**2025-04-11**|**TP-RAG: Benchmarking Retrieval-Augmented Large Language Model Agents for Spatiotemporal-Aware Travel Planning**|Hang Ni et.al.|[2504.08694](http://arxiv.org/abs/2504.08694)|null|
+|**2025-04-11**|**Fast-Slow-Thinking: Complex Task Solving with Large Language Models**|Yiliu Sun et.al.|[2504.08690](http://arxiv.org/abs/2504.08690)|null|
+|**2025-04-11**|**Voice Interaction With Conversational AI Could Facilitate Thoughtful Reflection and Substantive Revision in Writing**|Jiho Kim et.al.|[2504.08687](http://arxiv.org/abs/2504.08687)|null|
+|**2025-04-11**|**Seaweed-7B: Cost-Effective Training of Video Generation Foundation Model**|Team Seawead et.al.|[2504.08685](http://arxiv.org/abs/2504.08685)|null|
+|**2025-04-11**|**Variability-Driven User-Story Generation using LLM and Triadic Concept Analysis**|Alexandre Bazin et.al.|[2504.08666](http://arxiv.org/abs/2504.08666)|null|
+|**2025-04-11**|**Quality evaluation of Tabby coding assistant using real source code snippets**|Marta Borek et.al.|[2504.08650](http://arxiv.org/abs/2504.08650)|null|
+|**2025-04-11**|**Do LLMs trust AI regulation? Emerging behaviour of game-theoretic LLM agents**|Alessio Buscemi et.al.|[2504.08640](http://arxiv.org/abs/2504.08640)|null|
+|**2025-04-11**|**Latent Diffusion Autoencoders: Toward Efficient and Meaningful Unsupervised Representation Learning in Medical Imaging**|Gabriele Lozupone et.al.|[2504.08635](http://arxiv.org/abs/2504.08635)|**[link](https://github.com/GabrieleLozupone/LDAE)**|
+|**2025-04-11**|**MooseAgent: A LLM Based Multi-agent Framework for Automating Moose Simulation**|Tao Zhang et.al.|[2504.08621](http://arxiv.org/abs/2504.08621)|null|
+|**2025-04-11**|**Analyzing 16,193 LLM Papers for Fun and Profits**|Zhiqiu Xia et.al.|[2504.08619](http://arxiv.org/abs/2504.08619)|null|
+|**2025-04-11**|**Playpen: An Environment for Exploring Learning Through Conversational Interaction**|Nicola Horst et.al.|[2504.08590](http://arxiv.org/abs/2504.08590)|null|
+|**2025-04-11**|**AstroLLaVA: towards the unification of astronomical data and natural language**|Sharaf Zaman et.al.|[2504.08583](http://arxiv.org/abs/2504.08583)|null|
+|**2025-04-11**|**UoB-NLP at SemEval-2025 Task 11: Leveraging Adapters for Multilingual and Cross-Lingual Emotion Detection**|Frances Laureano De Leon et.al.|[2504.08543](http://arxiv.org/abs/2504.08543)|null|
+|**2025-04-11**|**Embodied Image Captioning: Self-supervised Learning Agents for Spatially Coherent Image Descriptions**|Tommaso Galliena et.al.|[2504.08531](http://arxiv.org/abs/2504.08531)|null|
+|**2025-04-11**|**On The Landscape of Spoken Language Models: A Comprehensive Survey**|Siddhant Arora et.al.|[2504.08528](http://arxiv.org/abs/2504.08528)|null|
 |**2025-04-10**|**Cat, Rat, Meow: On the Alignment of Language Model and Human Term-Similarity Judgments**|Lorenz Linhardt et.al.|[2504.07965](http://arxiv.org/abs/2504.07965)|null|
 |**2025-04-10**|**C3PO: Critical-Layer, Core-Expert, Collaborative Pathway Optimization for Test-Time Expert Re-Mixing**|Zhongyang Li et.al.|[2504.07964](http://arxiv.org/abs/2504.07964)|**[link](https://github.com/tianyi-lab/c3po)**|
 |**2025-04-10**|**GLUS: Global-Local Reasoning Unified into A Single Large Language Model for Video Segmentation**|Lang Lin et.al.|[2504.07962](http://arxiv.org/abs/2504.07962)|null|
@@ -6223,6 +6245,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**Interaction-Required Suggestions for Control, Ownership, and Awareness in Human-AI Co-Writing**|Kenneth C. Arnold et.al.|[2504.08726](http://arxiv.org/abs/2504.08726)|null|
+|**2025-04-11**|**Offline Reinforcement Learning using Human-Aligned Reward Labeling for Autonomous Emergency Braking in Occluded Pedestrian Crossing**|Vinal Asodia et.al.|[2504.08704](http://arxiv.org/abs/2504.08704)|null|
+|**2025-04-11**|**TinyCenterSpeed: Efficient Center-Based Object Detection for Autonomous Racing**|Neil Reichlin et.al.|[2504.08655](http://arxiv.org/abs/2504.08655)|null|
+|**2025-04-11**|**Ready, Bid, Go! On-Demand Delivery Using Fleets of Drones with Unknown, Heterogeneous Energy Storage Constraints**|Mohamed S. Talamali et.al.|[2504.08585](http://arxiv.org/abs/2504.08585)|null|
+|**2025-04-11**|**Control Co-Design Under Uncertainty for Offshore Wind Farms: Optimizing Grid Integration, Energy Storage, and Market Participation**|Himanshu Sharma et.al.|[2504.08555](http://arxiv.org/abs/2504.08555)|null|
+|**2025-04-11**|**Shadow Erosion and Nighttime Adaptability for Camera-Based Automated Driving Applications**|Mohamed Sabry et.al.|[2504.08551](http://arxiv.org/abs/2504.08551)|null|
+|**2025-04-11**|**Datasets for Lane Detection in Autonomous Driving: A Comprehensive Review**|Jörg Gamerdinger et.al.|[2504.08540](http://arxiv.org/abs/2504.08540)|null|
+|**2025-04-11**|**Dark Haptics: Exploring Manipulative Haptic Design in Mobile User Interfaces**|Chenge Tang et.al.|[2504.08471](http://arxiv.org/abs/2504.08471)|null|
+|**2025-04-11**|**Road Grip Uncertainty Estimation Through Surface State Segmentation**|Jyri Maanpää et.al.|[2504.08452](http://arxiv.org/abs/2504.08452)|null|
+|**2025-04-11**|**DRIP: DRop unImportant data Points -- Enhancing Machine Learning Efficiency with Grad-CAM-Based Real-Time Data Prioritization for On-Device Training**|Marcus Rüb et.al.|[2504.08364](http://arxiv.org/abs/2504.08364)|null|
+|**2025-04-11**|**SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis**|Yi Chen et.al.|[2504.08361](http://arxiv.org/abs/2504.08361)|null|
+|**2025-04-11**|**Scalable Conflict-free Decision Making with Photons**|Kohei Konaka et.al.|[2504.08331](http://arxiv.org/abs/2504.08331)|null|
+|**2025-04-11**|**Evaluating the Bias in LLMs for Surveying Opinion and Decision Making in Healthcare**|Yonchanok Khaokaew et.al.|[2504.08260](http://arxiv.org/abs/2504.08260)|null|
+|**2025-04-11**|**InSPE: Rapid Evaluation of Heterogeneous Multi-Modal Infrastructure Sensor Placement**|Zhaoliang Zheng et.al.|[2504.08240](http://arxiv.org/abs/2504.08240)|null|
+|**2025-04-11**|**CATCH-FORM-ACTer: Compliance-Aware Tactile Control and Hybrid Deformation Regulation-Based Action Transformer for Viscoelastic Object Manipulation**|Hongjun Ma et.al.|[2504.08232](http://arxiv.org/abs/2504.08232)|null|
+|**2025-04-11**|**VL-UR: Vision-Language-guided Universal Restoration of Images Degraded by Adverse Weather Conditions**|Ziyan Liu et.al.|[2504.08219](http://arxiv.org/abs/2504.08219)|null|
+|**2025-04-11**|**Optimizing Power Grid Topologies with Reinforcement Learning: A Survey of Methods and Challenges**|Erica van der Sar et.al.|[2504.08210](http://arxiv.org/abs/2504.08210)|null|
+|**2025-04-11**|**Advancing Autonomous Vehicle Safety: A Combined Fault Tree Analysis and Bayesian Network Approach**|Lansu Dai et.al.|[2504.08206](http://arxiv.org/abs/2504.08206)|null|
+|**2025-04-11**|**EO-VLM: VLM-Guided Energy Overload Attacks on Vision Models**|Minjae Seo et.al.|[2504.08205](http://arxiv.org/abs/2504.08205)|null|
+|**2025-04-11**|**Neural Encoding and Decoding at Scale**|Yizi Zhang et.al.|[2504.08201](http://arxiv.org/abs/2504.08201)|null|
 |**2025-04-10**|**Detect Anything 3D in the Wild**|Hanxue Zhang et.al.|[2504.07958](http://arxiv.org/abs/2504.07958)|null|
 |**2025-04-10**|**Open Datasets for Grid Modeling and Visualization: An Alberta Power Network Case**|Ben Cheng et.al.|[2504.07870](http://arxiv.org/abs/2504.07870)|**[link](https://github.com/bencheng2/carbondistributionmap)**|
 |**2025-04-10**|**Probabilistic Multi-Criteria Decision-Making for Circularity Performance of Modern Methods of Construction Products**|Yiping Meng et.al.|[2504.07850](http://arxiv.org/abs/2504.07850)|null|
