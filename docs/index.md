@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.15
+## Updated on 2025.04.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -626,13 +626,13 @@ layout: default
 |**2025-04-14**|**MIEB: Massive Image Embedding Benchmark**|Chenghao Xiao et.al.|[2504.10471](http://arxiv.org/abs/2504.10471)|null|
 |**2025-04-14**|**Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding**|Tao Zhang et.al.|[2504.10465](http://arxiv.org/abs/2504.10465)|null|
 |**2025-04-14**|**The Scalability of Simplicity: Empirical Analysis of Vision-Language Learning with a Single Transformer**|Weixian Lei et.al.|[2504.10462](http://arxiv.org/abs/2504.10462)|null|
-|**2025-04-14**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
+|**2025-04-15**|**GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents**|Xiaobo Xia et.al.|[2504.10458](http://arxiv.org/abs/2504.10458)|null|
 |**2025-04-14**|**M1: Towards Scalable Test-Time Compute with Mamba Reasoning Models**|Junxiong Wang et.al.|[2504.10449](http://arxiv.org/abs/2504.10449)|null|
 |**2025-04-14**|**Multimodal Long Video Modeling Based on Temporal Dynamic Context**|Haoran Hao et.al.|[2504.10443](http://arxiv.org/abs/2504.10443)|null|
 |**2025-04-14**|**LLM Can be a Dangerous Persuader: Empirical Study of Persuasion Safety in Large Language Models**|Minqian Liu et.al.|[2504.10430](http://arxiv.org/abs/2504.10430)|null|
-|**2025-04-14**|**Foundation models for electronic health records: representation dynamics and transferability**|Michael C. Burkhart et.al.|[2504.10422](http://arxiv.org/abs/2504.10422)|null|
+|**2025-04-14**|**Foundation models for electronic health records: representation dynamics and transferability**|Michael C. Burkhart et.al.|[2504.10422](http://arxiv.org/abs/2504.10422)|**[link](https://github.com/bbj-lab/FMs-EHRs-Rep-Dynamics-and-Transfer)**|
 |**2025-04-14**|**Can We Edit LLMs for Long-Tail Biomedical Knowledge?**|Xinhao Yi et.al.|[2504.10421](http://arxiv.org/abs/2504.10421)|null|
-|**2025-04-14**|**Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA**|Michał Turski et.al.|[2504.10419](http://arxiv.org/abs/2504.10419)|null|
+|**2025-04-15**|**Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA**|Michał Turski et.al.|[2504.10419](http://arxiv.org/abs/2504.10419)|null|
 |**2025-04-14**|**CliniChat: A Multi-Source Knowledge-Driven Framework for Clinical Interview Dialogue Reconstruction and Evaluation**|Jing Chen et.al.|[2504.10418](http://arxiv.org/abs/2504.10418)|null|
 |**2025-04-14**|**LLM-SRBench: A New Benchmark for Scientific Equation Discovery with Large Language Models**|Parshin Shojaee et.al.|[2504.10415](http://arxiv.org/abs/2504.10415)|**[link](https://github.com/deep-symbolic-mathematics/llm-srbench)**|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
@@ -6270,7 +6270,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-14**|**Decoupled Diffusion Sparks Adaptive Scene Generation**|Yunsong Zhou et.al.|[2504.10485](http://arxiv.org/abs/2504.10485)|null|
 |**2025-04-14**|**The Price of Competitive Information Disclosure**|Siddhartha Banerjee et.al.|[2504.10459](http://arxiv.org/abs/2504.10459)|null|
-|**2025-04-14**|**Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA**|Michał Turski et.al.|[2504.10419](http://arxiv.org/abs/2504.10419)|null|
+|**2025-04-15**|**Unchecked and Overlooked: Addressing the Checkbox Blind Spot in Large Language Models with CheckboxQA**|Michał Turski et.al.|[2504.10419](http://arxiv.org/abs/2504.10419)|null|
 |**2025-04-14**|**Performance of Large Language Models in Supporting Medical Diagnosis and Treatment**|Diogo Sousa et.al.|[2504.10405](http://arxiv.org/abs/2504.10405)|null|
 |**2025-04-14**|**Can LLMs Assist Expert Elicitation for Probabilistic Causal Modeling?**|Olha Shaposhnyk et.al.|[2504.10397](http://arxiv.org/abs/2504.10397)|null|
 |**2025-04-14**|**Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning**|Guanqi He et.al.|[2504.10334](http://arxiv.org/abs/2504.10334)|null|
