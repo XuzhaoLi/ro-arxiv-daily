@@ -1,4 +1,4 @@
-## Updated on 2025.04.17
+## Updated on 2025.04.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -27,7 +27,7 @@
 |**2025-04-10**|**Joint Travel Route Optimization Framework for Platooning**|Akif Adas et.al.|[2504.07623](http://arxiv.org/abs/2504.07623)|null|
 |**2025-04-09**|**Rounding the Lovász Theta Function with a Value Function Approximation**|Rui Gong et.al.|[2504.07204](http://arxiv.org/abs/2504.07204)|null|
 |**2025-04-09**|**Evaluating Retrieval Augmented Generative Models for Document Queries in Transportation Safety**|Chad Melton et.al.|[2504.07022](http://arxiv.org/abs/2504.07022)|null|
-|**2025-04-09**|**Maximizing Battery Storage Profits via High-Frequency Intraday Trading**|David Schaurecker et.al.|[2504.06932](http://arxiv.org/abs/2504.06932)|null|
+|**2025-04-17**|**Maximizing Battery Storage Profits via High-Frequency Intraday Trading**|David Schaurecker et.al.|[2504.06932](http://arxiv.org/abs/2504.06932)|null|
 |**2025-04-08**|**Linear-space LCS enumeration with quadratic-time delay for two strings**|Yoshifumi Sakai et.al.|[2504.05742](http://arxiv.org/abs/2504.05742)|null|
 |**2025-04-09**|**DDT: Decoupled Diffusion Transformer**|Shuai Wang et.al.|[2504.05741](http://arxiv.org/abs/2504.05741)|null|
 |**2025-04-08**|**Hamilton-Jacobi-Bellman equation and Viscosity solutions for an optimal control problem for stochastic convective Brinkman-Forchheimer equations**|Sagar Gautam et.al.|[2504.05707](http://arxiv.org/abs/2504.05707)|null|
@@ -628,7 +628,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -6317,7 +6317,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6333,7 +6333,7 @@
 |**2025-04-16**|**Action Anticipation from SoccerNet Football Video Broadcasts**|Mohamad Dalal et.al.|[2504.12021](http://arxiv.org/abs/2504.12021)|null|
 |**2025-04-16**|**Scaled Block Vecchia Approximation for High-Dimensional Gaussian Process Emulation on GPUs**|Qilong Pan et.al.|[2504.12004](http://arxiv.org/abs/2504.12004)|null|
 |**2025-04-16**|**Novel-view X-ray Projection Synthesis through Geometry-Integrated Deep Learning**|Daiqi Liu et.al.|[2504.11953](http://arxiv.org/abs/2504.11953)|null|
-|**2025-04-16**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901](http://arxiv.org/abs/2504.11901)|null|
+|**2025-04-17**|**Causality-enhanced Decision-Making for Autonomous Mobile Robots in Dynamic Environments**|Luca Castri et.al.|[2504.11901](http://arxiv.org/abs/2504.11901)|null|
 |**2025-04-16**|**Discrimination-free Insurance Pricing with Privatized Sensitive Attributes**|Tianhe Zhang et.al.|[2504.11775](http://arxiv.org/abs/2504.11775)|null|
 |**2025-04-16**|**Inversion of biological strategies in engineering technology: in case underwater soft robot**|Siqing Chen et.al.|[2504.11722](http://arxiv.org/abs/2504.11722)|null|
 |**2025-04-16**|**Steering Prosocial AI Agents: Computational Basis of LLM's Decision Making in Social Simulation**|Ji Ma et.al.|[2504.11671](http://arxiv.org/abs/2504.11671)|null|
@@ -11408,5 +11408,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250417>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250418>back to top</a>)</p>
 
