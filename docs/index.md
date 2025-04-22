@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.04.21
+## Updated on 2025.04.22
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-16**|**Beyond ISAC: Toward Integrated Heterogeneous Service Provisioning via Elastic Multi-Dimensional Multiple Access**|Jie Chen et.al.|[2504.11692](http://arxiv.org/abs/2504.11692)|null|
-|**2025-04-15**|**Traffic Adaptive Moving-window Service Patrolling for Real-time Incident Management during High-impact Events**|Haozhe Lei et.al.|[2504.11570](http://arxiv.org/abs/2504.11570)|null|
+|**2025-04-18**|**Traffic Adaptive Moving-window Service Patrolling for Real-time Incident Management during High-impact Events**|Haozhe Lei et.al.|[2504.11570](http://arxiv.org/abs/2504.11570)|null|
 |**2025-04-15**|**TransitReID: Transit OD Data Collection with Occlusion-Resistant Dynamic Passenger Re-Identification**|Kaicong Huang et.al.|[2504.11500](http://arxiv.org/abs/2504.11500)|null|
 |**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119](http://arxiv.org/abs/2504.11119)|null|
 |**2025-04-15**|**Breaking the Dimensional Barrier: A Pontryagin-Guided Direct Policy Optimization for Continuous-Time Multi-Asset Portfolio**|Jeonggyu Huh et.al.|[2504.11116](http://arxiv.org/abs/2504.11116)|null|
