@@ -12,6 +12,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
+|**2025-04-21**|**Feedback Stackelberg-Nash equilibria in difference games with quasi-hierarchical interactions and inequality constraints**|Partha Sarathi Mohapatra et.al.|[2504.15019](http://arxiv.org/abs/2504.15019)|null|
+|**2025-04-19**|**Optimal Operation and Valuation of Electricity Storages**|Jean-Philippe Chancelier et.al.|[2504.14292](http://arxiv.org/abs/2504.14292)|null|
+|**2025-04-18**|**Code generation for solving and differentiating through convex optimization problems**|Maximilian Schaller et.al.|[2504.14099](http://arxiv.org/abs/2504.14099)|null|
 |**2025-04-16**|**Beyond ISAC: Toward Integrated Heterogeneous Service Provisioning via Elastic Multi-Dimensional Multiple Access**|Jie Chen et.al.|[2504.11692](http://arxiv.org/abs/2504.11692)|null|
 |**2025-04-18**|**Traffic Adaptive Moving-window Service Patrolling for Real-time Incident Management during High-impact Events**|Haozhe Lei et.al.|[2504.11570](http://arxiv.org/abs/2504.11570)|null|
 |**2025-04-15**|**TransitReID: Transit OD Data Collection with Occlusion-Resistant Dynamic Passenger Re-Identification**|Kaicong Huang et.al.|[2504.11500](http://arxiv.org/abs/2504.11500)|null|
@@ -634,6 +638,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Seeing from Another Perspective: Evaluating Multi-View Understanding in MLLMs**|Chun-Hsiao Yeh et.al.|[2504.15280](http://arxiv.org/abs/2504.15280)|null|
+|**2025-04-21**|**VisuLogic: A Benchmark for Evaluating Visual Reasoning in Multi-modal Large Language Models**|Weiye Xu et.al.|[2504.15279](http://arxiv.org/abs/2504.15279)|null|
+|**2025-04-21**|**Stop Summation: Min-Form Credit Assignment Is All Process Reward Model Needs for Reasoning**|Jie Cheng et.al.|[2504.15275](http://arxiv.org/abs/2504.15275)|**[link](https://github.com/cjreinforce/pure)**|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction**|Vaishnavh Nagarajan et.al.|[2504.15266](http://arxiv.org/abs/2504.15266)|**[link](https://github.com/chenwu98/algorithmic-creativity)**|
+|**2025-04-21**|**Interpretable Locomotion Prediction in Construction Using a Memory-Driven LLM Agent With Chain-of-Thought Reasoning**|Ehsan Ahmadi et.al.|[2504.15263](http://arxiv.org/abs/2504.15263)|null|
+|**2025-04-21**|**Leveraging Language Models for Automated Patient Record Linkage**|Mohammad Beheshti et.al.|[2504.15261](http://arxiv.org/abs/2504.15261)|null|
+|**2025-04-21**|**CRUST-Bench: A Comprehensive Benchmark for C-to-safe-Rust Transpilation**|Anirudh Khatry et.al.|[2504.15254](http://arxiv.org/abs/2504.15254)|**[link](https://github.com/anirudhkhatry/crust-bench)**|
+|**2025-04-21**|**Evaluating Judges as Evaluators: The JETTS Benchmark of LLM-as-Judges as Test-Time Scaling Evaluators**|Yilun Zhou et.al.|[2504.15253](http://arxiv.org/abs/2504.15253)|**[link](https://github.com/salesforceairesearch/jetts-benchmark)**|
+|**2025-04-21**|**MR. Guard: Multilingual Reasoning Guardrail using Curriculum Learning**|Yahan Yang et.al.|[2504.15241](http://arxiv.org/abs/2504.15241)|null|
+|**2025-04-21**|**Values in the Wild: Discovering and Analyzing Values in Real-World Language Model Interactions**|Saffron Huang et.al.|[2504.15236](http://arxiv.org/abs/2504.15236)|null|
+|**2025-04-21**|**A Self-Improving Coding Agent**|Maxime Robeyns et.al.|[2504.15228](http://arxiv.org/abs/2504.15228)|null|
+|**2025-04-21**|**EvalAgent: Discovering Implicit Evaluation Criteria from the Web**|Manya Wadhwa et.al.|[2504.15219](http://arxiv.org/abs/2504.15219)|null|
+|**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210](http://arxiv.org/abs/2504.15210)|null|
+|**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208](http://arxiv.org/abs/2504.15208)|null|
+|**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
+|**2025-04-21**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
+|**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
+|**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/abs/2504.15160)|null|
+|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
 |**2025-04-18**|**Generative AI Act II: Test Time Scaling Drives Cognition Engineering**|Shijie Xia et.al.|[2504.13828](http://arxiv.org/abs/2504.13828)|null|
 |**2025-04-18**|**Feature Alignment and Representation Transfer in Knowledge Distillation for Large Language Models**|Junjie Yang et.al.|[2504.13825](http://arxiv.org/abs/2504.13825)|null|
 |**2025-04-18**|**CheXWorld: Exploring Image World Modeling for Radiograph Representation Learning**|Yang Yue et.al.|[2504.13820](http://arxiv.org/abs/2504.13820)|**[link](https://github.com/LeapLabTHU/CheXWorld)**|
@@ -6363,6 +6387,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Diffusion Bridge Models for 3D Medical Image Translation**|Shaorong Zhang et.al.|[2504.15267](http://arxiv.org/abs/2504.15267)|null|
+|**2025-04-21**|**Position: Bayesian Statistics Facilitates Stakeholder Participation in Evaluation of Generative AI**|Yanan Long et.al.|[2504.15211](http://arxiv.org/abs/2504.15211)|null|
+|**2025-04-21**|**Scalable Discrete Event Simulation Tool for Large-Scale Cyber-Physical Energy Systems: Advancing System Efficiency and Scalability**|Khandaker Akramul Haque et.al.|[2504.15198](http://arxiv.org/abs/2504.15198)|null|
+|**2025-04-21**|**Beyond Binary Opinions: A Deep Reinforcement Learning-Based Approach to Uncertainty-Aware Competitive Influence Maximization**|Qi Zhang et.al.|[2504.15131](http://arxiv.org/abs/2504.15131)|null|
+|**2025-04-21**|**Optimal Behavior Planning for Implicit Communication using a Probabilistic Vehicle-Pedestrian Interaction Model**|Markus Amann et.al.|[2504.15098](http://arxiv.org/abs/2504.15098)|null|
+|**2025-04-21**|**Hierarchical Attention Fusion of Visual and Textual Representations for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2504.15085](http://arxiv.org/abs/2504.15085)|null|
+|**2025-04-21**|**Distributed Cognition for AI-supported Remote Operations: Challenges and Research Directions**|Rune Møberg Jacobsen et.al.|[2504.14996](http://arxiv.org/abs/2504.14996)|null|
+|**2025-04-21**|**Integrating Response Time and Attention Duration in Bayesian Preference Learning for Multiple Criteria Decision Aiding**|Jiaxuan Jiang et.al.|[2504.14938](http://arxiv.org/abs/2504.14938)|null|
+|**2025-04-21**|**Dynamic Contrastive Skill Learning with State-Transition Based Skill Clustering and Dynamic Length Adjustment**|Jinwoo Choi et.al.|[2504.14805](http://arxiv.org/abs/2504.14805)|null|
+|**2025-04-20**|**Adaptive Field Effect Planner for Safe Interactive Autonomous Driving on Curved Roads**|Qinghao Li et.al.|[2504.14747](http://arxiv.org/abs/2504.14747)|null|
+|**2025-04-20**|**Wireless Large AI Model: Shaping the AI-Native Future of 6G and Beyond**|Fenghao Zhu et.al.|[2504.14653](http://arxiv.org/abs/2504.14653)|null|
+|**2025-04-20**|**Surrogate Fitness Metrics for Interpretable Reinforcement Learning**|Philipp Altmann et.al.|[2504.14645](http://arxiv.org/abs/2504.14645)|null|
+|**2025-04-20**|**Consensus in Motion: A Case of Dynamic Rationality of Sequential Learning in Probability Aggregation**|Polina Gordienko et.al.|[2504.14624](http://arxiv.org/abs/2504.14624)|null|
+|**2025-04-20**|**HealthGenie: Empowering Users with Healthy Dietary Guidance through Knowledge Graph and Large Language Models**|Fan Gao et.al.|[2504.14594](http://arxiv.org/abs/2504.14594)|null|
+|**2025-04-20**|**SMTT: Novel Structured Multi-task Tracking with Graph-Regularized Sparse Representation for Robust Thermal Infrared Target Tracking**|Shang Zhang et.al.|[2504.14566](http://arxiv.org/abs/2504.14566)|null|
+|**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[2504.14539](http://arxiv.org/abs/2504.14539)|null|
+|**2025-04-20**|**Causality for Natural Language Processing**|Zhijing Jin et.al.|[2504.14530](http://arxiv.org/abs/2504.14530)|null|
+|**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
+|**2025-04-20**|**ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion**|Mingjie Zhang et.al.|[2504.14478](http://arxiv.org/abs/2504.14478)|**[link](https://github.com/SYSU-STAR/ApexNav)**|
+|**2025-04-20**|**Seeing Through Risk: A Symbolic Approximation of Prospect Theory**|Ali Arslan Yousaf et.al.|[2504.14448](http://arxiv.org/abs/2504.14448)|null|
 |**2025-04-18**|**Constrained Average-Reward Intermittently Observable MDPs**|Konstantin Avrachenkov et.al.|[2504.13823](http://arxiv.org/abs/2504.13823)|null|
 |**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
 |**2025-04-18**|**Continual Pre-Training is (not) What You Need in Domain Adaption**|Pin-Er Chen et.al.|[2504.13603](http://arxiv.org/abs/2504.13603)|null|
