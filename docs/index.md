@@ -2,20 +2,20 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
-|**2025-04-21**|**Feedback Stackelberg-Nash equilibria in difference games with quasi-hierarchical interactions and inequality constraints**|Partha Sarathi Mohapatra et.al.|[2504.15019](http://arxiv.org/abs/2504.15019)|null|
+|**2025-04-22**|**Feedback Stackelberg-Nash equilibria in difference games with quasi-hierarchical interactions and inequality constraints**|Partha Sarathi Mohapatra et.al.|[2504.15019](http://arxiv.org/abs/2504.15019)|null|
 |**2025-04-19**|**Optimal Operation and Valuation of Electricity Storages**|Jean-Philippe Chancelier et.al.|[2504.14292](http://arxiv.org/abs/2504.14292)|null|
 |**2025-04-18**|**Code generation for solving and differentiating through convex optimization problems**|Maximilian Schaller et.al.|[2504.14099](http://arxiv.org/abs/2504.14099)|null|
 |**2025-04-16**|**Beyond ISAC: Toward Integrated Heterogeneous Service Provisioning via Elastic Multi-Dimensional Multiple Access**|Jie Chen et.al.|[2504.11692](http://arxiv.org/abs/2504.11692)|null|
 |**2025-04-18**|**Traffic Adaptive Moving-window Service Patrolling for Real-time Incident Management during High-impact Events**|Haozhe Lei et.al.|[2504.11570](http://arxiv.org/abs/2504.11570)|null|
 |**2025-04-15**|**TransitReID: Transit OD Data Collection with Occlusion-Resistant Dynamic Passenger Re-Identification**|Kaicong Huang et.al.|[2504.11500](http://arxiv.org/abs/2504.11500)|null|
 |**2025-04-15**|**Integration of a high-fidelity model of quantum sensors with a map-matching filter for quantum-enhanced navigation**|Samuel Lellouch et.al.|[2504.11119](http://arxiv.org/abs/2504.11119)|null|
-|**2025-04-15**|**Breaking the Dimensional Barrier: A Pontryagin-Guided Direct Policy Optimization for Continuous-Time Multi-Asset Portfolio**|Jeonggyu Huh et.al.|[2504.11116](http://arxiv.org/abs/2504.11116)|null|
+|**2025-04-22**|**Breaking the Dimensional Barrier: A Pontryagin-Guided Direct Policy Optimization for Continuous-Time Multi-Asset Portfolio**|Jeonggyu Huh et.al.|[2504.11116](http://arxiv.org/abs/2504.11116)|null|
 |**2025-04-15**|**Hallucination-Aware Generative Pretrained Transformer for Cooperative Aerial Mobility Control**|Hyojun Ahn et.al.|[2504.10831](http://arxiv.org/abs/2504.10831)|null|
 |**2025-04-11**|**A Nonlinear Hash-based Optimization Method for SpMV on GPUs**|Chen Yan et.al.|[2504.08860](http://arxiv.org/abs/2504.08860)|null|
 |**2025-04-07**|**A Constraint Programming Model For Serial Batch Scheduling With Minimum Batch Size**|Jorge A. Huertas et.al.|[2504.08793](http://arxiv.org/abs/2504.08793)|null|
@@ -647,7 +647,7 @@ layout: default
 |**2025-04-21**|**Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs**|Marina Sakharova et.al.|[2504.15210](http://arxiv.org/abs/2504.15210)|null|
 |**2025-04-21**|**Compute-Optimal LLMs Provably Generalize Better With Scale**|Marc Finzi et.al.|[2504.15208](http://arxiv.org/abs/2504.15208)|null|
 |**2025-04-21**|**Support Evaluation for the TREC 2024 RAG Track: Comparing Human versus LLM Judges**|Nandan Thakur et.al.|[2504.15205](http://arxiv.org/abs/2504.15205)|null|
-|**2025-04-21**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
+|**2025-04-22**|**Synergistic Weak-Strong Collaboration by Aligning Preferences**|Yizhu Jiao et.al.|[2504.15188](http://arxiv.org/abs/2504.15188)|null|
 |**2025-04-21**|**DSPO: Direct Semantic Preference Optimization for Real-World Image Super-Resolution**|Miaomiao Cai et.al.|[2504.15176](http://arxiv.org/abs/2504.15176)|null|
 |**2025-04-21**|**The Synthetic Imputation Approach: Generating Optimal Synthetic Texts For Underrepresented Categories In Supervised Classification Tasks**|Joan C. Timoneda et.al.|[2504.15160](http://arxiv.org/abs/2504.15160)|null|
 |**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
@@ -6396,7 +6396,7 @@ layout: default
 |**2025-04-20**|**Should Benevolent Deception be Allowed in EHMI? A Mechanism Explanation Based on Game Theory**|Linkun Liu et.al.|[2504.14539](http://arxiv.org/abs/2504.14539)|null|
 |**2025-04-20**|**Causality for Natural Language Processing**|Zhijing Jin et.al.|[2504.14530](http://arxiv.org/abs/2504.14530)|null|
 |**2025-04-20**|**Are Vision LLMs Road-Ready? A Comprehensive Benchmark for Safety-Critical Driving Video Understanding**|Tong Zeng et.al.|[2504.14526](http://arxiv.org/abs/2504.14526)|**[link](https://github.com/tong-zeng/dvbench)**|
-|**2025-04-20**|**ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion**|Mingjie Zhang et.al.|[2504.14478](http://arxiv.org/abs/2504.14478)|**[link](https://github.com/SYSU-STAR/ApexNav)**|
+|**2025-04-22**|**ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion**|Mingjie Zhang et.al.|[2504.14478](http://arxiv.org/abs/2504.14478)|**[link](https://github.com/SYSU-STAR/ApexNav)**|
 |**2025-04-20**|**Seeing Through Risk: A Symbolic Approximation of Prospect Theory**|Ali Arslan Yousaf et.al.|[2504.14448](http://arxiv.org/abs/2504.14448)|null|
 |**2025-04-18**|**Constrained Average-Reward Intermittently Observable MDPs**|Konstantin Avrachenkov et.al.|[2504.13823](http://arxiv.org/abs/2504.13823)|null|
 |**2025-04-18**|**Intelligent Interaction Strategies for Context-Aware Cognitive Augmentation**|Xiangrong et.al.|[2504.13684](http://arxiv.org/abs/2504.13684)|null|
