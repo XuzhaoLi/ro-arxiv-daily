@@ -1,4 +1,4 @@
-## Updated on 2025.04.23
+## Updated on 2025.04.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2025-04-22**|**Exploring Inevitable Waypoints for Unsolvability Explanation in Hybrid Planning Problems**|Mir Md Sajid Sarwar et.al.|[2504.15668](http://arxiv.org/abs/2504.15668)|null|
 |**2025-04-21**|**A Quadratic Control Framework for Dynamic Systems**|Igor Ladnik et.al.|[2504.15396](http://arxiv.org/abs/2504.15396)|null|
 |**2025-04-21**|**The Iterative Chainlet Partitioning Algorithm for the Traveling Salesman Problem with Drone and Neural Acceleration**|Jae Hyeok Lee et.al.|[2504.15147](http://arxiv.org/abs/2504.15147)|null|
-|**2025-04-22**|**Feedback Stackelberg-Nash equilibria in difference games with quasi-hierarchical interactions and inequality constraints**|Partha Sarathi Mohapatra et.al.|[2504.15019](http://arxiv.org/abs/2504.15019)|null|
+|**2025-04-23**|**Feedback Stackelberg-Nash equilibria in difference games with quasi-hierarchical interactions and inequality constraints**|Partha Sarathi Mohapatra et.al.|[2504.15019](http://arxiv.org/abs/2504.15019)|null|
 |**2025-04-19**|**Optimal Operation and Valuation of Electricity Storages**|Jean-Philippe Chancelier et.al.|[2504.14292](http://arxiv.org/abs/2504.14292)|null|
 |**2025-04-18**|**Code generation for solving and differentiating through convex optimization problems**|Maximilian Schaller et.al.|[2504.14099](http://arxiv.org/abs/2504.14099)|null|
 |**2025-04-16**|**Beyond ISAC: Toward Integrated Heterogeneous Service Provisioning via Elastic Multi-Dimensional Multiple Access**|Jie Chen et.al.|[2504.11692](http://arxiv.org/abs/2504.11692)|null|
@@ -636,7 +636,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -657,7 +657,7 @@
 |**2025-04-22**|**Honey, I Shrunk the Language Model: Impact of Knowledge Distillation Methods on Performance and Explainability**|Daniel Hendriks et.al.|[2504.16056](http://arxiv.org/abs/2504.16056)|null|
 |**2025-04-22**|**LongMamba: Enhancing Mamba's Long Context Capabilities via Training-Free Receptive Field Enlargement**|Zhifan Ye et.al.|[2504.16053](http://arxiv.org/abs/2504.16053)|null|
 |**2025-04-22**|**Evaluating Vision Language Models (VLMs) for Radiology: A Comprehensive Analysis**|Frank Li et.al.|[2504.16047](http://arxiv.org/abs/2504.16047)|null|
-|**2025-04-22**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046](http://arxiv.org/abs/2504.16046)|null|
+|**2025-04-23**|**Certified Mitigation of Worst-Case LLM Copyright Infringement**|Jingyu Zhang et.al.|[2504.16046](http://arxiv.org/abs/2504.16046)|null|
 |**2025-04-22**|**LLMs meet Federated Learning for Scalable and Secure IoT Management**|Yazan Otoum et.al.|[2504.16032](http://arxiv.org/abs/2504.16032)|null|
 |**2025-04-22**|**LiveCC: Learning Video LLM with Streaming Speech Transcription at Scale**|Joya Chen et.al.|[2504.16030](http://arxiv.org/abs/2504.16030)|null|
 |**2025-04-22**|**Benchmarking LLM for Code Smells Detection: OpenAI GPT-4.0 vs DeepSeek-V3**|Ahmed R. Sadik et.al.|[2504.16027](http://arxiv.org/abs/2504.16027)|null|
@@ -6405,7 +6405,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -6419,7 +6419,7 @@
 |**2025-04-22**|**Supporting Data-Frame Dynamics in AI-assisted Decision Making**|Chengbo Zheng et.al.|[2504.15894](http://arxiv.org/abs/2504.15894)|null|
 |**2025-04-22**|**MS-Occ: Multi-Stage LiDAR-Camera Fusion for 3D Semantic Occupancy Prediction**|Zhiqiang Wei et.al.|[2504.15888](http://arxiv.org/abs/2504.15888)|null|
 |**2025-04-22**|**Beyond Attention: Investigating the Threshold Where Objective Robot Exclusion Becomes Subjective**|Clarissa Sabrina Arlinghaus et.al.|[2504.15886](http://arxiv.org/abs/2504.15886)|null|
-|**2025-04-22**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu Lei Chen et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
+|**2025-04-23**|**Bidirectional Task-Motion Planning Based on Hierarchical Reinforcement Learning for Strategic Confrontation**|Qizhen Wu et.al.|[2504.15876](http://arxiv.org/abs/2504.15876)|null|
 |**2025-04-22**|**An Extended Horizon Tactical Decision-Making for Automated Driving Based on Monte Carlo Tree Search**|Karim Essalmi et.al.|[2504.15869](http://arxiv.org/abs/2504.15869)|null|
 |**2025-04-22**|**The 2nd MERCADO Workshop at IEEE VIS 2025: Multimodal Experiences for Remote Communication Around Data Online**|Wolfgang Büschel et.al.|[2504.15859](http://arxiv.org/abs/2504.15859)|null|
 |**2025-04-22**|**A closer look at how large language models trust humans: patterns and biases**|Valeria Lerman et.al.|[2504.15801](http://arxiv.org/abs/2504.15801)|null|
@@ -11570,5 +11570,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250423>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250424>back to top</a>)</p>
 
