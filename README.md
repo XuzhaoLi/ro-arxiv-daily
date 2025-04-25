@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342](http://arxiv.org/abs/2504.17342)|null|
+|**2025-04-24**|**Advancing Frontiers of Path Integral Theory for Stochastic Optimal Control**|Apurva Patil et.al.|[2504.17154](http://arxiv.org/abs/2504.17154)|null|
 |**2025-04-22**|**Distributed model predictive control without terminal cost under inexact distributed optimization**|Xiaoyu Liu et.al.|[2504.15768](http://arxiv.org/abs/2504.15768)|null|
 |**2025-04-22**|**Stochastic Programming for Dynamic Temperature Control of Refrigerated Road Transport**|Francesco Giliberto et.al.|[2504.15741](http://arxiv.org/abs/2504.15741)|null|
 |**2025-04-22**|**Exploring Inevitable Waypoints for Unsolvability Explanation in Hybrid Planning Problems**|Mir Md Sajid Sarwar et.al.|[2504.15668](http://arxiv.org/abs/2504.15668)|null|
@@ -642,6 +644,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
+|**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
+|**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/abs/2504.17753)|null|
+|**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
+|**2025-04-24**|**Multilingual Performance Biases of Large Language Models in Education**|Vansh Gupta et.al.|[2504.17720](http://arxiv.org/abs/2504.17720)|null|
+|**2025-04-24**|**PICO: Reconstructing 3D People In Contact with Objects**|Alpár Cseke et.al.|[2504.17695](http://arxiv.org/abs/2504.17695)|null|
+|**2025-04-24**|**Ensemble Bayesian Inference: Leveraging Small Language Models to Achieve LLM-level Accuracy in Profile Matching Tasks**|Haru-Tada Sato et.al.|[2504.17685](http://arxiv.org/abs/2504.17685)|null|
+|**2025-04-24**|**INSIGHT: Bridging the Student-Teacher Gap in Times of Large Language Models**|Jarne Thys et.al.|[2504.17677](http://arxiv.org/abs/2504.17677)|null|
+|**2025-04-24**|**Energy Considerations of Large Language Model Inference and Efficiency Optimizations**|Jared Fernandez et.al.|[2504.17674](http://arxiv.org/abs/2504.17674)|null|
+|**2025-04-24**|**Cross-region Model Training with Communication-Computation Overlapping and Delay Compensation**|Ying Zhu et.al.|[2504.17672](http://arxiv.org/abs/2504.17672)|null|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-24**|**Towards a HIPAA Compliant Agentic AI System in Healthcare**|Subash Neupane et.al.|[2504.17669](http://arxiv.org/abs/2504.17669)|null|
+|**2025-04-24**|**Evaluating Grounded Reasoning by Code-Assisted Large Language Models for Mathematics**|Zena Al-Khalili et.al.|[2504.17665](http://arxiv.org/abs/2504.17665)|null|
+|**2025-04-24**|**Effortless, Simulation-Efficient Bayesian Inference using Tabular Foundation Models**|Julius Vetter et.al.|[2504.17660](http://arxiv.org/abs/2504.17660)|null|
+|**2025-04-24**|**Portability of Optimizations from SC to TSO**|Akshay Gopalakrishnan et.al.|[2504.17646](http://arxiv.org/abs/2504.17646)|null|
+|**2025-04-24**|**L3: DIMM-PIM Integrated Architecture and Coordination for Scalable Long-Context LLM Inference**|Qingyuan Liu et.al.|[2504.17584](http://arxiv.org/abs/2504.17584)|null|
+|**2025-04-24**|**DeepDistill: Enhancing LLM Reasoning Capabilities via Large-Scale Difficulty-Graded Data Training**|Xiaoyu Tian et.al.|[2504.17565](http://arxiv.org/abs/2504.17565)|null|
+|**2025-04-24**|**When Does Metadata Conditioning (NOT) Work for Language Model Pre-Training? A Study with Context-Free Grammars**|Rei Higuchi et.al.|[2504.17562](http://arxiv.org/abs/2504.17562)|null|
+|**2025-04-24**|**HalluLens: LLM Hallucination Benchmark**|Yejin Bang et.al.|[2504.17550](http://arxiv.org/abs/2504.17550)|null|
+|**2025-04-24**|**A Comprehensive Survey of Knowledge-Based Vision Question Answering Systems: The Lifecycle of Knowledge in Visual Reasoning Task**|Jiaqi Deng et.al.|[2504.17547](http://arxiv.org/abs/2504.17547)|null|
 |**2025-04-23**|**Generalized Neighborhood Attention: Multi-dimensional Sparse Attention at the Speed of Light**|Ali Hassani et.al.|[2504.16922](http://arxiv.org/abs/2504.16922)|null|
 |**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921](http://arxiv.org/abs/2504.16921)|null|
 |**2025-04-23**|**Tracing Thought: Using Chain-of-Thought Reasoning to Identify the LLM Behind AI-Generated Text**|Shifali Agrahari et.al.|[2504.16913](http://arxiv.org/abs/2504.16913)|null|
@@ -6431,6 +6453,23 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
+|**2025-04-24**|**SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning**|Peng Ye et.al.|[2504.17603](http://arxiv.org/abs/2504.17603)|null|
+|**2025-04-24**|**Auditing the Ethical Logic of Generative AI Models**|W. Russell Neuman et.al.|[2504.17544](http://arxiv.org/abs/2504.17544)|null|
+|**2025-04-24**|**An Explainable Nature-Inspired Framework for Monkeypox Diagnosis: Xception Features Combined with NGBoost and African Vultures Optimization Algorithm**|Ahmadreza Shateri et.al.|[2504.17540](http://arxiv.org/abs/2504.17540)|null|
+|**2025-04-24**|**Learning Isometric Embeddings of Road Networks using Multidimensional Scaling**|Juan Carlos Climent Pardo et.al.|[2504.17534](http://arxiv.org/abs/2504.17534)|null|
+|**2025-04-24**|**Goal-Oriented Time-Series Forecasting: Foundation Framework Design**|Luca-Andrei Fechete et.al.|[2504.17493](http://arxiv.org/abs/2504.17493)|null|
+|**2025-04-24**|**Longitudinal Control for Autonomous Racing with Combustion Engine Vehicles**|Phillip Pitschi et.al.|[2504.17418](http://arxiv.org/abs/2504.17418)|null|
+|**2025-04-24**|**S2S-Net: Addressing the Domain Gap of Heterogeneous Sensor Systems in LiDAR-Based Collective Perception**|Sven Teufel et.al.|[2504.17399](http://arxiv.org/abs/2504.17399)|null|
+|**2025-04-24**|**Towards User-Centred Design of AI-Assisted Decision-Making in Law Enforcement**|Vesna Nowack et.al.|[2504.17393](http://arxiv.org/abs/2504.17393)|null|
+|**2025-04-24**|**Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset**|Oussema Dhaouadi et.al.|[2504.17371](http://arxiv.org/abs/2504.17371)|null|
+|**2025-04-24**|**Doubly Adaptive Social Learning**|Marco Carpentiero et.al.|[2504.17370](http://arxiv.org/abs/2504.17370)|null|
+|**2025-04-24**|**Tokenizing Stock Prices for Enhanced Multi-Step Forecast and Prediction**|Zhuohang Zhu et.al.|[2504.17313](http://arxiv.org/abs/2504.17313)|null|
+|**2025-04-24**|**Perturbed Gradient Descent via Convex Quadratic Approximation for Nonconvex Bilevel Optimization**|Nazanin Abolfazli et.al.|[2504.17215](http://arxiv.org/abs/2504.17215)|null|
+|**2025-04-24**|**A RAG-Based Multi-Agent LLM System for Natural Hazard Resilience and Adaptation**|Yangxinyu Xie et.al.|[2504.17200](http://arxiv.org/abs/2504.17200)|null|
+|**2025-04-24**|**Causal rule ensemble approach for multi-arm data**|Ke Wan et.al.|[2504.17166](http://arxiv.org/abs/2504.17166)|null|
+|**2025-04-23**|**A Novel Hybrid Approach Using an Attention-Based Transformer + GRU Model for Predicting Cryptocurrency Prices**|Esam Mahdi et.al.|[2504.17079](http://arxiv.org/abs/2504.17079)|null|
+|**2025-04-23**|**A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs**|Jalal Arabneydi et.al.|[2504.17006](http://arxiv.org/abs/2504.17006)|null|
 |**2025-04-23**|**Meta-Learning Online Dynamics Model Adaptation in Off-Road Autonomous Driving**|Jacob Levy et.al.|[2504.16923](http://arxiv.org/abs/2504.16923)|null|
 |**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
 |**2025-04-23**|**Adversarial Knapsack for Sequential Competitive Resource Allocation**|Omkar Thakoor et.al.|[2504.16752](http://arxiv.org/abs/2504.16752)|null|
