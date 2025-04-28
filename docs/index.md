@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Efficient Tree Generation for Globally Optimal Decisions under Probabilistic Outcomes**|Berk Ozturk et.al.|[2504.17983](http://arxiv.org/abs/2504.17983)|null|
+|**2025-04-24**|**Ergodic control of McKean-Vlasov systems on the Wasserstein space**|Marco Fuhrman et.al.|[2504.17958](http://arxiv.org/abs/2504.17958)|null|
 |**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342](http://arxiv.org/abs/2504.17342)|null|
 |**2025-04-24**|**Advancing Frontiers of Path Integral Theory for Stochastic Optimal Control**|Apurva Patil et.al.|[2504.17154](http://arxiv.org/abs/2504.17154)|null|
 |**2025-04-22**|**Distributed model predictive control without terminal cost under inexact distributed optimization**|Xiaoyu Liu et.al.|[2504.15768](http://arxiv.org/abs/2504.15768)|null|
@@ -637,6 +639,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
+|**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
+|**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
+|**2025-04-25**|**Investigating Co-Constructive Behavior of Large Language Models in Explanation Dialogues**|Leandra Fichtel et.al.|[2504.18483](http://arxiv.org/abs/2504.18483)|null|
+|**2025-04-25**|**Generative Induction of Dialogue Task Schemas with Streaming Refinement and Simulated Interactions**|James D. Finch et.al.|[2504.18474](http://arxiv.org/abs/2504.18474)|null|
+|**2025-04-25**|**Fast-Slow Thinking for Large Vision-Language Model Reasoning**|Wenyi Xiao et.al.|[2504.18458](http://arxiv.org/abs/2504.18458)|null|
+|**2025-04-25**|**Pseudo-Asynchronous Local SGD: Robust and Efficient Data-Parallel Training**|Hiroki Naganuma et.al.|[2504.18454](http://arxiv.org/abs/2504.18454)|null|
+|**2025-04-25**|**Reason Like a Radiologist: Chain-of-Thought and Reinforcement Learning for Verifiable Report Generation**|Peiyuan Jing et.al.|[2504.18453](http://arxiv.org/abs/2504.18453)|null|
+|**2025-04-25**|**Kimi-Audio Technical Report**|KimiTeam et.al.|[2504.18425](http://arxiv.org/abs/2504.18425)|null|
+|**2025-04-25**|**LLMpatronous: Harnessing the Power of LLMs For Vulnerability Detection**|Rajesh Yarra et.al.|[2504.18423](http://arxiv.org/abs/2504.18423)|null|
+|**2025-04-25**|**BitNet v2: Native 4-bit Activations with Hadamard Transformation for 1-bit LLMs**|Hongyu Wang et.al.|[2504.18415](http://arxiv.org/abs/2504.18415)|null|
+|**2025-04-25**|**An Empirical Study of Evaluating Long-form Question Answering**|Ning Xian et.al.|[2504.18413](http://arxiv.org/abs/2504.18413)|null|
+|**2025-04-25**|**Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers**|Jared Moore et.al.|[2504.18412](http://arxiv.org/abs/2504.18412)|**[link](https://github.com/jlcmoore/llms-as-therapists)**|
+|**2025-04-25**|**HRScene: How Far Are VLMs from Effective High-Resolution Image Understanding?**|Yusen Zhang et.al.|[2504.18406](http://arxiv.org/abs/2504.18406)|null|
+|**2025-04-25**|**Unsupervised Visual Chain-of-Thought Reasoning via Preference Optimization**|Kesen Zhao et.al.|[2504.18397](http://arxiv.org/abs/2504.18397)|null|
+|**2025-04-25**|**Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation**|Qidong Liu et.al.|[2504.18383](http://arxiv.org/abs/2504.18383)|null|
+|**2025-04-25**|**Pushing the boundary on Natural Language Inference**|Pablo Miralles-González et.al.|[2504.18376](http://arxiv.org/abs/2504.18376)|null|
+|**2025-04-25**|**Auto-SLURP: A Benchmark Dataset for Evaluating Multi-Agent Frameworks in Smart Personal Assistant**|Lei Shen et.al.|[2504.18373](http://arxiv.org/abs/2504.18373)|null|
+|**2025-04-25**|**ThreMoLIA: Threat Modeling of Large Language Model-Integrated Applications**|Felix Viktor Jedrzejewski et.al.|[2504.18369](http://arxiv.org/abs/2504.18369)|null|
+|**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353](http://arxiv.org/abs/2504.18353)|null|
 |**2025-04-24**|**Token-Shuffle: Towards High-Resolution Image Generation with Autoregressive Models**|Xu Ma et.al.|[2504.17789](http://arxiv.org/abs/2504.17789)|null|
 |**2025-04-24**|**Replay to Remember: Retaining Domain Knowledge in Streaming Language Models**|Sneh Pillai et.al.|[2504.17780](http://arxiv.org/abs/2504.17780)|null|
 |**2025-04-24**|**Conversational Assistants to support Heart Failure Patients: comparing a Neurosymbolic Architecture with ChatGPT**|Anuja Tayal et.al.|[2504.17753](http://arxiv.org/abs/2504.17753)|null|
@@ -6444,6 +6466,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests**|Giuseppe Loffredo et.al.|[2504.18498](http://arxiv.org/abs/2504.18498)|null|
+|**2025-04-25**|**Automatic Bias Detection in Source Code Review**|Yoseph Berhanu Alebachew et.al.|[2504.18449](http://arxiv.org/abs/2504.18449)|null|
+|**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
+|**2025-04-25**|**Energy Security and Resilience: Reviewing Concepts and Advancing Planning Perspectives for Transforming Integrated Energy Systems**|Richard Schmitz et.al.|[2504.18396](http://arxiv.org/abs/2504.18396)|null|
+|**2025-04-25**|**Explainable AI for UAV Mobility Management: A Deep Q-Network Approach for Handover Minimization**|Irshad A. Meer et.al.|[2504.18371](http://arxiv.org/abs/2504.18371)|null|
+|**2025-04-25**|**Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes**|Maximilian Xiling Li et.al.|[2504.18355](http://arxiv.org/abs/2504.18355)|null|
+|**2025-04-25**|**Testing Individual Fairness in Graph Neural Networks**|Roya Nasiri et.al.|[2504.18353](http://arxiv.org/abs/2504.18353)|null|
+|**2025-04-25**|**Depth-Constrained ASV Navigation with Deep RL and Limited Sensing**|Amirhossein Zhalehmehrabi et.al.|[2504.18253](http://arxiv.org/abs/2504.18253)|null|
+|**2025-04-25**|**Automated Work Records for Precision Agriculture Management: A Low-Cost GNSS IoT Solution for Paddy Fields in Central Japan**|M. Grosse et.al.|[2504.18222](http://arxiv.org/abs/2504.18222)|null|
+|**2025-04-25**|**What is the Added Value of UDA in the VFM Era?**|Brunó B. Englert et.al.|[2504.18190](http://arxiv.org/abs/2504.18190)|null|
+|**2025-04-25**|**Study on Real-Time Road Surface Reconstruction Using Stereo Vision**|Deepak Ghimire et.al.|[2504.18112](http://arxiv.org/abs/2504.18112)|null|
+|**2025-04-25**|**Opportunistic Collaborative Planning with Large Vision Model Guided Control and Joint Query-Service Optimization**|Jiayi Chen et.al.|[2504.18057](http://arxiv.org/abs/2504.18057)|null|
+|**2025-04-25**|**DMS-Net:Dual-Modal Multi-Scale Siamese Network for Binocular Fundus Image Classification**|Guohao Huo et.al.|[2504.18046](http://arxiv.org/abs/2504.18046)|null|
+|**2025-04-25**|**Differential Privacy-Driven Framework for Enhancing Heart Disease Prediction**|Yazan Otoum et.al.|[2504.18007](http://arxiv.org/abs/2504.18007)|null|
+|**2025-04-25**|**Chatperone: An LLM-Based Negotiable Scaffolding System for Mediating Adolescent Mobile Interactions**|Suwon Yoon et.al.|[2504.17997](http://arxiv.org/abs/2504.17997)|null|
+|**2025-04-24**|**CaRL: Learning Scalable Planning Policies with Simple Rewards**|Bernhard Jaeger et.al.|[2504.17838](http://arxiv.org/abs/2504.17838)|null|
 |**2025-04-25**|**Data-Driven Calibration of Prediction Sets in Large Vision-Language Models Based on Inductive Conformal Prediction**|Yuanchang Ye et.al.|[2504.17671](http://arxiv.org/abs/2504.17671)|null|
 |**2025-04-24**|**SAPO-RL: Sequential Actuator Placement Optimization for Fuselage Assembly via Reinforcement Learning**|Peng Ye et.al.|[2504.17603](http://arxiv.org/abs/2504.17603)|null|
 |**2025-04-24**|**Auditing the Ethical Logic of Generative AI Models**|W. Russell Neuman et.al.|[2504.17544](http://arxiv.org/abs/2504.17544)|null|
