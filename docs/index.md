@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Warm-Starting QAOA with XY Mixers: A Novel Approach for Quantum-Enhanced Vehicle Routing Optimization**|Rafael S. do Carmo et.al.|[2504.19934](http://arxiv.org/abs/2504.19934)|null|
+|**2025-04-28**|**The frequency $K_i$ s for symmetrical traveling salesman problem**|Yong Wang et.al.|[2504.19608](http://arxiv.org/abs/2504.19608)|null|
+|**2025-04-28**|**Symmetric Policy Design for Multi-Agent Dispatch Coordination in Supply Chains**|Sagar Sudhakara et.al.|[2504.19397](http://arxiv.org/abs/2504.19397)|null|
 |**2025-04-24**|**Efficient Tree Generation for Globally Optimal Decisions under Probabilistic Outcomes**|Berk Ozturk et.al.|[2504.17983](http://arxiv.org/abs/2504.17983)|null|
 |**2025-04-24**|**Ergodic control of McKean-Vlasov systems on the Wasserstein space**|Marco Fuhrman et.al.|[2504.17958](http://arxiv.org/abs/2504.17958)|null|
 |**2025-04-24**|**Fréchet Distance in Unweighted Planar Graphs**|Ivor van der Hoog et.al.|[2504.17342](http://arxiv.org/abs/2504.17342)|null|
@@ -639,6 +642,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
+|**2025-04-28**|**AutoJudge: Judge Decoding Without Manual Annotation**|Roman Garipov et.al.|[2504.20039](http://arxiv.org/abs/2504.20039)|null|
+|**2025-04-28**|**SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**|Wufei Ma et.al.|[2504.20024](http://arxiv.org/abs/2504.20024)|null|
+|**2025-04-28**|**Better To Ask in English? Evaluating Factual Accuracy of Multilingual LLMs in English and Low-Resource Languages**|Pritika Rohera et.al.|[2504.20022](http://arxiv.org/abs/2504.20022)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
+|**2025-04-28**|**Towards Automated Scoping of AI for Social Good Projects**|Jacob Emmerson et.al.|[2504.20010](http://arxiv.org/abs/2504.20010)|null|
+|**2025-04-28**|**Knowledge Distillation of Domain-adapted LLMs for Question-Answering in Telecom**|Rishika Sen et.al.|[2504.20000](http://arxiv.org/abs/2504.20000)|null|
+|**2025-04-28**|**HJRNO: Hamilton-Jacobi Reachability with Neural Operators**|Yankai Li et.al.|[2504.19989](http://arxiv.org/abs/2504.19989)|null|
+|**2025-04-28**|**TD-EVAL: Revisiting Task-Oriented Dialogue Evaluation by Combining Turn-Level Precision with Dialogue-Level Comparisons**|Emre Can Acikgoz et.al.|[2504.19982](http://arxiv.org/abs/2504.19982)|null|
+|**2025-04-28**|**Accurate and Diverse LLM Mathematical Reasoning via Automated PRM-Guided GFlowNets**|Adam Younsi et.al.|[2504.19981](http://arxiv.org/abs/2504.19981)|null|
+|**2025-04-28**|**From Concept to Practice: an Automated LLM-aided UVM Machine for RTL Verification**|Junhao Ye et.al.|[2504.19959](http://arxiv.org/abs/2504.19959)|null|
+|**2025-04-28**|**Enhancing Surgical Documentation through Multimodal Visual-Temporal Transformers and Generative AI**|Hugo Georgenthum et.al.|[2504.19918](http://arxiv.org/abs/2504.19918)|null|
+|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/abs/2504.19912)|null|
+|**2025-04-28**|**GenCLS++: Pushing the Boundaries of Generative Classification in LLMs Through Comprehensive SFT and RL Studies Across Diverse Datasets**|Mingqian He et.al.|[2504.19898](http://arxiv.org/abs/2504.19898)|null|
+|**2025-04-28**|**CineVerse: Consistent Keyframe Synthesis for Cinematic Scene Composition**|Quynh Phung et.al.|[2504.19894](http://arxiv.org/abs/2504.19894)|null|
+|**2025-04-28**|**semi-PD: Towards Efficient LLM Serving via Phase-Wise Disaggregated Computation and Unified Storage**|Ke Hong et.al.|[2504.19867](http://arxiv.org/abs/2504.19867)|null|
+|**2025-04-28**|**CoherenDream: Boosting Holistic Text Coherence in 3D Generation via Multimodal Large Language Models Feedback**|Chenhan Jiang et.al.|[2504.19860](http://arxiv.org/abs/2504.19860)|null|
+|**2025-04-28**|**Efficient Domain-adaptive Continual Pretraining for the Process Industry in the German Language**|Anastasia Zhukova et.al.|[2504.19856](http://arxiv.org/abs/2504.19856)|null|
+|**2025-04-28**|**The Automation Advantage in AI Red Teaming**|Rob Mulla et.al.|[2504.19855](http://arxiv.org/abs/2504.19855)|null|
 |**2025-04-25**|**Generalization Capability for Imitation Learning**|Yixiao Wang et.al.|[2504.18538](http://arxiv.org/abs/2504.18538)|null|
 |**2025-04-25**|**TRACE Back from the Future: A Probabilistic Reasoning Approach to Controllable Language Generation**|Gwen Yidou Weng et.al.|[2504.18535](http://arxiv.org/abs/2504.18535)|null|
 |**2025-04-25**|**Eval3D: Interpretable and Fine-grained Evaluation for 3D Generation**|Shivam Duggal et.al.|[2504.18509](http://arxiv.org/abs/2504.18509)|null|
@@ -6466,6 +6489,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Learning Streaming Video Representation via Multitask Training**|Yibin Yan et.al.|[2504.20041](http://arxiv.org/abs/2504.20041)|null|
+|**2025-04-28**|**Modular Machine Learning: An Indispensable Path towards New-Generation Large Language Models**|Xin Wang et.al.|[2504.20020](http://arxiv.org/abs/2504.20020)|null|
+|**2025-04-28**|**Socially-Aware Autonomous Driving: Inferring Yielding Intentions for Safer Interactions**|Jing Wang et.al.|[2504.20004](http://arxiv.org/abs/2504.20004)|null|
+|**2025-04-28**|**Automated decision-making for dynamic task assignment at scale**|Riccardo Lo Bianco et.al.|[2504.19933](http://arxiv.org/abs/2504.19933)|null|
+|**2025-04-28**|**Demographic Parity-aware Individualized Treatment Rules**|Wenhai Cui et.al.|[2504.19914](http://arxiv.org/abs/2504.19914)|null|
+|**2025-04-28**|**Can AI Agents Design and Implement Drug Discovery Pipelines?**|Khachik Smbatyan et.al.|[2504.19912](http://arxiv.org/abs/2504.19912)|null|
+|**2025-04-28**|**LLM-Powered GUI Agents in Phone Automation: Surveying Progress and Prospects**|Guangyi Liu et.al.|[2504.19838](http://arxiv.org/abs/2504.19838)|null|
+|**2025-04-28**|**Bias correction in treatment effect estimates following data-driven biomarker cutoff selection**|Chi Zhang et.al.|[2504.19776](http://arxiv.org/abs/2504.19776)|null|
+|**2025-04-28**|**A New Decision- Making Method Based on Shannon Entropy Analysis**|Hamid Babaei et.al.|[2504.19753](http://arxiv.org/abs/2504.19753)|null|
+|**2025-04-28**|**The ATLAS of Traffic Lights: A Reliable Perception Framework for Autonomous Driving**|Rupert Polley et.al.|[2504.19722](http://arxiv.org/abs/2504.19722)|null|
+|**2025-04-28**|**Open-set Anomaly Segmentation in Complex Scenarios**|Song Xia et.al.|[2504.19706](http://arxiv.org/abs/2504.19706)|null|
+|**2025-04-28**|**Explaining Vision GNNs: A Semantic and Visual Analysis of Graph-based Image Classification**|Nikolaos Chaidos et.al.|[2504.19682](http://arxiv.org/abs/2504.19682)|null|
+|**2025-04-28**|**From LLM Reasoning to Autonomous AI Agents: A Comprehensive Review**|Mohamed Amine Ferrag et.al.|[2504.19678](http://arxiv.org/abs/2504.19678)|null|
+|**2025-04-28**|**ARTEMIS: Autoregressive End-to-End Trajectory Planning with Mixture of Experts for Autonomous Driving**|Renju Feng et.al.|[2504.19580](http://arxiv.org/abs/2504.19580)|null|
+|**2025-04-28**|**CE-NPBG: Connectivity Enhanced Neural Point-Based Graphics for Novel View Synthesis in Autonomous Driving Scenes**|Mohammad Altillawi et.al.|[2504.19557](http://arxiv.org/abs/2504.19557)|null|
+|**2025-04-28**|**\textit{From Freshness to Effectiveness}: Goal-Oriented Sampling for Remote Decision Making**|Aimin Li et.al.|[2504.19507](http://arxiv.org/abs/2504.19507)|null|
+|**2025-04-28**|**An Automated Reinforcement Learning Reward Design Framework with Large Language Model for Cooperative Platoon Coordination**|Dixiao Wei et.al.|[2504.19480](http://arxiv.org/abs/2504.19480)|null|
+|**2025-04-28**|**Systematic Bias in Large Language Models: Discrepant Response Patterns in Binary vs. Continuous Judgment Tasks**|Yi-Long Lu et.al.|[2504.19445](http://arxiv.org/abs/2504.19445)|null|
+|**2025-04-28**|**Quantum-Inspired Cournot Model**|Amarendra Sharma et.al.|[2504.19420](http://arxiv.org/abs/2504.19420)|null|
+|**2025-04-28**|**Geometry of efficient weight vectors**|Kristóf Ábele-Nagy et.al.|[2504.19400](http://arxiv.org/abs/2504.19400)|null|
 |**2025-04-25**|**Enhancing Visual Interpretability and Explainability in Functional Survival Trees and Forests**|Giuseppe Loffredo et.al.|[2504.18498](http://arxiv.org/abs/2504.18498)|null|
 |**2025-04-25**|**Automatic Bias Detection in Source Code Review**|Yoseph Berhanu Alebachew et.al.|[2504.18449](http://arxiv.org/abs/2504.18449)|null|
 |**2025-04-25**|**NoiseController: Towards Consistent Multi-view Video Generation via Noise Decomposition and Collaboration**|Haotian Dong et.al.|[2504.18448](http://arxiv.org/abs/2504.18448)|null|
