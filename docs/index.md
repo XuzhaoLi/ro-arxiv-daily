@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Galvatron: An Automatic Distributed System for Efficient Foundation Model Training**|Xinyi Liu et.al.|[2504.21411](http://arxiv.org/abs/2504.21411)|null|
 |**2025-04-29**|**DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction**|Chris Child et.al.|[2504.20535](http://arxiv.org/abs/2504.20535)|null|
 |**2025-04-28**|**Warm-Starting QAOA with XY Mixers: A Novel Approach for Quantum-Enhanced Vehicle Routing Optimization**|Rafael S. do Carmo et.al.|[2504.19934](http://arxiv.org/abs/2504.19934)|null|
 |**2025-04-30**|**The frequency $K_i$ s for symmetrical traveling salesman problem**|Yong Wang et.al.|[2504.19608](http://arxiv.org/abs/2504.19608)|null|
@@ -643,6 +644,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**Early Exit and Multi Stage Knowledge Distillation in VLMs for Video Summarization**|Anas Anwarul Haq Khan et.al.|[2504.21831](http://arxiv.org/abs/2504.21831)|null|
+|**2025-04-30**|**Why Compress What You Can Generate? When GPT-4o Generation Ushers in Image Compression Fields**|Yixin Gao et.al.|[2504.21814](http://arxiv.org/abs/2504.21814)|null|
+|**2025-04-30**|**A simple and effective approach for body part recognition on CT scans based on projection estimation**|Franko Hrzic et.al.|[2504.21810](http://arxiv.org/abs/2504.21810)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/abs/2504.21801)|null|
+|**2025-04-30**|**SWE-smith: Scaling Data for Software Engineering Agents**|John Yang et.al.|[2504.21798](http://arxiv.org/abs/2504.21798)|null|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Jonas Werner et.al.|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
+|**2025-04-30**|**Investigating Literary Motifs in Ancient and Medieval Novels with Large Language Models**|Emelie Hallenberg et.al.|[2504.21742](http://arxiv.org/abs/2504.21742)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**XBreaking: Explainable Artificial Intelligence for Jailbreaking LLMs**|Marco Arazzi et.al.|[2504.21700](http://arxiv.org/abs/2504.21700)|null|
+|**2025-04-30**|**Visual Text Processing: A Comprehensive Review and Unified Evaluation**|Yan Shu et.al.|[2504.21682](http://arxiv.org/abs/2504.21682)|null|
+|**2025-04-30**|**Hoist with His Own Petard: Inducing Guardrails to Facilitate Denial-of-Service Attacks on Retrieval-Augmented Generation of LLMs**|Pan Suo et.al.|[2504.21680](http://arxiv.org/abs/2504.21680)|null|
+|**2025-04-30**|**Traceback of Poisoning Attacks to Retrieval-Augmented Generation**|Baolei Zhang et.al.|[2504.21668](http://arxiv.org/abs/2504.21668)|null|
+|**2025-04-30**|**From Precision to Perception: User-Centred Evaluation of Keyword Extraction Algorithms for Internet-Scale Contextual Advertising**|Jingwen Cai et.al.|[2504.21667](http://arxiv.org/abs/2504.21667)|null|
+|**2025-04-30**|**AdaR1: From Long-CoT to Hybrid-CoT via Bi-Level Adaptive Reasoning Optimization**|Haotian Luo et.al.|[2504.21659](http://arxiv.org/abs/2504.21659)|null|
+|**2025-04-30**|**Sadeed: Advancing Arabic Diacritization Through Small Language Model**|Zeina Aldallal et.al.|[2504.21635](http://arxiv.org/abs/2504.21635)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
@@ -6510,6 +6531,24 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**A Survey of Interactive Generative Video**|Jiwen Yu et.al.|[2504.21853](http://arxiv.org/abs/2504.21853)|null|
+|**2025-04-30**|**Neuro-Symbolic Generation of Explanations for Robot Policies with Weighted Signal Temporal Logic**|Mikihisa Yuasa et.al.|[2504.21841](http://arxiv.org/abs/2504.21841)|null|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Jonas Werner et.al.|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
+|**2025-04-30**|**Enhancing Self-Supervised Fine-Grained Video Object Tracking with Dynamic Memory Prediction**|Zihan Zhou et.al.|[2504.21692](http://arxiv.org/abs/2504.21692)|null|
+|**2025-04-30**|**MF-LLM: Simulating Collective Decision Dynamics via a Mean-Field Large Language Model Framework**|Qirui Mi et.al.|[2504.21582](http://arxiv.org/abs/2504.21582)|null|
+|**2025-04-30**|**A Study on Group Decision Making Problem Based on Fuzzy Reasoning and Bayesian Networks**|Shui-jin Rong et.al.|[2504.21568](http://arxiv.org/abs/2504.21568)|null|
+|**2025-04-30**|**Online Experimental Design for Network Tomography**|Xuchuang Wang et.al.|[2504.21549](http://arxiv.org/abs/2504.21549)|null|
+|**2025-04-30**|**Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction**|Maria Morão Patrício et.al.|[2504.21548](http://arxiv.org/abs/2504.21548)|null|
+|**2025-04-30**|**UAV-VLN: End-to-End Vision Language guided Navigation for UAVs**|Pranav Saxena et.al.|[2504.21432](http://arxiv.org/abs/2504.21432)|null|
+|**2025-04-30**|**Towards Improved Cervical Cancer Screening: Vision Transformer-Based Classification and Interpretability**|Khoa Tuan Nguyen et.al.|[2504.21340](http://arxiv.org/abs/2504.21340)|null|
+|**2025-04-30**|**BiasGuard: A Reasoning-enhanced Bias Detection Tool For Large Language Models**|Zhiting Fan et.al.|[2504.21299](http://arxiv.org/abs/2504.21299)|null|
+|**2025-04-30**|**Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA**|Xuanzhao Dong et.al.|[2504.21252](http://arxiv.org/abs/2504.21252)|null|
+|**2025-04-30**|**Data-driven operator learning for energy-efficient building control**|Yuexin Bian et.al.|[2504.21243](http://arxiv.org/abs/2504.21243)|null|
+|**2025-04-29**|**Generalised Label-free Artefact Cleaning for Real-time Medical Pulsatile Time Series**|Xuhang Chen et.al.|[2504.21209](http://arxiv.org/abs/2504.21209)|null|
+|**2025-04-29**|**Composite Safety Potential Field for Highway Driving Risk Assessment**|Dachuan Zuo et.al.|[2504.21158](http://arxiv.org/abs/2504.21158)|null|
+|**2025-04-29**|**Comparative Analysis of Weather-Based Indexes and the Actuaries Climate Index $^{TM}$ for Crop Yield Prediction**|Cem Yavrum et.al.|[2504.21143](http://arxiv.org/abs/2504.21143)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**Real-Time Wayfinding Assistant for Blind and Low-Vision Users**|Dabbrata Das et.al.|[2504.20976](http://arxiv.org/abs/2504.20976)|null|
 |**2025-04-29**|**XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search**|Yiting Zhang et.al.|[2504.20969](http://arxiv.org/abs/2504.20969)|null|
