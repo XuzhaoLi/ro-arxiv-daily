@@ -12,6 +12,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**Global Collinearity-aware Polygonizer for Polygonal Building Mapping in Remote Sensing**|Fahong Zhang et.al.|[2505.01385](http://arxiv.org/abs/2505.01385)|null|
+|**2025-05-02**|**Power System Transition Planning: An Industry-Aligned Framework for Long-Term Optimization**|Ahmed Al-Shafei et.al.|[2505.01331](http://arxiv.org/abs/2505.01331)|null|
+|**2025-05-02**|**A stochastic Gordon-Loeb model for optimal cybersecurity investment under clustered attacks**|Giorgia Callegaro et.al.|[2505.01221](http://arxiv.org/abs/2505.01221)|null|
+|**2025-05-02**|**Remote Estimation over Packet-Dropping Wireless Channels with Partial State Information**|Ioannis Tzortzis et.al.|[2505.01132](http://arxiv.org/abs/2505.01132)|null|
+|**2025-05-01**|**Quantum Computing in Industrial Environments: Where Do We Stand and Where Are We Headed?**|Eneko Osaba et.al.|[2505.00891](http://arxiv.org/abs/2505.00891)|null|
+|**2025-05-01**|**Platoon Coordination and Leader Selection in Mixed Transportation Systems via Dynamic Programming**|Ying Wang et.al.|[2505.00847](http://arxiv.org/abs/2505.00847)|null|
+|**2025-04-24**|**Optimal Blackjack Betting Strategies Through Dynamic Programming and Expected Utility Theory**|Lucas Bordeu et.al.|[2505.00724](http://arxiv.org/abs/2505.00724)|null|
 |**2025-04-30**|**Galvatron: An Automatic Distributed System for Efficient Foundation Model Training**|Xinyi Liu et.al.|[2504.21411](http://arxiv.org/abs/2504.21411)|null|
 |**2025-04-29**|**DeeP-Mod: Deep Dynamic Programming based Environment Modelling using Feature Extraction**|Chris Child et.al.|[2504.20535](http://arxiv.org/abs/2504.20535)|null|
 |**2025-04-28**|**Warm-Starting QAOA with XY Mixers: A Novel Approach for Quantum-Enhanced Vehicle Routing Optimization**|Rafael S. do Carmo et.al.|[2504.19934](http://arxiv.org/abs/2504.19934)|null|
@@ -651,6 +658,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades**|Rahuul Rangaraj et.al.|[2505.01415](http://arxiv.org/abs/2505.01415)|null|
+|**2025-05-02**|**Dynamic Robot Tool Use with Vision Language Models**|Noah Trupin et.al.|[2505.01399](http://arxiv.org/abs/2505.01399)|null|
+|**2025-05-02**|**FreeInsert: Disentangled Text-Guided Object Insertion in 3D Gaussian Scene without Spatial Priors**|Chenxi Li et.al.|[2505.01322](http://arxiv.org/abs/2505.01322)|null|
+|**2025-05-02**|**Helping Big Language Models Protect Themselves: An Enhanced Filtering and Summarization System**|Sheikh Samit Muhaimin et.al.|[2505.01315](http://arxiv.org/abs/2505.01315)|null|
+|**2025-05-02**|**Enhancing SPARQL Query Rewriting for Complex Ontology Alignments**|Anicet Lepetit Ondo et.al.|[2505.01309](http://arxiv.org/abs/2505.01309)|null|
+|**2025-05-02**|**Document Retrieval Augmented Fine-Tuning (DRAFT) for safety-critical software assessments**|Regan Bolton et.al.|[2505.01307](http://arxiv.org/abs/2505.01307)|null|
+|**2025-05-02**|**FlowDubber: Movie Dubbing with LLM-based Semantic-aware Learning and Flow Matching based Voice Enhancing**|Gaoxiang Cong et.al.|[2505.01263](http://arxiv.org/abs/2505.01263)|null|
+|**2025-05-02**|**Digital Pathway Curation (DPC): a comparative pipeline to assess the reproducibility, consensus and accuracy across Gemini, PubMed, and scientific reviewers in biomedical research**|Flavio Lichtenstein et.al.|[2505.01259](http://arxiv.org/abs/2505.01259)|null|
+|**2025-05-02**|**Can Foundation Models Really Segment Tumors? A Benchmarking Odyssey in Lung CT Imaging**|Elena Mulero Ayllón et.al.|[2505.01239](http://arxiv.org/abs/2505.01239)|null|
+|**2025-05-02**|**CaReAQA: A Cardiac and Respiratory Audio Question Answering Model for Open-Ended Diagnostic Reasoning**|Tsai-Ning Wang et.al.|[2505.01199](http://arxiv.org/abs/2505.01199)|null|
+|**2025-05-02**|**Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods**|Mahdi Dhaini et.al.|[2505.01198](http://arxiv.org/abs/2505.01198)|null|
+|**2025-05-02**|**TSTMotion: Training-free Scene-awarenText-to-motion Generation**|Ziyan Guo et.al.|[2505.01182](http://arxiv.org/abs/2505.01182)|null|
+|**2025-05-02**|**LLM Security: Vulnerabilities, Attacks, Defenses, and Countermeasures**|Francisco Aguilera-Martínez et.al.|[2505.01177](http://arxiv.org/abs/2505.01177)|null|
+|**2025-05-02**|**On the Limitations of Steering in Language Model Alignment**|Chebrolu Niranjan et.al.|[2505.01162](http://arxiv.org/abs/2505.01162)|null|
+|**2025-05-02**|**Methodological Foundations for AI-Driven Survey Question Generation**|Ted K. Mburu et.al.|[2505.01150](http://arxiv.org/abs/2505.01150)|null|
+|**2025-05-02**|**Retrieval-Augmented Generation in Biomedicine: A Survey of Technologies, Datasets, and Clinical Applications**|Jiawei He et.al.|[2505.01146](http://arxiv.org/abs/2505.01146)|null|
+|**2025-05-02**|**MateICL: Mitigating Attention Dispersion in Large-Scale In-Context Learning**|Murtadha Ahmed et.al.|[2505.01110](http://arxiv.org/abs/2505.01110)|null|
+|**2025-05-02**|**Self-Supervision Enhances Instance-based Multiple Instance Learning Methods in Digital Pathology: A Benchmark Study**|Ali Mammadov et.al.|[2505.01109](http://arxiv.org/abs/2505.01109)|null|
+|**2025-05-02**|**Nesterov Method for Asynchronous Pipeline Parallel Optimization**|Thalaiyasingam Ajanthan et.al.|[2505.01099](http://arxiv.org/abs/2505.01099)|null|
+|**2025-05-02**|**Evaluating Vision Language Model Adaptations for Radiology Report Generation in Low-Resource Languages**|Marco Salmè et.al.|[2505.01096](http://arxiv.org/abs/2505.01096)|null|
 |**2025-05-01**|**T2I-R1: Reinforcing Image Generation with Collaborative Semantic-level and Token-level CoT**|Dongzhi Jiang et.al.|[2505.00703](http://arxiv.org/abs/2505.00703)|null|
 |**2025-05-01**|**Robotic Visual Instruction**|Yanbang Li et.al.|[2505.00693](http://arxiv.org/abs/2505.00693)|null|
 |**2025-05-01**|**Visual Test-time Scaling for GUI Agent Grounding**|Tiange Luo et.al.|[2505.00684](http://arxiv.org/abs/2505.00684)|null|
@@ -6560,6 +6587,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-02**|**An Efficient Real-Time Planning Method for Swarm Robotics Based on an Optimal Virtual Tube**|Pengda Mao et.al.|[2505.01380](http://arxiv.org/abs/2505.01380)|null|
+|**2025-05-02**|**Power System Transition Planning: An Industry-Aligned Framework for Long-Term Optimization**|Ahmed Al-Shafei et.al.|[2505.01331](http://arxiv.org/abs/2505.01331)|null|
+|**2025-05-02**|**Core-Set Selection for Data-efficient Land Cover Segmentation**|Keiller Nogueira et.al.|[2505.01225](http://arxiv.org/abs/2505.01225)|null|
+|**2025-05-02**|**Design for a Digital Twin in Clinical Patient Care**|Anna-Katharina Nitschke et.al.|[2505.01206](http://arxiv.org/abs/2505.01206)|null|
+|**2025-05-02**|**A Secured Triad of IoT, Machine Learning, and Blockchain for Crop Forecasting in Agriculture**|Najmus Sakib Sizan et.al.|[2505.01196](http://arxiv.org/abs/2505.01196)|null|
+|**2025-05-02**|**Exploring the Impact of Explainable AI and Cognitive Capabilities on Users' Decisions**|Federico Maria Cau et.al.|[2505.01192](http://arxiv.org/abs/2505.01192)|null|
+|**2025-05-02**|**Secure Cluster-Based Hierarchical Federated Learning in Vehicular Networks**|M. Saeid HaghighiFard et.al.|[2505.01186](http://arxiv.org/abs/2505.01186)|null|
+|**2025-05-02**|**A flexible Bayesian non-parametric mixture model reveals multiple dependencies of swap errors in visual working memory**|Puria Radmard et.al.|[2505.01178](http://arxiv.org/abs/2505.01178)|null|
+|**2025-05-02**|**Empirical Comparison of Lightweight Forecasting Models for Seasonal and Non-Seasonal Time Series**|Thanh Son Nguyen et.al.|[2505.01163](http://arxiv.org/abs/2505.01163)|null|
+|**2025-05-02**|**Exploring Equity of Climate Policies using Multi-Agent Multi-Objective Reinforcement Learning**|Palok Biswas et.al.|[2505.01115](http://arxiv.org/abs/2505.01115)|null|
+|**2025-05-02**|**Multi-Objective Reinforcement Learning for Water Management**|Zuzanna Osika et.al.|[2505.01094](http://arxiv.org/abs/2505.01094)|null|
+|**2025-05-02**|**Retrieval Augmented Learning: A Retrial-based Large Language Model Self-Supervised Learning and Autonomous Knowledge Generation**|Zongyuan Li et.al.|[2505.01073](http://arxiv.org/abs/2505.01073)|null|
+|**2025-05-02**|**LMDepth: Lightweight Mamba-based Monocular Depth Estimation for Real-World Deployment**|Jiahuan Long et.al.|[2505.00980](http://arxiv.org/abs/2505.00980)|null|
+|**2025-05-02**|**A Minimax-MDP Framework with Future-imposed Conditions for Learning-augmented Problems**|Xin Chen et.al.|[2505.00973](http://arxiv.org/abs/2505.00973)|null|
+|**2025-05-02**|**Seeking to Collide: Online Safety-Critical Scenario Generation for Autonomous Driving with Retrieval Augmented Large Language Models**|Yuewen Mei et.al.|[2505.00972](http://arxiv.org/abs/2505.00972)|null|
+|**2025-05-02**|**What Makes Teamwork Work? A Multimodal Case Study on Emotions and Diagnostic Expertise in an Intelligent Tutoring System**|Xiaoshan Huang et.al.|[2505.00948](http://arxiv.org/abs/2505.00948)|null|
+|**2025-05-02**|**SSRLBot: Designing and Developing an LLM-based Agent using Socially Shared Regulated Learning**|Xiaoshan Huang et.al.|[2505.00945](http://arxiv.org/abs/2505.00945)|null|
+|**2025-05-02**|**Autonomous Embodied Agents: When Robotics Meets Deep Learning Reasoning**|Roberto Bigazzi et.al.|[2505.00935](http://arxiv.org/abs/2505.00935)|null|
+|**2025-05-01**|**Co-Designing a Knowledge Graph Navigation Interface: A Participatory Approach**|Stanislava Gardasevic et.al.|[2505.00907](http://arxiv.org/abs/2505.00907)|null|
+|**2025-05-01**|**LLM Ethics Benchmark: A Three-Dimensional Assessment System for Evaluating Moral Reasoning in Large Language Models**|Junfeng Jiao et.al.|[2505.00853](http://arxiv.org/abs/2505.00853)|null|
 |**2025-05-01**|**Can LLMs Help Improve Analogical Reasoning For Strategic Decisions? Experimental Evidence from Humans and GPT-4**|Phanish Puranam et.al.|[2505.00603](http://arxiv.org/abs/2505.00603)|null|
 |**2025-05-01**|**A Novel Feature-Aware Chaotic Image Encryption Scheme For Data Security and Privacy in IoT and Edge Networks**|Muhammad Shahbaz Khan et.al.|[2505.00593](http://arxiv.org/abs/2505.00593)|null|
 |**2025-05-01**|**Safety-Critical Traffic Simulation with Guided Latent Diffusion Model**|Mingxing Peng et.al.|[2505.00515](http://arxiv.org/abs/2505.00515)|null|
