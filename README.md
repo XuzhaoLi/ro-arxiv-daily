@@ -1,4 +1,4 @@
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -658,13 +658,13 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|null|
+|**2025-05-06**|**VITA-Audio: Fast Interleaved Cross-Modal Token Generation for Efficient Large Speech-Language Model**|Zuwei Long et.al.|[2505.03739](http://arxiv.org/abs/2505.03739)|**[link](https://github.com/vita-mllm/vita-audio)**|
 |**2025-05-06**|**Decentralized Nonconvex Optimization under Heavy-Tailed Noise: Normalization and Optimal Convergence**|Shuhua Yu et.al.|[2505.03736](http://arxiv.org/abs/2505.03736)|null|
 |**2025-05-06**|**Meta-Optimization and Program Search using Language Models for Task and Motion Planning**|Denis Shcherba et.al.|[2505.03725](http://arxiv.org/abs/2505.03725)|null|
 |**2025-05-06**|**Fill the Gap: Quantifying and Reducing the Modality Gap in Image-Text Representation Learning**|François Role et.al.|[2505.03703](http://arxiv.org/abs/2505.03703)|null|
@@ -675,7 +675,7 @@
 |**2025-05-06**|**PhysLLM: Harnessing Large Language Models for Cross-Modal Remote Physiological Sensing**|Yiping Xie et.al.|[2505.03621](http://arxiv.org/abs/2505.03621)|null|
 |**2025-05-06**|**Learning Unknown Spoof Prompts for Generalized Face Anti-Spoofing Using Only Real Face Images**|Fangling Jiang et.al.|[2505.03611](http://arxiv.org/abs/2505.03611)|null|
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
-|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|null|
+|**2025-05-06**|**DyGEnc: Encoding a Sequence of Textual Scene Graphs to Reason and Answer Questions in Dynamic Scenes**|Sergey Linok et.al.|[2505.03581](http://arxiv.org/abs/2505.03581)|**[link](https://github.com/linukc/dygenc)**|
 |**2025-05-06**|**LlamaFirewall: An open source guardrail system for building secure AI agents**|Sahana Chennabasappa et.al.|[2505.03574](http://arxiv.org/abs/2505.03574)|null|
 |**2025-05-06**|**Say It Another Way: A Framework for User-Grounded Paraphrasing**|Cléa Chataigner et.al.|[2505.03563](http://arxiv.org/abs/2505.03563)|null|
 |**2025-05-06**|**A Comprehensive Survey of Large AI Models for Future Communications: Foundations, Applications and Challenges**|Feibo Jiang et.al.|[2505.03556](http://arxiv.org/abs/2505.03556)|null|
@@ -6627,7 +6627,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -11975,5 +11975,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250508>back to top</a>)</p>
 
