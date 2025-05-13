@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-11**|**Optimal control of convective Brinkman-Forchheimer equations: Dynamic programming equation and Viscosity solutions**|Sagar Gautam et.al.|[2505.07095](http://arxiv.org/abs/2505.07095)|null|
+|**2025-05-10**|**Optimizing Railcar Movements to Create Outbound Trains in a Freight Railyard**|Ruonan Zhao et.al.|[2505.06510](http://arxiv.org/abs/2505.06510)|null|
 |**2025-05-09**|**Scheduled Jacobian Chaining**|Simon Märtens et.al.|[2505.06056](http://arxiv.org/abs/2505.06056)|**[link](https://github.com/STCE-at-RWTH/Jacobian-Chaining)**|
 |**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023](http://arxiv.org/abs/2505.06023)|null|
 |**2025-05-09**|**Data-driven pressure field prediction for ships in regular sea states**|Malte Loft et.al.|[2505.06014](http://arxiv.org/abs/2505.06014)|null|
@@ -664,6 +666,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**DanceGRPO: Unleashing GRPO on Visual Generation**|Zeyue Xue et.al.|[2505.07818](http://arxiv.org/abs/2505.07818)|null|
+|**2025-05-12**|**Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models**|Seungjae Lee et.al.|[2505.07815](http://arxiv.org/abs/2505.07815)|null|
+|**2025-05-12**|**Learning Dynamics in Continual Pre-Training for Large Language Models**|Xingjin Wang et.al.|[2505.07796](http://arxiv.org/abs/2505.07796)|null|
+|**2025-05-12**|**Domain Regeneration: How well do LLMs match syntactic properties of text domains?**|Da Ju et.al.|[2505.07784](http://arxiv.org/abs/2505.07784)|null|
+|**2025-05-12**|**Relative Overfitting and Accept-Reject Framework**|Yanxin Liu et.al.|[2505.07783](http://arxiv.org/abs/2505.07783)|null|
+|**2025-05-12**|**MLE-Dojo: Interactive Environments for Empowering LLM Agents in Machine Learning Engineering**|Rushi Qiang et.al.|[2505.07782](http://arxiv.org/abs/2505.07782)|null|
+|**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775](http://arxiv.org/abs/2505.07775)|null|
+|**2025-05-12**|**Agent RL Scaling Law: Agent RL with Spontaneous Code Execution for Mathematical Problem Solving**|Xinji Mai et.al.|[2505.07773](http://arxiv.org/abs/2505.07773)|**[link](https://github.com/anonymize-author/agentrl)**|
+|**2025-05-12**|**Enhancing Code Generation via Bidirectional Comment-Level Mutual Grounding**|Yifeng Di et.al.|[2505.07768](http://arxiv.org/abs/2505.07768)|null|
+|**2025-05-12**|**BodyGPS: Anatomical Positioning System**|Halid Ziya Yerebakan et.al.|[2505.07744](http://arxiv.org/abs/2505.07744)|null|
+|**2025-05-12**|**Assessing the Chemical Intelligence of Large Language Models**|Nicholas T. Runcie et.al.|[2505.07735](http://arxiv.org/abs/2505.07735)|null|
+|**2025-05-12**|**Spoken Language Understanding on Unseen Tasks With In-Context Learning**|Neeraj Agrawal et.al.|[2505.07731](http://arxiv.org/abs/2505.07731)|null|
+|**2025-05-12**|**Reproducibility, Replicability, and Insights into Visual Document Retrieval with Late Interaction**|Jingfen Qiao et.al.|[2505.07730](http://arxiv.org/abs/2505.07730)|null|
+|**2025-05-12**|**Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**|Pranav Sinha et.al.|[2505.07711](http://arxiv.org/abs/2505.07711)|null|
+|**2025-05-12**|**Through the Looking Glass: Common Sense Consistency Evaluation of Weird Images**|Elisei Rykov et.al.|[2505.07704](http://arxiv.org/abs/2505.07704)|null|
+|**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700](http://arxiv.org/abs/2505.07700)|null|
+|**2025-05-12**|**Beyond CLIP Generalization: Against Forward&Backward Forgetting Adapter for Continual Learning of Vision-Language Models**|Songlin Dong et.al.|[2505.07690](http://arxiv.org/abs/2505.07690)|null|
+|**2025-05-12**|**S-GRPO: Early Exit via Reinforcement Learning in Reasoning Models**|Muzhi Dai et.al.|[2505.07686](http://arxiv.org/abs/2505.07686)|null|
+|**2025-05-12**|**Multimodal Survival Modeling in the Age of Foundation Models**|Steven Song et.al.|[2505.07683](http://arxiv.org/abs/2505.07683)|null|
+|**2025-05-12**|**SpecRouter: Adaptive Routing for Multi-Level Speculative Decoding in Large Language Models**|Hang Wu et.al.|[2505.07680](http://arxiv.org/abs/2505.07680)|null|
 |**2025-05-09**|**Towards a Unified Representation Evaluation Framework Beyond Downstream Tasks**|Christos Plachouras et.al.|[2505.06224](http://arxiv.org/abs/2505.06224)|null|
 |**2025-05-09**|**Adapting a Segmentation Foundation Model for Medical Image Classification**|Pengfei Gu et.al.|[2505.06217](http://arxiv.org/abs/2505.06217)|null|
 |**2025-05-09**|**From Millions of Tweets to Actionable Insights: Leveraging LLMs for User Profiling**|Vahid Rahimzadeh et.al.|[2505.06184](http://arxiv.org/abs/2505.06184)|null|
@@ -6691,6 +6713,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**Must Read: A Systematic Survey of Computational Persuasion**|Nimet Beyza Bozdag et.al.|[2505.07775](http://arxiv.org/abs/2505.07775)|null|
+|**2025-05-12**|**Codifying Character Logic in Role-Playing**|Letian Peng et.al.|[2505.07705](http://arxiv.org/abs/2505.07705)|null|
+|**2025-05-12**|**PatchTrack: A Comprehensive Analysis of ChatGPT's Influence on Pull Request Outcomes**|Daniel Ogenrwot et.al.|[2505.07700](http://arxiv.org/abs/2505.07700)|null|
+|**2025-05-12**|**JobHop: A Large-Scale Dataset of Career Trajectories**|Iman Johary et.al.|[2505.07653](http://arxiv.org/abs/2505.07653)|null|
+|**2025-05-12**|**Noise Optimized Conditional Diffusion for Domain Adaptation**|Lingkun Luo et.al.|[2505.07548](http://arxiv.org/abs/2505.07548)|null|
+|**2025-05-12**|**The Human-Data-Model Interaction Canvas for Visual Analytics**|Jürgen Bernard et.al.|[2505.07534](http://arxiv.org/abs/2505.07534)|null|
+|**2025-05-12**|**Improved Mixing of Critical Hardcore Model**|Zongchen Chen et.al.|[2505.07515](http://arxiv.org/abs/2505.07515)|null|
+|**2025-05-12**|**A Value of Information-based assessment of strain-based thickness loss monitoring in ship hull structures**|Nicholas E. Silionis et.al.|[2505.07427](http://arxiv.org/abs/2505.07427)|null|
+|**2025-05-12**|**ViMRHP: A Vietnamese Benchmark Dataset for Multimodal Review Helpfulness Prediction via Human-AI Collaborative Annotation**|Truc Mai-Thanh Nguyen et.al.|[2505.07416](http://arxiv.org/abs/2505.07416)|null|
+|**2025-05-12**|**ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning**|Hongyin Zhang et.al.|[2505.07395](http://arxiv.org/abs/2505.07395)|null|
+|**2025-05-12**|**Laypeople's Attitudes Towards Fair, Affirmative, and Discriminatory Decision-Making Algorithms**|Gabriel Lima et.al.|[2505.07339](http://arxiv.org/abs/2505.07339)|null|
+|**2025-05-12**|**Drive Fast, Learn Faster: On-Board RL for High Performance Autonomous Racing**|Benedict Hildisch et.al.|[2505.07321](http://arxiv.org/abs/2505.07321)|null|
+|**2025-05-12**|**How Do Companies Manage the Environmental Sustainability of AI? An Interview Study About Green AI Efforts and Regulations**|Ashmita Sampatsing et.al.|[2505.07317](http://arxiv.org/abs/2505.07317)|null|
+|**2025-05-12**|**Multi-Agent DRL for Multi-Objective Twin Migration Routing with Workload Prediction in 6G-enabled IoV**|Peng Yin et.al.|[2505.07290](http://arxiv.org/abs/2505.07290)|null|
+|**2025-05-12**|**Discovering Fine-Grained Visual-Concept Relations by Disentangled Optimal Transport Concept Bottleneck Models**|Yan Xie et.al.|[2505.07209](http://arxiv.org/abs/2505.07209)|null|
+|**2025-05-12**|**Benchmarking Ethical and Safety Risks of Healthcare LLMs in China-Toward Systemic Governance under Healthy China 2030**|Mouxiao Bian et.al.|[2505.07205](http://arxiv.org/abs/2505.07205)|null|
+|**2025-05-12**|**Ranking-aware Continual Learning for LiDAR Place Recognition**|Xufei Wang et.al.|[2505.07198](http://arxiv.org/abs/2505.07198)|null|
+|**2025-05-11**|**Justiça Algorítmica: Instrumentalização, Limites Conceituais e Desafios na Engenharia de Software**|Lucas Rodrigues Valença et.al.|[2505.07132](http://arxiv.org/abs/2505.07132)|null|
+|**2025-05-11**|**Constrained Online Decision-Making with Density Estimation Oracles**|Haichen Hu et.al.|[2505.07101](http://arxiv.org/abs/2505.07101)|null|
+|**2025-05-11**|**DriveSOTIF: Advancing Perception SOTIF Through Multimodal Large Language Models**|Shucheng Huang et.al.|[2505.07084](http://arxiv.org/abs/2505.07084)|null|
 |**2025-05-09**|**Let Humanoids Hike! Integrative Skill Development on Complex Trails**|Kwan-Yee Lin et.al.|[2505.06218](http://arxiv.org/abs/2505.06218)|null|
 |**2025-05-09**|**Robust Multi-Agent Decision-Making in Finite-Population Games**|Shinkyu Park et.al.|[2505.06200](http://arxiv.org/abs/2505.06200)|null|
 |**2025-05-09**|**Active Perception for Tactile Sensing: A Task-Agnostic Attention-Based Approach**|Tim Schneider et.al.|[2505.06182](http://arxiv.org/abs/2505.06182)|null|
