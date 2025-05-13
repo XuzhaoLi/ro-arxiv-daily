@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -11,7 +11,7 @@ layout: default
 |**2025-05-09**|**Universal Approximation Theorem for Deep Q-Learning via FBSDE System**|Qian Qi et.al.|[2505.06023](http://arxiv.org/abs/2505.06023)|null|
 |**2025-05-09**|**Data-driven pressure field prediction for ships in regular sea states**|Malte Loft et.al.|[2505.06014](http://arxiv.org/abs/2505.06014)|null|
 |**2025-05-09**|**Multi-armed Bandit for Stochastic Shortest Path in Mixed Autonomy**|Yu Bai et.al.|[2505.05878](http://arxiv.org/abs/2505.05878)|null|
-|**2025-05-08**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
+|**2025-05-10**|**Driving with Context: Online Map Matching for Complex Roads Using Lane Markings and Scenario Recognition**|Xin Bi et.al.|[2505.05007](http://arxiv.org/abs/2505.05007)|**[link](https://github.com/trv-lab/lmsr-omm)**|
 |**2025-05-08**|**Chain-of-Thought Tokens are Computer Program Variables**|Fangwei Zhu et.al.|[2505.04955](http://arxiv.org/abs/2505.04955)|**[link](https://github.com/solitaryzero/cots_are_variables)**|
 |**2025-05-08**|**Network Digital Twin for Route Optimization in 5G/B5G Transport Slicing with What-If Analysis**|Rebecca Aben-Athar et.al.|[2505.04879](http://arxiv.org/abs/2505.04879)|null|
 |**2025-05-06**|**Stochastic scheduling with Bernoulli-type jobs through policy stratification**|Antonios Antoniadis et.al.|[2505.03349](http://arxiv.org/abs/2505.03349)|null|
