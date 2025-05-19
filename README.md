@@ -12,6 +12,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Sobolev Training of End-to-End Optimization Proxies**|Andrew W. Rosemberg et.al.|[2505.11342](http://arxiv.org/abs/2505.11342)|null|
+|**2025-05-16**|**Beyond KL-divergence: Risk Aware Control Through Cross Entropy and Adversarial Entropy Regularization**|Menno van Zutphen et.al.|[2505.11068](http://arxiv.org/abs/2505.11068)|null|
 |**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471](http://arxiv.org/abs/2505.10471)|null|
 |**2025-05-14**|**Reflected stochastic recursive control problems with jumps: dynamic programming and stochastic verification theorems**|Lu Liu et.al.|[2505.09070](http://arxiv.org/abs/2505.09070)|null|
 |**2025-05-13**|**Optimal Trajectory Planning with Collision Avoidance for Autonomous Vehicle Maneuvering**|Jason Zalev et.al.|[2505.08724](http://arxiv.org/abs/2505.08724)|null|
@@ -677,6 +679,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Modeling cognitive processes of natural reading with transformer-based Language Models**|Bruno Bianchi et.al.|[2505.11485](http://arxiv.org/abs/2505.11485)|null|
+|**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
+|**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
+|**2025-05-16**|**HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages**|Zhilin Wang et.al.|[2505.11475](http://arxiv.org/abs/2505.11475)|null|
+|**2025-05-16**|**Disentangling Reasoning and Knowledge in Medical Large Language Models**|Rahul Thapa et.al.|[2505.11462](http://arxiv.org/abs/2505.11462)|null|
+|**2025-05-16**|**ProxyPrompt: Securing System Prompts against Prompt Extraction Attacks**|Zhixiong Zhuang et.al.|[2505.11459](http://arxiv.org/abs/2505.11459)|null|
+|**2025-05-16**|**LLMs unlock new paths to monetizing exploits**|Nicholas Carlini et.al.|[2505.11449](http://arxiv.org/abs/2505.11449)|null|
+|**2025-05-16**|**Is Compression Really Linear with Code Intelligence?**|Xianzhen Luo et.al.|[2505.11441](http://arxiv.org/abs/2505.11441)|null|
+|**2025-05-16**|**GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art**|Chenkai Zhang et.al.|[2505.11436](http://arxiv.org/abs/2505.11436)|null|
+|**2025-05-16**|**MegaScale-MoE: Large-Scale Communication-Efficient Training of Mixture-of-Experts Models in Production**|Chao Jin et.al.|[2505.11432](http://arxiv.org/abs/2505.11432)|null|
+|**2025-05-16**|**Mergenetic: a Simple Evolutionary Model Merging Library**|Adrian Robert Minut et.al.|[2505.11427](http://arxiv.org/abs/2505.11427)|null|
+|**2025-05-16**|**When Thinking Fails: The Pitfalls of Reasoning for Instruction-Following in LLMs**|Xiaomin Li et.al.|[2505.11423](http://arxiv.org/abs/2505.11423)|null|
+|**2025-05-16**|**Towards Cultural Bridge by Bahnaric-Vietnamese Translation Using Transfer Learning of Sequence-To-Sequence Pre-training Language Model**|Phan Tran Minh Dat et.al.|[2505.11421](http://arxiv.org/abs/2505.11421)|null|
+|**2025-05-16**|**EdgeWisePersona: A Dataset for On-Device User Profiling from Natural Language Interactions**|Patryk Bartkowiak et.al.|[2505.11417](http://arxiv.org/abs/2505.11417)|null|
+|**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
+|**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
+|**2025-05-16**|**Visual Planning: Let's Think Only with Images**|Yi Xu et.al.|[2505.11409](http://arxiv.org/abs/2505.11409)|null|
+|**2025-05-16**|**Large Language Model Use Impact Locus of Control**|Jenny Xiyu Fu et.al.|[2505.11406](http://arxiv.org/abs/2505.11406)|null|
+|**2025-05-16**|**EmotionHallucer: Evaluating Emotion Hallucinations in Multimodal Large Language Models**|Bohao Xing et.al.|[2505.11405](http://arxiv.org/abs/2505.11405)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
 |**2025-05-15**|**End-to-End Vision Tokenizer Tuning**|Wenxuan Wang et.al.|[2505.10562](http://arxiv.org/abs/2505.10562)|null|
 |**2025-05-15**|**Neural Thermodynamic Laws for Large Language Model Training**|Ziming Liu et.al.|[2505.10559](http://arxiv.org/abs/2505.10559)|null|
 |**2025-05-15**|**Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data**|Yiwen Liu et.al.|[2505.10551](http://arxiv.org/abs/2505.10551)|**[link](https://github.com/yiveen/syntheticdatafeasibility)**|
@@ -6786,6 +6808,20 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**|Heye Huang et.al.|[2505.11474](http://arxiv.org/abs/2505.11474)|null|
+|**2025-05-16**|**Can AI automatically analyze public opinion? A LLM agents-based agentic pipeline for timely public opinion analysis**|Jing Liu et.al.|[2505.11401](http://arxiv.org/abs/2505.11401)|null|
+|**2025-05-16**|**Efficient End-to-End Learning for Decision-Making: A Meta-Optimization Approach**|Rares Cristian et.al.|[2505.11360](http://arxiv.org/abs/2505.11360)|null|
+|**2025-05-16**|**LD-Scene: LLM-Guided Diffusion for Controllable Generation of Adversarial Safety-Critical Driving Scenarios**|Mingxing Peng et.al.|[2505.11247](http://arxiv.org/abs/2505.11247)|null|
+|**2025-05-16**|**Learning traffic flows: Graph Neural Networks for Metamodelling Traffic Assignment**|Oskar Bohn Lassen et.al.|[2505.11230](http://arxiv.org/abs/2505.11230)|null|
+|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221](http://arxiv.org/abs/2505.11221)|null|
+|**2025-05-16**|**Planar Velocity Estimation for Fast-Moving Mobile Robots Using Event-Based Optical Flow**|Liam Boyle et.al.|[2505.11116](http://arxiv.org/abs/2505.11116)|null|
+|**2025-05-16**|**Blockchain-Enabled Decentralized Privacy-Preserving Group Purchasing for Energy Plans**|Sid Chi-Kin Chau et.al.|[2505.11094](http://arxiv.org/abs/2505.11094)|null|
+|**2025-05-16**|**Time Travel is Cheating: Going Live with DeepFund for Real-Time Fund Investment Benchmarking**|Changlun Li et.al.|[2505.11065](http://arxiv.org/abs/2505.11065)|null|
+|**2025-05-16**|**DRL-Based Injection Molding Process Parameter Optimization for Adaptive and Profitable Production**|Joon-Young Kim et.al.|[2505.10988](http://arxiv.org/abs/2505.10988)|null|
+|**2025-05-16**|**Prior-Guided Diffusion Planning for Offline Reinforcement Learning**|Donghyeon Ki et.al.|[2505.10881](http://arxiv.org/abs/2505.10881)|null|
+|**2025-05-16**|**Deep Symbolic Optimization: Reinforcement Learning for Symbolic Mathematics**|Conor F. Hayes et.al.|[2505.10762](http://arxiv.org/abs/2505.10762)|null|
+|**2025-05-15**|**Decision Making in Urban Traffic: A Game Theoretic Approach for Autonomous Vehicles Adhering to Traffic Rules**|Keqi Shu et.al.|[2505.10690](http://arxiv.org/abs/2505.10690)|null|
+|**2025-05-15**|**GaussianFormer3D: Multi-Modal Gaussian-based Semantic Occupancy Prediction with 3D Deformable Attention**|Lingjun Zhao et.al.|[2505.10685](http://arxiv.org/abs/2505.10685)|null|
 |**2025-05-15**|**Towards a Deeper Understanding of Reasoning Capabilities in Large Language Models**|Annie Wong et.al.|[2505.10543](http://arxiv.org/abs/2505.10543)|**[link](https://github.com/ann-w/towards-a-deeper-understanding-of-reasoning-capabilities-in-large-language-models)**|
 |**2025-05-15**|**Batched Nonparametric Bandits via k-Nearest Neighbor UCB**|Sakshi Arya et.al.|[2505.10498](http://arxiv.org/abs/2505.10498)|null|
 |**2025-05-15**|**Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps**|Ningyuan Yang et.al.|[2505.10482](http://arxiv.org/abs/2505.10482)|null|
