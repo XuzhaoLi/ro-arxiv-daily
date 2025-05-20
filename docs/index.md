@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**Dynamic programming and dimensionality in convex stochastic optimization and control**|Teemu Pennanen et.al.|[2505.12787](http://arxiv.org/abs/2505.12787)|null|
+|**2025-05-18**|**Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**|Junzhe Jiang et.al.|[2505.12465](http://arxiv.org/abs/2505.12465)|null|
+|**2025-05-16**|**Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming**|Diksha Goel et.al.|[2505.11710](http://arxiv.org/abs/2505.11710)|null|
+|**2025-05-15**|**Multi-Objective Memory Bandwidth Regulation and Cache Partitioning for Multicore Real-Time Systems**|Binqi Sun et.al.|[2505.11554](http://arxiv.org/abs/2505.11554)|null|
 |**2025-05-16**|**Sobolev Training of End-to-End Optimization Proxies**|Andrew W. Rosemberg et.al.|[2505.11342](http://arxiv.org/abs/2505.11342)|null|
 |**2025-05-16**|**Beyond KL-divergence: Risk Aware Control Through Cross Entropy and Adversarial Entropy Regularization**|Menno van Zutphen et.al.|[2505.11068](http://arxiv.org/abs/2505.11068)|null|
 |**2025-05-15**|**Scalable Approximate Biclique Counting over Large Bipartite Graphs**|Jingbang Chen et.al.|[2505.10471](http://arxiv.org/abs/2505.10471)|null|
@@ -672,6 +676,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**CIE: Controlling Language Model Text Generations Using Continuous Signals**|Vinay Samuel et.al.|[2505.13448](http://arxiv.org/abs/2505.13448)|**[link](https://github.com/vsamuel2003/cie)**|
+|**2025-05-19**|**Trust, But Verify: A Self-Verification Approach to Reinforcement Learning with Verifiable Rewards**|Xiaoyuan Liu et.al.|[2505.13445](http://arxiv.org/abs/2505.13445)|null|
+|**2025-05-19**|**ChartMuseum: Testing Visual Reasoning Capabilities of Large Vision-Language Models**|Liyan Tang et.al.|[2505.13444](http://arxiv.org/abs/2505.13444)|null|
+|**2025-05-19**|**GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation**|Abhay Deshpande et.al.|[2505.13441](http://arxiv.org/abs/2505.13441)|null|
+|**2025-05-19**|**Optimizing Anytime Reasoning via Budget Relative Policy Optimization**|Penghui Qi et.al.|[2505.13438](http://arxiv.org/abs/2505.13438)|**[link](https://github.com/sail-sg/anytimereasoner)**|
+|**2025-05-19**|**SMOTExT: SMOTE meets Large Language Models**|Mateusz Bystroński et.al.|[2505.13434](http://arxiv.org/abs/2505.13434)|null|
+|**2025-05-19**|**Fine-tuning Quantized Neural Networks with Zeroth-order Optimization**|Sifeng Shang et.al.|[2505.13430](http://arxiv.org/abs/2505.13430)|null|
+|**2025-05-19**|**MM-PRM: Enhancing Multimodal Mathematical Reasoning with Scalable Step-Level Supervision**|Lingxiao Du et.al.|[2505.13427](http://arxiv.org/abs/2505.13427)|**[link](https://github.com/modalminds/mm-prm)**|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Learnware of Language Models: Specialized Small Language Models Can Do Big**|Zhi-Hao Tan et.al.|[2505.13425](http://arxiv.org/abs/2505.13425)|null|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**FEALLM: Advancing Facial Emotion Analysis in Multimodal Large Language Models with Emotional Synergy and Reasoning**|Zhuozhao Hu et.al.|[2505.13419](http://arxiv.org/abs/2505.13419)|**[link](https://github.com/953206211/feallm)**|
+|**2025-05-19**|**CoT-Kinetics: A Theoretical Modeling Assessing LRM Reasoning Process**|Jinhe Bi et.al.|[2505.13408](http://arxiv.org/abs/2505.13408)|null|
+|**2025-05-19**|**AutoMathKG: The automated mathematical knowledge graph based on LLM and vector database**|Rong Bian et.al.|[2505.13406](http://arxiv.org/abs/2505.13406)|null|
+|**2025-05-19**|**MR. Judge: Multimodal Reasoner as a Judge**|Renjie Pi et.al.|[2505.13403](http://arxiv.org/abs/2505.13403)|null|
+|**2025-05-19**|**R3: Robust Rubric-Agnostic Reward Models**|David Anugraha et.al.|[2505.13388](http://arxiv.org/abs/2505.13388)|**[link](https://github.com/rubricreward/r3)**|
+|**2025-05-19**|**CompeteSMoE -- Statistically Guaranteed Mixture of Experts Training via Competition**|Nam V. Nguyen et.al.|[2505.13380](http://arxiv.org/abs/2505.13380)|null|
+|**2025-05-19**|**Thinkless: LLM Learns When to Think**|Gongfan Fang et.al.|[2505.13379](http://arxiv.org/abs/2505.13379)|**[link](https://github.com/vainf/thinkless)**|
+|**2025-05-19**|**Seeing, Saying, Solving: An LLM-to-TL Framework for Cooperative Robots**|Dan BW Choe et.al.|[2505.13376](http://arxiv.org/abs/2505.13376)|null|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
 |**2025-05-16**|**Modeling cognitive processes of natural reading with transformer-based Language Models**|Bruno Bianchi et.al.|[2505.11485](http://arxiv.org/abs/2505.11485)|null|
 |**2025-05-16**|**msf-CNN: Patch-based Multi-Stage Fusion with Convolutional Neural Networks for TinyML**|Zhaolan Huang et.al.|[2505.11483](http://arxiv.org/abs/2505.11483)|null|
 |**2025-05-16**|**Improving Assembly Code Performance with Large Language Models via Reinforcement Learning**|Anjiang Wei et.al.|[2505.11480](http://arxiv.org/abs/2505.11480)|null|
@@ -6799,6 +6823,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-19**|**G1: Bootstrapping Perception and Reasoning Abilities of Vision-Language Model via Reinforcement Learning**|Liang Chen et.al.|[2505.13426](http://arxiv.org/abs/2505.13426)|**[link](https://github.com/chenllliang/g1)**|
+|**2025-05-19**|**Make Still Further Progress: Chain of Thoughts for Tabular Data Leaderboard**|Si-Yang Liu et.al.|[2505.13421](http://arxiv.org/abs/2505.13421)|null|
+|**2025-05-19**|**Multi-Armed Bandits Meet Large Language Models**|Djallel Bouneffouf et.al.|[2505.13355](http://arxiv.org/abs/2505.13355)|null|
+|**2025-05-19**|**Investigating the Vulnerability of LLM-as-a-Judge Architectures to Prompt-Injection Attacks**|Narek Maloyan et.al.|[2505.13348](http://arxiv.org/abs/2505.13348)|null|
+|**2025-05-19**|**Cross-Cloud Data Privacy Protection: Optimizing Collaborative Mechanisms of AI Systems by Integrating Federated Learning and LLMs**|Huaiying Luo et.al.|[2505.13292](http://arxiv.org/abs/2505.13292)|null|
+|**2025-05-19**|**Low-regret Strategies for Energy Systems Planning in a Highly Uncertain Future**|Gabriel Wiest et.al.|[2505.13277](http://arxiv.org/abs/2505.13277)|null|
+|**2025-05-19**|**DB3D-L: Depth-aware BEV Feature Transformation for Accurate 3D Lane Detection**|Yehao Liu et.al.|[2505.13266](http://arxiv.org/abs/2505.13266)|null|
+|**2025-05-19**|**Adversarial Testing in LLMs: Insights into Decision-Making Vulnerabilities**|Lili Zhang et.al.|[2505.13195](http://arxiv.org/abs/2505.13195)|null|
+|**2025-05-19**|**Role-Playing Evaluation for Large Language Models**|Yassine El Boudouri et.al.|[2505.13157](http://arxiv.org/abs/2505.13157)|null|
+|**2025-05-19**|**Neurosymbolic Diffusion Models**|Emile van Krieken et.al.|[2505.13138](http://arxiv.org/abs/2505.13138)|null|
+|**2025-05-19**|**Treatment Effect Estimation for Optimal Decision-Making**|Dennis Frauen et.al.|[2505.13092](http://arxiv.org/abs/2505.13092)|null|
+|**2025-05-19**|**Orthogonal Survival Learners for Estimating Heterogeneous Treatment Effects from Time-to-Event Data**|Dennis Frauen et.al.|[2505.13072](http://arxiv.org/abs/2505.13072)|null|
+|**2025-05-19**|**SNAPE-PM: Building and Utilizing Dynamic Partner Models for Adaptive Explanation Generation**|Amelie S. Robrecht et.al.|[2505.13053](http://arxiv.org/abs/2505.13053)|null|
+|**2025-05-19**|**CAIM: Development and Evaluation of a Cognitive AI Memory Framework for Long-Term Interaction with Intelligent Agents**|Rebecca Westhäußer et.al.|[2505.13044](http://arxiv.org/abs/2505.13044)|null|
+|**2025-05-19**|**EPIC: Explanation of Pretrained Image Classification Networks via Prototype**|Piotr Borycki et.al.|[2505.12897](http://arxiv.org/abs/2505.12897)|**[link](https://github.com/piotr310100/epic)**|
+|**2025-05-19**|**Scheduling of Flexible Manufacturing Systems Based on Place-Timed Petri Nets and Basis Reachability Graphs**|Zhou He et.al.|[2505.12862](http://arxiv.org/abs/2505.12862)|null|
+|**2025-05-19**|**Geometric Formalization of First-Order Stochastic Dominance in $N$ Dimensions: A Tractable Path to Multi-Dimensional Economic Decision Analysis**|Jingyuan Li et.al.|[2505.12840](http://arxiv.org/abs/2505.12840)|null|
+|**2025-05-19**|**Testing Identifiability and Transportability with Observational and Experimental Data**|Konstantina Lelova et.al.|[2505.12801](http://arxiv.org/abs/2505.12801)|null|
+|**2025-05-19**|**Forewarned is Forearmed: A Survey on Large Language Model-based Agents in Autonomous Cyberattacks**|Minrui Xu et.al.|[2505.12786](http://arxiv.org/abs/2505.12786)|null|
+|**2025-05-19**|**Beyond Individual UX: Defining Group Experience(GX) as a New Paradigm for Group-centered AI**|Soohwan Lee et.al.|[2505.12780](http://arxiv.org/abs/2505.12780)|null|
 |**2025-05-16**|**REACT: Runtime-Enabled Active Collision-avoidance Technique for Autonomous Driving**|Heye Huang et.al.|[2505.11474](http://arxiv.org/abs/2505.11474)|null|
 |**2025-05-16**|**Can AI automatically analyze public opinion? A LLM agents-based agentic pipeline for timely public opinion analysis**|Jing Liu et.al.|[2505.11401](http://arxiv.org/abs/2505.11401)|null|
 |**2025-05-16**|**Efficient End-to-End Learning for Decision-Making: A Meta-Optimization Approach**|Rares Cristian et.al.|[2505.11360](http://arxiv.org/abs/2505.11360)|null|
