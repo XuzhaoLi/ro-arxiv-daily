@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**Families of tractable problems with respect to vertex-interval-membership width and its generalisations**|Jessica Enright et.al.|[2505.15699](http://arxiv.org/abs/2505.15699)|null|
+|**2025-05-21**|**Deep Learning for Continuous-time Stochastic Control with Jumps**|Patrick Cheridito et.al.|[2505.15602](http://arxiv.org/abs/2505.15602)|null|
 |**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754](http://arxiv.org/abs/2505.13754)|null|
 |**2025-05-18**|**Learning to Program Quantum Measurements for Machine Learning**|Samual Yen-Chi Chen et.al.|[2505.13525](http://arxiv.org/abs/2505.13525)|null|
 |**2025-05-19**|**Dynamic programming and dimensionality in convex stochastic optimization and control**|Teemu Pennanen et.al.|[2505.12787](http://arxiv.org/abs/2505.12787)|null|
@@ -678,6 +680,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
+|**2025-05-21**|**On the creation of narrow AI: hierarchy and nonlocality of neural network skills**|Eric J. Michaud et.al.|[2505.15811](http://arxiv.org/abs/2505.15811)|null|
+|**2025-05-21**|**MMaDA: Multimodal Large Diffusion Language Models**|Ling Yang et.al.|[2505.15809](http://arxiv.org/abs/2505.15809)|**[link](https://github.com/gen-verse/mmada)**|
+|**2025-05-21**|**The Atlas of In-Context Learning: How Attention Heads Shape In-Context Retrieval Augmentation**|Patrick Kahardipraja et.al.|[2505.15807](http://arxiv.org/abs/2505.15807)|null|
+|**2025-05-21**|**Keep Security! Benchmarking Security Policy Preservation in Large Language Model Contexts Against Indirect Attacks in Question Answering**|Hwan Chang et.al.|[2505.15805](http://arxiv.org/abs/2505.15805)|null|
+|**2025-05-21**|**STAR-R1: Spacial TrAnsformation Reasoning by Reinforcing Multimodal LLMs**|Zongzhao Li et.al.|[2505.15804](http://arxiv.org/abs/2505.15804)|null|
+|**2025-05-21**|**VerifyBench: Benchmarking Reference-based Reward Systems for Large Language Models**|Yuchen Yan et.al.|[2505.15801](http://arxiv.org/abs/2505.15801)|null|
+|**2025-05-21**|**Model Merging is Secretly Certifiable: Non-Vacuous Generalisation Bounds for Low-Shot Learning**|Taehoon Kim et.al.|[2505.15798](http://arxiv.org/abs/2505.15798)|null|
+|**2025-05-21**|**Reverse Engineering Human Preferences with Reinforcement Learning**|Lisa Alazraki et.al.|[2505.15795](http://arxiv.org/abs/2505.15795)|null|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**Large Language Models as Computable Approximations to Solomonoff Induction**|Jun Wan et.al.|[2505.15784](http://arxiv.org/abs/2505.15784)|null|
+|**2025-05-21**|**dKV-Cache: The Cache for Diffusion Language Models**|Xinyin Ma et.al.|[2505.15781](http://arxiv.org/abs/2505.15781)|**[link](https://github.com/horseee/dkv-cache)**|
+|**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776](http://arxiv.org/abs/2505.15776)|null|
+|**2025-05-21**|**Beyond Hard and Soft: Hybrid Context Compression for Balancing Local and Global Information Retention**|Huanxuan Liao et.al.|[2505.15774](http://arxiv.org/abs/2505.15774)|null|
+|**2025-05-21**|**MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling**|Cheng Yifan et.al.|[2505.15772](http://arxiv.org/abs/2505.15772)|null|
+|**2025-05-21**|**An Empirical Analysis of Vulnerability Detection Tools for Solidity Smart Contracts Using Line Level Manually Annotated Vulnerabilities**|Francesco Salzano et.al.|[2505.15756](http://arxiv.org/abs/2505.15756)|null|
+|**2025-05-21**|**Exploring The Visual Feature Space for Multimodal Neural Decoding**|Weihao Xia et.al.|[2505.15755](http://arxiv.org/abs/2505.15755)|null|
+|**2025-05-21**|**Scalable Defense against In-the-wild Jailbreaking Attacks with Safety Context Retrieval**|Taiye Chen et.al.|[2505.15753](http://arxiv.org/abs/2505.15753)|null|
+|**2025-05-21**|**Multi-modal Integration Analysis of Alzheimer's Disease Using Large Language Models and Knowledge Graphs**|Kanan Kiguchi et.al.|[2505.15747](http://arxiv.org/abs/2505.15747)|null|
+|**2025-05-21**|**Evolutionary Computation and Large Language Models: A Survey of Methods, Synergies, and Applications**|Dikshit Chauhan et.al.|[2505.15741](http://arxiv.org/abs/2505.15741)|null|
 |**2025-05-20**|**Language Models use Lookbacks to Track Beliefs**|Nikhil Prakash et.al.|[2505.14685](http://arxiv.org/abs/2505.14685)|null|
 |**2025-05-21**|**Mind the Gap: Bridging Thought Leap for Improved Chain-of-Thought Tuning**|Haolei Xu et.al.|[2505.14684](http://arxiv.org/abs/2505.14684)|null|
 |**2025-05-20**|**Emerging Properties in Unified Multimodal Pretraining**|Chaorui Deng et.al.|[2505.14683](http://arxiv.org/abs/2505.14683)|null|
@@ -6845,6 +6867,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**HCRMP: A LLM-Hinted Contextual Reinforcement Learning Framework for Autonomous Driving**|Zhiwen Chen et.al.|[2505.15793](http://arxiv.org/abs/2505.15793)|null|
+|**2025-05-21**|**HAMF: A Hybrid Attention-Mamba Framework for Joint Scene Context Understanding and Future Motion Representation Learning**|Xiaodong Mei et.al.|[2505.15703](http://arxiv.org/abs/2505.15703)|null|
+|**2025-05-21**|**Aligning Explanations with Human Communication**|Jacopo Teneggi et.al.|[2505.15626](http://arxiv.org/abs/2505.15626)|null|
+|**2025-05-21**|**Trial and Return Option Strategy in Omnichannel Retailing**|Yasuyuki Kusuda et.al.|[2505.15597](http://arxiv.org/abs/2505.15597)|null|
+|**2025-05-21**|**TinyDrive: Multiscale Visual Question Answering with Selective Token Routing for Autonomous Driving**|Hossein Hassani et.al.|[2505.15564](http://arxiv.org/abs/2505.15564)|null|
+|**2025-05-21**|**seg_3D_by_PC2D: Multi-View Projection for Domain Generalization and Adaptation in 3D Semantic Segmentation**|Andrew Caunes et.al.|[2505.15545](http://arxiv.org/abs/2505.15545)|**[link](https://github.com/andrewcaunes/ia4markings)**|
+|**2025-05-21**|**A Multi-Tiered Bayesian Network Coastal Compound Flood Analysis Framework**|Ziyue Liu et.al.|[2505.15520](http://arxiv.org/abs/2505.15520)|null|
+|**2025-05-21**|**Spectral-Aware Global Fusion for RGB-Thermal Semantic Segmentation**|Ce Zhang et.al.|[2505.15491](http://arxiv.org/abs/2505.15491)|null|
+|**2025-05-21**|**Developing clinical informatics to support direct care and population health management: the VIEWER story**|Robert Harland et.al.|[2505.15459](http://arxiv.org/abs/2505.15459)|null|
+|**2025-05-21**|**On the Generalization vs Fidelity Paradox in Knowledge Distillation**|Suhas Kamasetty Ramesh et.al.|[2505.15442](http://arxiv.org/abs/2505.15442)|null|
+|**2025-05-21**|**Evaluation of Mobile Environment for Vehicular Visible Light Communication Using Multiple LEDs and Event Cameras**|Ryota Soga et.al.|[2505.15412](http://arxiv.org/abs/2505.15412)|null|
+|**2025-05-21**|**RIS Beam Calibration for ISAC Systems: Modeling and Performance Analysis**|Mengting Li et.al.|[2505.15403](http://arxiv.org/abs/2505.15403)|null|
+|**2025-05-21**|**Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control**|Seongmin Park et.al.|[2505.15304](http://arxiv.org/abs/2505.15304)|null|
+|**2025-05-21**|**AgentThink: A Unified Framework for Tool-Augmented Chain-of-Thought Reasoning in Vision-Language Models for Autonomous Driving**|Kangan Qian et.al.|[2505.15298](http://arxiv.org/abs/2505.15298)|null|
+|**2025-05-21**|**Web-Shepherd: Advancing PRMs for Reinforcing Web Agents**|Hyungjoo Chae et.al.|[2505.15277](http://arxiv.org/abs/2505.15277)|null|
+|**2025-05-21**|**Learning-based Autonomous Oversteer Control and Collision Avoidance**|Seokjun Lee et.al.|[2505.15275](http://arxiv.org/abs/2505.15275)|null|
+|**2025-05-21**|**Identification of Probabilities of Causation: A Complete Characterization**|Xin Shu et.al.|[2505.15274](http://arxiv.org/abs/2505.15274)|null|
+|**2025-05-21**|**LiveVLM: Efficient Online Video Understanding via Streaming-Oriented KV Cache and Retrieval**|Zhenyu Ning et.al.|[2505.15269](http://arxiv.org/abs/2505.15269)|null|
+|**2025-05-21**|**DC-Scene: Data-Centric Learning for 3D Scene Understanding**|Ting Huang et.al.|[2505.15232](http://arxiv.org/abs/2505.15232)|**[link](https://github.com/aigeeksgroup/dc-scene)**|
+|**2025-05-21**|**Finding separatrices of dynamical flows with Deep Koopman Eigenfunctions**|Kabir V. Dabholkar et.al.|[2505.15231](http://arxiv.org/abs/2505.15231)|null|
 |**2025-05-20**|**Cost-Augmented Monte Carlo Tree Search for LLM-Assisted Planning**|Zihao Zhang et.al.|[2505.14656](http://arxiv.org/abs/2505.14656)|null|
 |**2025-05-20**|**OSIRIS-REx Operational Key Decision Points: A Retrospective**|Rich Burns et.al.|[2505.14632](http://arxiv.org/abs/2505.14632)|null|
 |**2025-05-20**|**Bellman operator convergence enhancements in reinforcement learning algorithms**|David Krame Kadurha et.al.|[2505.14564](http://arxiv.org/abs/2505.14564)|null|
