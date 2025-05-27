@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -16,7 +16,7 @@ layout: default
 |**2025-05-21**|**Families of tractable problems with respect to vertex-interval-membership width and its generalisations**|Jessica Enright et.al.|[2505.15699](http://arxiv.org/abs/2505.15699)|null|
 |**2025-05-21**|**Deep Learning for Continuous-time Stochastic Control with Jumps**|Patrick Cheridito et.al.|[2505.15602](http://arxiv.org/abs/2505.15602)|null|
 |**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754](http://arxiv.org/abs/2505.13754)|null|
-|**2025-05-18**|**Learning to Program Quantum Measurements for Machine Learning**|Samual Yen-Chi Chen et.al.|[2505.13525](http://arxiv.org/abs/2505.13525)|null|
+|**2025-05-24**|**Learning to Program Quantum Measurements for Machine Learning**|Samuel Yen-Chi Chen et.al.|[2505.13525](http://arxiv.org/abs/2505.13525)|null|
 |**2025-05-19**|**Dynamic programming and dimensionality in convex stochastic optimization and control**|Teemu Pennanen et.al.|[2505.12787](http://arxiv.org/abs/2505.12787)|null|
 |**2025-05-18**|**Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**|Junzhe Jiang et.al.|[2505.12465](http://arxiv.org/abs/2505.12465)|null|
 |**2025-05-16**|**Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming**|Diksha Goel et.al.|[2505.11710](http://arxiv.org/abs/2505.11710)|null|

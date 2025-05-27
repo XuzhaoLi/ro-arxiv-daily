@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -21,7 +21,7 @@
 |**2025-05-21**|**Families of tractable problems with respect to vertex-interval-membership width and its generalisations**|Jessica Enright et.al.|[2505.15699](http://arxiv.org/abs/2505.15699)|null|
 |**2025-05-21**|**Deep Learning for Continuous-time Stochastic Control with Jumps**|Patrick Cheridito et.al.|[2505.15602](http://arxiv.org/abs/2505.15602)|null|
 |**2025-05-19**|**Finding Maximum Independent Sets in Dynamic Graphs using Unsupervised Learning**|Devendra Parkar et.al.|[2505.13754](http://arxiv.org/abs/2505.13754)|null|
-|**2025-05-18**|**Learning to Program Quantum Measurements for Machine Learning**|Samual Yen-Chi Chen et.al.|[2505.13525](http://arxiv.org/abs/2505.13525)|null|
+|**2025-05-24**|**Learning to Program Quantum Measurements for Machine Learning**|Samuel Yen-Chi Chen et.al.|[2505.13525](http://arxiv.org/abs/2505.13525)|null|
 |**2025-05-19**|**Dynamic programming and dimensionality in convex stochastic optimization and control**|Teemu Pennanen et.al.|[2505.12787](http://arxiv.org/abs/2505.12787)|null|
 |**2025-05-18**|**Resolving Latency and Inventory Risk in Market Making with Reinforcement Learning**|Junzhe Jiang et.al.|[2505.12465](http://arxiv.org/abs/2505.12465)|null|
 |**2025-05-16**|**Co-Evolutionary Defence of Active Directory Attack Graphs via GNN-Approximated Dynamic Programming**|Diksha Goel et.al.|[2505.11710](http://arxiv.org/abs/2505.11710)|null|
@@ -687,7 +687,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -6916,7 +6916,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -12516,5 +12516,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250527>back to top</a>)</p>
 
