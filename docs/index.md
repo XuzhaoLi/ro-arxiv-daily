@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**GridRoute: A Benchmark for LLM-Based Route Planning with Cardinal Movement in Grid Environments**|Kechen Li et.al.|[2505.24306](http://arxiv.org/abs/2505.24306)|null|
+|**2025-05-30**|**Winners vs. Losers: Momentum-based Strategies with Intertemporal Choice for ESG Portfolios**|Ayush Jha et.al.|[2505.24250](http://arxiv.org/abs/2505.24250)|null|
+|**2025-05-30**|**CLaSp: In-Context Layer Skip for Self-Speculative Decoding**|Longze Chen et.al.|[2505.24196](http://arxiv.org/abs/2505.24196)|null|
 |**2025-05-29**|**Spoken Language Modeling with Duration-Penalized Self-Supervised Units**|Nicol Visser et.al.|[2505.23494](http://arxiv.org/abs/2505.23494)|**[link](https://github.com/nicolvisser/dp-slm)**|
 |**2025-05-29**|**Offline Map Matching Based on Localization Error Distribution Modeling**|Ruilin Xu et.al.|[2505.23123](http://arxiv.org/abs/2505.23123)|null|
 |**2025-05-29**|**DINGO: Constrained Inference for Diffusion LLMs**|Tarun Suresh et.al.|[2505.23061](http://arxiv.org/abs/2505.23061)|null|
@@ -692,6 +695,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**ReasonGen-R1: CoT for Autoregressive Image generation models through SFT and RL**|Yu Zhang et.al.|[2505.24875](http://arxiv.org/abs/2505.24875)|null|
+|**2025-05-30**|**The Road to Generalizable Neuro-Symbolic Learning Should be Paved with Foundation Models**|Adam Stein et.al.|[2505.24874](http://arxiv.org/abs/2505.24874)|null|
+|**2025-05-30**|**ProxyThinker: Test-Time Guidance through Small Visual Reasoners**|Zilin Xiao et.al.|[2505.24872](http://arxiv.org/abs/2505.24872)|null|
+|**2025-05-30**|**MoDoMoDo: Multi-Domain Data Mixtures for Multimodal LLM Reinforcement Learning**|Yiqing Liang et.al.|[2505.24871](http://arxiv.org/abs/2505.24871)|null|
+|**2025-05-30**|**GenSpace: Benchmarking Spatially-Aware Image Generation**|Zehan Wang et.al.|[2505.24870](http://arxiv.org/abs/2505.24870)|null|
+|**2025-05-30**|**SiLVR: A Simple Language-based Video Reasoning Framework**|Ce Zhang et.al.|[2505.24869](http://arxiv.org/abs/2505.24869)|null|
+|**2025-05-30**|**Time Blindness: Why Video-Language Models Can't See What Humans Can?**|Ujjwal Upadhyay et.al.|[2505.24867](http://arxiv.org/abs/2505.24867)|null|
+|**2025-05-30**|**ProRL: Prolonged Reinforcement Learning Expands Reasoning Boundaries in Large Language Models**|Mingjie Liu et.al.|[2505.24864](http://arxiv.org/abs/2505.24864)|null|
+|**2025-05-30**|**Beyond Multiple Choice: Evaluating Steering Vectors for Adaptive Free-Form Summarization**|Joschka Braun et.al.|[2505.24859](http://arxiv.org/abs/2505.24859)|null|
+|**2025-05-30**|**Accelerated Sampling from Masked Diffusion Models via Entropy Bounded Unmasking**|Heli Ben-Hamu et.al.|[2505.24857](http://arxiv.org/abs/2505.24857)|null|
+|**2025-05-30**|**MiCRo: Mixture Modeling and Context-aware Routing for Personalized Preference Learning**|Jingyan Shen et.al.|[2505.24846](http://arxiv.org/abs/2505.24846)|null|
+|**2025-05-30**|**Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning**|Wanyun Xie et.al.|[2505.24844](http://arxiv.org/abs/2505.24844)|null|
+|**2025-05-30**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842](http://arxiv.org/abs/2505.24842)|null|
+|**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
+|**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
+|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
+|**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
+|**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
+|**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
+|**2025-05-30**|**Bi-Manual Joint Camera Calibration and Scene Representation**|Haozhan Tang et.al.|[2505.24819](http://arxiv.org/abs/2505.24819)|null|
 |**2025-05-29**|**TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models**|Yao Xiao et.al.|[2505.23769](http://arxiv.org/abs/2505.23769)|**[link](https://github.com/avaxiao/TextRegion)**|
 |**2025-05-29**|**Argus: Vision-Centric Reasoning with Grounded Chain-of-Thought**|Yunze Man et.al.|[2505.23766](http://arxiv.org/abs/2505.23766)|null|
 |**2025-05-29**|**From Chat Logs to Collective Insights: Aggregative Question Answering**|Wentao Zhang et.al.|[2505.23765](http://arxiv.org/abs/2505.23765)|null|
@@ -7019,6 +7042,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
+|**2025-05-30**|**Convex Approximations of Random Constrained Markov Decision Processes**|V Varagapriya et.al.|[2505.24815](http://arxiv.org/abs/2505.24815)|null|
+|**2025-05-30**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
+|**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
+|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
+|**2025-05-30**|**Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success**|Ben Griffin et.al.|[2505.24622](http://arxiv.org/abs/2505.24622)|null|
+|**2025-05-30**|**Interpretable phenotyping of Heart Failure patients with Dutch discharge letters**|Vittorio Torri et.al.|[2505.24619](http://arxiv.org/abs/2505.24619)|null|
+|**2025-05-30**|**Multi-criteria Rank-based Aggregation for Explainable AI**|Sujoy Chatterjee et.al.|[2505.24612](http://arxiv.org/abs/2505.24612)|null|
+|**2025-05-30**|**Fine-tuning for Data-enabled Predictive Control of Noisy Systems by Reinforcement Learning**|Jinbao Wang et.al.|[2505.24572](http://arxiv.org/abs/2505.24572)|null|
+|**2025-05-30**|**Object Centric Concept Bottlenecks**|David Steinmann et.al.|[2505.24492](http://arxiv.org/abs/2505.24492)|null|
+|**2025-05-30**|**SAH-Drive: A Scenario-Aware Hybrid Planner for Closed-Loop Vehicle Trajectory Generation**|Yuqi Fan et.al.|[2505.24390](http://arxiv.org/abs/2505.24390)|null|
+|**2025-05-30**|**Revisiting Cross-Modal Knowledge Distillation: A Disentanglement Approach for RGBD Semantic Segmentation**|Roger Ferrod et.al.|[2505.24361](http://arxiv.org/abs/2505.24361)|null|
+|**2025-05-30**|**The Use of Alendronate to Enhance Transcranial Transmission of Focused Ultrasound for Successful Ablations in Brain**|G. Sakharova et.al.|[2505.24349](http://arxiv.org/abs/2505.24349)|null|
+|**2025-05-30**|**ROAD: Responsibility-Oriented Reward Design for Reinforcement Learning in Autonomous Driving**|Yongming Chen et.al.|[2505.24317](http://arxiv.org/abs/2505.24317)|null|
+|**2025-05-30**|**Data Fusion for Partial Identification of Causal Effects**|Quinn Lanners et.al.|[2505.24296](http://arxiv.org/abs/2505.24296)|null|
+|**2025-05-30**|**Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games**|Neemesh Yadav et.al.|[2505.24255](http://arxiv.org/abs/2505.24255)|null|
+|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
+|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
+|**2025-05-30**|**Federated Foundation Model for GI Endoscopy Images**|Alina Devkota et.al.|[2505.24108](http://arxiv.org/abs/2505.24108)|null|
+|**2025-05-30**|**Training LLMs for EHR-Based Reasoning Tasks via Reinforcement Learning**|Jiacheng Lin et.al.|[2505.24105](http://arxiv.org/abs/2505.24105)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
 |**2025-05-29**|**Bounded Rationality for LLMs: Satisficing Alignment at Inference-Time**|Mohamad Chehade et.al.|[2505.23729](http://arxiv.org/abs/2505.23729)|null|
 |**2025-05-29**|**From Connectivity to Autonomy: The Dawn of Self-Evolving Communication Systems**|Zeinab Nezami et.al.|[2505.23710](http://arxiv.org/abs/2505.23710)|null|
