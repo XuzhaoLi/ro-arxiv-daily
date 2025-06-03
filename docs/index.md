@@ -710,7 +710,7 @@ layout: default
 |**2025-05-30**|**Cascading Adversarial Bias from Injection to Distillation in Language Models**|Harsh Chaudhari et.al.|[2505.24842](http://arxiv.org/abs/2505.24842)|null|
 |**2025-05-30**|**Vision LLMs Are Bad at Hierarchical Visual Understanding, and LLMs Are the Bottleneck**|Yuwen Tan et.al.|[2505.24840](http://arxiv.org/abs/2505.24840)|null|
 |**2025-05-30**|**VideoCAD: A Large-Scale Video Dataset for Learning UI Interactions and 3D Reasoning from CAD Software**|Brandon Man et.al.|[2505.24838](http://arxiv.org/abs/2505.24838)|null|
-|**2025-05-30**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
+|**2025-06-02**|**How much do language models memorize?**|John X. Morris et.al.|[2505.24832](http://arxiv.org/abs/2505.24832)|null|
 |**2025-05-30**|**Improving Reliability and Explainability of Medical Question Answering through Atomic Fact Checking in Retrieval-Augmented LLMs**|Juraj Vladika et.al.|[2505.24830](http://arxiv.org/abs/2505.24830)|null|
 |**2025-05-30**|**LegalEval-Q: A New Benchmark for The Quality Evaluation of LLM-Generated Legal Text**|Li yunhan et.al.|[2505.24826](http://arxiv.org/abs/2505.24826)|null|
 |**2025-05-30**|**PhySense: Principle-Based Physics Reasoning Benchmarking for Large Language Models**|Yinggan Xu et.al.|[2505.24823](http://arxiv.org/abs/2505.24823)|null|
@@ -7046,7 +7046,7 @@ layout: default
 |**2025-05-30**|**Convex Approximations of Random Constrained Markov Decision Processes**|V Varagapriya et.al.|[2505.24815](http://arxiv.org/abs/2505.24815)|null|
 |**2025-05-30**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
 |**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
-|**2025-05-30**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
+|**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success**|Ben Griffin et.al.|[2505.24622](http://arxiv.org/abs/2505.24622)|null|
 |**2025-05-30**|**Interpretable phenotyping of Heart Failure patients with Dutch discharge letters**|Vittorio Torri et.al.|[2505.24619](http://arxiv.org/abs/2505.24619)|null|
 |**2025-05-30**|**Multi-criteria Rank-based Aggregation for Explainable AI**|Sujoy Chatterjee et.al.|[2505.24612](http://arxiv.org/abs/2505.24612)|null|
