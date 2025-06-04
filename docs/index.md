@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7044,7 +7044,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-30**|**Agent-X: Evaluating Deep Multimodal Reasoning in Vision-Centric Agentic Tasks**|Tajamul Ashraf et.al.|[2505.24876](http://arxiv.org/abs/2505.24876)|null|
 |**2025-05-30**|**Convex Approximations of Random Constrained Markov Decision Processes**|V Varagapriya et.al.|[2505.24815](http://arxiv.org/abs/2505.24815)|null|
-|**2025-05-30**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
+|**2025-06-03**|**EVA-MILP: Towards Standardized Evaluation of MILP Instance Generation**|Yidong Luo et.al.|[2505.24779](http://arxiv.org/abs/2505.24779)|null|
 |**2025-05-30**|**Causal-aware Large Language Models: Enhancing Decision-Making Through Learning, Adapting and Acting**|Wei Chen et.al.|[2505.24710](http://arxiv.org/abs/2505.24710)|null|
 |**2025-06-02**|**NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation**|Xuzhi Wang et.al.|[2505.24634](http://arxiv.org/abs/2505.24634)|null|
 |**2025-05-30**|**Random Rule Forest (RRF): Interpretable Ensembles of LLM-Generated Questions for Predicting Startup Success**|Ben Griffin et.al.|[2505.24622](http://arxiv.org/abs/2505.24622)|null|
@@ -7059,7 +7059,7 @@ layout: default
 |**2025-05-30**|**Data Fusion for Partial Identification of Causal Effects**|Quinn Lanners et.al.|[2505.24296](http://arxiv.org/abs/2505.24296)|null|
 |**2025-05-30**|**Effects of Theory of Mind and Prosocial Beliefs on Steering Human-Aligned Behaviors of LLMs in Ultimatum Games**|Neemesh Yadav et.al.|[2505.24255](http://arxiv.org/abs/2505.24255)|null|
 |**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161](http://arxiv.org/abs/2505.24161)|null|
-|**2025-05-30**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
+|**2025-06-03**|**S4-Driver: Scalable Self-Supervised Driving Multimodal Large Language Modelwith Spatio-Temporal Visual Representation**|Yichen Xie et.al.|[2505.24139](http://arxiv.org/abs/2505.24139)|null|
 |**2025-05-30**|**Federated Foundation Model for GI Endoscopy Images**|Alina Devkota et.al.|[2505.24108](http://arxiv.org/abs/2505.24108)|null|
 |**2025-05-30**|**Training LLMs for EHR-Based Reasoning Tasks via Reinforcement Learning**|Jiacheng Lin et.al.|[2505.24105](http://arxiv.org/abs/2505.24105)|null|
 |**2025-05-29**|**Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models**|Haohan Chi et.al.|[2505.23757](http://arxiv.org/abs/2505.23757)|**[link](https://github.com/ahydchh/impromptu-vla)**|
