@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Struct2D: A Perception-Guided Framework for Spatial Reasoning in Large Multimodal Models**|Fangrui Zhu et.al.|[2506.04220](http://arxiv.org/abs/2506.04220)|null|
+|**2025-05-28**|**Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems**|Jingyi Zhao et.al.|[2506.03172](http://arxiv.org/abs/2506.03172)|null|
 |**2025-06-03**|**Dynamic Programming Techniques for Enhancing Cognitive Representation in Knowledge Tracing**|Lixiang Xu et.al.|[2506.02949](http://arxiv.org/abs/2506.02949)|null|
 |**2025-06-03**|**Reachability Weighted Offline Goal-conditioned Resampling**|Wenyan Yang et.al.|[2506.02577](http://arxiv.org/abs/2506.02577)|null|
 |**2025-06-03**|**Multi-agent Markov Entanglement**|Shuze Chen et.al.|[2506.02385](http://arxiv.org/abs/2506.02385)|null|
@@ -701,6 +703,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
+|**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205](http://arxiv.org/abs/2506.04205)|null|
+|**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185](http://arxiv.org/abs/2506.04185)|null|
+|**2025-06-04**|**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models**|Yuhao Wu et.al.|[2506.04180](http://arxiv.org/abs/2506.04180)|null|
+|**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
+|**2025-06-04**|**Does Prompt Design Impact Quality of Data Imputation by LLMs?**|Shreenidhi Srinivasan et.al.|[2506.04172](http://arxiv.org/abs/2506.04172)|null|
+|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161](http://arxiv.org/abs/2506.04161)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**A Dataset for Addressing Patient's Information Needs related to Clinical Course of Hospitalization**|Sarvesh Soni et.al.|[2506.04156](http://arxiv.org/abs/2506.04156)|null|
+|**2025-06-04**|**Establishing Trustworthy LLM Evaluation via Shortcut Neuron Analysis**|Kejian Zhu et.al.|[2506.04142](http://arxiv.org/abs/2506.04142)|null|
+|**2025-06-04**|**MMR-V: What's Left Unsaid? A Benchmark for Multimodal Deep Reasoning in Videos**|Kejian Zhu et.al.|[2506.04141](http://arxiv.org/abs/2506.04141)|null|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**Guided Speculative Inference for Efficient Test-Time Alignment of LLMs**|Jonathan Geuter et.al.|[2506.04118](http://arxiv.org/abs/2506.04118)|null|
+|**2025-06-04**|**Rectified Sparse Attention**|Yutao Sun et.al.|[2506.04108](http://arxiv.org/abs/2506.04108)|null|
+|**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
 |**2025-06-03**|**Causal Estimation of Tokenisation Bias**|Pietro Lesci et.al.|[2506.03149](http://arxiv.org/abs/2506.03149)|null|
 |**2025-06-04**|**UniWorld: High-Resolution Semantic Encoders for Unified Visual Understanding and Generation**|Bin Lin et.al.|[2506.03147](http://arxiv.org/abs/2506.03147)|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
@@ -7068,6 +7090,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Finding signatures of low-dimensional geometric landscapes in high-dimensional cell fate transitions**|Maria Yampolskaya et.al.|[2506.04219](http://arxiv.org/abs/2506.04219)|null|
+|**2025-06-04**|**Pseudo-Simulation for Autonomous Driving**|Wei Cao et.al.|[2506.04218](http://arxiv.org/abs/2506.04218)|null|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**Improving Regulatory Oversight in Online Content Moderation**|Benedetta Tessa et.al.|[2506.04145](http://arxiv.org/abs/2506.04145)|null|
+|**2025-06-04**|**TRiSM for Agentic AI: A Review of Trust, Risk, and Security Management in LLM-based Agentic Multi-Agent Systems**|Shaina Raza et.al.|[2506.04133](http://arxiv.org/abs/2506.04133)|null|
+|**2025-06-04**|**CLAIM: An Intent-Driven Multi-Agent Framework for Analyzing Manipulation in Courtroom Dialogues**|Disha Sheshanarayana et.al.|[2506.04131](http://arxiv.org/abs/2506.04131)|null|
+|**2025-06-04**|**Leveraging External Data for Testing Experimental Therapies with Biomarker Interactions in Randomized Clinical Trials**|Boyu Ren et.al.|[2506.04128](http://arxiv.org/abs/2506.04128)|null|
+|**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
+|**2025-06-04**|**Autonomous Vehicle Lateral Control Using Deep Reinforcement Learning with MPC-PID Demonstration**|Chengdong Wu et.al.|[2506.04040](http://arxiv.org/abs/2506.04040)|null|
+|**2025-06-04**|**FPGA-Enabled Machine Learning Applications in Earth Observation: A Systematic Review**|Cédric Léonard et.al.|[2506.03938](http://arxiv.org/abs/2506.03938)|**[link](https://github.com/CedricLeon/Survey_RS-ML-FPGA)**|
+|**2025-06-04**|**Identifying Alzheimer's Disease Prediction Strategies of Convolutional Neural Network Classifiers using R2* Maps and Spectral Clustering**|Christian Tinauer et.al.|[2506.03890](http://arxiv.org/abs/2506.03890)|null|
+|**2025-06-04**|**PulseReddit: A Novel Reddit Dataset for Benchmarking MAS in High-Frequency Cryptocurrency Trading**|Qiuhan Han et.al.|[2506.03861](http://arxiv.org/abs/2506.03861)|null|
+|**2025-06-04**|**Construction of Urban Greenland Resources Collaborative Management Platform**|Dongyang Lyu et.al.|[2506.03830](http://arxiv.org/abs/2506.03830)|null|
+|**2025-06-04**|**Impact of friction force and retrieval speed on in silico mechanical thrombectomies: a sensitivity analysis**|Mahesh S. Nagargoje et.al.|[2506.03812](http://arxiv.org/abs/2506.03812)|null|
+|**2025-06-04**|**FedFACT: A Provable Framework for Controllable Group-Fairness Calibration in Federated Learning**|Li Zhang et.al.|[2506.03777](http://arxiv.org/abs/2506.03777)|null|
+|**2025-06-04**|**Fast Non-Line-of-Sight Transient Data Simulation and an Open Benchmark Dataset**|Yingjie Shi et.al.|[2506.03747](http://arxiv.org/abs/2506.03747)|null|
+|**2025-06-04**|**My Advisor, Her AI and Me: Evidence from a Field Experiment on Human-AI Collaboration and Investment Decisions**|Cathy et.al.|[2506.03707](http://arxiv.org/abs/2506.03707)|null|
+|**2025-06-04**|**Trustworthy Medical Question Answering: An Evaluation-Centric Survey**|Yinuo Wang et.al.|[2506.03659](http://arxiv.org/abs/2506.03659)|null|
+|**2025-06-04**|**Analyzing Transformer Models and Knowledge Distillation Approaches for Image Captioning on Edge AI**|Wing Man Casca Kwok et.al.|[2506.03607](http://arxiv.org/abs/2506.03607)|null|
+|**2025-06-04**|**A Class Inference Scheme With Dempster-Shafer Theory for Learning Fuzzy-Classifier Systems**|Hiroki Shiraishi et.al.|[2506.03588](http://arxiv.org/abs/2506.03588)|null|
 |**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**Designing Algorithmic Delegates: The Role of Indistinguishability in Human-AI Handoff**|Sophie Greenwood et.al.|[2506.03102](http://arxiv.org/abs/2506.03102)|null|
