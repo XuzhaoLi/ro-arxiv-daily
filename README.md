@@ -712,6 +712,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
+|**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
+|**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
+|**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
+|**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273](http://arxiv.org/abs/2506.06273)|null|
+|**2025-06-06**|**RecGPT: A Foundation Model for Sequential Recommendation**|Yangqin Jiang et.al.|[2506.06270](http://arxiv.org/abs/2506.06270)|null|
+|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
+|**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
+|**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251](http://arxiv.org/abs/2506.06251)|null|
+|**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242](http://arxiv.org/abs/2506.06242)|null|
+|**2025-06-06**|**Bridging External and Parametric Knowledge: Mitigating Hallucination of LLMs with Shared-Private Semantic Synergy in Dual-Stream Knowledge**|Yi Sui et.al.|[2506.06240](http://arxiv.org/abs/2506.06240)|null|
+|**2025-06-06**|**Explaining Matters: Leveraging Definitions and Semantic Expansion for Sexism Detection**|Sahrish Khan et.al.|[2506.06238](http://arxiv.org/abs/2506.06238)|null|
+|**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232](http://arxiv.org/abs/2506.06232)|null|
+|**2025-06-06**|**CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports**|Peter Pirkelbauer et.al.|[2506.06227](http://arxiv.org/abs/2506.06227)|null|
+|**2025-06-06**|**PROVSYN: Synthesizing Provenance Graphs for Data Augmentation in Intrusion Detection Systems**|Yi Huang et.al.|[2506.06226](http://arxiv.org/abs/2506.06226)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
+|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218](http://arxiv.org/abs/2506.06218)|null|
+|**2025-06-06**|**Corrector Sampling in Language Models**|Itai Gat et.al.|[2506.06215](http://arxiv.org/abs/2506.06215)|null|
+|**2025-06-06**|**Can Theoretical Physics Research Benefit from Language Agents?**|Sirui Lu et.al.|[2506.06214](http://arxiv.org/abs/2506.06214)|null|
+|**2025-06-06**|**PuzzleWorld: A Benchmark for Multimodal, Open-Ended Reasoning in Puzzlehunts**|Hengzhi Li et.al.|[2506.06211](http://arxiv.org/abs/2506.06211)|null|
 |**2025-06-05**|**Why LLM Safety Guardrails Collapse After Fine-tuning: A Similarity Analysis Between Alignment and Fine-tuning Datasets**|Lei Hsiung et.al.|[2506.05346](http://arxiv.org/abs/2506.05346)|null|
 |**2025-06-05**|**SparseMM: Head Sparsity Emerges from Visual Concept Responses in MLLMs**|Jiahui Wang et.al.|[2506.05344](http://arxiv.org/abs/2506.05344)|null|
 |**2025-06-05**|**Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning**|Xingjian Ran et.al.|[2506.05341](http://arxiv.org/abs/2506.05341)|null|
@@ -7121,6 +7141,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**PyGemini: Unified Software Development towards Maritime Autonomy Systems**|Kjetil Vasstein et.al.|[2506.06262](http://arxiv.org/abs/2506.06262)|null|
+|**2025-06-06**|**PDHCG: A Scalable First-Order Method for Large-Scale Competitive Market Equilibrium Computation**|Huikang Liu et.al.|[2506.06258](http://arxiv.org/abs/2506.06258)|null|
+|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218](http://arxiv.org/abs/2506.06218)|null|
+|**2025-06-06**|**CCLSTM: Coupled Convolutional Long-Short Term Memory Network for Occupancy Flow Forecasting**|Peter Lengyel et.al.|[2506.06128](http://arxiv.org/abs/2506.06128)|null|
+|**2025-06-06**|**Self driving algorithm for an active four wheel drive racecar**|Gergely Bari et.al.|[2506.06077](http://arxiv.org/abs/2506.06077)|null|
+|**2025-06-06**|**Learning Deterministic Policies with Policy Gradients in Constrained Markov Decision Processes**|Alessandro Montenegro et.al.|[2506.05953](http://arxiv.org/abs/2506.05953)|null|
+|**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935](http://arxiv.org/abs/2506.05935)|null|
+|**2025-06-06**|**Rethinking Semi-supervised Segmentation Beyond Accuracy: Reliability and Robustness**|Steven Landgraf et.al.|[2506.05917](http://arxiv.org/abs/2506.05917)|null|
+|**2025-06-06**|**A Driving Regime-Embedded Deep Learning Framework for Modeling Intra-Driver Heterogeneity in Multi-Scale Car-Following Dynamics**|Shirui Zhou et.al.|[2506.05902](http://arxiv.org/abs/2506.05902)|null|
+|**2025-06-06**|**Object Navigation with Structure-Semantic Reasoning-Based Multi-level Map and Multimodal Decision-Making LLM**|Chongshang Yan et.al.|[2506.05896](http://arxiv.org/abs/2506.05896)|null|
+|**2025-06-06**|**Interpretable Clustering Ensemble**|Hang Lv et.al.|[2506.05877](http://arxiv.org/abs/2506.05877)|null|
+|**2025-06-06**|**Trajectory Entropy: Modeling Game State Stability from Multimodality Trajectory Prediction**|Yesheng Zhang et.al.|[2506.05810](http://arxiv.org/abs/2506.05810)|null|
+|**2025-06-06**|**Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning**|Yutaro Ishida et.al.|[2506.05808](http://arxiv.org/abs/2506.05808)|null|
+|**2025-06-06**|**Discrete Minds in a Continuous World: Do Language Models Know Time Passes?**|Minghan Wang et.al.|[2506.05790](http://arxiv.org/abs/2506.05790)|null|
+|**2025-06-06**|**There's Waldo: PCB Tamper Forensic Analysis using Explainable AI on Impedance Signatures**|Maryam Saadat Safa et.al.|[2506.05734](http://arxiv.org/abs/2506.05734)|null|
+|**2025-06-06**|**DriveAction: A Benchmark for Exploring Human-like Driving Decisions in VLA Models**|Yuhan Hao et.al.|[2506.05667](http://arxiv.org/abs/2506.05667)|null|
+|**2025-06-06**|**TissUnet: Improved Extracranial Tissue and Cranium Segmentation for Children through Adulthood**|Markian Mandzak et.al.|[2506.05660](http://arxiv.org/abs/2506.05660)|null|
+|**2025-06-05**|**AutoQD: Automatic Discovery of Diverse Behaviors with Quality-Diversity Optimization**|Saeed Hedayatian et.al.|[2506.05634](http://arxiv.org/abs/2506.05634)|null|
+|**2025-06-05**|**FaCTR: Factorized Channel-Temporal Representation Transformers for Efficient Time Series Forecasting**|Yash Vijay et.al.|[2506.05597](http://arxiv.org/abs/2506.05597)|null|
+|**2025-06-05**|**Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts**|Saptarshi Nath et.al.|[2506.05577](http://arxiv.org/abs/2506.05577)|null|
 |**2025-06-05**|**VideoMolmo: Spatio-Temporal Grounding Meets Pointing**|Ghazi Shazan Ahmad et.al.|[2506.05336](http://arxiv.org/abs/2506.05336)|null|
 |**2025-06-05**|**Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games**|Niv Eckhaus et.al.|[2506.05309](http://arxiv.org/abs/2506.05309)|**[link](https://github.com/niveck/LLMafia)**|
 |**2025-06-05**|**Stable Vision Concept Transformers for Medical Diagnosis**|Lijie Hu et.al.|[2506.05286](http://arxiv.org/abs/2506.05286)|null|
