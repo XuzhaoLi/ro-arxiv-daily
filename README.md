@@ -1,4 +1,4 @@
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -711,7 +711,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -7200,7 +7200,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -7221,7 +7221,7 @@
 |**2025-06-11**|**R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**|Maurice Brunner et.al.|[2506.09629](http://arxiv.org/abs/2506.09629)|null|
 |**2025-06-11**|**ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**|Giacomo Rosin et.al.|[2506.09626](http://arxiv.org/abs/2506.09626)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
-|**2025-06-11**|**TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning**|Songze Li et.al.|[2506.09562](http://arxiv.org/abs/2506.09562)|null|
+|**2025-06-12**|**TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning**|Songze Li et.al.|[2506.09562](http://arxiv.org/abs/2506.09562)|null|
 |**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[2506.09557](http://arxiv.org/abs/2506.09557)|null|
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
 |**2025-06-11**|**How attention simplifies mental representations for planning**|Jason da Silva Castanheira et.al.|[2506.09520](http://arxiv.org/abs/2506.09520)|null|
@@ -13044,5 +13044,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250613>back to top</a>)</p>
 

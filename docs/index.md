@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.12
+## Updated on 2025.06.13
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -7212,7 +7212,7 @@ layout: default
 |**2025-06-11**|**R-CARLA: High-Fidelity Sensor Simulations with Interchangeable Dynamics for Autonomous Racing**|Maurice Brunner et.al.|[2506.09629](http://arxiv.org/abs/2506.09629)|null|
 |**2025-06-11**|**ECAM: A Contrastive Learning Approach to Avoid Environmental Collision in Trajectory Forecasting**|Giacomo Rosin et.al.|[2506.09626](http://arxiv.org/abs/2506.09626)|null|
 |**2025-06-11**|**Integrating Quantized LLMs into Robotics Systems as Edge AI to Leverage their Natural Language Processing Capabilities**|Miguel Á. González-Santamarta et.al.|[2506.09581](http://arxiv.org/abs/2506.09581)|null|
-|**2025-06-11**|**TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning**|Songze Li et.al.|[2506.09562](http://arxiv.org/abs/2506.09562)|null|
+|**2025-06-12**|**TooBadRL: Trigger Optimization to Boost Effectiveness of Backdoor Attacks on Deep Reinforcement Learning**|Songze Li et.al.|[2506.09562](http://arxiv.org/abs/2506.09562)|null|
 |**2025-06-11**|**AD^2-Bench: A Hierarchical CoT Benchmark for MLLM in Autonomous Driving under Adverse Conditions**|Zhaoyang Wei et.al.|[2506.09557](http://arxiv.org/abs/2506.09557)|null|
 |**2025-06-11**|**GLD-Road:A global-local decoding road network extraction model for remote sensing images**|Ligao Deng et.al.|[2506.09553](http://arxiv.org/abs/2506.09553)|null|
 |**2025-06-11**|**How attention simplifies mental representations for planning**|Jason da Silva Castanheira et.al.|[2506.09520](http://arxiv.org/abs/2506.09520)|null|
