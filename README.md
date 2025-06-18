@@ -1,4 +1,4 @@
-## Updated on 2025.06.17
+## Updated on 2025.06.18
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -715,7 +715,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -738,7 +738,7 @@
 |**2025-06-16**|**An LLM's Apology: Outsourcing Awkwardness in the Age of AI**|Twm Stone et.al.|[2506.13685](http://arxiv.org/abs/2506.13685)|null|
 |**2025-06-16**|**Turning Down the Heat: A Critical Analysis of Min-p Sampling in Language Models**|Rylan Schaeffer et.al.|[2506.13681](http://arxiv.org/abs/2506.13681)|null|
 |**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
-|**2025-06-16**|**Prefix-Tuning+: Modernizing Prefix-Tuning through Attention Independent Prefix Data**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
+|**2025-06-17**|**Prefix-Tuning+: Modernizing Prefix-Tuning by Decoupling the Prefix from Attention**|Haonan Wang et.al.|[2506.13674](http://arxiv.org/abs/2506.13674)|null|
 |**2025-06-16**|**We Should Identify and Mitigate Third-Party Safety Risks in MCP-Powered Agent Systems**|Junfeng Fang et.al.|[2506.13666](http://arxiv.org/abs/2506.13666)|null|
 |**2025-06-16**|**DesignCoder: Hierarchy-Aware and Self-Correcting UI Code Generation with Large Language Models**|Yunnong Chen et.al.|[2506.13663](http://arxiv.org/abs/2506.13663)|null|
 |**2025-06-13**|**EMLoC: Emulator-based Memory-efficient Fine-tuning with LoRA Correction**|Hsi-Che Lin et.al.|[2506.12015](http://arxiv.org/abs/2506.12015)|null|
@@ -7264,7 +7264,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -7276,7 +7276,7 @@
 |**2025-06-16**|**Probabilistic patient risk profiling with pair-copula constructions**|Özge Şahin et.al.|[2506.13731](http://arxiv.org/abs/2506.13731)|null|
 |**2025-06-16**|**CEED-VLA: Consistency Vision-Language-Action Model with Early-Exit Decoding**|Wenxuan Song et.al.|[2506.13725](http://arxiv.org/abs/2506.13725)|null|
 |**2025-06-16**|**Enforcing tail calibration when training probabilistic forecast models**|Jakob Benjamin Wessel et.al.|[2506.13687](http://arxiv.org/abs/2506.13687)|null|
-|**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|null|
+|**2025-06-16**|**PeakWeather: MeteoSwiss Weather Station Measurements for Spatiotemporal Deep Learning**|Daniele Zambon et.al.|[2506.13652](http://arxiv.org/abs/2506.13652)|**[link](https://github.com/Graph-Machine-Learning-Group/peakweather-wind-forecasting)**|
 |**2025-06-16**|**A Structured Bangla Dataset of Disease-Symptom Associations to Improve Diagnostic Accuracy**|Abdullah Al Shafi et.al.|[2506.13610](http://arxiv.org/abs/2506.13610)|null|
 |**2025-06-16**|**Can you see how I learn? Human observers' inferences about Reinforcement Learning agents' learning processes**|Bernhard Hilpert et.al.|[2506.13583](http://arxiv.org/abs/2506.13583)|null|
 |**2025-06-16**|**BattBee: Equivalent Circuit Modeling and Early Detection of Thermal Runaway Triggered by Internal Short Circuits for Lithium-Ion Batteries**|Sangwon Kang et.al.|[2506.13577](http://arxiv.org/abs/2506.13577)|null|
@@ -7286,7 +7286,7 @@
 |**2025-06-16**|**Language Agents for Hypothesis-driven Clinical Decision Making with Reinforcement Learning**|David Bani-Harouni et.al.|[2506.13474](http://arxiv.org/abs/2506.13474)|null|
 |**2025-06-16**|**Beyond One-Size-Fits-All: A Study of Neural and Behavioural Variability Across Different Recommendation Categories**|Georgios Koutroumpas et.al.|[2506.13409](http://arxiv.org/abs/2506.13409)|null|
 |**2025-06-16**|**COME: Adding Scene-Centric Forecasting Control to Occupancy World Model**|Yining Shi et.al.|[2506.13260](http://arxiv.org/abs/2506.13260)|null|
-|**2025-06-16**|**No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!**|Francesco Emanuele Stradi et.al.|[2506.13244](http://arxiv.org/abs/2506.13244)|null|
+|**2025-06-17**|**No-Regret Learning Under Adversarial Resource Constraints: A Spending Plan Is All You Need!**|Francesco Emanuele Stradi et.al.|[2506.13244](http://arxiv.org/abs/2506.13244)|null|
 |**2025-06-16**|**Research on Optimal Control Problem Based on Reinforcement Learning under Knightian Uncertainty**|Ziyu Li et.al.|[2506.13207](http://arxiv.org/abs/2506.13207)|null|
 |**2025-06-16**|**STAGE: A Stream-Centric Generative World Model for Long-Horizon Driving-Scene Simulation**|Jiamin Wang et.al.|[2506.13138](http://arxiv.org/abs/2506.13138)|null|
 |**2025-06-16**|**Dynamic Reinsurance Treaty Bidding via Multi-Agent Reinforcement Learning**|Stella C. Dong et.al.|[2506.13113](http://arxiv.org/abs/2506.13113)|null|
@@ -13168,5 +13168,5 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250618>back to top</a>)</p>
 
