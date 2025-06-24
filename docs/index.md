@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Automatic Selection of Protections to Mitigate Risks Against Software Applications**|Daniele Canavese et.al.|[2506.18470](http://arxiv.org/abs/2506.18470)|null|
+|**2025-06-23**|**Continuous Map Matching to Paths under Travel Time Constraints**|Yannick Bosch et.al.|[2506.18354](http://arxiv.org/abs/2506.18354)|null|
+|**2025-06-12**|**The LQR-Schrödinger Bridge**|Marc Lambert et.al.|[2506.17273](http://arxiv.org/abs/2506.17273)|null|
 |**2025-06-19**|**Optimal Online Bookmaking for Any Number of Outcomes**|Hadar Tal et.al.|[2506.16253](http://arxiv.org/abs/2506.16253)|null|
 |**2025-06-18**|**Delta: A Learned Mixed Cost-based Query Optimization Framework**|Jiazhen Peng et.al.|[2506.15848](http://arxiv.org/abs/2506.15848)|null|
 |**2025-06-18**|**Revisiting Randomization in Greedy Model Search**|Xin Chen et.al.|[2506.15643](http://arxiv.org/abs/2506.15643)|null|
@@ -718,6 +721,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Steering Conceptual Bias via Transformer Latent-Subspace Activation**|Vansh Sharma et.al.|[2506.18887](http://arxiv.org/abs/2506.18887)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**OMEGA: Can LLMs Reason Outside the Box in Math? Evaluating Exploratory, Compositional, and Transformative Generalization**|Yiyou Sun et.al.|[2506.18880](http://arxiv.org/abs/2506.18880)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**OmniAvatar: Efficient Audio-Driven Avatar Video Generation with Adaptive Body Animation**|Qijun Gan et.al.|[2506.18866](http://arxiv.org/abs/2506.18866)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796](http://arxiv.org/abs/2506.18796)|null|
+|**2025-06-23**|**TRIZ Agents: A Multi-Agent LLM Approach for TRIZ-Based Innovation**|Kamil Szczepanik et.al.|[2506.18783](http://arxiv.org/abs/2506.18783)|null|
+|**2025-06-23**|**Existing LLMs Are Not Self-Consistent For Simple Tasks**|Zhenru Lin et.al.|[2506.18781](http://arxiv.org/abs/2506.18781)|null|
+|**2025-06-23**|**Programming by Backprop: LLMs Acquire Reusable Algorithmic Abstractions During Code Training**|Jonathan Cook et.al.|[2506.18777](http://arxiv.org/abs/2506.18777)|null|
+|**2025-06-23**|**Towards Group Fairness with Multiple Sensitive Attributes in Federated Foundation Models**|Yuning Yang et.al.|[2506.18732](http://arxiv.org/abs/2506.18732)|null|
+|**2025-06-23**|**PARALLELPROMPT: Extracting Parallelism from Large Language Model Queries**|Steven Kolawole et.al.|[2506.18728](http://arxiv.org/abs/2506.18728)|null|
+|**2025-06-23**|**Multi-modal Anchor Gated Transformer with Knowledge Distillation for Emotion Recognition in Conversation**|Jie Li et.al.|[2506.18716](http://arxiv.org/abs/2506.18716)|**[link](https://github.com/JieLi-dd/MAGTKD)**|
+|**2025-06-23**|**LLM-enhanced Interactions in Human-Robot Collaborative Drawing with Older Adults**|Marianne Bossema et.al.|[2506.18711](http://arxiv.org/abs/2506.18711)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Machine Mental Imagery: Empower Multimodal Reasoning with Latent Visual Tokens**|Zeyuan Yang et.al.|[2506.17218](http://arxiv.org/abs/2506.17218)|null|
@@ -7325,6 +7348,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**OC-SOP: Enhancing Vision-Based 3D Semantic Occupancy Prediction by Object-Centric Awareness**|Helin Cao et.al.|[2506.18798](http://arxiv.org/abs/2506.18798)|null|
+|**2025-06-23**|**SWA-SOP: Spatially-aware Window Attention for Semantic Occupancy Prediction in Autonomous Driving**|Helin Cao et.al.|[2506.18785](http://arxiv.org/abs/2506.18785)|null|
+|**2025-06-23**|**USVTrack: USV-Based 4D Radar-Camera Tracking Dataset for Autonomous Driving in Inland Waterways**|Shanliang Yao et.al.|[2506.18737](http://arxiv.org/abs/2506.18737)|null|
+|**2025-06-23**|**TDACloud: Point Cloud Recognition Using Topological Data Analysis**|Anirban Ghosh et.al.|[2506.18725](http://arxiv.org/abs/2506.18725)|null|
+|**2025-06-23**|**Vulnerability Assessment Combining CVSS Temporal Metrics and Bayesian Networks**|Stefano Perone et.al.|[2506.18715](http://arxiv.org/abs/2506.18715)|null|
+|**2025-06-23**|**Multi-Scale Spectral Attention Module-based Hyperspectral Segmentation in Autonomous Driving Scenarios**|Imad Ali Shah et.al.|[2506.18682](http://arxiv.org/abs/2506.18682)|null|
+|**2025-06-23**|**MARL-MambaContour: Unleashing Multi-Agent Deep Reinforcement Learning for Active Contour Optimization in Medical Image Segmentation**|Ruicheng Zhang et.al.|[2506.18679](http://arxiv.org/abs/2506.18679)|null|
+|**2025-06-23**|**T-CPDL: A Temporal Causal Probabilistic Description Logic for Developing Logic-RAG Agent**|Hong Qing Yu et.al.|[2506.18559](http://arxiv.org/abs/2506.18559)|null|
+|**2025-06-23**|**A Question Bank to Assess AI Inclusivity: Mapping out the Journey from Diversity Errors to Inclusion Excellence**|Rifat Ara Shams et.al.|[2506.18538](http://arxiv.org/abs/2506.18538)|null|
+|**2025-06-23**|**PuckTrick: A Library for Making Synthetic Data More Realistic**|Alessandra Agostini et.al.|[2506.18499](http://arxiv.org/abs/2506.18499)|null|
+|**2025-06-23**|**AViLA: Asynchronous Vision-Language Agent for Streaming Multimodal Data Interaction**|Gengyuan Zhang et.al.|[2506.18472](http://arxiv.org/abs/2506.18472)|null|
+|**2025-06-23**|**Automatic Selection of Protections to Mitigate Risks Against Software Applications**|Daniele Canavese et.al.|[2506.18470](http://arxiv.org/abs/2506.18470)|null|
+|**2025-06-23**|**GraspMAS: Zero-Shot Language-driven Grasp Detection with Multi-Agent System**|Quang Nguyen et.al.|[2506.18448](http://arxiv.org/abs/2506.18448)|null|
+|**2025-06-23**|**A Method for Rapid Area Prioritisation in Flood Disaster Response**|Moritz Schneider et.al.|[2506.18423](http://arxiv.org/abs/2506.18423)|null|
+|**2025-06-23**|**Latent Space Analysis for Melanoma Prevention**|Ciro Listone et.al.|[2506.18414](http://arxiv.org/abs/2506.18414)|null|
+|**2025-06-23**|**Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies**|Junchao Fan et.al.|[2506.18304](http://arxiv.org/abs/2506.18304)|null|
+|**2025-06-23**|**LLM-Integrated Digital Twins for Hierarchical Resource Allocation in 6G Networks**|Majumder Haider et.al.|[2506.18293](http://arxiv.org/abs/2506.18293)|null|
+|**2025-06-23**|**Drive-R1: Bridging Reasoning and Planning in VLMs for Autonomous Driving with Reinforcement Learning**|Yue Li et.al.|[2506.18234](http://arxiv.org/abs/2506.18234)|null|
+|**2025-06-22**|**Wisdom of Crowds Through Myopic Self-Confidence Adaptation**|Giacomo Como et.al.|[2506.18195](http://arxiv.org/abs/2506.18195)|null|
 |**2025-06-20**|**Towards AI Search Paradigm**|Yuchen Li et.al.|[2506.17188](http://arxiv.org/abs/2506.17188)|null|
 |**2025-06-20**|**The MedPerturb Dataset: What Non-Content Perturbations Reveal About Human and Clinical LLM Decision Making**|Abinitha Gourabathina et.al.|[2506.17163](http://arxiv.org/abs/2506.17163)|null|
 |**2025-06-20**|**TransDreamerV3: Implanting Transformer In DreamerV3**|Shruti Sadanand Dongare et.al.|[2506.17103](http://arxiv.org/abs/2506.17103)|null|
