@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.23
+## Updated on 2025.06.24
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -26,7 +26,7 @@ layout: default
 |**2025-05-28**|**Large Neighborhood and Hybrid Genetic Search for Inventory Routing Problems**|Jingyi Zhao et.al.|[2506.03172](http://arxiv.org/abs/2506.03172)|null|
 |**2025-06-03**|**Dynamic Programming Techniques for Enhancing Cognitive Representation in Knowledge Tracing**|Lixiang Xu et.al.|[2506.02949](http://arxiv.org/abs/2506.02949)|null|
 |**2025-06-03**|**Reachability Weighted Offline Goal-conditioned Resampling**|Wenyan Yang et.al.|[2506.02577](http://arxiv.org/abs/2506.02577)|null|
-|**2025-06-03**|**Multi-agent Markov Entanglement**|Shuze Chen et.al.|[2506.02385](http://arxiv.org/abs/2506.02385)|null|
+|**2025-06-21**|**Multi-agent Markov Entanglement**|Shuze Chen et.al.|[2506.02385](http://arxiv.org/abs/2506.02385)|null|
 |**2025-06-02**|**Scalable In-Context Q-Learning**|Jinmei Liu et.al.|[2506.01299](http://arxiv.org/abs/2506.01299)|null|
 |**2025-06-01**|**Trilevel Memetic Algorithm for the Electric Vehicle Routing Problem**|Ivan Milinović et.al.|[2506.01065](http://arxiv.org/abs/2506.01065)|null|
 |**2025-06-01**|**Q-learning with Posterior Sampling**|Priyank Agrawal et.al.|[2506.00917](http://arxiv.org/abs/2506.00917)|null|
