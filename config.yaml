@@ -20,6 +20,8 @@ md_gitpage_path: './docs/index.md'
 keywords:
     "Path Planning":
         filters: ["Minimum Control", "Route Planning", "Dynamic Programming", "Navigation", "Route Optimization", "Map Matching"]
+    "Coverag Path Planning":
+        filters: ["Coverage", "Coverage Path Planning", "Reinforcement Learning", "Multi", "Multi Robots", "Multi-robot"]
     "Large Language Model":
         filters: ["LLM", "Language Model","Transformer", "BERT", "GPT", "Pre-training", "Fine-tuning", "Visual Language", "Prompt Learning", "Foundation Model"]
     "Autonomous Driving":
