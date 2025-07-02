@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -730,10 +730,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Computational Detection of Intertextual Parallels in Biblical Hebrew: A Benchmark Study Using Transformer-Based Language Models**|David M. Smiley et.al.|[2506.24117](http://arxiv.org/abs/2506.24117)|null|
 |**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106](http://arxiv.org/abs/2506.24106)|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
@@ -7467,9 +7467,9 @@ layout: default
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982](http://arxiv.org/abs/2506.23982)|null|
 |**2025-06-30**|**Green Metrics Tool: Measuring for fun and profit**|Geerd-Dietger Hoffmann et.al.|[2506.23967](http://arxiv.org/abs/2506.23967)|null|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[2506.23960](http://arxiv.org/abs/2506.23960)|null|
-|**2025-06-30**|**Autonomy by Design: Preserving Human Autonomy in AI Decision-Support**|Stefan Buijsman et.al.|[2506.23952](http://arxiv.org/abs/2506.23952)|null|
+|**2025-07-01**|**Autonomy by Design: Preserving Human Autonomy in AI Decision-Support**|Stefan Buijsman et.al.|[2506.23952](http://arxiv.org/abs/2506.23952)|null|
 |**2025-06-30**|**Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders**|Mathis Le Bail et.al.|[2506.23951](http://arxiv.org/abs/2506.23951)|null|
-|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
+|**2025-07-01**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
 |**2025-06-30**|**Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system**|Junping Wang et.al.|[2506.23926](http://arxiv.org/abs/2506.23926)|null|
 |**2025-06-30**|**Requirements for Active Assistance of Natural Questions in Software Architecture**|Diogo Lemos et.al.|[2506.23898](http://arxiv.org/abs/2506.23898)|null|
 |**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/abs/2506.23844)|null|
@@ -13538,7 +13538,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
 |**2025-06-30**|**Provably Efficient and Agile Randomized Q-Learning**|He Wang et.al.|[2506.24005](http://arxiv.org/abs/2506.24005)|null|

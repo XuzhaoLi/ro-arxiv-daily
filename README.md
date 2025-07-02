@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -732,16 +732,16 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Large Language Model
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Dong Sixun et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
+|**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Computational Detection of Intertextual Parallels in Biblical Hebrew: A Benchmark Study Using Transformer-Based Language Models**|David M. Smiley et.al.|[2506.24117](http://arxiv.org/abs/2506.24117)|null|
 |**2025-06-30**|**On the Predictive Power of Representation Dispersion in Language Models**|Yanhong Li et.al.|[2506.24106](http://arxiv.org/abs/2506.24106)|null|
 |**2025-06-30**|**DenseWorld-1M: Towards Detailed Dense Grounded Caption in the Real World**|Xiangtai Li et.al.|[2506.24102](http://arxiv.org/abs/2506.24102)|null|
@@ -7461,7 +7461,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -7477,9 +7477,9 @@
 |**2025-06-30**|**StyleDrive: Towards Driving-Style Aware Benchmarking of End-To-End Autonomous Driving**|Ruiyang Hao et.al.|[2506.23982](http://arxiv.org/abs/2506.23982)|null|
 |**2025-06-30**|**Green Metrics Tool: Measuring for fun and profit**|Geerd-Dietger Hoffmann et.al.|[2506.23967](http://arxiv.org/abs/2506.23967)|null|
 |**2025-06-30**|**ADReFT: Adaptive Decision Repair for Safe Autonomous Driving via Reinforcement Fine-Tuning**|Mingfei Cheng et.al.|[2506.23960](http://arxiv.org/abs/2506.23960)|null|
-|**2025-06-30**|**Autonomy by Design: Preserving Human Autonomy in AI Decision-Support**|Stefan Buijsman et.al.|[2506.23952](http://arxiv.org/abs/2506.23952)|null|
+|**2025-07-01**|**Autonomy by Design: Preserving Human Autonomy in AI Decision-Support**|Stefan Buijsman et.al.|[2506.23952](http://arxiv.org/abs/2506.23952)|null|
 |**2025-06-30**|**Unveiling Decision-Making in LLMs for Text Classification : Extraction of influential and interpretable concepts with Sparse Autoencoders**|Mathis Le Bail et.al.|[2506.23951](http://arxiv.org/abs/2506.23951)|null|
-|**2025-06-30**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
+|**2025-07-01**|**Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning**|Fuhang Kuang et.al.|[2506.23944](http://arxiv.org/abs/2506.23944)|null|
 |**2025-06-30**|**Industrial brain: a human-like autonomous neuro-symbolic cognitive decision-making system**|Junping Wang et.al.|[2506.23926](http://arxiv.org/abs/2506.23926)|null|
 |**2025-06-30**|**Requirements for Active Assistance of Natural Questions in Software Architecture**|Diogo Lemos et.al.|[2506.23898](http://arxiv.org/abs/2506.23898)|null|
 |**2025-06-30**|**A Survey on Autonomy-Induced Security Risks in Large Model-Based Agents**|Hang Su et.al.|[2506.23844](http://arxiv.org/abs/2506.23844)|null|
@@ -13544,13 +13544,13 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
 ## Coverag Path Planning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
+|**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
 |**2025-06-30**|**Provably Efficient and Agile Randomized Q-Learning**|He Wang et.al.|[2506.24005](http://arxiv.org/abs/2506.24005)|null|
@@ -13591,5 +13591,5 @@
 |**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
 |**2025-06-30**|**Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface**|Dewei Wang et.al.|[2506.21853](http://arxiv.org/abs/2506.21853)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250702>back to top</a>)</p>
 
