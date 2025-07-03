@@ -13,6 +13,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Joint Matching and Pricing for Crowd-shipping with In-store Customers**|Arash Dehghan et.al.|[2507.01749](http://arxiv.org/abs/2507.01749)|null|
+|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-02**|**Dynamic Programming Principle for Stochastic Control Problems on Riemannian Manifolds**|Dingqian Gao et.al.|[2507.01407](http://arxiv.org/abs/2507.01407)|null|
+|**2025-07-02**|**An Error Bound for Aggregation in Approximate Dynamic Programming**|Yuchao Li et.al.|[2507.01324](http://arxiv.org/abs/2507.01324)|null|
+|**2025-07-02**|**Neural Hamiltonian Operator**|Qian Qi et.al.|[2507.01313](http://arxiv.org/abs/2507.01313)|null|
+|**2025-07-01**|**Quantum Speedups for Polynomial-Time Dynamic Programming Algorithms**|Susanna Caroppo et.al.|[2507.00823](http://arxiv.org/abs/2507.00823)|null|
 |**2025-06-29**|**Zero-disparity Distribution Synthesis: Fast Exact Calculation of Chi-Squared Statistic Distribution for Discrete Uniform Histograms**|Nikola Banić et.al.|[2506.23416](http://arxiv.org/abs/2506.23416)|null|
 |**2025-06-29**|**Planar Multiway Cut with Terminals on Few Faces**|Sukanya Pandey et.al.|[2506.23399](http://arxiv.org/abs/2506.23399)|null|
 |**2025-06-29**|**On the Out-of-Sample Performance of Stochastic Dynamic Programming and Model Predictive Control**|Dominic S. T. Keehan et.al.|[2506.23097](http://arxiv.org/abs/2506.23097)|null|
@@ -738,6 +744,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**How Well Does GPT-4o Understand Vision? Evaluating Multimodal Foundation Models on Standard Computer Vision Tasks**|Rahul Ramachandran et.al.|[2507.01955](http://arxiv.org/abs/2507.01955)|null|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars**|Xiaosheng Zhao et.al.|[2507.01939](http://arxiv.org/abs/2507.01939)|null|
+|**2025-07-02**|**The Thin Line Between Comprehension and Persuasion in LLMs**|Adrian de Wynter et.al.|[2507.01936](http://arxiv.org/abs/2507.01936)|null|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-02**|**A Survey on Vision-Language-Action Models: An Action Tokenization Perspective**|Yifan Zhong et.al.|[2507.01925](http://arxiv.org/abs/2507.01925)|null|
+|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**Reasoning to Edit: Hypothetical Instruction-Based Image Editing with Visual Reasoning**|Qingdong He et.al.|[2507.01908](http://arxiv.org/abs/2507.01908)|null|
+|**2025-07-02**|**AI4Research: A Survey of Artificial Intelligence for Scientific Research**|Qiguang Chen et.al.|[2507.01903](http://arxiv.org/abs/2507.01903)|null|
+|**2025-07-02**|**High-Layer Attention Pruning with Rescaling**|Songtao Liu et.al.|[2507.01900](http://arxiv.org/abs/2507.01900)|null|
+|**2025-07-02**|**MiCoTA: Bridging the Learnability Gap with Intermediate CoT and Teacher Assistants**|Dongyi Ding et.al.|[2507.01887](http://arxiv.org/abs/2507.01887)|null|
+|**2025-07-02**|**A computationally frugal open-source foundation model for thoracic disease detection in lung cancer screening programs**|Niccolò McConnell et.al.|[2507.01881](http://arxiv.org/abs/2507.01881)|null|
+|**2025-07-02**|**Towards Foundation Auto-Encoders for Time-Series Anomaly Detection**|Gastón García González et.al.|[2507.01875](http://arxiv.org/abs/2507.01875)|null|
+|**2025-07-02**|**DIY-MKG: An LLM-Based Polyglot Language Learning System**|Kenan Tang et.al.|[2507.01872](http://arxiv.org/abs/2507.01872)|null|
+|**2025-07-02**|**Bridging UI Design and chatbot Interactions: Applying Form-Based Principles to Conversational Agents**|Sanjay Krishna Anbalagan et.al.|[2507.01862](http://arxiv.org/abs/2507.01862)|null|
+|**2025-07-02**|**TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types**|Yuhao Lin et.al.|[2507.01857](http://arxiv.org/abs/2507.01857)|null|
+|**2025-07-02**|**Eka-Eval : A Comprehensive Evaluation Framework for Large Language Models in Indian Languages**|Samridhi Raj Sinha et.al.|[2507.01853](http://arxiv.org/abs/2507.01853)|null|
+|**2025-07-02**|**Low-Perplexity LLM-Generated Sequences and Where To Find Them**|Arthur Wuhrmann et.al.|[2507.01844](http://arxiv.org/abs/2507.01844)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
 |**2025-07-01**|**Teaching Time Series to See and Speak: Forecasting with Aligned Visual and Textual Perspectives**|Sixun Dong et.al.|[2506.24124](http://arxiv.org/abs/2506.24124)|null|
 |**2025-06-30**|**Calligrapher: Freestyle Text Image Customization**|Yue Ma et.al.|[2506.24123](http://arxiv.org/abs/2506.24123)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
@@ -7467,6 +7493,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
+|**2025-07-02**|**Decision-oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
+|**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
+|**2025-07-02**|**When Influence Misleads: Informational and Strategic Limits of Social Learning in Trading Networks**|Bijin Joseph et.al.|[2507.01817](http://arxiv.org/abs/2507.01817)|null|
+|**2025-07-02**|**AMD: Adaptive Momentum and Decoupled Contrastive Learning Framework for Robust Long-Tail Trajectory Prediction**|Bin Rao et.al.|[2507.01801](http://arxiv.org/abs/2507.01801)|null|
+|**2025-07-02**|**ECCV 2024 W-CODA: 1st Workshop on Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving**|Kai Chen et.al.|[2507.01735](http://arxiv.org/abs/2507.01735)|null|
+|**2025-07-02**|**Stereotype Detection as a Catalyst for Enhanced Bias Detection: A Multi-Task Learning Approach**|Aditya Tomar et.al.|[2507.01715](http://arxiv.org/abs/2507.01715)|null|
+|**2025-07-02**|**Phototactic Decision-Making by Micro-Algae**|Shantanu Raikwar et.al.|[2507.01684](http://arxiv.org/abs/2507.01684)|null|
+|**2025-07-02**|**Confidence and Stability of Global and Pairwise Scores in NLP Evaluation**|Georgii Levtsov et.al.|[2507.01633](http://arxiv.org/abs/2507.01633)|null|
+|**2025-07-02**|**Enriching the Felsenthal index with a priori unions for decision-making processes**|Alicia Mascareñas-Pazos et.al.|[2507.01621](http://arxiv.org/abs/2507.01621)|null|
+|**2025-07-02**|**Enhanced Influence-aware Group Recommendation for Online Media Propagation**|Chengkun He et.al.|[2507.01616](http://arxiv.org/abs/2507.01616)|null|
+|**2025-07-02**|**Root/Additional Metric (RoAM) framework: a guide for goal-centred metric construction**|Luke E. B. Goodyear et.al.|[2507.01526](http://arxiv.org/abs/2507.01526)|null|
+|**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
+|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
+|**2025-07-02**|**What Really Matters for Robust Multi-Sensor HD Map Construction?**|Xiaoshuai Hao et.al.|[2507.01484](http://arxiv.org/abs/2507.01484)|null|
+|**2025-07-02**|**Analysis of Drone-Assisted Building Inspection Training in VR vs 2D Monitor Display: an EEG Study**|Pengkun Liu et.al.|[2507.01471](http://arxiv.org/abs/2507.01471)|null|
+|**2025-07-02**|**A Fuzzy Approach to the Specification, Verification and Validation of Risk-Based Ethical Decision Making Models**|Abeer Dyoub et.al.|[2507.01410](http://arxiv.org/abs/2507.01410)|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
+|**2025-07-02**|**AI Agents and Agentic AI-Navigating a Plethora of Concepts for Future Manufacturing**|Yinwang Ren et.al.|[2507.01376](http://arxiv.org/abs/2507.01376)|null|
+|**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-06-30**|**Data Uniformity Improves Training Efficiency and More, with a Convergence Framework Beyond the NTK Regime**|Yuqing Wang et.al.|[2506.24120](http://arxiv.org/abs/2506.24120)|null|
 |**2025-06-30**|**Epona: Autoregressive Diffusion World Model for Autonomous Driving**|Kaiwen Zhang et.al.|[2506.24113](http://arxiv.org/abs/2506.24113)|null|
 |**2025-06-30**|**A Survey on Vision-Language-Action Models for Autonomous Driving**|Sicong Jiang et.al.|[2506.24044](http://arxiv.org/abs/2506.24044)|null|
@@ -13550,6 +13596,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
+|**2025-07-02**|**NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks**|Yang Li et.al.|[2507.01921](http://arxiv.org/abs/2507.01921)|null|
+|**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
+|**2025-07-02**|**TD-MPC-Opt: Distilling Model-Based Multi-Task Reinforcement Learning Agents**|Dmytro Kuzmenko et.al.|[2507.01823](http://arxiv.org/abs/2507.01823)|null|
+|**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
+|**2025-07-02**|**AsyncFlow: An Asynchronous Streaming RL Framework for Efficient LLM Post-Training**|Zhenyu Han et.al.|[2507.01663](http://arxiv.org/abs/2507.01663)|null|
+|**2025-07-02**|**Self-Guided Process Reward Optimization with Masked Step Advantage for Process Reinforcement Learning**|Wu Fei et.al.|[2507.01551](http://arxiv.org/abs/2507.01551)|null|
+|**2025-07-02**|**Chargax: A JAX Accelerated EV Charging Simulator**|Koen Ponse et.al.|[2507.01522](http://arxiv.org/abs/2507.01522)|null|
+|**2025-07-02**|**Agent-as-Tool: A Study on the Hierarchical Decision Making with Reinforcement Learning**|Yanfei Zhang et.al.|[2507.01489](http://arxiv.org/abs/2507.01489)|null|
+|**2025-07-02**|**Zero-Incentive Dynamics: a look at reward sparsity through the lens of unrewarded subgoals**|Yannick Molinghen et.al.|[2507.01470](http://arxiv.org/abs/2507.01470)|null|
+|**2025-07-02**|**Reinforcement Learning for Discrete-time LQG Mean Field Social Control Problems with Unknown Dynamics**|Hanfang Zhang et.al.|[2507.01420](http://arxiv.org/abs/2507.01420)|null|
+|**2025-07-02**|**Distributional Soft Actor-Critic with Diffusion Policy**|Tong Liu et.al.|[2507.01381](http://arxiv.org/abs/2507.01381)|null|
+|**2025-07-02**|**RALLY: Role-Adaptive LLM-Driven Yoked Navigation for Agentic UAV Swarms**|Ziyao Wang et.al.|[2507.01378](http://arxiv.org/abs/2507.01378)|null|
+|**2025-07-02**|**Activation Reward Models for Few-Shot Model Alignment**|Tianning Chai et.al.|[2507.01368](http://arxiv.org/abs/2507.01368)|null|
+|**2025-07-02**|**Skywork-Reward-V2: Scaling Preference Data Curation via Human-AI Synergy**|Chris Yuhao Liu et.al.|[2507.01352](http://arxiv.org/abs/2507.01352)|null|
+|**2025-07-02**|**Multi-User Generative Semantic Communication with Intent-Aware Semantic-Splitting Multiple Access**|Jiayi Lu et.al.|[2507.01333](http://arxiv.org/abs/2507.01333)|null|
+|**2025-07-02**|**Reasoner for Real-World Event Detection: Scaling Reinforcement Learning via Adaptive Perplexity-Aware Sampling Strategy**|Xiaoyun Zhang et.al.|[2507.01327](http://arxiv.org/abs/2507.01327)|null|
+|**2025-07-02**|**An Error Bound for Aggregation in Approximate Dynamic Programming**|Yuchao Li et.al.|[2507.01324](http://arxiv.org/abs/2507.01324)|null|
+|**2025-07-01**|**Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion**|Ziang Zheng et.al.|[2507.01243](http://arxiv.org/abs/2507.01243)|null|
+|**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
 |**2025-07-01**|**SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning**|Bo Liu et.al.|[2506.24119](http://arxiv.org/abs/2506.24119)|null|
 |**2025-06-30**|**Scaling Human Judgment in Community Notes with LLMs**|Haiwen Li et.al.|[2506.24118](http://arxiv.org/abs/2506.24118)|null|
 |**2025-06-30**|**Constructing Non-Markovian Decision Process via History Aggregator**|Yongyi Wang et.al.|[2506.24026](http://arxiv.org/abs/2506.24026)|null|
