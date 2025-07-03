@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.02
+## Updated on 2025.07.03
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -24,7 +24,7 @@ layout: default
 |**2025-06-18**|**Revisiting Randomization in Greedy Model Search**|Xin Chen et.al.|[2506.15643](http://arxiv.org/abs/2506.15643)|null|
 |**2025-06-18**|**Islanding Strategy for Smart Grids Oriented to Resilience Enhancement and Its Power Supply Range Optimization**|Yanhong Luo et.al.|[2506.15191](http://arxiv.org/abs/2506.15191)|null|
 |**2025-06-16**|**Research on Optimal Control Problem Based on Reinforcement Learning under Knightian Uncertainty**|Ziyu Li et.al.|[2506.13207](http://arxiv.org/abs/2506.13207)|null|
-|**2025-06-14**|**A polynomial delay algorithm generating all potential maximal cliques in triconnected planar graphs**|Alexander Grigoriev et.al.|[2506.12635](http://arxiv.org/abs/2506.12635)|null|
+|**2025-07-01**|**A polynomial delay algorithm generating all potential maximal cliques in triconnected planar graphs**|Alexander Grigoriev et.al.|[2506.12635](http://arxiv.org/abs/2506.12635)|null|
 |**2025-06-13**|**Linear-quadratic stochastic nonzero-sum differential games between graphon teams**|De-xuan Xu et.al.|[2506.11468](http://arxiv.org/abs/2506.11468)|null|
 |**2025-06-11**|**Geometric Regularity in Deterministic Sampling of Diffusion-based Generative Models**|Defang Chen et.al.|[2506.10177](http://arxiv.org/abs/2506.10177)|null|
 |**2025-06-10**|**Optimal Task Offloading with Firm Deadlines for Mobile Edge Computing Systems**|Khai Doan et.al.|[2506.09180](http://arxiv.org/abs/2506.09180)|null|
