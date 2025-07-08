@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.08
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -752,7 +752,7 @@ layout: default
 |**2025-07-03**|**SynapseRoute: An Auto-Route Switching Framework on Dual-State Large Language Model**|Wencheng Zhang et.al.|[2507.02822](http://arxiv.org/abs/2507.02822)|null|
 |**2025-07-03**|**Multimodal Mathematical Reasoning with Diverse Solving Perspective**|Wenhao Shi et.al.|[2507.02804](http://arxiv.org/abs/2507.02804)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
-|**2025-07-03**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
+|**2025-07-05**|**No time to train! Training-Free Reference-Based Instance Segmentation**|Miguel Espinosa et.al.|[2507.02798](http://arxiv.org/abs/2507.02798)|null|
 |**2025-07-03**|**From Long Videos to Engaging Clips: A Human-Inspired Video Editing Framework with Multimodal Narrative Understanding**|Xiangfeng Wang et.al.|[2507.02790](http://arxiv.org/abs/2507.02790)|null|
 |**2025-07-03**|**Moral Responsibility or Obedience: What Do We Want from AI?**|Joseph Boland et.al.|[2507.02788](http://arxiv.org/abs/2507.02788)|null|
 |**2025-07-03**|**Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs**|Ken Tsui et.al.|[2507.02778](http://arxiv.org/abs/2507.02778)|null|
@@ -7520,10 +7520,10 @@ layout: default
 |**2025-07-03**|**Misaligned from Within: Large Language Models Reproduce Our Double-Loop Learning Blindness**|Tim Rogers et.al.|[2507.02283](http://arxiv.org/abs/2507.02283)|null|
 |**2025-07-03**|**SurgVisAgent: Multimodal Agentic Model for Versatile Surgical Visual Enhancement**|Zeyu Lei et.al.|[2507.02252](http://arxiv.org/abs/2507.02252)|null|
 |**2025-07-03**|**FMOcc: TPV-Driven Flow Matching for 3D Occupancy Prediction with Selective State Space Model**|Jiangxia Chen et.al.|[2507.02250](http://arxiv.org/abs/2507.02250)|null|
-|**2025-07-03**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
+|**2025-07-04**|**CoInfra: A Large-Scale Cooperative Infrastructure Perception System and Dataset in Adverse Weather**|Minghao Ning et.al.|[2507.02245](http://arxiv.org/abs/2507.02245)|null|
 |**2025-07-03**|**Public perspectives on the design of fusion energy facilities**|Nathan Kawamoto et.al.|[2507.02207](http://arxiv.org/abs/2507.02207)|null|
 |**2025-07-02**|**The Illusion of Fairness: Auditing Fairness Interventions with Audit Studies**|Disa Sariola et.al.|[2507.02152](http://arxiv.org/abs/2507.02152)|null|
-|**2025-07-02**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
+|**2025-07-05**|**RoboBrain 2.0 Technical Report**|BAAI RoboBrain Team et.al.|[2507.02029](http://arxiv.org/abs/2507.02029)|null|
 |**2025-07-03**|**Large Language Model-Driven Closed-Loop UAV Operation with Semantic Observations**|Wenhao Wang et.al.|[2507.01930](http://arxiv.org/abs/2507.01930)|null|
 |**2025-07-03**|**Decision-Oriented Text Evaluation**|Yu-Shiang Huang et.al.|[2507.01923](http://arxiv.org/abs/2507.01923)|null|
 |**2025-07-02**|**MoIRA: Modular Instruction Routing Architecture for Multi-Task Robotics**|Dmytro Kuzmenko et.al.|[2507.01843](http://arxiv.org/abs/2507.01843)|null|
@@ -13640,8 +13640,8 @@ layout: default
 |**2025-07-03**|**Deep Reinforcement Learning-Based DRAM Equalizer Parameter Optimization Using Latent Representations**|Muhammad Usama et.al.|[2507.02365](http://arxiv.org/abs/2507.02365)|null|
 |**2025-07-03**|**Offline Reinforcement Learning with Penalized Action Noise Injection**|JunHyeok Oh et.al.|[2507.02356](http://arxiv.org/abs/2507.02356)|null|
 |**2025-07-03**|**Uncertainty-aware Reward Design Process**|Yang Yang et.al.|[2507.02256](http://arxiv.org/abs/2507.02256)|null|
-|**2025-07-03**|**Order Acquisition Under Competitive Pressure: A Rapidly Adaptive Reinforcement Learning Approach for Ride-Hailing Subsidy Strategies**|Fangzhou Shi et.al.|[2507.02244](http://arxiv.org/abs/2507.02244)|null|
-|**2025-07-03**|**Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning**|Gustavo C. Mangold et.al.|[2507.02211](http://arxiv.org/abs/2507.02211)|null|
+|**2025-07-04**|**Order Acquisition Under Competitive Pressure: A Rapidly Adaptive Reinforcement Learning Approach for Ride-Hailing Subsidy Strategies**|Fangzhou Shi et.al.|[2507.02244](http://arxiv.org/abs/2507.02244)|null|
+|**2025-07-04**|**Dilution, Diffusion and Symbiosis in Spatial Prisoner's Dilemma with Reinforcement Learning**|Gustavo C. Mangold et.al.|[2507.02211](http://arxiv.org/abs/2507.02211)|null|
 |**2025-07-02**|**Kwai Keye-VL Technical Report**|Kwai Keye Team et.al.|[2507.01949](http://arxiv.org/abs/2507.01949)|null|
 |**2025-07-02**|**NaturalThoughts: Selecting and Distilling Reasoning Traces for General Reasoning Tasks**|Yang Li et.al.|[2507.01921](http://arxiv.org/abs/2507.01921)|null|
 |**2025-07-02**|**Gradient-Adaptive Policy Optimization: Towards Multi-Objective Alignment of Large Language Models**|Chengao Li et.al.|[2507.01915](http://arxiv.org/abs/2507.01915)|null|
