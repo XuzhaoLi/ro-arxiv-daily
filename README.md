@@ -1,4 +1,4 @@
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -747,7 +747,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -767,7 +767,7 @@
 |**2025-07-08**|**Hidden Prompts in Manuscripts Exploit AI-Assisted Peer Review**|Zhicheng Lin et.al.|[2507.06185](http://arxiv.org/abs/2507.06185)|null|
 |**2025-07-08**|**Enhancing Scientific Visual Question Answering through Multimodal Reasoning and Ensemble Modeling**|Prahitha Movva et.al.|[2507.06183](http://arxiv.org/abs/2507.06183)|null|
 |**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
-|**2025-07-08**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
+|**2025-07-09**|**Skywork-R1V3 Technical Report**|Wei Shen et.al.|[2507.06167](http://arxiv.org/abs/2507.06167)|null|
 |**2025-07-08**|**Evaluation of Habitat Robotics using Large Language Models**|William Li et.al.|[2507.06157](http://arxiv.org/abs/2507.06157)|null|
 |**2025-07-08**|**Large Language Models Predict Human Well-being -- But Not Equally Everywhere**|Pat Pataranutaporn et.al.|[2507.06141](http://arxiv.org/abs/2507.06141)|null|
 |**2025-07-08**|**LangMamba: A Language-driven Mamba Framework for Low-dose CT Denoising with Vision-language Models**|Zhihao Chen et.al.|[2507.06140](http://arxiv.org/abs/2507.06140)|null|
@@ -7556,7 +7556,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -13715,7 +13715,7 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
 ## Coverag Path Planning
 
@@ -13726,7 +13726,7 @@
 |**2025-07-08**|**Learning-Augmented Model-Based Multi-Robot Planning for Time-Critical Search and Inspection Under Uncertainty**|Abhish Khanal et.al.|[2507.06129](http://arxiv.org/abs/2507.06129)|null|
 |**2025-07-08**|**Safe Domain Randomization via Uncertainty-Aware Out-of-Distribution Detection and Policy Adaptation**|Mohamad H. Danesh et.al.|[2507.06111](http://arxiv.org/abs/2507.06111)|null|
 |**2025-07-08**|**AI-Based Demand Forecasting and Load Balancing for Optimising Energy use in Healthcare Systems: A real case study**|Iman Rahimi et.al.|[2507.06077](http://arxiv.org/abs/2507.06077)|null|
-|**2025-07-08**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
+|**2025-07-09**|**FEVO: Financial Knowledge Expansion and Reasoning Evolution for Large Language Models**|Bo Pang et.al.|[2507.06057](http://arxiv.org/abs/2507.06057)|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
 |**2025-07-08**|**From General Relation Patterns to Task-Specific Decision-Making in Continual Multi-Agent Coordination**|Chang Yao et.al.|[2507.06004](http://arxiv.org/abs/2507.06004)|null|
 |**2025-07-08**|**BlueLM-2.5-3B Technical Report**|Baojiao Xiong et.al.|[2507.05934](http://arxiv.org/abs/2507.05934)|null|
@@ -13734,7 +13734,7 @@
 |**2025-07-08**|**Differentiable Reward Optimization for LLM based TTS system**|Changfeng Gao et.al.|[2507.05911](http://arxiv.org/abs/2507.05911)|null|
 |**2025-07-08**|**Stable Acoustic Relay Assignment with High Throughput via Lase Chaos-based Reinforcement Learning**|Zengjing Chen et.al.|[2507.05900](http://arxiv.org/abs/2507.05900)|null|
 |**2025-07-08**|**OLAF: Programmable Data Plane Acceleration for Asynchronous Distributed Reinforcement Learning**|Nehal Baganal Krishna et.al.|[2507.05876](http://arxiv.org/abs/2507.05876)|null|
-|**2025-07-08**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
+|**2025-07-09**|**GTA1: GUI Test-time Scaling Agent**|Yan Yang et.al.|[2507.05791](http://arxiv.org/abs/2507.05791)|null|
 |**2025-07-08**|**Robust Bandwidth Estimation for Real-Time Communication with Offline Reinforcement Learning**|Jian Kai et.al.|[2507.05785](http://arxiv.org/abs/2507.05785)|null|
 |**2025-07-08**|**Hierarchical Task Offloading for UAV-Assisted Vehicular Edge Computing via Deep Reinforcement Learning**|Hongbao Li et.al.|[2507.05722](http://arxiv.org/abs/2507.05722)|null|
 |**2025-07-08**|**MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment**|Yucheng Shi et.al.|[2507.05720](http://arxiv.org/abs/2507.05720)|null|
@@ -13839,5 +13839,5 @@
 |**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
 |**2025-06-30**|**Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface**|Dewei Wang et.al.|[2506.21853](http://arxiv.org/abs/2506.21853)|null|
 
-<p align=right>(<a href=#updated-on-20250709>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250710>back to top</a>)</p>
 
