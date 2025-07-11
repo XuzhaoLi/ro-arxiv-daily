@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-03**|**DUST: A Duality-Based Pruning Method For Exact Multiple Change-Point Detection**|Vincent Runge et.al.|[2507.02467](http://arxiv.org/abs/2507.02467)|null|
 |**2025-07-03**|**Beyond Interval MDPs: Tight and Efficient Abstractions of Stochastic Systems**|Ibon Gracia et.al.|[2507.02213](http://arxiv.org/abs/2507.02213)|null|
 |**2025-07-02**|**Joint Matching and Pricing for Crowd-shipping with In-store Customers**|Arash Dehghan et.al.|[2507.01749](http://arxiv.org/abs/2507.01749)|null|
-|**2025-07-02**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
+|**2025-07-10**|**A Large Language Model for Chemistry and Retrosynthesis Predictions**|Yueqing Zhang et.al.|[2507.01444](http://arxiv.org/abs/2507.01444)|null|
 |**2025-07-02**|**Dynamic Programming Principle for Stochastic Control Problems on Riemannian Manifolds**|Dingqian Gao et.al.|[2507.01407](http://arxiv.org/abs/2507.01407)|null|
 |**2025-07-02**|**An Error Bound for Aggregation in Approximate Dynamic Programming**|Yuchao Li et.al.|[2507.01324](http://arxiv.org/abs/2507.01324)|null|
 |**2025-07-02**|**Neural Hamiltonian Operator**|Qian Qi et.al.|[2507.01313](http://arxiv.org/abs/2507.01313)|null|
@@ -766,8 +766,8 @@ layout: default
 |**2025-07-09**|**Scaling Towards the Information Boundary of Instruction Set: InfinityInstruct-Subject Technical Report**|Li Du et.al.|[2507.06968](http://arxiv.org/abs/2507.06968)|null|
 |**2025-07-09**|**CheXPO: Preference Optimization for Chest X-ray VLMs with Counterfactual Rationale**|Xiao Liang et.al.|[2507.06959](http://arxiv.org/abs/2507.06959)|null|
 |**2025-07-09**|**Investigating the Robustness of Retrieval-Augmented Generation at the Query Level**|Sezen Perçin et.al.|[2507.06956](http://arxiv.org/abs/2507.06956)|null|
-|**2025-07-09**|**What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models**|Keyon Vafa et.al.|[2507.06952](http://arxiv.org/abs/2507.06952)|null|
-|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-10**|**What Has a Foundation Model Found? Using Inductive Bias to Probe for World Models**|Keyon Vafa et.al.|[2507.06952](http://arxiv.org/abs/2507.06952)|null|
+|**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
 |**2025-07-08**|**RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models**|Keyan Chen et.al.|[2507.06231](http://arxiv.org/abs/2507.06231)|null|
 |**2025-07-08**|**Efficiency-Effectiveness Reranking FLOPs for LLM-based Rerankers**|Zhiyuan Peng et.al.|[2507.06223](http://arxiv.org/abs/2507.06223)|null|
 |**2025-07-08**|**Aligned Textual Scoring Rules**|Yuxuan Lu et.al.|[2507.06221](http://arxiv.org/abs/2507.06221)|null|
@@ -7577,7 +7577,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-09**|**Enhancing Quantum Software Development Process with Experiment Tracking**|Mahee Gamage et.al.|[2507.06990](http://arxiv.org/abs/2507.06990)|null|
 |**2025-07-09**|**Anti-Interference Diffractive Deep Neural Networks for Multi-Object Recognition**|Zhiqi Huang et.al.|[2507.06978](http://arxiv.org/abs/2507.06978)|null|
-|**2025-07-09**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
+|**2025-07-10**|**Hallucinating 360°: Panoramic Street-View Generation via Local Scenes Diffusion and Probabilistic Prompting**|Fei Teng et.al.|[2507.06971](http://arxiv.org/abs/2507.06971)|null|
 |**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908](http://arxiv.org/abs/2507.06908)|null|
 |**2025-07-09**|**Robust and Safe Traffic Sign Recognition using N-version with Weighted Voting**|Linyun Gao et.al.|[2507.06907](http://arxiv.org/abs/2507.06907)|null|
 |**2025-07-09**|**Scalable Gaussian Processes: Advances in Iterative Methods and Pathwise Conditioning**|Jihao Andreas Lin et.al.|[2507.06839](http://arxiv.org/abs/2507.06839)|null|
@@ -13754,11 +13754,11 @@ layout: default
 |**2025-07-09**|**Federated Learning-based MARL for Strengthening Physical-Layer Security in B5G Networks**|Deemah H. Tashman et.al.|[2507.06997](http://arxiv.org/abs/2507.06997)|null|
 |**2025-07-09**|**Optimizing Cognitive Networks: Reinforcement Learning Meets Energy Harvesting Over Cascaded Channels**|Deemah H. Tashman et.al.|[2507.06981](http://arxiv.org/abs/2507.06981)|null|
 |**2025-07-09**|**Bounomodes: the grazing ox algorithm for exploration of clustered anomalies**|Samuel Matloob et.al.|[2507.06960](http://arxiv.org/abs/2507.06960)|null|
-|**2025-07-09**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
+|**2025-07-10**|**Rethinking Verification for LLM Code Generation: From Generation to Testing**|Zihan Ma et.al.|[2507.06920](http://arxiv.org/abs/2507.06920)|null|
 |**2025-07-09**|**Designing Adaptive Algorithms Based on Reinforcement Learning for Dynamic Optimization of Sliding Window Size in Multi-Dimensional Data Streams**|Abolfazl Zarghani et.al.|[2507.06901](http://arxiv.org/abs/2507.06901)|null|
-|**2025-07-09**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
+|**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 |**2025-07-09**|**Episodic Contextual Bandits with Knapsacks under Conversion Models**|Zitian Li et.al.|[2507.06859](http://arxiv.org/abs/2507.06859)|null|
-|**2025-07-09**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
+|**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-09**|**Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand**|Wei Xu et.al.|[2507.06822](http://arxiv.org/abs/2507.06822)|null|
 |**2025-07-09**|**Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm**|George Papadopoulos et.al.|[2507.06780](http://arxiv.org/abs/2507.06780)|null|
 |**2025-07-09**|**Distributed Fault-Tolerant Multi-Robot Cooperative Localization in Adversarial Environments**|Tohid Kargar Tasooji et.al.|[2507.06750](http://arxiv.org/abs/2507.06750)|null|
