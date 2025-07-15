@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Sparsity-Aware Extended Kalman Filter for Tracking Dynamic Graphs**|Lital Dabush et.al.|[2507.09999](http://arxiv.org/abs/2507.09999)|null|
+|**2025-07-13**|**Joint Scheduling of Deferrable and Nondeferrable Demand with Colocated Stochastic Supply**|Minjae Jeon et.al.|[2507.09794](http://arxiv.org/abs/2507.09794)|null|
+|**2025-07-13**|**CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories**|Xiaojie Lin et.al.|[2507.09624](http://arxiv.org/abs/2507.09624)|null|
+|**2025-07-12**|**Coordinated Communication and Inventory Optimization in Multi-Retailer Supply Chains**|Sagar Sudhakara et.al.|[2507.09223](http://arxiv.org/abs/2507.09223)|null|
+|**2025-07-08**|**From Controllability to Information: A Unified Analysis via Gramian, Minimum Energy, Fisher Information Matrix and Entropy**|Gabriel R. de Andrade Silva et.al.|[2507.08847](http://arxiv.org/abs/2507.08847)|null|
 |**2025-07-11**|**Heterogeneous Dynamic Logic: Provability Modulo Program Theories**|Samuel Teuber et.al.|[2507.08581](http://arxiv.org/abs/2507.08581)|null|
 |**2025-07-11**|**Stabilizing and Optimizing Inter-Shell Routing in LEO Networks with Integrated Routing Cost**|Yaojia Wang et.al.|[2507.08549](http://arxiv.org/abs/2507.08549)|null|
 |**2025-07-10**|**Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles**|Jiaxu Wan et.al.|[2507.07487](http://arxiv.org/abs/2507.07487)|null|
@@ -752,6 +757,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
+|**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
+|**2025-07-14**|**CodeJudgeBench: Benchmarking LLM-as-a-Judge for Coding Tasks**|Hongchao Jiang et.al.|[2507.10535](http://arxiv.org/abs/2507.10535)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation**|Sangmin Bae et.al.|[2507.10524](http://arxiv.org/abs/2507.10524)|null|
+|**2025-07-14**|**Chat with AI: The Surprising Turn of Real-time Video Communication from Human to AI**|Jiangkai Wu et.al.|[2507.10510](http://arxiv.org/abs/2507.10510)|null|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Can You Detect the Difference?**|İsmail Tarım et.al.|[2507.10475](http://arxiv.org/abs/2507.10475)|null|
+|**2025-07-14**|**MLAR: Multi-layer Large Language Model-based Robotic Process Automation Applicant Tracking**|Mohamed T. Younes et.al.|[2507.10472](http://arxiv.org/abs/2507.10472)|null|
+|**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
+|**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
+|**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
+|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
+|**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
+|**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
+|**2025-07-14**|**Extracting Important Tokens in E-Commerce Queries with a Tag Interaction-Aware Transformer Model**|Md. Ahsanul Kabir et.al.|[2507.10385](http://arxiv.org/abs/2507.10385)|null|
+|**2025-07-14**|**Test-Time Canonicalization by Foundation Models for Robust Perception**|Utkarsh Singhal et.al.|[2507.10375](http://arxiv.org/abs/2507.10375)|null|
+|**2025-07-14**|**Beyond Graph Model: Reliable VLM Fine-Tuning via Random Graph Adapter**|Bo Jiang et.al.|[2507.10355](http://arxiv.org/abs/2507.10355)|null|
 |**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
 |**2025-07-11**|**Lumos-1: On Autoregressive Video Generation from a Unified Model Perspective**|Hangjie Yuan et.al.|[2507.08801](http://arxiv.org/abs/2507.08801)|null|
 |**2025-07-11**|**KV Cache Steering for Inducing Reasoning in Small Language Models**|Max Belitsky et.al.|[2507.08799](http://arxiv.org/abs/2507.08799)|null|
@@ -7619,6 +7644,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
+|**2025-07-14**|**Intimate partner violence and women's economic preferences**|Dan Anderberg et.al.|[2507.10416](http://arxiv.org/abs/2507.10416)|null|
+|**2025-07-14**|**Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis**|Yue Ding et.al.|[2507.10382](http://arxiv.org/abs/2507.10382)|null|
+|**2025-07-14**|**Raci-Net: Ego-vehicle Odometry Estimation in Adverse Weather Conditions**|Mohammadhossein Talebi et.al.|[2507.10376](http://arxiv.org/abs/2507.10376)|null|
+|**2025-07-14**|**FalconFS: Distributed File System for Large-Scale Deep Learning Pipeline**|Jingwei Xu et.al.|[2507.10367](http://arxiv.org/abs/2507.10367)|null|
+|**2025-07-14**|**DepViT-CAD: Deployable Vision Transformer-Based Cancer Diagnosis in Histopathology**|Ashkan Shakarami et.al.|[2507.10250](http://arxiv.org/abs/2507.10250)|null|
+|**2025-07-14**|**An Empirical Study of Interaction Bugs in ROS-based Software**|Zhixiang Chen et.al.|[2507.10235](http://arxiv.org/abs/2507.10235)|null|
+|**2025-07-14**|**Recursive Feasibility without Terminal Constraints via Parent-Child MPC Architecture**|Filip Surmaa et.al.|[2507.10166](http://arxiv.org/abs/2507.10166)|null|
+|**2025-07-14**|**FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring**|Yousef Emami et.al.|[2507.10134](http://arxiv.org/abs/2507.10134)|null|
+|**2025-07-14**|**Could you be wrong: Debiasing LLMs using a metacognitive prompt for improving human decision making**|Thomas T. Hills et.al.|[2507.10124](http://arxiv.org/abs/2507.10124)|null|
+|**2025-07-14**|**MP-RBFN: Learning-based Vehicle Motion Primitives using Radial Basis Function Networks**|Marc Kaufeld et.al.|[2507.10047](http://arxiv.org/abs/2507.10047)|null|
+|**2025-07-14**|**LifelongPR: Lifelong knowledge fusion for point cloud place recognition based on replay and prompt learning**|Xianghong Zou et.al.|[2507.10034](http://arxiv.org/abs/2507.10034)|null|
+|**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
+|**2025-07-14**|**Hierarchical Job Classification with Similarity Graph Integration**|Md Ahsanul Kabir et.al.|[2507.09949](http://arxiv.org/abs/2507.09949)|null|
+|**2025-07-14**|**Volume-Based Space-Time Cube for Large-Scale Continuous Spatial Time Series**|Zikun Deng et.al.|[2507.09917](http://arxiv.org/abs/2507.09917)|null|
+|**2025-07-14**|**Crucial-Diff: A Unified Diffusion Model for Crucial Image and Annotation Synthesis in Data-scarce Scenarios**|Siyue Yao et.al.|[2507.09915](http://arxiv.org/abs/2507.09915)|null|
+|**2025-07-14**|**Advanced U-Net Architectures with CNN Backbones for Automated Lung Cancer Detection and Segmentation in Chest CT Images**|Alireza Golkarieha et.al.|[2507.09898](http://arxiv.org/abs/2507.09898)|null|
+|**2025-07-14**|**ViTCoT: Video-Text Interleaved Chain-of-Thought for Boosting Video Understanding in Large Language Models**|Yongheng Zhang et.al.|[2507.09876](http://arxiv.org/abs/2507.09876)|null|
+|**2025-07-13**|**Bridging Neural Networks and Dynamic Time Warping for Adaptive Time Series Classification**|Jintao Qu et.al.|[2507.09826](http://arxiv.org/abs/2507.09826)|null|
+|**2025-07-13**|**Active Probing with Multimodal Predictions for Motion Planning**|Darshan Gadginmath et.al.|[2507.09822](http://arxiv.org/abs/2507.09822)|null|
 |**2025-07-11**|**The Non-Linear Representation Dilemma: Is Causal Abstraction Enough for Mechanistic Interpretability?**|Denis Sutter et.al.|[2507.08802](http://arxiv.org/abs/2507.08802)|null|
 |**2025-07-11**|**Geo-ORBIT: A Federated Digital Twin Framework for Scene-Adaptive Lane Geometry Detection**|Rei Tamaru et.al.|[2507.08743](http://arxiv.org/abs/2507.08743)|null|
 |**2025-07-11**|**Unreal is all you need: Multimodal ISAC Data Simulation with Only One Engine**|Kongwu Huang et.al.|[2507.08716](http://arxiv.org/abs/2507.08716)|null|
@@ -13830,6 +13875,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
+|**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546](http://arxiv.org/abs/2507.10546)|null|
+|**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
+|**2025-07-14**|**Some remarks on gradient dominance and LQR policy optimization**|Eduardo D. Sontag et.al.|[2507.10452](http://arxiv.org/abs/2507.10452)|null|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-14**|**Cross-Timeslot Optimization for Distributed GPU Inference Using Reinforcement Learning**|Chengze Du et.al.|[2507.10259](http://arxiv.org/abs/2507.10259)|null|
+|**2025-07-14**|**ToMacVF : Temporal Macro-action Value Factorization for Asynchronous Multi-Agent Reinforcement Learning**|Wenjing Zhang et.al.|[2507.10251](http://arxiv.org/abs/2507.10251)|null|
+|**2025-07-14**|**Multi-Robot Cooperative Herding through Backstepping Control Barrier Functions**|Kang Li et.al.|[2507.10249](http://arxiv.org/abs/2507.10249)|null|
+|**2025-07-14**|**REACT: Real-time Entanglement-Aware Coverage Path Planning for Tethered Underwater Vehicles**|Abdelhakim Amer et.al.|[2507.10204](http://arxiv.org/abs/2507.10204)|null|
+|**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
+|**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
+|**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
+|**2025-07-14**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run'' Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-14**|**FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring**|Yousef Emami et.al.|[2507.10134](http://arxiv.org/abs/2507.10134)|null|
+|**2025-07-14**|**A Variance-Reduced Cubic-Regularized Newton for Policy Optimization**|Cheng Sun et.al.|[2507.10120](http://arxiv.org/abs/2507.10120)|null|
+|**2025-07-14**|**Analysis of AI Techniques for Orchestrating Edge-Cloud Application Migration**|Sadig Gojayev et.al.|[2507.10119](http://arxiv.org/abs/2507.10119)|null|
+|**2025-07-14**|**Finetuning Deep Reinforcement Learning Policies with Evolutionary Strategies for Control of Underactuated Robots**|Marco Calì et.al.|[2507.10030](http://arxiv.org/abs/2507.10030)|null|
+|**2025-07-14**|**EAT: QoS-Aware Edge-Collaborative AIGC Task Scheduling via Attention-Guided Diffusion Reinforcement Learning**|Zhifei Xu et.al.|[2507.10026](http://arxiv.org/abs/2507.10026)|null|
+|**2025-07-14**|**Effects of structural properties of neural networks on machine learning performance**|Yash Arya et.al.|[2507.10005](http://arxiv.org/abs/2507.10005)|null|
+|**2025-07-14**|**Evolution of Fear and Social Rewards in Prey-Predator Relationship**|Yuji Kanagawa et.al.|[2507.09992](http://arxiv.org/abs/2507.09992)|null|
 |**2025-07-11**|**One Token to Fool LLM-as-a-Judge**|Yulai Zhao et.al.|[2507.08794](http://arxiv.org/abs/2507.08794)|null|
 |**2025-07-11**|**Optimistic Exploration for Risk-Averse Constrained Reinforcement Learning**|James McCarthy et.al.|[2507.08793](http://arxiv.org/abs/2507.08793)|null|
 |**2025-07-11**|**Penalizing Infeasible Actions and Reward Scaling in Reinforcement Learning with Offline Data**|Jeonghye Kim et.al.|[2507.08761](http://arxiv.org/abs/2507.08761)|null|
