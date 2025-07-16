@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Joint Power Allocation and Reflecting-Element Activation for Energy Efficiency Maximization in IRS-Aided Communications Under CSI Uncertainty**|Christos N. Efrem et.al.|[2507.11413](http://arxiv.org/abs/2507.11413)|null|
 |**2025-07-14**|**Sparsity-Aware Extended Kalman Filter for Tracking Dynamic Graphs**|Lital Dabush et.al.|[2507.09999](http://arxiv.org/abs/2507.09999)|null|
 |**2025-07-13**|**Joint Scheduling of Deferrable and Nondeferrable Demand with Colocated Stochastic Supply**|Minjae Jeon et.al.|[2507.09794](http://arxiv.org/abs/2507.09794)|null|
 |**2025-07-13**|**CAN-Trace Attack: Exploit CAN Messages to Uncover Driving Trajectories**|Xiaojie Lin et.al.|[2507.09624](http://arxiv.org/abs/2507.09624)|null|
@@ -757,6 +758,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
+|**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
+|**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**LRMR: LLM-Driven Relational Multi-node Ranking for Lymph Node Metastasis Assessment in Rectal Cancer**|Yaoxian Dong et.al.|[2507.11457](http://arxiv.org/abs/2507.11457)|null|
+|**2025-07-15**|**Reasoning Strategies in Large Language Models: Can They Follow, Prefer, and Optimize?**|Yanjian Zhang et.al.|[2507.11423](http://arxiv.org/abs/2507.11423)|null|
+|**2025-07-15**|**Quantifying the Energy Consumption and Carbon Emissions of LLM Inference via Simulations**|Miray Özcan et.al.|[2507.11417](http://arxiv.org/abs/2507.11417)|null|
+|**2025-07-15**|**Seq vs Seq: An Open Suite of Paired Encoders and Decoders**|Orion Weller et.al.|[2507.11412](http://arxiv.org/abs/2507.11412)|null|
+|**2025-07-15**|**KisMATH: Do LLMs Have Knowledge of Implicit Structures in Mathematical Reasoning?**|Soumadeep Saha et.al.|[2507.11408](http://arxiv.org/abs/2507.11408)|null|
+|**2025-07-15**|**EXAONE 4.0: Unified Large Language Models Integrating Non-reasoning and Reasoning Modes**|LG AI Research et.al.|[2507.11407](http://arxiv.org/abs/2507.11407)|null|
+|**2025-07-15**|**DCR: Quantifying Data Contamination in LLMs Evaluation**|Cheng Xu et.al.|[2507.11405](http://arxiv.org/abs/2507.11405)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**From Chaos to Automation: Enabling the Use of Unstructured Data for Robotic Process Automation**|Kelly Kurowski et.al.|[2507.11364](http://arxiv.org/abs/2507.11364)|null|
+|**2025-07-15**|**What is the Best Process Model Representation? A Comparative Analysis for Process Modeling with Large Language Models**|Alexis Brissard et.al.|[2507.11356](http://arxiv.org/abs/2507.11356)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**RefModel: Detecting Refactorings using Foundation Models**|Pedro Simões et.al.|[2507.11346](http://arxiv.org/abs/2507.11346)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
+|**2025-07-15**|**MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network**|Jianfei Jiang et.al.|[2507.11333](http://arxiv.org/abs/2507.11333)|null|
+|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Fusing LLM Capabilities with Routing Data**|Tao Feng et.al.|[2507.10540](http://arxiv.org/abs/2507.10540)|null|
 |**2025-07-14**|**Graph World Model**|Tao Feng et.al.|[2507.10539](http://arxiv.org/abs/2507.10539)|null|
@@ -7644,6 +7665,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
+|**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
+|**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
+|**2025-07-15**|**Distributionally Robust Optimization is a Multi-Objective Problem**|Jun-ya Gotoh et.al.|[2507.11350](http://arxiv.org/abs/2507.11350)|null|
+|**2025-07-15**|**Acting and Planning with Hierarchical Operational Models on a Mobile Robot: A Study with RAE+UPOM**|Oscar Lima et.al.|[2507.11345](http://arxiv.org/abs/2507.11345)|null|
+|**2025-07-15**|**Guiding LLM Decision-Making with Fairness Reward Models**|Zara Hall et.al.|[2507.11344](http://arxiv.org/abs/2507.11344)|null|
+|**2025-07-15**|**CogDDN: A Cognitive Demand-Driven Navigation with Decision Optimization and Dual-Process Thinking**|Yuehao Huang et.al.|[2507.11334](http://arxiv.org/abs/2507.11334)|null|
+|**2025-07-15**|**LRCTI: A Large Language Model-Based Framework for Multi-Step Evidence Retrieval and Reasoning in Cyber Threat Intelligence Credibility Verification**|Fengxiao Tang et.al.|[2507.11310](http://arxiv.org/abs/2507.11310)|null|
+|**2025-07-15**|**Detección y Cuantificación de Erosión Fluvial con Visión Artificial**|Paúl Maji et.al.|[2507.11301](http://arxiv.org/abs/2507.11301)|null|
+|**2025-07-15**|**Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning via Causal Bound**|Tal Fiskus et.al.|[2507.11269](http://arxiv.org/abs/2507.11269)|null|
+|**2025-07-15**|**An Explainable AI-Enhanced Machine Learning Approach for Cardiovascular Disease Detection and Risk Assessment**|Md. Emon Akter Sourov et.al.|[2507.11185](http://arxiv.org/abs/2507.11185)|null|
+|**2025-07-15**|**Collaborative Trustworthiness for Good Decision Making in Autonomous Systems**|Selma Saidi et.al.|[2507.11135](http://arxiv.org/abs/2507.11135)|null|
+|**2025-07-15**|**AI Agent Architecture for Decentralized Trading of Alternative Assets**|Ailiya Borjigin et.al.|[2507.11117](http://arxiv.org/abs/2507.11117)|null|
+|**2025-07-15**|**A Survey on Interpretability in Visual Recognition**|Qiyang Wan et.al.|[2507.11099](http://arxiv.org/abs/2507.11099)|null|
+|**2025-07-15**|**Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments**|Ashutosh Mishra et.al.|[2507.11006](http://arxiv.org/abs/2507.11006)|null|
+|**2025-07-15**|**An Exploratory Study on AI-driven Visualisation Techniques on Decision Making in Extended Reality**|Ze Dong et.al.|[2507.10981](http://arxiv.org/abs/2507.10981)|null|
+|**2025-07-15**|**Whom to Respond To? A Transformer-Based Model for Multi-Party Social Robot Interaction**|He Zhu et.al.|[2507.10960](http://arxiv.org/abs/2507.10960)|null|
+|**2025-07-15**|**Artificial Finance: How AI Thinks About Money**|Orhan Erdem et.al.|[2507.10933](http://arxiv.org/abs/2507.10933)|null|
+|**2025-07-15**|**Lessons Learned from Evaluation of LLM based Multi-agents in Safer Therapy Recommendation**|Yicong Wu et.al.|[2507.10911](http://arxiv.org/abs/2507.10911)|null|
+|**2025-07-15**|**LiLM-RDB-SFC: Lightweight Language Model with Relational Database-Guided DRL for Optimized SFC Provisioning**|Parisa Fard Moshiri et.al.|[2507.10903](http://arxiv.org/abs/2507.10903)|null|
 |**2025-07-14**|**Scene-Aware Conversational ADAS with Generative AI for Real-Time Driver Assistance**|Kyungtae Han et.al.|[2507.10500](http://arxiv.org/abs/2507.10500)|null|
 |**2025-07-14**|**Intimate partner violence and women's economic preferences**|Dan Anderberg et.al.|[2507.10416](http://arxiv.org/abs/2507.10416)|null|
 |**2025-07-14**|**Leveraging RAG-LLMs for Urban Mobility Simulation and Analysis**|Yue Ding et.al.|[2507.10382](http://arxiv.org/abs/2507.10382)|null|
@@ -13875,6 +13916,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
+|**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
+|**2025-07-15**|**Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light**|Mani Hamidi et.al.|[2507.11482](http://arxiv.org/abs/2507.11482)|null|
+|**2025-07-15**|**LF: Online Multi-Robot Path Planning Meets Optimal Trajectory Control**|Ajay Shankar et.al.|[2507.11464](http://arxiv.org/abs/2507.11464)|null|
+|**2025-07-15**|**Step-wise Policy for Rare-tool Knowledge (SPaRK): Offline RL that Drives Diverse Tool Use in LLMs**|Gabriel Bo et.al.|[2507.11371](http://arxiv.org/abs/2507.11371)|null|
+|**2025-07-15**|**Local Pairwise Distance Matching for Backpropagation-Free Reinforcement Learning**|Daniel Tanneberg et.al.|[2507.11367](http://arxiv.org/abs/2507.11367)|null|
+|**2025-07-15**|**Sensing Accuracy Optimization for Multi-UAV SAR Interferometry with Data Offloading**|Mohamed-Amine Lahmeri et.al.|[2507.11284](http://arxiv.org/abs/2507.11284)|null|
+|**2025-07-15**|**Ocean Diviner: A Diffusion-Augmented Reinforcement Learning for AUV Robust Control in the Underwater Tasks**|Weiyi Liu et.al.|[2507.11283](http://arxiv.org/abs/2507.11283)|null|
+|**2025-07-15**|**Turning Sand to Gold: Recycling Data to Bridge On-Policy and Off-Policy Learning via Causal Bound**|Tal Fiskus et.al.|[2507.11269](http://arxiv.org/abs/2507.11269)|null|
+|**2025-07-15**|**Real-Time Bayesian Detection of Drift-Evasive GNSS Spoofing in Reinforcement Learning Based UAV Deconfliction**|Deepak Kumar Panda et.al.|[2507.11173](http://arxiv.org/abs/2507.11173)|null|
+|**2025-07-15**|**Bridging the Gap in Vision Language Models in Identifying Unsafe Concepts Across Modalities**|Yiting Qu et.al.|[2507.11155](http://arxiv.org/abs/2507.11155)|null|
+|**2025-07-15**|**Tactical Decision for Multi-UGV Confrontation with a Vision-Language Model-Based Commander**|Li Wang et.al.|[2507.11079](http://arxiv.org/abs/2507.11079)|null|
+|**2025-07-15**|**Personalized Exercise Recommendation with Semantically-Grounded Knowledge Tracing**|Yilmazcan Ozyurt et.al.|[2507.11060](http://arxiv.org/abs/2507.11060)|null|
+|**2025-07-15**|**Functional Emotion Modeling in Biomimetic Reinforcement Learning**|Louis Wang et.al.|[2507.11027](http://arxiv.org/abs/2507.11027)|null|
+|**2025-07-15**|**Learning to Tune Like an Expert: Interpretable and Scene-Aware Navigation via MLLM Reasoning and CVAE-Based Adaptation**|Yanbo Wang et.al.|[2507.11001](http://arxiv.org/abs/2507.11001)|null|
+|**2025-07-15**|**ILCL: Inverse Logic-Constraint Learning from Temporally Constrained Demonstrations**|Minwoo Cho et.al.|[2507.11000](http://arxiv.org/abs/2507.11000)|null|
+|**2025-07-15**|**Misalignment from Treating Means as Ends**|Henrik Marklund et.al.|[2507.10995](http://arxiv.org/abs/2507.10995)|null|
+|**2025-07-15**|**High-Throughput Distributed Reinforcement Learning via Adaptive Policy Synchronization**|Rodney Lafuente-Mercado et.al.|[2507.10990](http://arxiv.org/abs/2507.10990)|null|
+|**2025-07-15**|**Enhancing Safe and Controllable Protein Generation via Knowledge Preference Optimization**|Yuhao Wang et.al.|[2507.10923](http://arxiv.org/abs/2507.10923)|null|
+|**2025-07-15**|**Fast Non-Episodic Adaptive Tuning of Robot Controllers with Online Policy Optimization**|James A. Preiss et.al.|[2507.10914](http://arxiv.org/abs/2507.10914)|null|
 |**2025-07-14**|**EmbRACE-3K: Embodied Reasoning and Action in Complex Environments**|Mingxian Lin et.al.|[2507.10548](http://arxiv.org/abs/2507.10548)|null|
 |**2025-07-14**|**Disentangling Neural Disjunctive Normal Form Models**|Kexin Gu Baugh et.al.|[2507.10546](http://arxiv.org/abs/2507.10546)|null|
 |**2025-07-14**|**Reasoning or Memorization? Unreliable Results of Reinforcement Learning Due to Data Contamination**|Mingqi Wu et.al.|[2507.10532](http://arxiv.org/abs/2507.10532)|null|
