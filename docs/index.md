@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 ## Path Planning
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -14,7 +14,7 @@ layout: default
 |**2025-07-08**|**From Controllability to Information: A Unified Analysis via Gramian, Minimum Energy, Fisher Information Matrix and Entropy**|Gabriel R. de Andrade Silva et.al.|[2507.08847](http://arxiv.org/abs/2507.08847)|null|
 |**2025-07-11**|**Heterogeneous Dynamic Logic: Provability Modulo Program Theories**|Samuel Teuber et.al.|[2507.08581](http://arxiv.org/abs/2507.08581)|null|
 |**2025-07-11**|**Stabilizing and Optimizing Inter-Shell Routing in LEO Networks with Integrated Routing Cost**|Yaojia Wang et.al.|[2507.08549](http://arxiv.org/abs/2507.08549)|null|
-|**2025-07-10**|**Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles**|Jiaxu Wan et.al.|[2507.07487](http://arxiv.org/abs/2507.07487)|null|
+|**2025-07-15**|**Driving by Hybrid Navigation: An Online HD-SD Map Association Framework and Benchmark for Autonomous Vehicles**|Jiaxu Wan et.al.|[2507.07487](http://arxiv.org/abs/2507.07487)|null|
 |**2025-07-10**|**Variable annuities: A closer look at ratchet guarantees, hybrid contract designs, and taxation**|Jennifer Alonso-Garcia et.al.|[2507.07358](http://arxiv.org/abs/2507.07358)|null|
 |**2025-07-09**|**SlimCaching: Edge Caching of Mixture-of-Experts for Distributed Inference**|Qian Chen et.al.|[2507.06567](http://arxiv.org/abs/2507.06567)|null|
 |**2025-07-09**|**Relationship between Maximum Principle and Dynamic Programming Principle for Risk-Sensitive Stochastic Optimal Control Problems with Applications**|Huanqing Dong et.al.|[2507.06504](http://arxiv.org/abs/2507.06504)|null|
@@ -770,7 +770,7 @@ layout: default
 |**2025-07-14**|**An Empirical Evaluation of AI-Powered Non-Player Characters' Perceived Realism and Performance in Virtual Reality Environments**|Mikko Korkiakoski et.al.|[2507.10469](http://arxiv.org/abs/2507.10469)|null|
 |**2025-07-14**|**Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems**|Hammad Atta et.al.|[2507.10457](http://arxiv.org/abs/2507.10457)|null|
 |**2025-07-14**|**CoralVQA: A Large-Scale Visual Question Answering Dataset for Coral Reef Image Understanding**|Hongyong Han et.al.|[2507.10449](http://arxiv.org/abs/2507.10449)|null|
-|**2025-07-14**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
+|**2025-07-15**|**Text-Visual Semantic Constrained AI-Generated Image Quality Assessment**|Qiang Li et.al.|[2507.10432](http://arxiv.org/abs/2507.10432)|null|
 |**2025-07-14**|**Towards Emotion Co-regulation with LLM-powered Socially Assistive Robots: Integrating LLM Prompts and Robotic Behaviors to Support Parent-Neurodivergent Child Dyads**|Jing Li et.al.|[2507.10427](http://arxiv.org/abs/2507.10427)|null|
 |**2025-07-14**|**Multiple Choice Learning of Low Rank Adapters for Language Modeling**|Victor Letzelter et.al.|[2507.10419](http://arxiv.org/abs/2507.10419)|null|
 |**2025-07-14**|**Zorse: Optimizing LLM Training Efficiency on Heterogeneous GPU Clusters**|Runsheng Benson Guo et.al.|[2507.10392](http://arxiv.org/abs/2507.10392)|null|
@@ -13887,7 +13887,7 @@ layout: default
 |**2025-07-14**|**Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?**|Yumi Omori et.al.|[2507.10174](http://arxiv.org/abs/2507.10174)|null|
 |**2025-07-14**|**Robust RL Control for Bipedal Locomotion with Closed Kinematic Chains**|Egor Maslennikov et.al.|[2507.10164](http://arxiv.org/abs/2507.10164)|null|
 |**2025-07-14**|**Adaptability in Multi-Agent Reinforcement Learning: A Framework and Unified Review**|Siyi Hu et.al.|[2507.10142](http://arxiv.org/abs/2507.10142)|null|
-|**2025-07-14**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run'' Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
+|**2025-07-15**|**A PBN-RL-XAI Framework for Discovering a "Hit-and-Run" Therapeutic Strategy in Melanoma**|Zhonglin Liu et.al.|[2507.10136](http://arxiv.org/abs/2507.10136)|null|
 |**2025-07-14**|**FRSICL: LLM-Enabled In-Context Learning Flight Resource Allocation for Fresh Data Collection in UAV-Assisted Wildfire Monitoring**|Yousef Emami et.al.|[2507.10134](http://arxiv.org/abs/2507.10134)|null|
 |**2025-07-14**|**A Variance-Reduced Cubic-Regularized Newton for Policy Optimization**|Cheng Sun et.al.|[2507.10120](http://arxiv.org/abs/2507.10120)|null|
 |**2025-07-14**|**Analysis of AI Techniques for Orchestrating Edge-Cloud Application Migration**|Sadig Gojayev et.al.|[2507.10119](http://arxiv.org/abs/2507.10119)|null|
