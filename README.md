@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**DeepShade: Enable Shade Simulation by Text-conditioned Image Generation**|Longchao Da et.al.|[2507.12103](http://arxiv.org/abs/2507.12103)|null|
+|**2025-07-16**|**Robust Route Planning for Sidewalk Delivery Robots**|Xing Tong et.al.|[2507.12067](http://arxiv.org/abs/2507.12067)|null|
+|**2025-07-15**|**Auto-Formulating Dynamic Programming Problems with Large Language Models**|Chenyu Zhou et.al.|[2507.11737](http://arxiv.org/abs/2507.11737)|null|
+|**2025-07-15**|**Picat Through the Lens of Advent of Code**|Neng-Fa Zhou et.al.|[2507.11731](http://arxiv.org/abs/2507.11731)|null|
 |**2025-07-15**|**Joint Power Allocation and Reflecting-Element Activation for Energy Efficiency Maximization in IRS-Aided Communications Under CSI Uncertainty**|Christos N. Efrem et.al.|[2507.11413](http://arxiv.org/abs/2507.11413)|null|
 |**2025-07-14**|**Sparsity-Aware Extended Kalman Filter for Tracking Dynamic Graphs**|Lital Dabush et.al.|[2507.09999](http://arxiv.org/abs/2507.09999)|null|
 |**2025-07-13**|**Joint Scheduling of Deferrable and Nondeferrable Demand with Colocated Stochastic Supply**|Minjae Jeon et.al.|[2507.09794](http://arxiv.org/abs/2507.09794)|null|
@@ -766,6 +770,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Language Models Improve When Pretraining Data Matches Target Tasks**|David Mizrahi et.al.|[2507.12466](http://arxiv.org/abs/2507.12466)|null|
+|**2025-07-16**|**PhysX: Physical-Grounded 3D Asset Generation**|Ziang Cao et.al.|[2507.12465](http://arxiv.org/abs/2507.12465)|null|
+|**2025-07-16**|**CytoSAE: Interpretable Cell Embeddings for Hematology**|Muhammed Furkan Dasdelen et.al.|[2507.12464](http://arxiv.org/abs/2507.12464)|null|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Characterizing State Space Model (SSM) and SSM-Transformer Hybrid Language Model Performance with Long Context Length**|Saptarshi Mitra et.al.|[2507.12442](http://arxiv.org/abs/2507.12442)|null|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?**|Xinyi He et.al.|[2507.12415](http://arxiv.org/abs/2507.12415)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**ROC-n-reroll: How verifier imperfection affects test-time scaling**|Florian E. Dorner et.al.|[2507.12399](http://arxiv.org/abs/2507.12399)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Developing Visual Augmented Q&A System using Scalable Vision Embedding Retrieval & Late Interaction Re-ranker**|Rachna Saxena et.al.|[2507.12378](http://arxiv.org/abs/2507.12378)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-16**|**Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models**|Samuel Lavoie et.al.|[2507.12318](http://arxiv.org/abs/2507.12318)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
@@ -7675,6 +7699,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**MMHU: A Massive-Scale Multimodal Benchmark for Human Behavior Understanding**|Renjie Li et.al.|[2507.12463](http://arxiv.org/abs/2507.12463)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**AutoVDC: Automated Vision Data Cleaning Using Vision-Language Models**|Santosh Vasa et.al.|[2507.12414](http://arxiv.org/abs/2507.12414)|null|
+|**2025-07-16**|**Mixed-integer Second-Order Cone Programming for Multi-period Scheduling of Flexible AC Transmission System Devices**|Mohamad Charara et.al.|[2507.12327](http://arxiv.org/abs/2507.12327)|null|
+|**2025-07-16**|**EEG-fused Digital Twin Brain for Autonomous Driving in Virtual Scenarios**|Yubo Hou et.al.|[2507.12263](http://arxiv.org/abs/2507.12263)|null|
+|**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
+|**2025-07-16**|**AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving**|Jiawei Xu et.al.|[2507.12137](http://arxiv.org/abs/2507.12137)|null|
+|**2025-07-16**|**An Online A/B Testing Decision Support System for Web Usability Assessment Based on a Linguistic Decision-making Methodology: Case of Study a Virtual Learning Environment**|Noe Zermeño et.al.|[2507.12118](http://arxiv.org/abs/2507.12118)|null|
+|**2025-07-16**|**LidarPainter: One-Step Away From Any Lidar View To Novel Guidance**|Yuzhou Ji et.al.|[2507.12114](http://arxiv.org/abs/2507.12114)|null|
+|**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
+|**2025-07-16**|**Urban Green Governance: IoT-Driven Management and Enhancement of Urban Green Spaces in Campobasso**|Antonio Salis et.al.|[2507.12106](http://arxiv.org/abs/2507.12106)|null|
+|**2025-07-16**|**From Static to Intelligent: Evolving SaaS Pricing with LLMs**|Francisco Javier Cavero et.al.|[2507.12104](http://arxiv.org/abs/2507.12104)|null|
+|**2025-07-16**|**Measuring Informativeness Gap of (Mis)Calibrated Predictors**|Yiding Feng et.al.|[2507.12094](http://arxiv.org/abs/2507.12094)|null|
+|**2025-07-16**|**Benchmarking and Explaining Deep Learning Cortical Lesion MRI Segmentation in Multiple Sclerosis**|Nataliia Molchanova et.al.|[2507.12092](http://arxiv.org/abs/2507.12092)|null|
+|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083](http://arxiv.org/abs/2507.12083)|null|
+|**2025-07-16**|**Robust Planning for Autonomous Vehicles with Diffusion-Based Failure Samplers**|Juanran Wang et.al.|[2507.11991](http://arxiv.org/abs/2507.11991)|null|
+|**2025-07-16**|**A Review of Generative AI in Aquaculture: Foundations, Applications, and Future Directions for Smart and Sustainable Farming**|Waseem Akram et.al.|[2507.11974](http://arxiv.org/abs/2507.11974)|null|
+|**2025-07-16**|**IANN-MPPI: Interaction-Aware Neural Network-Enhanced Model Predictive Path Integral Approach for Autonomous Driving**|Kanghyun Ryu et.al.|[2507.11940](http://arxiv.org/abs/2507.11940)|null|
+|**2025-07-16**|**Choosing the Better Bandit Algorithm under Data Sharing: When Do A/B Experiments Work?**|Shuangning Li et.al.|[2507.11891](http://arxiv.org/abs/2507.11891)|null|
+|**2025-07-16**|**Towards Autonomous Riding: A Review of Perception, Planning, and Control in Intelligent Two-Wheelers**|Mohammed Hassanin et.al.|[2507.11852](http://arxiv.org/abs/2507.11852)|null|
 |**2025-07-15**|**Towards Depth Foundation Model: Recent Trends in Vision-Based Depth Estimation**|Zhen Xu et.al.|[2507.11540](http://arxiv.org/abs/2507.11540)|null|
 |**2025-07-15**|**AirLLM: Diffusion Policy-based Adaptive LoRA for Remote Fine-Tuning of LLM over the Air**|Shiyi Yang et.al.|[2507.11515](http://arxiv.org/abs/2507.11515)|null|
 |**2025-07-15**|**Foundation Models for Logistics: Toward Certifiable, Conversational Planning Interfaces**|Yunhao Yang et.al.|[2507.11352](http://arxiv.org/abs/2507.11352)|null|
@@ -13928,6 +13972,25 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Improving Reinforcement Learning Sample-Efficiency using Local Approximation**|Mohit Prashant et.al.|[2507.12383](http://arxiv.org/abs/2507.12383)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Xiangqi-R1: Enhancing Spatial Strategic Reasoning in LLMs for Chinese Chess via Reinforcement Learning**|Yuhao Chen et.al.|[2507.12215](http://arxiv.org/abs/2507.12215)|null|
+|**2025-07-16**|**BenchRL-QAS: Benchmarking reinforcement learning algorithms for quantum architecture search**|Azhar Ikhtiarudin et.al.|[2507.12189](http://arxiv.org/abs/2507.12189)|null|
+|**2025-07-16**|**Efficient Preparation of Fermionic Superfluids in an Optical Dipole Trap through Reinforcement Learning**|Yueyang Min et.al.|[2507.12152](http://arxiv.org/abs/2507.12152)|null|
+|**2025-07-16**|**Topology Enhanced MARL for Multi-Vehicle Cooperative Decision-Making of CAVs**|Ye Han et.al.|[2507.12110](http://arxiv.org/abs/2507.12110)|null|
+|**2025-07-16**|**Foresight in Motion: Reinforcing Trajectory Prediction with Reward Heuristics**|Muleilan Pei et.al.|[2507.12083](http://arxiv.org/abs/2507.12083)|null|
+|**2025-07-16**|**Towards Ultra-Reliable 6G in-X Subnetworks: Dynamic Link Adaptation by Deep Reinforcement Learning**|Fateme Salehi et.al.|[2507.12031](http://arxiv.org/abs/2507.12031)|null|
+|**2025-07-16**|**QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks**|Siddhant Dutta et.al.|[2507.12013](http://arxiv.org/abs/2507.12013)|null|
+|**2025-07-16**|**Understanding visual attention beehind bee-inspired UAV navigation**|Pranav Rajbhandari et.al.|[2507.11992](http://arxiv.org/abs/2507.11992)|null|
+|**2025-07-16**|**Online Training and Pruning of Deep Reinforcement Learning Networks**|Valentin Frank Ingmar Guenter et.al.|[2507.11975](http://arxiv.org/abs/2507.11975)|null|
+|**2025-07-16**|**Kevin: Multi-Turn RL for Generating CUDA Kernels**|Carlo Baronio et.al.|[2507.11948](http://arxiv.org/abs/2507.11948)|null|
+|**2025-07-16**|**Hyperphantasia: A Benchmark for Evaluating the Mental Visualization Capabilities of Multimodal LLMs**|Mohammad Shahab Sepehri et.al.|[2507.11932](http://arxiv.org/abs/2507.11932)|null|
+|**2025-07-16**|**From Generative to Episodic: Sample-Efficient Replicable Reinforcement Learning**|Max Hopkins et.al.|[2507.11926](http://arxiv.org/abs/2507.11926)|null|
+|**2025-07-16**|**DualReward: A Dynamic Reinforcement Learning Framework for Cloze Tests Distractor Generation**|Tianyou Huang et.al.|[2507.11875](http://arxiv.org/abs/2507.11875)|null|
+|**2025-07-16**|**The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey**|Gaofeng Li et.al.|[2507.11840](http://arxiv.org/abs/2507.11840)|null|
+|**2025-07-16**|**MNIST-Gen: A Modular MNIST-Style Dataset Generation Using Hierarchical Semantics, Reinforcement Learning, and Category Theory**|Pouya Shaeri et.al.|[2507.11821](http://arxiv.org/abs/2507.11821)|null|
+|**2025-07-15**|**A Deep Reinforcement Learning Method for Multi-objective Transmission Switching**|Ding Lin et.al.|[2507.11726](http://arxiv.org/abs/2507.11726)|null|
+|**2025-07-15**|**Reinforcement Learning from Adversarial Preferences in Tabular MDPs**|Taira Tsuchiya et.al.|[2507.11706](http://arxiv.org/abs/2507.11706)|null|
 |**2025-07-16**|**Robot Drummer: Learning Rhythmic Skills for Humanoid Drumming**|Asad Ali Shahid et.al.|[2507.11498](http://arxiv.org/abs/2507.11498)|null|
 |**2025-07-15**|**Exploring the robustness of TractOracle methods in RL-based tractography**|Jeremi Levesque et.al.|[2507.11486](http://arxiv.org/abs/2507.11486)|null|
 |**2025-07-15**|**Illuminating the Three Dogmas of Reinforcement Learning under Evolutionary Light**|Mani Hamidi et.al.|[2507.11482](http://arxiv.org/abs/2507.11482)|null|
