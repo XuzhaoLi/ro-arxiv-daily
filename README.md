@@ -1,4 +1,4 @@
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -764,7 +764,7 @@
 |**2024-01-22**|**Finite horizon optimal control of reaction-diffusion SIV epidemic system with stochastic environment**|Zong Wang et.al.|[2401.11744](http://arxiv.org/abs/2401.11744)|null|
 |**2024-01-20**|**Closing the Gap between TD Learning and Supervised Learning -- A Generalisation Point of View**|Raj Ghugare et.al.|[2401.11237](http://arxiv.org/abs/2401.11237)|**[link](https://github.com/rajghugare19/stitching-is-combinatorial-generalisation)**|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Large Language Model
 
@@ -785,8 +785,8 @@
 |**2025-07-17**|**Automating Steering for Safe Multimodal Large Language Models**|Lyucheng Wu et.al.|[2507.13255](http://arxiv.org/abs/2507.13255)|null|
 |**2025-07-17**|**HATS: Hindi Analogy Test Set for Evaluating Reasoning in Large Language Models**|Ashray Gupta et.al.|[2507.13238](http://arxiv.org/abs/2507.13238)|null|
 |**2025-07-17**|**Enhancing Cross-task Transfer of Large Language Models via Activation Steering**|Xinyu Tang et.al.|[2507.13236](http://arxiv.org/abs/2507.13236)|null|
-|**2025-07-17**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
-|**2025-07-17**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|R. Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
+|**2025-07-18**|**MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling**|Etienne Le Naour et.al.|[2507.13207](http://arxiv.org/abs/2507.13207)|null|
+|**2025-07-18**|**Automatically assessing oral narratives of Afrikaans and isiXhosa children**|Retief Louw et.al.|[2507.13205](http://arxiv.org/abs/2507.13205)|null|
 |**2025-07-17**|**GEMMAS: Graph-based Evaluation Metrics for Multi Agent Systems**|Jisoo Lee et.al.|[2507.13190](http://arxiv.org/abs/2507.13190)|null|
 |**2025-07-17**|**Black Box Deployed -- Functional Criteria for Artificial Moral Agents in the LLM Era**|Matthew E. Brophy et.al.|[2507.13175](http://arxiv.org/abs/2507.13175)|null|
 |**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/abs/2507.13158)|null|
@@ -7713,7 +7713,7 @@
 |**2024-02-08**|**Limits of Transformer Language Models on Algorithmic Learning**|Jonathan Thomm et.al.|[2402.05785](http://arxiv.org/abs/2402.05785)|**[link](https://github.com/ibm/limitations-lm-algorithmic-compositional-learning)**|
 |**2024-02-08**|**Text-to-Code Generation with Modality-relative Pre-training**|Fenia Christopoulou et.al.|[2402.05783](http://arxiv.org/abs/2402.05783)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Autonomous Driving
 
@@ -7728,7 +7728,7 @@
 |**2025-07-17**|**Robustness Requirement Coverage using a Situation Coverage Approach for Vision-based AI Systems**|Sepeedeh Shahbeigi et.al.|[2507.12986](http://arxiv.org/abs/2507.12986)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
-|**2025-07-17**|**Learning to Reject Low-Quality Explanations via User Feedback**|Luca Stradiotti et.al.|[2507.12900](http://arxiv.org/abs/2507.12900)|null|
+|**2025-07-18**|**Learning to Reject Low-Quality Explanations via User Feedback**|Luca Stradiotti et.al.|[2507.12900](http://arxiv.org/abs/2507.12900)|null|
 |**2025-07-17**|**Information-Theoretic Aggregation of Ethical Attributes in Simulated-Command**|Hussein Abbass et.al.|[2507.12862](http://arxiv.org/abs/2507.12862)|null|
 |**2025-07-17**|**Waiting is worth it and can be improved with predictions**|Ya-Chun Liang et.al.|[2507.12822](http://arxiv.org/abs/2507.12822)|null|
 |**2025-07-17**|**Early Detection of Furniture-Infesting Wood-Boring Beetles Using CNN-LSTM Networks and MFCC-Based Acoustic Features**|J. M. Chan Sri Manukalpa et.al.|[2507.12793](http://arxiv.org/abs/2507.12793)|null|
@@ -14006,7 +14006,7 @@
 |**2024-02-07**|**Investigating Driving Interactions: A Robust Multi-Agent Simulation Framework for Autonomous Vehicles**|Marc Kaufeld et.al.|[2402.04720](http://arxiv.org/abs/2402.04720)|**[link](https://github.com/tum-avs/frenetix-motion-planner)**|
 |**2024-02-07**|**Large Language Models As Faithful Explainers**|Yu-Neng Chuang et.al.|[2402.04678](http://arxiv.org/abs/2402.04678)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Coverag Path Planning
 
@@ -14019,9 +14019,9 @@
 |**2025-07-17**|**Spectral Bellman Method: Unifying Representation and Exploration in RL**|Ofir Nabati et.al.|[2507.13181](http://arxiv.org/abs/2507.13181)|null|
 |**2025-07-17**|**Aligning Humans and Robots via Reinforcement Learning from Implicit Human Feedback**|Suzie Kim et.al.|[2507.13171](http://arxiv.org/abs/2507.13171)|null|
 |**2025-07-17**|**Inverse Reinforcement Learning Meets Large Language Model Post-Training: Basics, Advances, and Opportunities**|Hao Sun et.al.|[2507.13158](http://arxiv.org/abs/2507.13158)|null|
-|**2025-07-17**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
+|**2025-07-18**|**From Roots to Rewards: Dynamic Tree Reasoning with RL**|Ahmed Bahloul et.al.|[2507.13142](http://arxiv.org/abs/2507.13142)|null|
 |**2025-07-17**|**Non-differentiable Reward Optimization for Diffusion-based Autonomous Motion Planning**|Giwon Lee et.al.|[2507.12977](http://arxiv.org/abs/2507.12977)|null|
-|**2025-07-17**|**From a Mixed-Policy Perspective: Improving Differentiable Automatic Post-editing Optimization**|Hongze Tan et.al.|[2507.12931](http://arxiv.org/abs/2507.12931)|null|
+|**2025-07-18**|**Improving DAPO from a Mixed-Policy Perspective**|Hongze Tan et.al.|[2507.12931](http://arxiv.org/abs/2507.12931)|null|
 |**2025-07-17**|**LaViPlan : Language-Guided Visual Path Planning with RLVR**|Hayeon Oh et.al.|[2507.12911](http://arxiv.org/abs/2507.12911)|null|
 |**2025-07-17**|**Energy-Efficient RSMA-enabled Low-altitude MEC Optimization Via Generative AI-enhanced Deep Reinforcement Learning**|Xudong Wang et.al.|[2507.12910](http://arxiv.org/abs/2507.12910)|null|
 |**2025-07-17**|**VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks**|Jian Yao et.al.|[2507.12885](http://arxiv.org/abs/2507.12885)|null|
@@ -14269,5 +14269,5 @@
 |**2025-06-27**|**A Survey of Continual Reinforcement Learning**|Chaofan Pan et.al.|[2506.21872](http://arxiv.org/abs/2506.21872)|null|
 |**2025-06-30**|**Skill-Nav: Enhanced Navigation with Versatile Quadrupedal Locomotion via Waypoint Interface**|Dewei Wang et.al.|[2506.21853](http://arxiv.org/abs/2506.21853)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
