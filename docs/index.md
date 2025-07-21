@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**On the Fundamental Limitations of Dual Static CVaR Decompositions in Markov Decision Processes**|Mathieu Godbout et.al.|[2507.14005](http://arxiv.org/abs/2507.14005)|null|
+|**2025-07-18**|**Automated Route-based Conflation Between Linear Referencing System Maps And OpenStreetMap Using Open-source Tools**|Gibran Ali et.al.|[2507.13939](http://arxiv.org/abs/2507.13939)|null|
+|**2025-07-18**|**Safe and Performant Controller Synthesis using Gradient-based Model Predictive Control and Control Barrier Functions**|Aditya Singh et.al.|[2507.13872](http://arxiv.org/abs/2507.13872)|null|
+|**2025-07-18**|**ATRO: A Fast Solver-Free Algorithm for Topology and Routing Optimization of Reconfigurable Datacenter Networks**|Yingming Mao et.al.|[2507.13717](http://arxiv.org/abs/2507.13717)|null|
 |**2025-07-16**|**DeepShade: Enable Shade Simulation by Text-conditioned Image Generation**|Longchao Da et.al.|[2507.12103](http://arxiv.org/abs/2507.12103)|null|
 |**2025-07-16**|**Robust Route Planning for Sidewalk Delivery Robots**|Xing Tong et.al.|[2507.12067](http://arxiv.org/abs/2507.12067)|null|
 |**2025-07-15**|**Auto-Formulating Dynamic Programming Problems with Large Language Models**|Chenyu Zhou et.al.|[2507.11737](http://arxiv.org/abs/2507.11737)|null|
@@ -762,6 +766,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Franca: Nested Matryoshka Clustering for Scalable Visual Representation Learning**|Shashanka Venkataramanan et.al.|[2507.14137](http://arxiv.org/abs/2507.14137)|null|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
+|**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
+|**2025-07-18**|**Lessons from the TREC Plain Language Adaptation of Biomedical Abstracts (PLABA) track**|Brian Ondov et.al.|[2507.14096](http://arxiv.org/abs/2507.14096)|null|
+|**2025-07-18**|**DPMT: Dual Process Multi-scale Theory of Mind Framework for Real-time Human-AI Collaboration**|Xiyun Li et.al.|[2507.14088](http://arxiv.org/abs/2507.14088)|null|
+|**2025-07-18**|**DENSE: Longitudinal Progress Note Generation with Temporal Modeling of Heterogeneous Clinical Notes Across Hospital Visits**|Garapati Keerthana et.al.|[2507.14079](http://arxiv.org/abs/2507.14079)|null|
+|**2025-07-18**|**VLA-Mark: A cross modal watermark for large vision-language alignment model**|Shuliang Liu et.al.|[2507.14067](http://arxiv.org/abs/2507.14067)|null|
+|**2025-07-18**|**Foundation Models as Class-Incremental Learners for Dermatological Image Classification**|Mohamed Elkhayat et.al.|[2507.14050](http://arxiv.org/abs/2507.14050)|null|
+|**2025-07-18**|**EdgeVLA: Efficient Vision-Language-Action Models**|Paweł Budzianowski et.al.|[2507.14049](http://arxiv.org/abs/2507.14049)|null|
+|**2025-07-18**|**Evaluating the Effectiveness of Cost-Efficient Large Language Models in Benchmark Biomedical Tasks**|Israt Jahan et.al.|[2507.14045](http://arxiv.org/abs/2507.14045)|null|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**KROMA: Ontology Matching with Knowledge Retrieval and Large Language Models**|Lam Nguyen et.al.|[2507.14032](http://arxiv.org/abs/2507.14032)|null|
+|**2025-07-18**|**Moodifier: MLLM-Enhanced Emotion-Driven Image Editing**|Jiarong Ye et.al.|[2507.14024](http://arxiv.org/abs/2507.14024)|null|
+|**2025-07-18**|**Efficient Temporal Tokenization for Mobility Prediction with Large Language Models**|Haoyu He et.al.|[2507.14017](http://arxiv.org/abs/2507.14017)|null|
+|**2025-07-18**|**OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models**|Ningyong Wu et.al.|[2507.13993](http://arxiv.org/abs/2507.13993)|null|
+|**2025-07-18**|**Leveraging Pathology Foundation Models for Panoptic Segmentation of Melanoma in H&E Images**|Jiaqi Lv et.al.|[2507.13974](http://arxiv.org/abs/2507.13974)|null|
+|**2025-07-18**|**Bottom-up Domain-specific Superintelligence: A Reliable Knowledge Graph is What We Need**|Bhishma Dedhia et.al.|[2507.13966](http://arxiv.org/abs/2507.13966)|null|
+|**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
+|**2025-07-18**|**Cross-modal Causal Intervention for Alzheimer's Disease Prediction**|Yutao Jin et.al.|[2507.13956](http://arxiv.org/abs/2507.13956)|null|
 |**2025-07-17**|**VideoITG: Multimodal Video Understanding with Instructed Temporal Grounding**|Shihao Wang et.al.|[2507.13353](http://arxiv.org/abs/2507.13353)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**Comparing Apples to Oranges: A Dataset & Analysis of LLM Humour Understanding from Traditional Puns to Topical Jokes**|Tyler Loakman et.al.|[2507.13335](http://arxiv.org/abs/2507.13335)|null|
@@ -7709,6 +7733,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Integrating Forecasting Models Within Steady-State Analysis and Optimization**|Aayushya Agarwal et.al.|[2507.14117](http://arxiv.org/abs/2507.14117)|null|
+|**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
+|**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[2507.14066](http://arxiv.org/abs/2507.14066)|null|
+|**2025-07-18**|**Step-DAD: Semi-Amortized Policy-Based Bayesian Experimental Design**|Marcel Hedman et.al.|[2507.14057](http://arxiv.org/abs/2507.14057)|null|
+|**2025-07-18**|**Architecting Human-AI Cocreation for Technical Services -- Interaction Modes and Contingency Factors**|Jochen Wulf et.al.|[2507.14034](http://arxiv.org/abs/2507.14034)|null|
+|**2025-07-18**|**The Proportional Fair Scheduler in Wavelength-Multiplexed Quantum Networks**|Sanidhay Bhambay et.al.|[2507.13999](http://arxiv.org/abs/2507.13999)|null|
+|**2025-07-18**|**NeHMO: Neural Hamilton-Jacobi Reachability Learning for Decentralized Safe Multi-Agent Motion Planning**|Qingyi Chen et.al.|[2507.13940](http://arxiv.org/abs/2507.13940)|null|
+|**2025-07-18**|**Enhancing LiDAR Point Features with Foundation Model Priors for 3D Object Detection**|Yujian Mo et.al.|[2507.13899](http://arxiv.org/abs/2507.13899)|null|
+|**2025-07-18**|**Depth3DLane: Fusing Monocular 3D Lane Detection with Self-Supervised Monocular Depth Estimation**|Max van den Hoven et.al.|[2507.13857](http://arxiv.org/abs/2507.13857)|null|
+|**2025-07-18**|**Principles and Reasons Behind Automated Vehicle Decisions in Ethically Ambiguous Everyday Scenarios**|Lucas Elbert Suryana et.al.|[2507.13837](http://arxiv.org/abs/2507.13837)|null|
+|**2025-07-18**|**One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion**|Haoang Lu et.al.|[2507.13801](http://arxiv.org/abs/2507.13801)|null|
+|**2025-07-18**|**The Judge Variable: Challenging Judge-Agnostic Legal Judgment Prediction**|Guillaume Zambrano et.al.|[2507.13732](http://arxiv.org/abs/2507.13732)|null|
+|**2025-07-18**|**AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework**|Yu Yao et.al.|[2507.13729](http://arxiv.org/abs/2507.13729)|null|
+|**2025-07-18**|**Graph-Structured Data Analysis of Component Failure in Autonomous Cargo Ships Based on Feature Fusion**|Zizhao Zhang et.al.|[2507.13721](http://arxiv.org/abs/2507.13721)|null|
+|**2025-07-18**|**ATRO: A Fast Solver-Free Algorithm for Topology and Routing Optimization of Reconfigurable Datacenter Networks**|Yingming Mao et.al.|[2507.13717](http://arxiv.org/abs/2507.13717)|null|
+|**2025-07-18**|**CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation**|Jing Chang et.al.|[2507.13710](http://arxiv.org/abs/2507.13710)|null|
+|**2025-07-18**|**Testing Autonomous Driving Systems -- What Really Matters and What Doesn't**|Changwen Li et.al.|[2507.13661](http://arxiv.org/abs/2507.13661)|null|
+|**2025-07-17**|**A Collaborative Framework Integrating Large Language Model and Chemical Fragment Space: Mutual Inspiration for Lead Design**|Hao Tuo et.al.|[2507.13580](http://arxiv.org/abs/2507.13580)|null|
+|**2025-07-17**|**LLM-Based Community Surveys for Operational Decision Making in Interconnected Utility Infrastructures**|Adaeze Okeukwu-Ogbonnaya et.al.|[2507.13577](http://arxiv.org/abs/2507.13577)|null|
+|**2025-07-17**|**PrefPalette: Personalized Preference Modeling with Latent Attributes**|Shuyue Stella Li et.al.|[2507.13541](http://arxiv.org/abs/2507.13541)|null|
 |**2025-07-17**|**Higher-Order Pattern Unification Modulo Similarity Relations**|Besik Dundua et.al.|[2507.13208](http://arxiv.org/abs/2507.13208)|null|
 |**2025-07-17**|**Orbis: Overcoming Challenges of Long-Horizon Prediction in Driving World Models**|Arian Mousakhan et.al.|[2507.13162](http://arxiv.org/abs/2507.13162)|null|
 |**2025-07-17**|**SE-VLN: A Self-Evolving Vision-Language Navigation Framework Based on Multimodal Large Language Models**|Xiangyu Dong et.al.|[2507.13152](http://arxiv.org/abs/2507.13152)|null|
@@ -14000,6 +14044,22 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
+|**2025-07-18**|**Preference-based Multi-Objective Reinforcement Learning**|Ni Mu et.al.|[2507.14066](http://arxiv.org/abs/2507.14066)|null|
+|**2025-07-18**|**Reframing attention as a reinforcement learning problem for causal discovery**|Turan Orujlu et.al.|[2507.13920](http://arxiv.org/abs/2507.13920)|null|
+|**2025-07-18**|**Causal Knowledge Transfer for Multi-Agent Reinforcement Learning in Dynamic Environments**|Kathrin Korte et.al.|[2507.13846](http://arxiv.org/abs/2507.13846)|null|
+|**2025-07-18**|**Scalable Submodular Policy Optimization via Pruned Submodularity Graph**|Aditi Anand et.al.|[2507.13834](http://arxiv.org/abs/2507.13834)|null|
+|**2025-07-18**|**DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training**|Zhixin Wang et.al.|[2507.13833](http://arxiv.org/abs/2507.13833)|null|
+|**2025-07-18**|**Efficient and Scalable Self-Healing Databases Using Meta-Learning and Dependency-Driven Recovery**|Joydeep Chandra et.al.|[2507.13757](http://arxiv.org/abs/2507.13757)|null|
+|**2025-07-18**|**LLaPipe: LLM-Guided Reinforcement Learning for Automated Data Preparation Pipeline Construction**|Jing Chang et.al.|[2507.13712](http://arxiv.org/abs/2507.13712)|null|
+|**2025-07-18**|**CogniQ-H: A Soft Hierarchical Reinforcement Learning Paradigm for Automated Data Preparation**|Jing Chang et.al.|[2507.13710](http://arxiv.org/abs/2507.13710)|null|
+|**2025-07-18**|**SaWa-ML: Structure-Aware Pose Correction and Weight Adaptation-Based Robust Multi-Robot Localization**|Junho Choi et.al.|[2507.13702](http://arxiv.org/abs/2507.13702)|null|
+|**2025-07-18**|**State Space Models Naturally Produce Traveling Waves, Time Cells, and Scale to Abstract Cognitive Functions**|Sen Lu et.al.|[2507.13638](http://arxiv.org/abs/2507.13638)|null|
+|**2025-07-18**|**Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters**|Shanbo Cheng et.al.|[2507.13618](http://arxiv.org/abs/2507.13618)|null|
+|**2025-07-17**|**Learning Pluralistic User Preferences through Reinforcement Learning Fine-tuned Summaries**|Hyunji Nam et.al.|[2507.13579](http://arxiv.org/abs/2507.13579)|null|
+|**2025-07-17**|**Apple Intelligence Foundation Language Models: Tech Report 2025**|Hanzhi Zhou et.al.|[2507.13575](http://arxiv.org/abs/2507.13575)|null|
+|**2025-07-17**|**Model-free Reinforcement Learning for Model-based Control: Towards Safe, Interpretable and Sample-efficient Agents**|Thomas Banker et.al.|[2507.13491](http://arxiv.org/abs/2507.13491)|null|
+|**2025-07-17**|**Theory-informed neural networks for particle physics**|Barry M. Dillon et.al.|[2507.13447](http://arxiv.org/abs/2507.13447)|null|
 |**2025-07-17**|**VisionThink: Smart and Efficient Vision Language Model via Reinforcement Learning**|Senqiao Yang et.al.|[2507.13348](http://arxiv.org/abs/2507.13348)|null|
 |**2025-07-17**|**Evaluating Reinforcement Learning Algorithms for Navigation in Simulated Robotic Quadrupeds: A Comparative Study Inspired by Guide Dog Behaviour**|Emma M. A. Harrison et.al.|[2507.13277](http://arxiv.org/abs/2507.13277)|null|
 |**2025-07-17**|**QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation**|Jiazheng Li et.al.|[2507.13266](http://arxiv.org/abs/2507.13266)|null|
