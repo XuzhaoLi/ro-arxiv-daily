@@ -7,6 +7,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Helium recovery system at IB3A**|D. Porwisiak et.al.|[2507.17538](http://arxiv.org/abs/2507.17538)|null|
+|**2025-07-23**|**Optimizing Delivery Logistics: Enhancing Speed and Safety with Drone Technology**|Maharshi Shastri et.al.|[2507.17253](http://arxiv.org/abs/2507.17253)|null|
+|**2025-07-23**|**On the Construction of Barrier Certificate: A Dynamic Programming Perspective**|Yu Chen et.al.|[2507.17222](http://arxiv.org/abs/2507.17222)|null|
+|**2025-07-23**|**Weather-Aware AI Systems versus Route-Optimization AI: A Comprehensive Analysis of AI Applications in Transportation Productivity**|Tatsuru Kikuchi et.al.|[2507.17099](http://arxiv.org/abs/2507.17099)|null|
+|**2025-07-20**|**Analytical Formulation of Autonomous Vehicle Freeway Merging Control with State-Dependent Discharge Rates**|Qing Tang et.al.|[2507.16846](http://arxiv.org/abs/2507.16846)|null|
 |**2025-07-22**|**Discrete-Time LQ Stochastic Two Person Nonzero Sum Difference Games With Random Coefficients:~Closed-Loop Nash Equilibrium**|Qingxin Meng et.al.|[2507.16412](http://arxiv.org/abs/2507.16412)|null|
 |**2025-07-22**|**Physics-aware Truck and Drone Delivery Planning Using Optimization & Machine Learning**|Yineng Sun et.al.|[2507.16259](http://arxiv.org/abs/2507.16259)|null|
 |**2025-07-23**|**Solving nonconvex Hamilton--Jacobi--Isaacs equations with PINN-based policy iteration**|Hee Jun Yang et.al.|[2507.15455](http://arxiv.org/abs/2507.15455)|null|
@@ -771,6 +776,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Pretraining on the Test Set Is No Longer All You Need: A Debate-Driven Approach to QA Benchmarks**|Linbo Cao et.al.|[2507.17747](http://arxiv.org/abs/2507.17747)|null|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**AI Telephone Surveying: Automating Quantitative Data Collection with an AI Interviewer**|Danny D. Leybzon et.al.|[2507.17718](http://arxiv.org/abs/2507.17718)|null|
+|**2025-07-23**|**HydraOpt: Navigating the Efficiency-Performance Trade-off of Adapter Merging**|Taha Ceritli et.al.|[2507.17706](http://arxiv.org/abs/2507.17706)|null|
+|**2025-07-23**|**Towards Greater Leverage: Scaling Laws for Efficient Mixture-of-Experts Language Models**|Changxin Tian et.al.|[2507.17702](http://arxiv.org/abs/2507.17702)|null|
+|**2025-07-23**|**Thinking Isn't an Illusion: Overcoming the Limitations of Reasoning Models via Tool Augmentations**|Zhao Song et.al.|[2507.17699](http://arxiv.org/abs/2507.17699)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**See the Forest and the Trees: A Synergistic Reasoning Framework for Knowledge-Based Visual Question Answering**|Junjie Wang et.al.|[2507.17659](http://arxiv.org/abs/2507.17659)|null|
+|**2025-07-23**|**Who Attacks, and Why? Using LLMs to Identify Negative Campaigning in 18M Tweets across 19 Countries**|Victor Hartman et.al.|[2507.17636](http://arxiv.org/abs/2507.17636)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**Decoding Consumer Preferences Using Attention-Based Language Models**|Joshua Foster et.al.|[2507.17564](http://arxiv.org/abs/2507.17564)|null|
+|**2025-07-23**|**BoSS: Beyond-Semantic Speech**|Qing Wang et.al.|[2507.17563](http://arxiv.org/abs/2507.17563)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Anticipate, Simulate, Reason (ASR): A Comprehensive Generative AI Framework for Combating Messaging Scams**|Xue Wen Tan et.al.|[2507.17543](http://arxiv.org/abs/2507.17543)|null|
+|**2025-07-23**|**AssertFlip: Reproducing Bugs via Inversion of LLM-Generated Passing Tests**|Lara Khatib et.al.|[2507.17542](http://arxiv.org/abs/2507.17542)|null|
+|**2025-07-23**|**Constructing Ophthalmic MLLM for Positioning-diagnosis Collaboration Through Clinical Cognitive Chain Reasoning**|Xinyao Liu et.al.|[2507.17539](http://arxiv.org/abs/2507.17539)|null|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
 |**2025-07-22**|**Rethinking LLM-Based RTL Code Optimization Via Timing Logic Metamorphosis**|Zhihao Xu et.al.|[2507.16808](http://arxiv.org/abs/2507.16808)|null|
@@ -7778,6 +7803,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**Symbiotic Agents: A Novel Paradigm for Trustworthy AGI-driven Networks**|Ilias Chatzistefanidis et.al.|[2507.17695](http://arxiv.org/abs/2507.17695)|null|
+|**2025-07-23**|**Simulating multiple human perspectives in socio-ecological systems using large language models**|Yongchao Zeng et.al.|[2507.17680](http://arxiv.org/abs/2507.17680)|null|
+|**2025-07-23**|**Quantifying the ROI of Cyber Threat Intelligence: A Data-Driven Approach**|Matteo Strada et.al.|[2507.17628](http://arxiv.org/abs/2507.17628)|null|
+|**2025-07-23**|**A Hybrid Early-Exit Algorithm for Large Language Models Based on Space Alignment Decoding (SPADE)**|Bowen Zheng et.al.|[2507.17618](http://arxiv.org/abs/2507.17618)|null|
+|**2025-07-23**|**Reusing Attention for One-stage Lane Topology Understanding**|Yang Li et.al.|[2507.17617](http://arxiv.org/abs/2507.17617)|null|
+|**2025-07-23**|**Explainable AI for Collaborative Assessment of 2D/3D Registration Quality**|Sue Min Cho et.al.|[2507.17597](http://arxiv.org/abs/2507.17597)|null|
+|**2025-07-23**|**PRIX: Learning to Plan from Raw Pixels for End-to-End Autonomous Driving**|Maciej K. Wozniak et.al.|[2507.17596](http://arxiv.org/abs/2507.17596)|null|
+|**2025-07-23**|**Robot-mediated physical Human-Human Interaction in Neurorehabilitation: a position paper**|Lorenzo Vianello et.al.|[2507.17561](http://arxiv.org/abs/2507.17561)|null|
+|**2025-07-23**|**Generalized Low-Rank Matrix Contextual Bandits with Graph Information**|Yao Wang et.al.|[2507.17528](http://arxiv.org/abs/2507.17528)|null|
+|**2025-07-23**|**SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving**|Chuang Chen et.al.|[2507.17479](http://arxiv.org/abs/2507.17479)|null|
+|**2025-07-23**|**BGM-HAN: A Hierarchical Attention Network for Accurate and Fair Decision Assessment on Semi-Structured Profiles**|Junhua Liu et.al.|[2507.17472](http://arxiv.org/abs/2507.17472)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
+|**2025-07-23**|**Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning**|Joobin Jin et.al.|[2507.17418](http://arxiv.org/abs/2507.17418)|null|
+|**2025-07-23**|**DeMo++: Motion Decoupling for Autonomous Driving**|Bozhou Zhang et.al.|[2507.17342](http://arxiv.org/abs/2507.17342)|null|
+|**2025-07-23**|**EndoFinder: Online Lesion Retrieval for Explainable Colorectal Polyp Diagnosis Leveraging Latent Scene Representations**|Ruijie Yang et.al.|[2507.17323](http://arxiv.org/abs/2507.17323)|null|
+|**2025-07-23**|**JAM: Keypoint-Guided Joint Prediction after Classification-Aware Marginal Proposal for Multi-Agent Interaction**|Fangze Lin et.al.|[2507.17152](http://arxiv.org/abs/2507.17152)|null|
+|**2025-07-23**|**Resilient Multi-Agent Negotiation for Medical Supply Chains:Integrating LLMs and Blockchain for Transparent Coordination**|Mariam ALMutairi et.al.|[2507.17134](http://arxiv.org/abs/2507.17134)|null|
+|**2025-07-23**|**HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**|Mandar Pitale et.al.|[2507.17118](http://arxiv.org/abs/2507.17118)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
 |**2025-07-22**|**Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption**|Keneni W. Tesema et.al.|[2507.16743](http://arxiv.org/abs/2507.16743)|null|
 |**2025-07-22**|**A comparison between behavioral similarity methods vs standard deviation method in predicting time series dataset, case study of finance market**|Mahdi Goldani et.al.|[2507.16655](http://arxiv.org/abs/2507.16655)|null|
@@ -14124,6 +14169,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Rubrics as Rewards: Reinforcement Learning Beyond Verifiable Domains**|Anisha Gunjal et.al.|[2507.17746](http://arxiv.org/abs/2507.17746)|null|
+|**2025-07-23**|**Megrez2 Technical Report**|Boxun Li et.al.|[2507.17728](http://arxiv.org/abs/2507.17728)|null|
+|**2025-07-23**|**How Should We Meta-Learn Reinforcement Learning Algorithms?**|Alexander David Goldie et.al.|[2507.17668](http://arxiv.org/abs/2507.17668)|null|
+|**2025-07-23**|**CodeReasoner: Enhancing the Code Reasoning Ability with Reinforcement Learning**|Lingxiao Tang et.al.|[2507.17548](http://arxiv.org/abs/2507.17548)|null|
+|**2025-07-23**|**Generalized Advantage Estimation for Distributional Policy Gradients**|Shahil Shaik et.al.|[2507.17530](http://arxiv.org/abs/2507.17530)|null|
+|**2025-07-23**|**Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice**|Shanbo Cheng et.al.|[2507.17527](http://arxiv.org/abs/2507.17527)|null|
+|**2025-07-23**|**Terrain-Aware Adaptation for Two-Dimensional UAV Path Planners**|Kostas Karakontis et.al.|[2507.17519](http://arxiv.org/abs/2507.17519)|null|
+|**2025-07-23**|**URPO: A Unified Reward & Policy Optimization Framework for Large Language Models**|Songshuo Lu et.al.|[2507.17515](http://arxiv.org/abs/2507.17515)|null|
+|**2025-07-23**|**Can One Domain Help Others? A Data-Centric Study on Multi-Domain Reasoning via Reinforcement Learning**|Yu Li et.al.|[2507.17512](http://arxiv.org/abs/2507.17512)|null|
+|**2025-07-23**|**Reasoning-Driven Retrosynthesis Prediction with Large Language Models via Reinforcement Learning**|Situo Zhang et.al.|[2507.17448](http://arxiv.org/abs/2507.17448)|null|
+|**2025-07-23**|**Fair Compromises in Participatory Budgeting: a Multi-Agent Deep Reinforcement Learning Approach**|Hugh Adams et.al.|[2507.17433](http://arxiv.org/abs/2507.17433)|null|
+|**2025-07-23**|**DynaSearcher: Dynamic Knowledge Graph Augmented Search Agent via Multi-Reward Reinforcement Learning**|Chuzhan Hao et.al.|[2507.17365](http://arxiv.org/abs/2507.17365)|null|
+|**2025-07-23**|**Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning**|Po-Yen Wu et.al.|[2507.17275](http://arxiv.org/abs/2507.17275)|null|
+|**2025-07-23**|**LLM Meets the Sky: Heuristic Multi-Agent Reinforcement Learning for Secure Heterogeneous UAV Networks**|Lijie Zheng et.al.|[2507.17188](http://arxiv.org/abs/2507.17188)|null|
+|**2025-07-23**|**CogDual: Enhancing Dual Cognition of LLMs via Reinforcement Learning with Implicit Rule-Based Rewards**|Cheng Liu et.al.|[2507.17147](http://arxiv.org/abs/2507.17147)|null|
+|**2025-07-23**|**MARSCalib: Multi-robot, Automatic, Robust, Spherical Target-based Extrinsic Calibration in Field and Extraterrestrial Environments**|Seokhwan Jeong et.al.|[2507.17130](http://arxiv.org/abs/2507.17130)|null|
+|**2025-07-23**|**Reinforcement Learning Fine-Tunes a Sparse Subnetwork in Large Language Models**|Andrii Balashov et.al.|[2507.17107](http://arxiv.org/abs/2507.17107)|null|
+|**2025-07-22**|**Deformable Cluster Manipulation via Whole-Arm Policy Learning**|Jayadeep Jacob et.al.|[2507.17085](http://arxiv.org/abs/2507.17085)|null|
+|**2025-07-22**|**Advancing Robustness in Deep Reinforcement Learning with an Ensemble Defense Approach**|Adithya Mohan et.al.|[2507.17070](http://arxiv.org/abs/2507.17070)|null|
+|**2025-07-22**|**Pragmatic Policy Development via Interpretable Behavior Cloning**|Anton Matsson et.al.|[2507.17056](http://arxiv.org/abs/2507.17056)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
 |**2025-07-22**|**Uncertainty-Aware Knowledge Transformers for Peer-to-Peer Energy Trading with Multi-Agent Reinforcement Learning**|Mian Ibad Ali Shah et.al.|[2507.16796](http://arxiv.org/abs/2507.16796)|null|
